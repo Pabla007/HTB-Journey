@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "a0e1161e694403f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a0a89c600877d78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4935f0bc148aec4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retarded Machine/03 Academy/08 Find password for Mrb3n.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c0857d4a923cc66",
+    "type": "split",
+    "children": [
+      {
+        "id": "d46c038cd6d68dba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "025b9c0a9104def1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e9f9df185164b44e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"![[Pasted image 20230810050927.png]]\"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "656934c41f48c420",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4d233bcebdad9493",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a5b479d9f0b3f74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b8adf18b7ce6a3d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Retarded Machine/03 Academy/08 Find password for Mrb3n.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dbab2f6b620a3e25",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Retarded Machine/03 Academy/08 Find password for Mrb3n.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e1a319b85a25657",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "15a0c24e05e7c3f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Retarded Machine/03 Academy/08 Find password for Mrb3n.md"
+              }
+            }
+          },
+          {
+            "id": "c1aa229921e30375",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "025b9c0a9104def1",
+  "lastOpenFiles": [
+    "LICENSE",
+    "desktop.ini",
+    "HTB-Journey/LICENSE",
+    "HTB-Journey",
+    "Retarded Machine/02 Help/05 How to close the VPN completely.md",
+    "Retarded Machine/03 Academy/08 Find password for Mrb3n.md",
+    "Retarded Machine/03 Academy/07 Spawn a Bin Bash Shell in MSF.md",
+    "Retarded Machine/03 Academy/Image/Pasted image 20230810092458.png",
+    "Retarded Machine/03 Academy/Image/Pasted image 20230810091614.png",
+    "Retarded Machine/03 Academy/Error Details.md",
+    "Retarded Machine/03 Academy/Image/Pasted image 20230810090901.png",
+    "Retarded Machine/03 Academy/Image/Pasted image 20230810090002.png",
+    "Retarded Machine/03 Academy/Image/Pasted image 20230810085416.png",
+    "Retarded Machine/03 Academy/Image/Pasted image 20230810085853.png",
+    "Retarded Machine/03 Academy/Image/Pasted image 20230810090940.png",
+    "Retarded Machine/03 Academy/Image/Pasted image 20230810091000.png",
+    "Retarded Machine/03 Academy/Image/Pasted image 20230810091008.png",
+    "Retarded Machine/03 Academy/Image/Pasted image 20230810091012.png",
+    "Retarded Machine/03 Academy/06 Analyze X-XSRF-TOKEN And Encryption.md",
+    "Retarded Machine/03 Academy/03 Directory Busting.md",
+    "Retarded Machine/01 Active/01 Notes aka observation regarding the machine.md",
+    "Untitled.canvas",
+    "Retarded Machine/03 Academy/05 Laravel.md",
+    "Retarded Machine/03 Academy/04 gobuster.md",
+    "Retarded Machine/03 Academy/01 Notes aka observation regarding the machine.md",
+    "Retarded Machine/03 Academy/04 BurpSuite.md",
+    "Retarded Machine/03 Academy/Image/Untitled",
+    "Retarded Machine/03 Academy/02 Nmap.md",
+    "Retarded Machine/02 Help/02.1 Directory Bursting Port 80.md",
+    "Retarded Machine/02 Help/02 Nmap.md",
+    "Retarded Machine/02 Help/01 Notes aka observation regarding the machine.md",
+    "Retarded Machine/03 Academy/Image",
+    "Retarded Machine/02 Help/03 PPP port 3000 looks juicy.md",
+    "Retarded Machine/03 Academy",
+    "Retarded Machine/02 Help/04 HelpDeskZ.md",
+    "Starting Point/05 moshai.in/Company Tech.md",
+    "Starting Point/05 moshai.in/Nmap.md",
+    "Starting Point/05 moshai.in/Images",
+    "Starting Point/05 moshai.in",
+    "Starting Point/04 Redeemer/Notes aka observation regarding the machine.md",
+    "Untitled.md",
+    "Retarded Machine/01 Active/06GetUserspn.md",
+    "Retarded Machine/01 Active/03 smbclient.md",
+    "Retarded Machine/01 Active/02 Nmap.md",
+    "Retarded Machine/01 Active/04 Group.md",
+    "Retarded Machine/02 Help/Image",
+    "Retarded Machine/02 Help"
+  ]
+}
