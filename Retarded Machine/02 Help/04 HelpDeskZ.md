@@ -26,10 +26,21 @@ Python output : 1691011012
 We got epoch to time https://www.epochconverter.com/
 ![[Pasted image 20230803024936.png]]
 
+I manually convert the md5 and passed in the url
+![[Pasted image 20230811214327.png]]
+Simply pass the url in the web-browser
+http://help.htb/support/uploads/tickets/897cb9bb1135c3173b1c829a6584433c.php
+http://10.10.10.121/support/uploads/tickets/897cb9bb1135c3173b1c829a6584433c.php
 
+Finally got the shell
+![[Pasted image 20230811213819.png]]
 
-On occasions you get reverse shell but not tty shell, you can get it via the command-  
-_python -c ‘import pty; pty.spawn(“/bin/bash”)’_  
-  
-Upgrading to fully interactive TTY shell (working arrow keys and CTRL-C won’t kill the reverse shell session). After python -c ‘import pty; pty.spawn(“/bin/bash”)’ , hit CTRL-z (this will background the nc session). then on kali machine type “stty raw -echo “ and enter. again, type “fg” and enter. (input cannot be seen after hitting stty command so simply type fg and enter).  
-_This will now give fully interactive TTY shell as if you were logged in via SSH._
+![[Pasted image 20230811214114.png]]
+
+$ cat user.txt
+ead45582d912deb29028b1f3c21bd05c
+
+When we use 
+Command: ls -la
+![[Pasted image 20230811215035.png]]
+

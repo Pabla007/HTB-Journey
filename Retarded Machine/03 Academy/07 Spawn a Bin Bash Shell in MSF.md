@@ -64,5 +64,11 @@ user.txt
 $ cat user.txt  
 aeab6248d9ff01acab2058ddcbe5932e
 
+On occasions you get reverse shell but not tty shell, you can get it via the command-  
+_python -c ‘import pty; pty.spawn(“/bin/bash”)’_  
+  
+Upgrading to fully interactive TTY shell (working arrow keys and CTRL-C won’t kill the reverse shell session). After python -c ‘import pty; pty.spawn(“/bin/bash”)’ , hit CTRL-z (this will background the nc session). then on kali machine type “stty raw -echo “ and enter. again, type “fg” and enter. (input cannot be seen after hitting stty command so simply type fg and enter).  
+_This will now give fully interactive TTY shell as if you were logged in via SSH._
+
 ![[Pasted image 20230810082819.png]]
 
