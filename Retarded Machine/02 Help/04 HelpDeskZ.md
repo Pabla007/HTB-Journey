@@ -44,3 +44,7 @@ When we use
 Command: ls -la
 ![[Pasted image 20230811215035.png]]
 
+What is the kernel name running on the Helpdeskz
+![[Pasted image 20230811215735.png]]
+`uname -a` will give the required information.
+Linux help 4.4.0-116-generic  `#140-Ubuntu` SMP Mon Feb 12 21:23:04 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux

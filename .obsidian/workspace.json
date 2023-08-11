@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retarded Machine/02 Help/04 HelpDeskZ.md",
+                "file": "Retarded Machine/02 Help/05 Finding the Root Flag.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"![[Pasted image 20230810050927.png]]\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retarded Machine/02 Help/04 HelpDeskZ.md",
+                "file": "Retarded Machine/02 Help/05 Finding the Root Flag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retarded Machine/02 Help/04 HelpDeskZ.md",
+                "file": "Retarded Machine/02 Help/05 Finding the Root Flag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retarded Machine/02 Help/04 HelpDeskZ.md"
+                "file": "Retarded Machine/02 Help/05 Finding the Root Flag.md"
               }
             }
           },
@@ -156,21 +156,26 @@
   },
   "active": "f4935f0bc148aec4",
   "lastOpenFiles": [
+    "Retarded Machine/03 Academy/Image/Pasted image 20230811221422.png",
+    "Retarded Machine/03 Academy/Image/Pasted image 20230811221132.png",
+    "Retarded Machine/02 Help/04 HelpDeskZ.md",
+    "Retarded Machine/02 Help/06 How to close the VPN completely.md",
+    "Retarded Machine/02 Help/05 Finding the Root Flag.md",
+    "Retarded Machine/03 Academy/Image/Pasted image 20230811220541.png",
+    "Retarded Machine/03 Academy/08 Find password for Mrb3n.md",
+    "Retarded Machine/03 Academy/Image/Pasted image 20230811215735.png",
     "Retarded Machine/03 Academy/Image/Pasted image 20230811215035.png",
     "Retarded Machine/03 Academy/Image/Pasted image 20230811214327.png",
     "Retarded Machine/03 Academy/Image/Pasted image 20230811214114.png",
     "Retarded Machine/01 Active/05 Psexec.py.md",
     "Retarded Machine/01 Active/06GetUserspn.md",
     "Retarded Machine/03 Academy/07 Spawn a Bin Bash Shell in MSF.md",
-    "Retarded Machine/02 Help/04 HelpDeskZ.md",
     "Retarded Machine/03 Academy/Image/Pasted image 20230811213819.png",
-    "Retarded Machine/02 Help/05 How to close the VPN completely.md",
     "Retarded Machine/03 Academy/01 Notes aka observation regarding the machine.md",
     "README.md",
     "Retarded Machine/02 Help/01 Notes aka observation regarding the machine.md",
     "Retarded Machine/01 Active/02 Nmap.md",
     "Retarded Machine/01 Active/01 Notes aka observation regarding the machine.md",
-    "Retarded Machine/03 Academy/08 Find password for Mrb3n.md",
     "LICENSE",
     "desktop.ini",
     "HTB-Journey/LICENSE",
@@ -179,10 +184,6 @@
     "Retarded Machine/03 Academy/Image/Pasted image 20230810091614.png",
     "Retarded Machine/03 Academy/Error Details.md",
     "Retarded Machine/03 Academy/Image/Pasted image 20230810090901.png",
-    "Retarded Machine/03 Academy/Image/Pasted image 20230810090002.png",
-    "Retarded Machine/03 Academy/Image/Pasted image 20230810085416.png",
-    "Retarded Machine/03 Academy/Image/Pasted image 20230810085853.png",
-    "Retarded Machine/03 Academy/Image/Pasted image 20230810090940.png",
     "Retarded Machine/03 Academy/06 Analyze X-XSRF-TOKEN And Encryption.md",
     "Retarded Machine/03 Academy/03 Directory Busting.md",
     "Untitled.canvas",
@@ -201,7 +202,6 @@
     "Starting Point/05 moshai.in/Images",
     "Starting Point/05 moshai.in",
     "Starting Point/04 Redeemer/Notes aka observation regarding the machine.md",
-    "Untitled.md",
     "Retarded Machine/02 Help/Image"
   ]
 }
