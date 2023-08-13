@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retarded Machine/04 Bank/02 Nmap.md",
+                "file": "Retarded Machine/04 Bank/03 DNS recon.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"![[Pasted image 20230813121106.png]]\"",
+                "query": "dns reco",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retarded Machine/04 Bank/02 Nmap.md",
+                "file": "Retarded Machine/04 Bank/03 DNS recon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retarded Machine/04 Bank/02 Nmap.md",
+                "file": "Retarded Machine/04 Bank/03 DNS recon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retarded Machine/04 Bank/02 Nmap.md"
+                "file": "Retarded Machine/04 Bank/03 DNS recon.md"
               }
             }
           },
@@ -156,15 +156,24 @@
   },
   "active": "f4935f0bc148aec4",
   "lastOpenFiles": [
+    "Retarded Machine/04 Bank/Images/Pasted image 20230813133927.png",
+    "Retarded Machine/04 Bank/02 Nmap.md",
+    "Retarded Machine/04 Bank/03 DNS recon.md",
+    "Retarded Machine/04 Bank/Images/Pasted image 20230813133431.png",
+    "Retarded Machine/04 Bank/01 Notes aka observation regarding the machine.md",
+    "Retarded Machine/03 Academy/02 Nmap.md",
+    "Retarded Machine/02 Help/02 Nmap.md",
     "Retarded Machine/01 Active/02 Nmap.md",
+    "Starting Point/04 Redeemer/Notes aka observation regarding the machine.md",
+    "Starting Point/03 Dancing/Notes aka observation regarding the machine.md",
+    "Starting Point/02 Fawn/Notes aka observation regarding the machine.md",
+    "Starting Point/05 moshai.in/Company Tech.md",
+    "Starting Point/05 moshai.in/Nmap.md",
+    "README.md",
     "Retarded Machine/01 Active/03 smbclient.md",
     "Retarded Machine/01 Active/01 Notes aka observation regarding the machine.md",
     "Retarded Machine/02 Help/01 Notes aka observation regarding the machine.md",
-    "Retarded Machine/02 Help/02 Nmap.md",
-    "Retarded Machine/04 Bank/02 Nmap.md",
     "Retarded Machine/04 Bank/Images/Pasted image 20230813130327.png",
-    "Retarded Machine/03 Academy/02 Nmap.md",
-    "Retarded Machine/04 Bank/01 Notes aka observation regarding the machine.md",
     "Retarded Machine/03 Academy/01 Notes aka observation regarding the machine.md",
     "Retarded Machine/04 Bank/Images",
     "Retarded Machine/02 Help/06 Another Vulerability.md",
@@ -178,7 +187,6 @@
     "Retarded Machine/02 Help/Image/Pasted image 20230803132524.png",
     "Retarded Machine/02 Help/Image/Pasted image 20230803133216.png",
     "Retarded Machine/03 Academy/Image/Pasted image 20230813121106.png",
-    "Retarded Machine/03 Academy/Image/Pasted image 20230813115522.png",
     "Retarded Machine/02 Help/05 Finding the Root Flag.md",
     "Retarded Machine/02 Help/03 PPP port 3000 looks juicy.md",
     "Retarded Machine/02 Help/02.1 Directory Bursting Port 80.md",
@@ -186,20 +194,12 @@
     "Retarded Machine/02 Help/04 HelpDeskZ.md",
     "Retarded Machine/03 Academy/05 Laravel.md",
     "Retarded Machine/03 Academy/06 Analyze X-XSRF-TOKEN And Encryption.md",
-    "README.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Retarded Machine/03 Academy/08 Find password for Mrb3n.md",
-    "Retarded Machine/01 Active/05 Psexec.py.md",
-    "Retarded Machine/01 Active/06GetUserspn.md",
     "LICENSE",
     "desktop.ini",
     "HTB-Journey/LICENSE",
     "HTB-Journey",
-    "Retarded Machine/03 Academy/Error Details.md",
-    "Retarded Machine/03 Academy/03 Directory Busting.md",
-    "Retarded Machine/03 Academy/04 gobuster.md",
-    "Retarded Machine/03 Academy/04 BurpSuite.md",
     "Retarded Machine/03 Academy/Image/Untitled",
     "Retarded Machine/03 Academy/Image",
     "Retarded Machine/03 Academy",
