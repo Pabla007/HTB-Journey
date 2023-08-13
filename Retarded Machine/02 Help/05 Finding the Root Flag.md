@@ -8,3 +8,14 @@ Linux version 4.4.0-116-generic (buildd@lgw01-amd64-021) (gcc version 5.4.0 2016
 
 ![[Pasted image 20230811221422.png]]
 
+I simply wget the file as i was not able to copy and paste it
+![[Pasted image 20230813113615.png]]
+
+We finally able to run the exploit.c and able to privilege access from normal user to root
+gcc exploit.c -o exploit
+![[Pasted image 20230813114221.png]]
+
+root@help:/root# wc -c root.txt 
+33 root.txt
+root@help:/root# cat root.txt 
+047505c53f2077f3686924138e914692

@@ -26,6 +26,9 @@ Python output : 1691011012
 We got epoch to time https://www.epochconverter.com/
 ![[Pasted image 20230803024936.png]]
 
+Don't know how but the script found the url but due to the change in ip i didn't got the shell
+![[Pasted image 20230813111429.png]]
+
 I manually convert the md5 and passed in the url
 ![[Pasted image 20230811214327.png]]
 Simply pass the url in the web-browser
@@ -33,6 +36,13 @@ http://help.htb/support/uploads/tickets/897cb9bb1135c3173b1c829a6584433c.php
 http://10.10.10.121/support/uploads/tickets/897cb9bb1135c3173b1c829a6584433c.php
 
 Finally got the shell
+run the following command
+python -c 'import pty;pty.spawn("/bin/bash")'
+![[Pasted image 20230813113100.png]]
+
+As i was not able to copy and paste the file using VI i simply wget the file
+![[Pasted image 20230813113548.png]]
+
 ![[Pasted image 20230811213819.png]]
 
 ![[Pasted image 20230811214114.png]]
