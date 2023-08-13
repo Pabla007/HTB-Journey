@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retarded Machine/02 Help/06 Another Vulerability.md",
+                "file": "Retarded Machine/04 Bank/02 Nmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retarded Machine/02 Help/06 Another Vulerability.md",
+                "file": "Retarded Machine/04 Bank/02 Nmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retarded Machine/02 Help/06 Another Vulerability.md",
+                "file": "Retarded Machine/04 Bank/02 Nmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retarded Machine/02 Help/06 Another Vulerability.md"
+                "file": "Retarded Machine/04 Bank/02 Nmap.md"
               }
             }
           },
@@ -156,6 +156,14 @@
   },
   "active": "f4935f0bc148aec4",
   "lastOpenFiles": [
+    "Retarded Machine/04 Bank/01 Notes aka observation regarding the machine.md",
+    "Retarded Machine/03 Academy/02 Nmap.md",
+    "Retarded Machine/04 Bank/02 Nmap.md",
+    "Retarded Machine/03 Academy/01 Notes aka observation regarding the machine.md",
+    "Retarded Machine/04 Bank/Images",
+    "Retarded Machine/02 Help/06 Another Vulerability.md",
+    "Retarded Machine/04 Bank",
+    "Retarded Machine/03 Academy/Image/Pasted image 20230813122354.png",
     "Retarded Machine/03 Academy/Image/Pasted image 20230813121237.png",
     "Retarded Machine/02 Help/07 How to close the VPN completely.md",
     "Retarded Machine/02 Help/Image/Pasted image 20230725191105.png",
@@ -163,16 +171,13 @@
     "Retarded Machine/02 Help/Image/Pasted image 20230803015949.png",
     "Retarded Machine/02 Help/Image/Pasted image 20230803132524.png",
     "Retarded Machine/02 Help/Image/Pasted image 20230803133216.png",
-    "Retarded Machine/02 Help/06 Another Vulerability.md",
     "Retarded Machine/03 Academy/Image/Pasted image 20230813121106.png",
     "Retarded Machine/03 Academy/Image/Pasted image 20230813115522.png",
     "Retarded Machine/03 Academy/Image/Pasted image 20230813115419.png",
     "Retarded Machine/02 Help/05 Finding the Root Flag.md",
     "Retarded Machine/02 Help/03 PPP port 3000 looks juicy.md",
     "Retarded Machine/02 Help/02.1 Directory Bursting Port 80.md",
-    "Retarded Machine/03 Academy/Image/Pasted image 20230813114221.png",
     "Retarded Machine/03 Academy/07 Spawn a Bin Bash Shell in MSF.md",
-    "Retarded Machine/03 Academy/Image/Pasted image 20230813113615.png",
     "Retarded Machine/02 Help/04 HelpDeskZ.md",
     "Retarded Machine/03 Academy/05 Laravel.md",
     "Retarded Machine/03 Academy/06 Analyze X-XSRF-TOKEN And Encryption.md",
@@ -184,7 +189,6 @@
     "Retarded Machine/03 Academy/08 Find password for Mrb3n.md",
     "Retarded Machine/01 Active/05 Psexec.py.md",
     "Retarded Machine/01 Active/06GetUserspn.md",
-    "Retarded Machine/03 Academy/01 Notes aka observation regarding the machine.md",
     "Retarded Machine/01 Active/02 Nmap.md",
     "Retarded Machine/01 Active/01 Notes aka observation regarding the machine.md",
     "LICENSE",
@@ -196,13 +200,9 @@
     "Retarded Machine/03 Academy/04 gobuster.md",
     "Retarded Machine/03 Academy/04 BurpSuite.md",
     "Retarded Machine/03 Academy/Image/Untitled",
-    "Retarded Machine/03 Academy/02 Nmap.md",
     "Retarded Machine/03 Academy/Image",
     "Retarded Machine/03 Academy",
     "Starting Point/05 moshai.in/Company Tech.md",
-    "Starting Point/05 moshai.in/Nmap.md",
-    "Starting Point/05 moshai.in/Images",
-    "Starting Point/05 moshai.in",
-    "Retarded Machine/02 Help/Image"
+    "Starting Point/05 moshai.in/Images"
   ]
 }
