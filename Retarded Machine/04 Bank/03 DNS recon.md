@@ -7,4 +7,6 @@ And yes we were able to do it.
 dig axfr bank.htb @10.10.10.29
 ![[Pasted image 20230814111426.png]]
 
-We will add the nameserver to the /etc/resolve.conf 
+We will add the nameserver to the /etc/resolve.conf file
+![[Pasted image 20230814111750.png]]
+

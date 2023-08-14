@@ -15,4 +15,7 @@ passwd= 123456
 When we go to adim.php was able to login using the above credentials and got this output
 ![[Pasted image 20230809065711.png]]
 
+Balance-transfer was the directory that we were looking but was not able to find using 
+ffuf or gobuster along with the wordlists that we had provided.
 
+![[Pasted image 20230814114132.png]]

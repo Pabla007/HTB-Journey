@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retarded Machine/04 Bank/03 DNS recon.md",
+                "file": "Retarded Machine/03 Academy/04 gobuster.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retarded Machine/04 Bank/03 DNS recon.md",
+                "file": "Retarded Machine/03 Academy/04 gobuster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retarded Machine/04 Bank/03 DNS recon.md",
+                "file": "Retarded Machine/03 Academy/04 gobuster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retarded Machine/04 Bank/03 DNS recon.md"
+                "file": "Retarded Machine/03 Academy/04 gobuster.md"
               }
             }
           },
@@ -156,25 +156,25 @@
   },
   "active": "f4935f0bc148aec4",
   "lastOpenFiles": [
+    "Retarded Machine/04 Bank/Images/Pasted image 20230814114132.png",
+    "Retarded Machine/04 Bank/05 BurpSuite.md",
+    "Retarded Machine/04 Bank/Images/Pasted image 20230814112133.png",
+    "Retarded Machine/04 Bank/Images/Pasted image 20230814112114.png",
+    "Retarded Machine/04 Bank/Images/Pasted image 20230814112039.png",
+    "Retarded Machine/04 Bank/04 Directory Busting.md",
+    "Retarded Machine/04 Bank/03 DNS recon.md",
+    "Retarded Machine/04 Bank/Images/Pasted image 20230814111750.png",
     "Retarded Machine/04 Bank/Images/Pasted image 20230814111426.png",
     "Retarded Machine/03 Academy/04 gobuster.md",
-    "Retarded Machine/04 Bank/04 Directory Busting.md",
     "Retarded Machine/04 Bank/02 Nmap.md",
-    "Retarded Machine/04 Bank/05 BurpSuite.md",
     "Retarded Machine/02 Help/05 Finding the Root Flag.md",
     "Retarded Machine/04 Bank/Images/Pasted image 20230814103529.png",
     "Retarded Machine/04 Bank/Images/Pasted image 20230814101936.png",
     "Retarded Machine/04 Bank/Images/Pasted image 20230814101433.png",
     "Retarded Machine/04 Bank/Images/Pasted image 20230814101421.png",
     "Retarded Machine/02 Help/02.1 Directory Bursting Port 80.md",
-    "Retarded Machine/04 Bank/03 DNS recon.md",
     "Retarded Machine/04 Bank/01 Notes aka observation regarding the machine.md",
     "Retarded Machine/04 Bank/Images/Pasted image 20230814095456.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230814095445.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230814095241.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230813134808.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230813133927.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230813133431.png",
     "Retarded Machine/03 Academy/02 Nmap.md",
     "Retarded Machine/02 Help/02 Nmap.md",
     "Retarded Machine/01 Active/02 Nmap.md",
