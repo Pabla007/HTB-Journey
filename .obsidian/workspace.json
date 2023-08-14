@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retarded Machine/04 Bank/03 DNS recon.md",
+                "file": "Retarded Machine/04 Bank/04 Directory Busting.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dns reco",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retarded Machine/04 Bank/03 DNS recon.md",
+                "file": "Retarded Machine/04 Bank/04 Directory Busting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retarded Machine/04 Bank/03 DNS recon.md",
+                "file": "Retarded Machine/04 Bank/04 Directory Busting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retarded Machine/04 Bank/03 DNS recon.md"
+                "file": "Retarded Machine/04 Bank/04 Directory Busting.md"
               }
             }
           },
@@ -156,12 +156,20 @@
   },
   "active": "f4935f0bc148aec4",
   "lastOpenFiles": [
-    "Retarded Machine/04 Bank/02 Nmap.md",
+    "Retarded Machine/04 Bank/Images/Pasted image 20230814101433.png",
+    "Retarded Machine/04 Bank/Images/Pasted image 20230814101421.png",
+    "Retarded Machine/02 Help/02.1 Directory Bursting Port 80.md",
+    "Retarded Machine/03 Academy/04 gobuster.md",
+    "Retarded Machine/04 Bank/04 Directory Busting.md",
     "Retarded Machine/04 Bank/03 DNS recon.md",
+    "Retarded Machine/04 Bank/01 Notes aka observation regarding the machine.md",
+    "Retarded Machine/04 Bank/Images/Pasted image 20230814095456.png",
+    "Retarded Machine/04 Bank/Images/Pasted image 20230814095445.png",
+    "Retarded Machine/04 Bank/02 Nmap.md",
+    "Retarded Machine/04 Bank/Images/Pasted image 20230814095241.png",
     "Retarded Machine/04 Bank/Images/Pasted image 20230813134808.png",
     "Retarded Machine/04 Bank/Images/Pasted image 20230813133927.png",
     "Retarded Machine/04 Bank/Images/Pasted image 20230813133431.png",
-    "Retarded Machine/04 Bank/01 Notes aka observation regarding the machine.md",
     "Retarded Machine/03 Academy/02 Nmap.md",
     "Retarded Machine/02 Help/02 Nmap.md",
     "Retarded Machine/01 Active/02 Nmap.md",
@@ -182,17 +190,10 @@
     "Retarded Machine/03 Academy/Image/Pasted image 20230813122354.png",
     "Retarded Machine/03 Academy/Image/Pasted image 20230813121237.png",
     "Retarded Machine/02 Help/07 How to close the VPN completely.md",
-    "Retarded Machine/02 Help/Image/Pasted image 20230725191105.png",
-    "Retarded Machine/02 Help/Image/Pasted image 20230725190828.png",
-    "Retarded Machine/02 Help/Image/Pasted image 20230803015949.png",
-    "Retarded Machine/02 Help/Image/Pasted image 20230803132524.png",
     "Retarded Machine/02 Help/05 Finding the Root Flag.md",
     "Retarded Machine/02 Help/03 PPP port 3000 looks juicy.md",
-    "Retarded Machine/02 Help/02.1 Directory Bursting Port 80.md",
     "Retarded Machine/03 Academy/07 Spawn a Bin Bash Shell in MSF.md",
     "Retarded Machine/02 Help/04 HelpDeskZ.md",
-    "Retarded Machine/03 Academy/05 Laravel.md",
-    "Retarded Machine/03 Academy/06 Analyze X-XSRF-TOKEN And Encryption.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "LICENSE",
