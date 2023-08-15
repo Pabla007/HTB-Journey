@@ -13,3 +13,6 @@ http://bank.htb/uploads/
 
 ![[Pasted image 20230814101421.png]]
 
+dirbuster
+![[Pasted image 20230814210031.png]]
+![[Pasted image 20230814205958.png]]
