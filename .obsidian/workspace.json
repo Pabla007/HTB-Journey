@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retarded Machine/03 Academy/04 gobuster.md",
+                "file": "Retarded Machine/04 Bank/06 Login using BurpSuite without creds.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retarded Machine/03 Academy/04 gobuster.md",
+                "file": "Retarded Machine/04 Bank/06 Login using BurpSuite without creds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retarded Machine/03 Academy/04 gobuster.md",
+                "file": "Retarded Machine/04 Bank/06 Login using BurpSuite without creds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retarded Machine/03 Academy/04 gobuster.md"
+                "file": "Retarded Machine/04 Bank/06 Login using BurpSuite without creds.md"
               }
             }
           },
@@ -156,24 +156,30 @@
   },
   "active": "f4935f0bc148aec4",
   "lastOpenFiles": [
-    "Retarded Machine/04 Bank/04 Directory Busting.md",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230814210031.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230814205958.png",
-    "Retarded Machine/03 Academy/04 gobuster.md",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230814114933.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230814114132.png",
     "Retarded Machine/04 Bank/05 BurpSuite.md",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230814112133.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230814112114.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230814112039.png",
-    "Retarded Machine/04 Bank/03 DNS recon.md",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230814111750.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230814111426.png",
+    "Retarded Machine/04 Bank/06 Login using BurpSuite without creds.md",
+    "Retarded Machine/04 Bank/04 Directory Busting or GoBuster.md",
+    "Retarded Machine/04 Bank/Images/Pasted image 20230819081716.png",
+    "Retarded Machine/04 Bank/Images/Pasted image 20230819081623.png",
     "Retarded Machine/04 Bank/02 Nmap.md",
-    "Retarded Machine/02 Help/05 Finding the Root Flag.md",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230814103529.png",
-    "Retarded Machine/02 Help/02.1 Directory Bursting Port 80.md",
     "Retarded Machine/04 Bank/01 Notes aka observation regarding the machine.md",
+    "README.md",
+    "Retarded Machine/04 Bank/03 DNS recon.md",
+    "Retarded Machine/03 Academy/03 Directory Busting.md",
+    "Retarded Machine/03 Academy/04 BurpSuite.md",
+    "Retarded Machine/03 Academy/04 gobuster.md",
+    "Retarded Machine/03 Academy/01 Notes aka observation regarding the machine.md",
+    "Retarded Machine/03 Academy/Image/Pasted image 20230809072040.png",
+    "Retarded Machine/03 Academy/Image/Pasted image 20230809065507.png",
+    "Retarded Machine/03 Academy/Image/Pasted image 20230809064201.png",
+    "Retarded Machine/03 Academy/Image/Pasted image 20230809051530.png",
+    "Retarded Machine/03 Academy/Image/Pasted image 20230809054441.png",
+    "Retarded Machine/03 Academy/Image/Pasted image 20230809051451.png",
+    "Retarded Machine/03 Academy/Image/Pasted image 20230809051310.png",
+    "Retarded Machine/03 Academy/Image/Pasted image 20230809051057.png",
+    "Retarded Machine/03 Academy/05 Laravel.md",
+    "Retarded Machine/02 Help/05 Finding the Root Flag.md",
+    "Retarded Machine/02 Help/02.1 Directory Bursting Port 80.md",
     "Retarded Machine/03 Academy/02 Nmap.md",
     "Retarded Machine/02 Help/02 Nmap.md",
     "Retarded Machine/01 Active/02 Nmap.md",
@@ -182,17 +188,12 @@
     "Starting Point/02 Fawn/Notes aka observation regarding the machine.md",
     "Starting Point/05 moshai.in/Company Tech.md",
     "Starting Point/05 moshai.in/Nmap.md",
-    "README.md",
     "Retarded Machine/01 Active/03 smbclient.md",
     "Retarded Machine/01 Active/01 Notes aka observation regarding the machine.md",
     "Retarded Machine/02 Help/01 Notes aka observation regarding the machine.md",
-    "Retarded Machine/03 Academy/01 Notes aka observation regarding the machine.md",
     "Retarded Machine/04 Bank/Images",
     "Retarded Machine/02 Help/06 Another Vulerability.md",
     "Retarded Machine/04 Bank",
-    "Retarded Machine/02 Help/07 How to close the VPN completely.md",
-    "Retarded Machine/02 Help/03 PPP port 3000 looks juicy.md",
-    "Retarded Machine/03 Academy/07 Spawn a Bin Bash Shell in MSF.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "LICENSE",
