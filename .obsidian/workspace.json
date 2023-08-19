@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retarded Machine/04 Bank/Upload Vulnerability.md",
+                "file": "Retarded Machine/04 Bank/08 Let's move from Normal User to ROOT.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "raw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retarded Machine/04 Bank/Upload Vulnerability.md",
+                "file": "Retarded Machine/04 Bank/08 Let's move from Normal User to ROOT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retarded Machine/04 Bank/Upload Vulnerability.md",
+                "file": "Retarded Machine/04 Bank/08 Let's move from Normal User to ROOT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retarded Machine/04 Bank/Upload Vulnerability.md"
+                "file": "Retarded Machine/04 Bank/08 Let's move from Normal User to ROOT.md"
               }
             }
           },
@@ -155,23 +154,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9f9df185164b44e",
+  "active": "f4935f0bc148aec4",
   "lastOpenFiles": [
+    "Retarded Machine/04 Bank/Images/Pasted image 20230819115413.png",
+    "Retarded Machine/04 Bank/04 Directory Busting or GoBuster.md",
+    "Retarded Machine/04 Bank/06 Login using BurpSuite without creds.md",
+    "Retarded Machine/04 Bank/05 BurpSuite.md",
+    "Retarded Machine/04 Bank/07 Upload Vulnerability.md",
+    "Retarded Machine/04 Bank/08 Let's move from Normal User to ROOT.md",
+    "Retarded Machine/04 Bank/Images/Pasted image 20230819114803.png",
+    "Retarded Machine/04 Bank/Images/Pasted image 20230819114327.png",
+    "Retarded Machine/04 Bank/Images/Pasted image 20230819113949.png",
+    "Retarded Machine/04 Bank/Images/Pasted image 20230819113222.png",
+    "Retarded Machine/04 Bank/Images/Pasted image 20230819113239.png",
+    "Retarded Machine/03 Academy/07 Spawn a Bin Bash Shell in MSF.md",
     "Retarded Machine/04 Bank/Images/Pasted image 20230819112023.png",
     "Retarded Machine/04 Bank/Images/Pasted image 20230819111814.png",
     "Retarded Machine/04 Bank/Images/Pasted image 20230819111714.png",
     "Retarded Machine/04 Bank/Images/Pasted image 20230819111627.png",
     "Retarded Machine/04 Bank/Images/Pasted image 20230819111359.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230819111147.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230819105604.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230819105239.png",
-    "Retarded Machine/04 Bank/06 Login using BurpSuite without creds.md",
-    "Retarded Machine/04 Bank/Upload Vulnerability.md",
-    "Retarded Machine/04 Bank/05 BurpSuite.md",
-    "Retarded Machine/04 Bank/04 Directory Busting or GoBuster.md",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230819103631.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230819103613.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230819103023.png",
     "Retarded Machine/04 Bank/02 Nmap.md",
     "Retarded Machine/04 Bank/01 Notes aka observation regarding the machine.md",
     "README.md",
@@ -191,8 +192,6 @@
     "Starting Point/02 Fawn/Notes aka observation regarding the machine.md",
     "Starting Point/05 moshai.in/Company Tech.md",
     "Starting Point/05 moshai.in/Nmap.md",
-    "Retarded Machine/01 Active/03 smbclient.md",
-    "Retarded Machine/01 Active/01 Notes aka observation regarding the machine.md",
     "Retarded Machine/04 Bank/Images",
     "Retarded Machine/04 Bank",
     "Untitled.canvas",
