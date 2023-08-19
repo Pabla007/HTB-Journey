@@ -29,6 +29,13 @@ Will host the script from our directory
 └─$ python3 -m http.server 8080 -b 10.10.16.7    
 Serving HTTP on 10.10.16.7 port 8080 (http://10.10.16.7:8080/) ...
 ![[Pasted image 20230819121846.png]]
+Let's try writing the passwd file
+![[Pasted image 20230819122812.png]]
+As we have edited the passwd file let's try to ssh and see what happens
+
+![[Pasted image 20230819122946.png]]
+5eb414d40af804d2fda5d7f0e61773ca
+
 
 ![[Pasted image 20230819122006.png]]
 /var/htb/emergency

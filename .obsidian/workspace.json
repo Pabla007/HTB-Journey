@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "raw",
+                "query": "wc -",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,8 +155,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4935f0bc148aec4",
+  "active": "e9f9df185164b44e",
   "lastOpenFiles": [
+    "Retarded Machine/04 Bank/Images/Pasted image 20230819122946.png",
+    "Retarded Machine/04 Bank/Images/Pasted image 20230819122812.png",
     "Retarded Machine/04 Bank/Images/Pasted image 20230819122228.png",
     "Retarded Machine/04 Bank/Images/Pasted image 20230819122006.png",
     "Retarded Machine/04 Bank/Images/Pasted image 20230819121846.png",
@@ -170,9 +173,7 @@
     "Retarded Machine/04 Bank/Images/Pasted image 20230819114327.png",
     "Retarded Machine/04 Bank/Images/Pasted image 20230819113949.png",
     "Retarded Machine/04 Bank/Images/Pasted image 20230819113222.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230819113239.png",
     "Retarded Machine/03 Academy/07 Spawn a Bin Bash Shell in MSF.md",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230819112023.png",
     "Retarded Machine/04 Bank/02 Nmap.md",
     "Retarded Machine/04 Bank/01 Notes aka observation regarding the machine.md",
     "README.md",
