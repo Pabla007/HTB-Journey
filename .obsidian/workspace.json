@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retarded Machine/04 Bank/08 Let's move from Normal User to ROOT.md",
+                "file": "Retarded Machine/02 Help/07 How to close the VPN completely.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wc -",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retarded Machine/04 Bank/08 Let's move from Normal User to ROOT.md",
+                "file": "Retarded Machine/02 Help/07 How to close the VPN completely.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retarded Machine/04 Bank/08 Let's move from Normal User to ROOT.md",
+                "file": "Retarded Machine/02 Help/07 How to close the VPN completely.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retarded Machine/04 Bank/08 Let's move from Normal User to ROOT.md"
+                "file": "Retarded Machine/02 Help/07 How to close the VPN completely.md"
               }
             }
           },
@@ -155,8 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9f9df185164b44e",
+  "active": "f4935f0bc148aec4",
   "lastOpenFiles": [
+    "Retarded Machine/03 Academy/08 Find password for Mrb3n.md",
+    "Retarded Machine/02 Help/05 Finding the Root Flag.md",
+    "Retarded Machine/04 Bank/08 Let's move from Normal User to ROOT.md",
     "Retarded Machine/04 Bank/Images/Pasted image 20230819122946.png",
     "Retarded Machine/04 Bank/Images/Pasted image 20230819122812.png",
     "Retarded Machine/04 Bank/Images/Pasted image 20230819122228.png",
@@ -168,11 +170,9 @@
     "Retarded Machine/04 Bank/06 Login using BurpSuite without creds.md",
     "Retarded Machine/04 Bank/05 BurpSuite.md",
     "Retarded Machine/04 Bank/07 Upload Vulnerability.md",
-    "Retarded Machine/04 Bank/08 Let's move from Normal User to ROOT.md",
     "Retarded Machine/04 Bank/Images/Pasted image 20230819114803.png",
     "Retarded Machine/04 Bank/Images/Pasted image 20230819114327.png",
     "Retarded Machine/04 Bank/Images/Pasted image 20230819113949.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230819113222.png",
     "Retarded Machine/03 Academy/07 Spawn a Bin Bash Shell in MSF.md",
     "Retarded Machine/04 Bank/02 Nmap.md",
     "Retarded Machine/04 Bank/01 Notes aka observation regarding the machine.md",
@@ -183,7 +183,6 @@
     "Retarded Machine/03 Academy/04 gobuster.md",
     "Retarded Machine/03 Academy/01 Notes aka observation regarding the machine.md",
     "Retarded Machine/03 Academy/05 Laravel.md",
-    "Retarded Machine/02 Help/05 Finding the Root Flag.md",
     "Retarded Machine/02 Help/02.1 Directory Bursting Port 80.md",
     "Retarded Machine/03 Academy/02 Nmap.md",
     "Retarded Machine/02 Help/02 Nmap.md",
