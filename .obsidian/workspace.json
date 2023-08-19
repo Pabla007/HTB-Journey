@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retarded Machine/04 Bank/06 Login using BurpSuite without creds.md",
+                "file": "Retarded Machine/04 Bank/Upload Vulnerability.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retarded Machine/04 Bank/06 Login using BurpSuite without creds.md",
+                "file": "Retarded Machine/04 Bank/Upload Vulnerability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retarded Machine/04 Bank/06 Login using BurpSuite without creds.md",
+                "file": "Retarded Machine/04 Bank/Upload Vulnerability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retarded Machine/04 Bank/06 Login using BurpSuite without creds.md"
+                "file": "Retarded Machine/04 Bank/Upload Vulnerability.md"
               }
             }
           },
@@ -156,13 +156,19 @@
   },
   "active": "f4935f0bc148aec4",
   "lastOpenFiles": [
+    "Retarded Machine/04 Bank/Images/Pasted image 20230819105239.png",
+    "Retarded Machine/04 Bank/06 Login using BurpSuite without creds.md",
+    "Retarded Machine/04 Bank/Upload Vulnerability.md",
+    "Retarded Machine/04 Bank/05 BurpSuite.md",
+    "Retarded Machine/04 Bank/04 Directory Busting or GoBuster.md",
+    "Retarded Machine/04 Bank/Images/Pasted image 20230819103631.png",
+    "Retarded Machine/04 Bank/Images/Pasted image 20230819103613.png",
+    "Retarded Machine/04 Bank/Images/Pasted image 20230819103023.png",
+    "Retarded Machine/04 Bank/Images/Pasted image 20230819102557.png",
     "Retarded Machine/04 Bank/Images/Pasted image 20230819083340.png",
     "Retarded Machine/04 Bank/Images/Pasted image 20230819083302.png",
     "Retarded Machine/04 Bank/Images/Pasted image 20230819083156.png",
     "Retarded Machine/04 Bank/Images/Pasted image 20230819083056.png",
-    "Retarded Machine/04 Bank/05 BurpSuite.md",
-    "Retarded Machine/04 Bank/06 Login using BurpSuite without creds.md",
-    "Retarded Machine/04 Bank/04 Directory Busting or GoBuster.md",
     "Retarded Machine/04 Bank/Images/Pasted image 20230819081716.png",
     "Retarded Machine/04 Bank/Images/Pasted image 20230819081623.png",
     "Retarded Machine/04 Bank/02 Nmap.md",
@@ -173,11 +179,6 @@
     "Retarded Machine/03 Academy/04 BurpSuite.md",
     "Retarded Machine/03 Academy/04 gobuster.md",
     "Retarded Machine/03 Academy/01 Notes aka observation regarding the machine.md",
-    "Retarded Machine/03 Academy/Image/Pasted image 20230809072040.png",
-    "Retarded Machine/03 Academy/Image/Pasted image 20230809065507.png",
-    "Retarded Machine/03 Academy/Image/Pasted image 20230809064201.png",
-    "Retarded Machine/03 Academy/Image/Pasted image 20230809051530.png",
-    "Retarded Machine/03 Academy/Image/Pasted image 20230809054441.png",
     "Retarded Machine/03 Academy/05 Laravel.md",
     "Retarded Machine/02 Help/05 Finding the Root Flag.md",
     "Retarded Machine/02 Help/02.1 Directory Bursting Port 80.md",
@@ -191,7 +192,6 @@
     "Starting Point/05 moshai.in/Nmap.md",
     "Retarded Machine/01 Active/03 smbclient.md",
     "Retarded Machine/01 Active/01 Notes aka observation regarding the machine.md",
-    "Retarded Machine/02 Help/01 Notes aka observation regarding the machine.md",
     "Retarded Machine/04 Bank/Images",
     "Retarded Machine/04 Bank",
     "Untitled.canvas",

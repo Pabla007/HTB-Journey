@@ -12,4 +12,17 @@ We can see something is being found here
 
 
 It's not vulnerable to SQL injection. 
-And will turn on the server intercepts 
+And will turn on the server intercepts  as the option has changed follow this ss
+![[Pasted image 20230819102557.png]]
+
+We can automatically rewrite all the responses 
+![[Pasted image 20230819103023.png]]
+
+When we turn the intercept on and off we can see the page is not redirected to login page
+http://bank.htb/index.php
+![[Pasted image 20230819103613.png]]
+
+http://bank.htb/support.php
+![[Pasted image 20230819103631.png]]
+
+Disable the re-write cuz we don't want to it anymore.
