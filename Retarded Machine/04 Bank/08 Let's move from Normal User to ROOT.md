@@ -22,3 +22,24 @@ Let's try the SSH with root and chris password
 ![[Pasted image 20230819115413.png]]
 
 we were not able to make any connection there as well.
+
+**Now let's run the enumeration scripts**
+Will host the script from our directory 
+┌──(kali㉿kali)-[/opt/linpeas]
+└─$ python3 -m http.server 8080 -b 10.10.16.7    
+Serving HTTP on 10.10.16.7 port 8080 (http://10.10.16.7:8080/) ...
+![[Pasted image 20230819121846.png]]
+
+![[Pasted image 20230819122006.png]]
+/var/htb/emergency
+/var/htb/bin/emergency
+Will run this and see if we become Root user or not
+
+Hahah we got the root shell 
+![[Pasted image 20230819122228.png]]
+
+
+We got the user key in the chris folder
+![[Pasted image 20230819121105.png]]
+
+1c31836b9c5b64b4cf764f499ffdc07f 
