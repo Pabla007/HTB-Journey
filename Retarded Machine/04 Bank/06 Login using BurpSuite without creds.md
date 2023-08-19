@@ -11,3 +11,5 @@ We can see something is being found here
 ![[Pasted image 20230819083340.png]]
 
 
+It's not vulnerable to SQL injection. 
+And will turn on the server intercepts 
