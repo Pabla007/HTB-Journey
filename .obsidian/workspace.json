@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,8 +155,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4935f0bc148aec4",
+  "active": "e9f9df185164b44e",
   "lastOpenFiles": [
+    "Retarded Machine/04 Bank/Images/Pasted image 20230819112023.png",
+    "Retarded Machine/04 Bank/Images/Pasted image 20230819111814.png",
+    "Retarded Machine/04 Bank/Images/Pasted image 20230819111714.png",
+    "Retarded Machine/04 Bank/Images/Pasted image 20230819111627.png",
+    "Retarded Machine/04 Bank/Images/Pasted image 20230819111359.png",
+    "Retarded Machine/04 Bank/Images/Pasted image 20230819111147.png",
+    "Retarded Machine/04 Bank/Images/Pasted image 20230819105604.png",
     "Retarded Machine/04 Bank/Images/Pasted image 20230819105239.png",
     "Retarded Machine/04 Bank/06 Login using BurpSuite without creds.md",
     "Retarded Machine/04 Bank/Upload Vulnerability.md",
@@ -164,13 +172,6 @@
     "Retarded Machine/04 Bank/Images/Pasted image 20230819103631.png",
     "Retarded Machine/04 Bank/Images/Pasted image 20230819103613.png",
     "Retarded Machine/04 Bank/Images/Pasted image 20230819103023.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230819102557.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230819083340.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230819083302.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230819083156.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230819083056.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230819081716.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230819081623.png",
     "Retarded Machine/04 Bank/02 Nmap.md",
     "Retarded Machine/04 Bank/01 Notes aka observation regarding the machine.md",
     "README.md",
