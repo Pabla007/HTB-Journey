@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retarded Machine/04 Bank/08 Let's move from Normal User to ROOT.md",
+                "file": "Challenges/01 Templated/01  Notes aka observation regarding the machine.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retarded Machine/04 Bank/08 Let's move from Normal User to ROOT.md",
+                "file": "Challenges/01 Templated/01  Notes aka observation regarding the machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retarded Machine/04 Bank/08 Let's move from Normal User to ROOT.md",
+                "file": "Challenges/01 Templated/01  Notes aka observation regarding the machine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retarded Machine/04 Bank/08 Let's move from Normal User to ROOT.md"
+                "file": "Challenges/01 Templated/01  Notes aka observation regarding the machine.md"
               }
             }
           },
@@ -156,10 +156,15 @@
   },
   "active": "f4935f0bc148aec4",
   "lastOpenFiles": [
+    "Retarded Machine/01 Active/01 Notes aka observation regarding the machine.md",
+    "Challenges/01 Templated/01  Notes aka observation regarding the machine.md",
+    "Retarded Machine/04 Bank/08 Let's move from Normal User to ROOT.md",
+    "Challenges/01 Templated/Images",
+    "Challenges/01 Templated",
+    "Challenges",
     "Retarded Machine/02 Help/07 How to close the VPN completely.md",
     "Retarded Machine/03 Academy/08 Find password for Mrb3n.md",
     "Retarded Machine/02 Help/05 Finding the Root Flag.md",
-    "Retarded Machine/04 Bank/08 Let's move from Normal User to ROOT.md",
     "Retarded Machine/04 Bank/Images/Pasted image 20230819122946.png",
     "Retarded Machine/04 Bank/Images/Pasted image 20230819122812.png",
     "Retarded Machine/04 Bank/Images/Pasted image 20230819122228.png",
@@ -190,8 +195,6 @@
     "Retarded Machine/01 Active/02 Nmap.md",
     "Starting Point/04 Redeemer/Notes aka observation regarding the machine.md",
     "Starting Point/03 Dancing/Notes aka observation regarding the machine.md",
-    "Starting Point/02 Fawn/Notes aka observation regarding the machine.md",
-    "Starting Point/05 moshai.in/Company Tech.md",
     "Retarded Machine/04 Bank/Images",
     "Retarded Machine/04 Bank",
     "Untitled.canvas",
@@ -200,9 +203,6 @@
     "desktop.ini",
     "HTB-Journey/LICENSE",
     "HTB-Journey",
-    "Retarded Machine/03 Academy/Image/Untitled",
-    "Retarded Machine/03 Academy/Image",
-    "Retarded Machine/03 Academy",
-    "Starting Point/05 moshai.in/Images"
+    "Retarded Machine/03 Academy/Image/Untitled"
   ]
 }
