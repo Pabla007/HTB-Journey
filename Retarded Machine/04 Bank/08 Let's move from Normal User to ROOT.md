@@ -50,3 +50,15 @@ We got the user key in the chris folder
 ![[Pasted image 20230819121105.png]]
 
 1c31836b9c5b64b4cf764f499ffdc07f 
+
+
+1c31836b9c5b64b4cf764f499ffdc07f
+# cat user.txt
+1c31836b9c5b64b4cf764f499ffdc07f
+
+openssl passwd --help
+
+5eb414d40af804d2fda5d7f0e61773ca
+
+sed -n 'l' root.txt
+5eb414d40af804d2fda5d7f0e61773ca$

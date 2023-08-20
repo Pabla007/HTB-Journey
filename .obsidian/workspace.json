@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retarded Machine/02 Help/07 How to close the VPN completely.md",
+                "file": "Retarded Machine/04 Bank/08 Let's move from Normal User to ROOT.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retarded Machine/02 Help/07 How to close the VPN completely.md",
+                "file": "Retarded Machine/04 Bank/08 Let's move from Normal User to ROOT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retarded Machine/02 Help/07 How to close the VPN completely.md",
+                "file": "Retarded Machine/04 Bank/08 Let's move from Normal User to ROOT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retarded Machine/02 Help/07 How to close the VPN completely.md"
+                "file": "Retarded Machine/04 Bank/08 Let's move from Normal User to ROOT.md"
               }
             }
           },
@@ -156,6 +156,7 @@
   },
   "active": "f4935f0bc148aec4",
   "lastOpenFiles": [
+    "Retarded Machine/02 Help/07 How to close the VPN completely.md",
     "Retarded Machine/03 Academy/08 Find password for Mrb3n.md",
     "Retarded Machine/02 Help/05 Finding the Root Flag.md",
     "Retarded Machine/04 Bank/08 Let's move from Normal User to ROOT.md",
@@ -191,7 +192,6 @@
     "Starting Point/03 Dancing/Notes aka observation regarding the machine.md",
     "Starting Point/02 Fawn/Notes aka observation regarding the machine.md",
     "Starting Point/05 moshai.in/Company Tech.md",
-    "Starting Point/05 moshai.in/Nmap.md",
     "Retarded Machine/04 Bank/Images",
     "Retarded Machine/04 Bank",
     "Untitled.canvas",
