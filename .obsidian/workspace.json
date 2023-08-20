@@ -11,12 +11,8 @@
             "id": "f4935f0bc148aec4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Challenges/01 Templated/01  Notes aka observation regarding the machine.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Challenges/01 Templated/01  Notes aka observation regarding the machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Challenges/01 Templated/01  Notes aka observation regarding the machine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Challenges/01 Templated/01  Notes aka observation regarding the machine.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,53 +148,54 @@
   },
   "active": "f4935f0bc148aec4",
   "lastOpenFiles": [
-    "Retarded Machine/01 Active/01 Notes aka observation regarding the machine.md",
     "Challenges/01 Templated/01  Notes aka observation regarding the machine.md",
-    "Retarded Machine/04 Bank/08 Let's move from Normal User to ROOT.md",
-    "Challenges/01 Templated/Images",
-    "Challenges/01 Templated",
-    "Challenges",
-    "Retarded Machine/02 Help/07 How to close the VPN completely.md",
-    "Retarded Machine/03 Academy/08 Find password for Mrb3n.md",
-    "Retarded Machine/02 Help/05 Finding the Root Flag.md",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230819122946.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230819122812.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230819122228.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230819122006.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230819121846.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230819121105.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230819115413.png",
-    "Retarded Machine/04 Bank/04 Directory Busting or GoBuster.md",
-    "Retarded Machine/04 Bank/06 Login using BurpSuite without creds.md",
-    "Retarded Machine/04 Bank/05 BurpSuite.md",
-    "Retarded Machine/04 Bank/07 Upload Vulnerability.md",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230819114803.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230819114327.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230819113949.png",
-    "Retarded Machine/03 Academy/07 Spawn a Bin Bash Shell in MSF.md",
-    "Retarded Machine/04 Bank/02 Nmap.md",
-    "Retarded Machine/04 Bank/01 Notes aka observation regarding the machine.md",
-    "README.md",
-    "Retarded Machine/04 Bank/03 DNS recon.md",
-    "Retarded Machine/03 Academy/03 Directory Busting.md",
-    "Retarded Machine/03 Academy/04 BurpSuite.md",
-    "Retarded Machine/03 Academy/04 gobuster.md",
-    "Retarded Machine/03 Academy/01 Notes aka observation regarding the machine.md",
-    "Retarded Machine/03 Academy/05 Laravel.md",
-    "Retarded Machine/02 Help/02.1 Directory Bursting Port 80.md",
-    "Retarded Machine/03 Academy/02 Nmap.md",
-    "Retarded Machine/02 Help/02 Nmap.md",
-    "Retarded Machine/01 Active/02 Nmap.md",
-    "Starting Point/04 Redeemer/Notes aka observation regarding the machine.md",
-    "Starting Point/03 Dancing/Notes aka observation regarding the machine.md",
-    "Retarded Machine/04 Bank/Images",
-    "Retarded Machine/04 Bank",
+    "HackTheBox/desktop.ini",
+    "HackTheBox/Untitled.canvas",
+    "HackTheBox/Starting Point/05 moshai.in/Images/Pasted image 20230808191816.png",
+    "HackTheBox/Starting Point/05 moshai.in/Images/Pasted image 20230808191723.png",
+    "HackTheBox/Starting Point/05 moshai.in/Images/Pasted image 20230808191532.png",
+    "HackTheBox/Starting Point/05 moshai.in/Images/Pasted image 20230808190438.png",
+    "HackTheBox/Starting Point/05 moshai.in/Images/Pasted image 20230808190356.png",
+    "HackTheBox/Starting Point/05 moshai.in/Images/Pasted image 20230808185719.png",
+    "HackTheBox/Starting Point/05 moshai.in/Images/Pasted image 20230808185652.png",
+    "HackTheBox/Starting Point/02 Fawn/image/Pasted image 20230722130210.png",
+    "HackTheBox/Starting Point/04 Redeemer/Notes aka observation regarding the machine.md",
+    "HackTheBox/Starting Point/05 moshai.in/Nmap.md",
+    "HackTheBox/Starting Point/05 moshai.in/Images",
+    "HackTheBox/Starting Point/05 moshai.in/Company Tech.md",
+    "HackTheBox/Starting Point/03 Dancing/Notes aka observation regarding the machine.md",
+    "HackTheBox/Starting Point/02 Fawn/Notes aka observation regarding the machine.md",
+    "HackTheBox/Starting Point/02 Fawn/image",
+    "HackTheBox/Starting Point/01 Meow/Notes aka observation regarding the machine.md",
+    "HackTheBox/Starting Point/04 Redeemer",
+    "HackTheBox/Starting Point/05 moshai.in",
+    "HackTheBox/Starting Point/03 Dancing",
+    "HackTheBox/Starting Point/02 Fawn",
+    "HackTheBox/Starting Point/01 Meow",
+    "HackTheBox/Starting Point",
+    "HackTheBox/Retarded Machine/03 Academy/Image/Pasted image 20230811221422.png",
+    "HackTheBox/Retarded Machine/03 Academy/Image/Pasted image 20230811221132.png",
+    "HackTheBox/Retarded Machine/03 Academy/Image",
+    "HackTheBox/Retarded Machine/03 Academy/Error Details.md",
+    "HackTheBox/Retarded Machine/03 Academy/08 Find password for Mrb3n.md",
+    "HackTheBox/Retarded Machine/03 Academy/07 Spawn a Bin Bash Shell in MSF.md",
+    "HackTheBox/Retarded Machine/03 Academy/06 Analyze X-XSRF-TOKEN And Encryption.md",
+    "HackTheBox/Retarded Machine/03 Academy/05 Laravel.md",
+    "HackTheBox/Retarded Machine/03 Academy/04 gobuster.md",
+    "HackTheBox/Retarded Machine/03 Academy/04 BurpSuite.md",
+    "HackTheBox/Retarded Machine/03 Academy/03 Directory Busting.md",
+    "HackTheBox/Retarded Machine/03 Academy/02 Nmap.md",
+    "HackTheBox/Retarded Machine/03 Academy/01 Notes aka observation regarding the machine.md",
+    "HackTheBox/Retarded Machine/02 Help/06 How to close the VPN completely.md",
+    "HackTheBox/Retarded Machine/02 Help/05 Finding the Root Flag.md",
+    "HackTheBox/Retarded Machine/02 Help/04 HelpDeskZ.md",
+    "HackTheBox/Retarded Machine/02 Help/03 PPP port 3000 looks juicy.md",
+    "HackTheBox/Retarded Machine/02 Help/02.1 Directory Bursting Port 80.md",
+    "HackTheBox/Retarded Machine/02 Help/02 Nmap.md",
+    "HackTheBox/Retarded Machine/02 Help/01 Notes aka observation regarding the machine.md",
+    "HackTheBox/Retarded Machine/01 Active/06GetUserspn.md",
+    "HackTheBox/Retarded Machine/01 Active/05 Psexec.py.md",
     "Untitled.canvas",
-    "Untitled 1.canvas",
-    "LICENSE",
-    "desktop.ini",
-    "HTB-Journey/LICENSE",
-    "HTB-Journey",
-    "Retarded Machine/03 Academy/Image/Untitled"
+    "Untitled 1.canvas"
   ]
 }
