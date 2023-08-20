@@ -11,8 +11,12 @@
             "id": "f4935f0bc148aec4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Retarded Machine/02 Help/07 How to close the VPN completely.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Retarded Machine/02 Help/07 How to close the VPN completely.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Retarded Machine/02 Help/07 How to close the VPN completely.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Retarded Machine/02 Help/07 How to close the VPN completely.md"
+              }
             }
           },
           {
@@ -148,9 +156,11 @@
   },
   "active": "f4935f0bc148aec4",
   "lastOpenFiles": [
+    "README.md",
+    "HackTheBox/README.md",
+    "HackTheBox/Untitled.canvas",
     "Challenges/01 Templated/01  Notes aka observation regarding the machine.md",
     "HackTheBox/desktop.ini",
-    "HackTheBox/Untitled.canvas",
     "HackTheBox/Starting Point/05 moshai.in/Images/Pasted image 20230808191816.png",
     "HackTheBox/Starting Point/05 moshai.in/Images/Pasted image 20230808191723.png",
     "HackTheBox/Starting Point/05 moshai.in/Images/Pasted image 20230808191532.png",
@@ -193,8 +203,6 @@
     "HackTheBox/Retarded Machine/02 Help/02.1 Directory Bursting Port 80.md",
     "HackTheBox/Retarded Machine/02 Help/02 Nmap.md",
     "HackTheBox/Retarded Machine/02 Help/01 Notes aka observation regarding the machine.md",
-    "HackTheBox/Retarded Machine/01 Active/06GetUserspn.md",
-    "HackTheBox/Retarded Machine/01 Active/05 Psexec.py.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
