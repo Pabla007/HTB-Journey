@@ -1,7 +1,7 @@
 IP address: http://23.227.38.74:8080/
 
 ![[Pasted image 20230808185719.png]]
-
+![[Pasted image 20230830130946.png]]
 ![[Pasted image 20230808190356.png]]
 
 ![[Pasted image 20230808191532.png]]
