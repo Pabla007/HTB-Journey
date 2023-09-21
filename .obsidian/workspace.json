@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "a0e1161e694403f0",
+    "id": "fcea95c2bbcf91a3",
     "type": "split",
     "children": [
       {
-        "id": "4a0a89c600877d78",
+        "id": "6a535dd8287a5b4f",
         "type": "tabs",
         "children": [
           {
-            "id": "f4935f0bc148aec4",
+            "id": "a8bce77965e0e494",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retarded Machine/02 Help/07 How to close the VPN completely.md",
+                "file": "Try Hack Me/05 RazorBlack/12 Get the Root Flag.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9c0857d4a923cc66",
+    "id": "3ef8889d6ef6371f",
     "type": "split",
     "children": [
       {
-        "id": "d46c038cd6d68dba",
+        "id": "a903f78ba05e1aeb",
         "type": "tabs",
         "children": [
           {
-            "id": "025b9c0a9104def1",
+            "id": "a59eface60f8c62a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "e9f9df185164b44e",
+            "id": "4b7568eb2ab93f85",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "656934c41f48c420",
+            "id": "158cf5ccdc8958b6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "4d233bcebdad9493",
+    "id": "92c39521ad6ea421",
     "type": "split",
     "children": [
       {
-        "id": "7a5b479d9f0b3f74",
+        "id": "722cc6a4a0367669",
         "type": "tabs",
         "children": [
           {
-            "id": "8b8adf18b7ce6a3d",
+            "id": "a1b86543012b5784",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retarded Machine/02 Help/07 How to close the VPN completely.md",
+                "file": "Try Hack Me/05 RazorBlack/12 Get the Root Flag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "dbab2f6b620a3e25",
+            "id": "7c0d783fbc87e0ef",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retarded Machine/02 Help/07 How to close the VPN completely.md",
+                "file": "Try Hack Me/05 RazorBlack/12 Get the Root Flag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "0e1a319b85a25657",
+            "id": "2ce0ecceac845216",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,21 +120,23 @@
             }
           },
           {
-            "id": "15a0c24e05e7c3f2",
+            "id": "e525464338abf5af",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retarded Machine/02 Help/07 How to close the VPN completely.md"
+                "file": "Try Hack Me/05 RazorBlack/12 Get the Root Flag.md"
               }
             }
           },
           {
-            "id": "c1aa229921e30375",
+            "id": "2e95b8344b0433ea",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {}
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -154,56 +156,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4935f0bc148aec4",
+  "active": "a8bce77965e0e494",
   "lastOpenFiles": [
-    "README.md",
-    "HackTheBox/README.md",
-    "HackTheBox/Untitled.canvas",
-    "Challenges/01 Templated/01  Notes aka observation regarding the machine.md",
-    "HackTheBox/desktop.ini",
-    "HackTheBox/Starting Point/05 moshai.in/Images/Pasted image 20230808191816.png",
-    "HackTheBox/Starting Point/05 moshai.in/Images/Pasted image 20230808191723.png",
-    "HackTheBox/Starting Point/05 moshai.in/Images/Pasted image 20230808191532.png",
-    "HackTheBox/Starting Point/05 moshai.in/Images/Pasted image 20230808190438.png",
-    "HackTheBox/Starting Point/05 moshai.in/Images/Pasted image 20230808190356.png",
-    "HackTheBox/Starting Point/05 moshai.in/Images/Pasted image 20230808185719.png",
-    "HackTheBox/Starting Point/05 moshai.in/Images/Pasted image 20230808185652.png",
-    "HackTheBox/Starting Point/02 Fawn/image/Pasted image 20230722130210.png",
-    "HackTheBox/Starting Point/04 Redeemer/Notes aka observation regarding the machine.md",
-    "HackTheBox/Starting Point/05 moshai.in/Nmap.md",
-    "HackTheBox/Starting Point/05 moshai.in/Images",
-    "HackTheBox/Starting Point/05 moshai.in/Company Tech.md",
-    "HackTheBox/Starting Point/03 Dancing/Notes aka observation regarding the machine.md",
-    "HackTheBox/Starting Point/02 Fawn/Notes aka observation regarding the machine.md",
-    "HackTheBox/Starting Point/02 Fawn/image",
-    "HackTheBox/Starting Point/01 Meow/Notes aka observation regarding the machine.md",
-    "HackTheBox/Starting Point/04 Redeemer",
-    "HackTheBox/Starting Point/05 moshai.in",
-    "HackTheBox/Starting Point/03 Dancing",
-    "HackTheBox/Starting Point/02 Fawn",
-    "HackTheBox/Starting Point/01 Meow",
-    "HackTheBox/Starting Point",
-    "HackTheBox/Retarded Machine/03 Academy/Image/Pasted image 20230811221422.png",
-    "HackTheBox/Retarded Machine/03 Academy/Image/Pasted image 20230811221132.png",
-    "HackTheBox/Retarded Machine/03 Academy/Image",
-    "HackTheBox/Retarded Machine/03 Academy/Error Details.md",
-    "HackTheBox/Retarded Machine/03 Academy/08 Find password for Mrb3n.md",
+    "Try Hack Me/05 RazorBlack/Images/Pasted image 20230921185126.png",
+    "Try Hack Me/05 RazorBlack/Images/Pasted image 20230921184652.png",
+    "Try Hack Me/05 RazorBlack/Images/Pasted image 20230921184333.png",
+    "Try Hack Me/05 RazorBlack/10 Kerberos Attack.md",
+    "Try Hack Me/05 RazorBlack/11 Privilege escalation.md",
+    "Try Hack Me/05 RazorBlack/06 Zip Kerberos.md",
+    "Try Hack Me/04 VulnNet/09 Sharphound plus Bloodhound.md",
+    "Try Hack Me/04 VulnNet/08 Dumb Shell.md",
+    "Try Hack Me/05 RazorBlack/12 Get the Root Flag.md",
+    "Try Hack Me/05 RazorBlack/Images/Pasted image 20230921183721.png",
+    "Try Hack Me/05 RazorBlack/Images/Pasted image 20230921181911.png",
+    "Try Hack Me/05 RazorBlack/Images/Pasted image 20230921181415.png",
+    "Try Hack Me/05 RazorBlack/Images/Pasted image 20230921181057.png",
+    "Try Hack Me/05 RazorBlack/Images/Pasted image 20230921180339.png",
+    "Try Hack Me/05 RazorBlack/Images/Pasted image 20230921175907.png",
+    "Try Hack Me/05 RazorBlack/Images/Pasted image 20230921173756.png",
+    "Try Hack Me/05 RazorBlack/Images/Pasted image 20230921173322.png",
+    "Try Hack Me/01 Pickle Rick/03 ffuf or Gobuster.md",
+    "Try Hack Me/04 VulnNet/06 More SMB Enumeration.md",
+    "Try Hack Me/03 Attacktive Directory/06 Catch The Flag U Herooooooooo.md",
+    "Try Hack Me/03 Attacktive Directory/05.3 Psexec.py.md",
+    "Try Hack Me/03 Attacktive Directory/05.2 Secret's Dump.md",
+    "Try Hack Me/03 Attacktive Directory/05.1 SMB Client Exploitation.md",
+    "Try Hack Me/03 Attacktive Directory/05 Exploitations.md",
+    "Try Hack Me/05 RazorBlack/09 Admin Enumeration.md",
+    "Try Hack Me/05 RazorBlack/08 NTDS File Enumeration.md",
+    "Try Hack Me/05 RazorBlack/07 Zip File enumeration.md",
+    "Try Hack Me/05 RazorBlack/04 NFS.md",
+    "HackTheBox/Retarded Machine/01 Active/05 Psexec.py.md",
     "HackTheBox/Retarded Machine/03 Academy/07 Spawn a Bin Bash Shell in MSF.md",
-    "HackTheBox/Retarded Machine/03 Academy/06 Analyze X-XSRF-TOKEN And Encryption.md",
-    "HackTheBox/Retarded Machine/03 Academy/05 Laravel.md",
-    "HackTheBox/Retarded Machine/03 Academy/04 gobuster.md",
-    "HackTheBox/Retarded Machine/03 Academy/04 BurpSuite.md",
-    "HackTheBox/Retarded Machine/03 Academy/03 Directory Busting.md",
-    "HackTheBox/Retarded Machine/03 Academy/02 Nmap.md",
-    "HackTheBox/Retarded Machine/03 Academy/01 Notes aka observation regarding the machine.md",
-    "HackTheBox/Retarded Machine/02 Help/06 How to close the VPN completely.md",
-    "HackTheBox/Retarded Machine/02 Help/05 Finding the Root Flag.md",
-    "HackTheBox/Retarded Machine/02 Help/04 HelpDeskZ.md",
-    "HackTheBox/Retarded Machine/02 Help/03 PPP port 3000 looks juicy.md",
-    "HackTheBox/Retarded Machine/02 Help/02.1 Directory Bursting Port 80.md",
-    "HackTheBox/Retarded Machine/02 Help/02 Nmap.md",
-    "HackTheBox/Retarded Machine/02 Help/01 Notes aka observation regarding the machine.md",
-    "Untitled.canvas",
-    "Untitled 1.canvas"
+    "Try Hack Me/05 RazorBlack/03 Enumeration.md",
+    "Try Hack Me/05 RazorBlack/02  Nmap.md",
+    "PNPT.md",
+    "Try Hack Me/05 RazorBlack/01 Notes aka observation regarding the machine.md",
+    "Try Hack Me/03 Attacktive Directory/04 Enumerate AD.md",
+    "Try Hack Me/03 Attacktive Directory/04.1 Kerberos enumeration of users & passwd.md",
+    "Try Hack Me/05 RazorBlack/Images",
+    "Try Hack Me/05 RazorBlack",
+    "Try Hack Me/04 VulnNet/Images",
+    "Try Hack Me/04 VulnNet",
+    "Try Hack Me/03 Attacktive Directory/Images",
+    "Try Hack Me/03 Attacktive Directory",
+    "Try Hack Me/02 Blueprint/Images",
+    "Try Hack Me/02 Blueprint",
+    "Try Hack Me/01 Pickle Rick/Images",
+    "Try Hack Me/01 Pickle Rick"
   ]
 }
