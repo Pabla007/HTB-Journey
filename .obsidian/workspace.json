@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/05 RazorBlack/12 Get the Root Flag.md",
+                "file": "PNPT.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/05 RazorBlack/12 Get the Root Flag.md",
+                "file": "PNPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/05 RazorBlack/12 Get the Root Flag.md",
+                "file": "PNPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/05 RazorBlack/12 Get the Root Flag.md"
+                "file": "PNPT.md"
               }
             }
           },
@@ -158,6 +158,12 @@
   },
   "active": "a8bce77965e0e494",
   "lastOpenFiles": [
+    "07 How to close the VPN completely.md",
+    "HackTheBox/Starting Point/05 moshai.in/whatweb.md",
+    "HackTheBox/Starting Point/05 moshai.in/Security Trails.md",
+    "HackTheBox/Starting Point/05 moshai.in/Nmap.md",
+    "HackTheBox/Starting Point/05 moshai.in/Company Tech.md",
+    "Try Hack Me/05 RazorBlack/12 Get the Root Flag.md",
     "Try Hack Me/05 RazorBlack/Images/Pasted image 20230921185126.png",
     "Try Hack Me/05 RazorBlack/Images/Pasted image 20230921184652.png",
     "Try Hack Me/05 RazorBlack/Images/Pasted image 20230921184333.png",
@@ -166,7 +172,6 @@
     "Try Hack Me/05 RazorBlack/06 Zip Kerberos.md",
     "Try Hack Me/04 VulnNet/09 Sharphound plus Bloodhound.md",
     "Try Hack Me/04 VulnNet/08 Dumb Shell.md",
-    "Try Hack Me/05 RazorBlack/12 Get the Root Flag.md",
     "Try Hack Me/05 RazorBlack/Images/Pasted image 20230921183721.png",
     "Try Hack Me/05 RazorBlack/Images/Pasted image 20230921181911.png",
     "Try Hack Me/05 RazorBlack/Images/Pasted image 20230921181415.png",
@@ -174,7 +179,6 @@
     "Try Hack Me/05 RazorBlack/Images/Pasted image 20230921180339.png",
     "Try Hack Me/05 RazorBlack/Images/Pasted image 20230921175907.png",
     "Try Hack Me/05 RazorBlack/Images/Pasted image 20230921173756.png",
-    "Try Hack Me/05 RazorBlack/Images/Pasted image 20230921173322.png",
     "Try Hack Me/01 Pickle Rick/03 ffuf or Gobuster.md",
     "Try Hack Me/04 VulnNet/06 More SMB Enumeration.md",
     "Try Hack Me/03 Attacktive Directory/06 Catch The Flag U Herooooooooo.md",
@@ -190,10 +194,6 @@
     "HackTheBox/Retarded Machine/03 Academy/07 Spawn a Bin Bash Shell in MSF.md",
     "Try Hack Me/05 RazorBlack/03 Enumeration.md",
     "Try Hack Me/05 RazorBlack/02  Nmap.md",
-    "PNPT.md",
-    "Try Hack Me/05 RazorBlack/01 Notes aka observation regarding the machine.md",
-    "Try Hack Me/03 Attacktive Directory/04 Enumerate AD.md",
-    "Try Hack Me/03 Attacktive Directory/04.1 Kerberos enumeration of users & passwd.md",
     "Try Hack Me/05 RazorBlack/Images",
     "Try Hack Me/05 RazorBlack",
     "Try Hack Me/04 VulnNet/Images",
