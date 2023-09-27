@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PNPT.md",
+                "file": "HackTheBox/Retarded Machine/03 Academy/04 gobuster.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c0c7a54184e9d95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Try Hack Me/07 Holo/04 Enumeration.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PNPT.md",
+                "file": "Try Hack Me/07 Holo/04 Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PNPT.md",
+                "file": "Try Hack Me/07 Holo/04 Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PNPT.md"
+                "file": "Try Hack Me/07 Holo/04 Enumeration.md"
               }
             }
           },
@@ -144,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,53 +170,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a8bce77965e0e494",
+  "active": "1c0c7a54184e9d95",
   "lastOpenFiles": [
-    "_config.yml",
-    "index.html",
+    "Try Hack Me/07 Holo/00 Images/Pasted image 20230927003235.png",
+    "Try Hack Me/07 Holo/00 Images/Pasted image 20230927002341.png",
+    "Try Hack Me/07 Holo/03 Nmap.md",
+    "Try Hack Me/07 Holo/02 .Net Bascis.md",
+    "Try Hack Me/07 Holo/04 Enumeration.md",
+    "Try Hack Me/07 Holo/00 Images/Pasted image 20230926235632.png",
+    "Try Hack Me/07 Holo/00 Images/Pasted image 20230926235313.png",
+    "HackTheBox/Retarded Machine/03 Academy/04 gobuster.md",
+    "Try Hack Me/07 Holo/00 Images/Pasted image 20230926225104.png",
+    "Try Hack Me/07 Holo/00 Images/Pasted image 20230926224524.png",
+    "Try Hack Me/07 Holo/00 Images/Pasted image 20230926224504.png",
+    "Try Hack Me/07 Holo/00 Images/Pasted image 20230926224302.png",
+    "Try Hack Me/07 Holo/00 Images/Pasted image 20230925225137.png",
+    "Try Hack Me/07 Holo/01 Notes aka observation regarding the machine.md",
+    "Try Hack Me/07 Holo/00 Images/Pasted image 20230923205503.png",
+    "Try Hack Me/07 Holo/00 Images/Pasted image 20230923204849.png",
+    "Try Hack Me/06 Wreath/03  Enumeration.md",
+    "Try Hack Me/06 Wreath/02 Nmap.md",
+    "Try Hack Me/06 Wreath/01 Notes aka observation regarding the machine.md",
+    "Try Hack Me/07 Holo/00 Images",
+    "Try Hack Me/07 Holo",
+    "Try Hack Me/05 RazorBlack/03 Enumeration.md",
+    "Try Hack Me/05 RazorBlack/01 Notes aka observation regarding the machine.md",
+    "PNPT.md",
+    "Try Hack Me/06 Wreath/00 Images",
+    "Try Hack Me/06 Wreath",
+    "cayman-master/script",
+    "cayman-master/docs",
+    "cayman-master/assets",
+    "cayman-master/another-page.md",
+    "cayman-master/_sass/variables.scss",
+    "cayman-master/_sass/rouge-github.scss",
+    "cayman-master/_sass/normalize.scss",
+    "cayman-master/README.md",
     "07 How to close the VPN completely.md",
     "HackTheBox/Starting Point/05 moshai.in/whatweb.md",
     "HackTheBox/Starting Point/05 moshai.in/Security Trails.md",
     "HackTheBox/Starting Point/05 moshai.in/Nmap.md",
     "HackTheBox/Starting Point/05 moshai.in/Company Tech.md",
     "Try Hack Me/05 RazorBlack/12 Get the Root Flag.md",
-    "Try Hack Me/05 RazorBlack/Images/Pasted image 20230921185126.png",
-    "Try Hack Me/05 RazorBlack/Images/Pasted image 20230921184652.png",
-    "Try Hack Me/05 RazorBlack/Images/Pasted image 20230921184333.png",
     "Try Hack Me/05 RazorBlack/10 Kerberos Attack.md",
     "Try Hack Me/05 RazorBlack/11 Privilege escalation.md",
     "Try Hack Me/05 RazorBlack/06 Zip Kerberos.md",
     "Try Hack Me/04 VulnNet/09 Sharphound plus Bloodhound.md",
     "Try Hack Me/04 VulnNet/08 Dumb Shell.md",
-    "Try Hack Me/05 RazorBlack/Images/Pasted image 20230921183721.png",
-    "Try Hack Me/05 RazorBlack/Images/Pasted image 20230921181911.png",
-    "Try Hack Me/05 RazorBlack/Images/Pasted image 20230921181415.png",
-    "Try Hack Me/05 RazorBlack/Images/Pasted image 20230921181057.png",
-    "Try Hack Me/05 RazorBlack/Images/Pasted image 20230921180339.png",
-    "Try Hack Me/05 RazorBlack/Images/Pasted image 20230921175907.png",
-    "Try Hack Me/05 RazorBlack/Images/Pasted image 20230921173756.png",
-    "Try Hack Me/01 Pickle Rick/03 ffuf or Gobuster.md",
-    "Try Hack Me/04 VulnNet/06 More SMB Enumeration.md",
-    "Try Hack Me/03 Attacktive Directory/06 Catch The Flag U Herooooooooo.md",
-    "Try Hack Me/03 Attacktive Directory/05.3 Psexec.py.md",
-    "Try Hack Me/03 Attacktive Directory/05.2 Secret's Dump.md",
-    "Try Hack Me/03 Attacktive Directory/05.1 SMB Client Exploitation.md",
-    "Try Hack Me/03 Attacktive Directory/05 Exploitations.md",
-    "Try Hack Me/05 RazorBlack/09 Admin Enumeration.md",
-    "Try Hack Me/05 RazorBlack/08 NTDS File Enumeration.md",
-    "Try Hack Me/05 RazorBlack/07 Zip File enumeration.md",
-    "Try Hack Me/05 RazorBlack/04 NFS.md",
-    "HackTheBox/Retarded Machine/01 Active/05 Psexec.py.md",
-    "HackTheBox/Retarded Machine/03 Academy/07 Spawn a Bin Bash Shell in MSF.md",
-    "Try Hack Me/05 RazorBlack/03 Enumeration.md",
-    "Try Hack Me/05 RazorBlack/Images",
-    "Try Hack Me/05 RazorBlack",
-    "Try Hack Me/04 VulnNet/Images",
-    "Try Hack Me/04 VulnNet",
-    "Try Hack Me/03 Attacktive Directory/Images",
-    "Try Hack Me/03 Attacktive Directory",
-    "Try Hack Me/02 Blueprint/Images",
-    "Try Hack Me/02 Blueprint",
-    "Try Hack Me/01 Pickle Rick/Images"
+    "Try Hack Me/01 Pickle Rick/03 ffuf or Gobuster.md"
   ]
 }
