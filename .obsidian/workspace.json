@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/07 Holo/04 Enumeration.md",
+                "file": "PNPT.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/07 Holo/04 Enumeration.md",
+                "file": "PNPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/07 Holo/04 Enumeration.md",
+                "file": "PNPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/07 Holo/04 Enumeration.md"
+                "file": "PNPT.md"
               }
             }
           },
@@ -172,11 +172,13 @@
   },
   "active": "1c0c7a54184e9d95",
   "lastOpenFiles": [
+    "Untitled.md",
+    "PNPT.md",
+    "Try Hack Me/07 Holo/04 Enumeration.md",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20230927003235.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20230927002341.png",
     "Try Hack Me/07 Holo/03 Nmap.md",
     "Try Hack Me/07 Holo/02 .Net Bascis.md",
-    "Try Hack Me/07 Holo/04 Enumeration.md",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20230926235632.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20230926235313.png",
     "HackTheBox/Retarded Machine/03 Academy/04 gobuster.md",
@@ -187,7 +189,6 @@
     "Try Hack Me/07 Holo/00 Images/Pasted image 20230925225137.png",
     "Try Hack Me/07 Holo/01 Notes aka observation regarding the machine.md",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20230923205503.png",
-    "Try Hack Me/07 Holo/00 Images/Pasted image 20230923204849.png",
     "Try Hack Me/06 Wreath/03  Enumeration.md",
     "Try Hack Me/06 Wreath/02 Nmap.md",
     "Try Hack Me/06 Wreath/01 Notes aka observation regarding the machine.md",
@@ -195,7 +196,6 @@
     "Try Hack Me/07 Holo",
     "Try Hack Me/05 RazorBlack/03 Enumeration.md",
     "Try Hack Me/05 RazorBlack/01 Notes aka observation regarding the machine.md",
-    "PNPT.md",
     "Try Hack Me/06 Wreath/00 Images",
     "Try Hack Me/06 Wreath",
     "cayman-master/script",
