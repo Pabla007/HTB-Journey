@@ -1,3 +1,27 @@
+Before running the nmap will see the scope 
+```
+nmap -sn -n 10.200.95.0/24 -oA Ping-Sweep
+
+10.200.95.33
+10.200.95.250
+
+nmap -sS 10.200.95.33 10.200.95.250 -v -oA Initial-Scan-Subnet1-Hosts
+```
+![[Pasted image 20231001212830.png]]
+![[Pasted image 20231001212914.png]]
+
+So we have to add this in the host file
+![[Pasted image 20231001213322.png]]
+
+The website is trying to connect with a site called www.holo.live 
+so will add holo.live and www.holo.live in the hosts file cuz it is using V-Host Policy
+![[Pasted image 20231005191355.png]]
+
+![[Pasted image 20231005191219.png]]
+
+![[Pasted image 20231001213256.png]]
+
+
 Syntax: 
 ```
 nmap -sV -sC -p- -v 10.200.95.0/24

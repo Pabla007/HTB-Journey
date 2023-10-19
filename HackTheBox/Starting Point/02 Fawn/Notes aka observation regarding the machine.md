@@ -19,6 +19,8 @@ Service Info: OS: Unix
 		`anonymous`
 		
 ![[Pasted image 20230722130210.png]]
+Now we get a hunch that the password for the system user is weak
+
 
 ┌──(root㉿kali)-[~]
 └─# cat flag.txt  

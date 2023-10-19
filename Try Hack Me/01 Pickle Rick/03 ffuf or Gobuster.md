@@ -3,7 +3,6 @@ gobuster dir -u http://10.10.159.67 -x php -w /usr/share/wordlists/dirb/common.t
 ![[Pasted image 20230905142109.png]]
 
 
-
 Robots.txt
 ![[Pasted image 20230905142143.png]]
 
