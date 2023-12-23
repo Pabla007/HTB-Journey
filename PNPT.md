@@ -38,21 +38,39 @@ https://www.youtube.com/watch?v=cX3lgdH302s
 ```
 
 TryHackme
-Wreath
-AD-Throghback
-Holo
-Lateral Movement and Pivoting
+- [ ] Wreath
+- [ ] AD-Throghback
+- [ ] Holo
+- [ ] Lateral Movement and Pivoting
 
 
 HackTheBox
-Forest
-Blackfield
-Sizzle 
-Monterverde
-Return
-Sauna <- this one is great
-Active
-Support
+- [x] Forest 
+- [x] Blackfield
+- [ ] Sizzle 
+- [ ] Monterverde
+- [ ] Return
+- [ ] Sauna <- this one is great
+- [x] Active
+- [x] Support
+
+![[Pasted image 20231109142207.png]]
+
+```
+1. [Forest](https://www.youtube.com/watch?v=H9FcE_FMZio)
+    
+2. [Active](https://www.youtube.com/watch?v=jUc1J31DNdw)
+    
+3. [Reel](https://youtu.be/ob9SgtFm6_g)
+    
+4. [Mantis](https://youtu.be/VVZZgqIyD0Q)
+    
+5. [Blackfield](https://youtu.be/IfCysW0Od8w)
+    
+6. [Monteverde](https://youtu.be/HTJjPZvOtJ4)
+    
+7. [Search](https://www.youtube.com/watch?v=c8Qbloh6Lqg)
+```
 
 https://www.youtube.com/watch?v=eEYMYgjSVZU
 
@@ -71,3 +89,20 @@ Throwback Network: [https://tryhackme.com/hacktivities](https://www.youtube.com/
 
 Please see this
 https://www.youtube.com/watch?v=ryHtk2N2uls
+
+```
+- Practical Ethical Hacking (25 hours)
+- Open-Source Intelligence (OSINT) Fundamentals (9 hours)
+- External Pentest Playbook (3.5 hours)
+- Linux Privilege Escalation for Beginners (6.5 hours)
+- Windows Privilege Escalation for Beginners (7 hours)
+I found the course material was more than sufficient enough to pass the exam. Despite this, I did use the following additional resources to practice for the exam but, I will reiterate that the course material is enough to pass.
+
+
+- Make sure you know different pivoting tools and techniques for the exam.
+- If you get stuck, think about what you identified/recovered and how it can be used. Don’t overthink it!
+- You will run out of ideas before you run out of time!
+ 
+```
+
+

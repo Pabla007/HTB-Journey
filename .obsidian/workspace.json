@@ -4,16 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "6a535dd8287a5b4f",
+        "id": "677873050f2e0e2d",
         "type": "tabs",
         "children": [
           {
-            "id": "fc1a4b361f585585",
+            "id": "f7dfe7fe47f8b49f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
+                "file": "07 How to close the VPN completely.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a44ad7577312013",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux Enumeration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14b05374dc4cba0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Try Hack Me/09 Bounty Hacker/09 Bounty Hacker.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,8 +72,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "vpn",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -65,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
+                "file": "07 How to close the VPN completely.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
+                "file": "07 How to close the VPN completely.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md"
+                "file": "07 How to close the VPN completely.md"
               }
             }
           },
@@ -157,53 +182,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc1a4b361f585585",
+  "active": "f7dfe7fe47f8b49f",
   "lastOpenFiles": [
-    "Try Hack Me/07 Holo/05 Web Directory Bursting.md",
-    "Try Hack Me/07 Holo/04 Web Enumeration with Gobuster Wfuzz.md",
-    "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
-    "Try Hack Me/07 Holo/00 Images/Pasted image 20231017234139.png",
-    "Try Hack Me/05 RazorBlack/04 NFS.md",
-    "Try Hack Me/03 Attacktive Directory/05 Exploitations.md",
-    "Try Hack Me/03 Attacktive Directory/04.1 Kerberos enumeration of users & passwd.md",
-    "Try Hack Me/03 Attacktive Directory/04 Enumerate AD.md",
-    "Try Hack Me/03 Attacktive Directory/03 Setup the Lab.md",
-    "Try Hack Me/03 Attacktive Directory/05.2 Secret's Dump.md",
-    "Try Hack Me/05 RazorBlack/03 Enumeration.md",
-    "Try Hack Me/04 VulnNet/08 Dumb Shell.md",
-    "Try Hack Me/04 VulnNet/06 More SMB Enumeration.md",
-    "Try Hack Me/04 VulnNet/05 Let's try to catch the NTLMv2 hash.md",
-    "Try Hack Me/04 VulnNet/03 Enumeration.md",
-    "Try Hack Me/04 VulnNet/02 Nmap.md",
-    "Try Hack Me/04 VulnNet/12 Summary.md",
-    "Try Hack Me/05 RazorBlack/01 Notes aka observation regarding the machine.md",
-    "HackTheBox/Retarded Machine/01 Active/01 Notes aka observation regarding the machine.md",
-    "Try Hack Me/03 Attacktive Directory/05.1 SMB Client Exploitation.md",
-    "HackTheBox/Retarded Machine/01 Active/03 smbclient.md",
-    "Try Hack Me/02 Blueprint/01 Notes aka observation regarding the machine.md",
-    "Try Hack Me/03 Attacktive Directory/01 Notes aka observation regarding the machine.md",
-    "Try Hack Me/04 VulnNet/01 Notes aka observation regarding the machine.md",
     "Assessment/03 Installing DVWA.md",
-    "Assessment/10 Summary The End.md",
-    "Assessment/09 Cross Site Request Forgery (CSRF).md",
-    "Assessment/00 Images/Pasted image 20231014202232.png",
-    "Assessment/00 Images/Pasted image 20231014201305.png",
-    "Assessment/00 Images/Pasted image 20231014200134.png",
-    "Assessment/00 Images/Pasted image 20231014200025.png",
-    "Assessment/00 Images/Pasted image 20231014200021.png",
-    "Assessment/00 Images/Pasted image 20231014194037.png",
-    "Assessment/00 Images/Pasted image 20231014194011.png",
-    "Assessment/00 Images/Pasted image 20231014193943.png",
-    "Assessment/00 Images/Pasted image 20231014193912.png",
-    "Project Assessment/00 Images",
-    "Project Assessment",
-    "Assessment/00 Images",
-    "Assessment",
-    "Try Hack Me/07 Holo/00 Images",
-    "Try Hack Me/07 Holo",
+    "Assessment/04 Vulnerability.md",
+    "Assessment/07 SQL Injection.md",
+    "Assessment/06 Command Injection.md",
+    "Assessment/02 Setting Up Our Lab.md",
+    "Readme.md",
+    "Linux Enumeration.md",
+    "Try Hack Me/09 Bounty Hacker/09 Bounty Hacker.md",
+    "HackTheBox/Starting Point/02 Fawn/Notes aka observation regarding the machine.md",
+    "Active Directory Practice/03 Sizzle/01 Scanning.md",
+    "Active Directory/00 Active Directory Contents.md",
+    "Active Directory/01 Active Directory Lab Build.md",
+    "Active Directory/02 Users.md",
+    "Try Hack Me/06 Wreath/04 Pivoting.md",
+    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231219065933.png",
+    "Try Hack Me/06 Wreath/4.3 Socat.md",
+    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231217212347.png",
+    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231217212325.png",
+    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231217175211.png",
+    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231217173651.png",
+    "Try Hack Me/06 Wreath/4.2 Plink.exe.md",
+    "Try Hack Me/06 Wreath/4.1 SSH Tunneling  and Port Forwarding.md",
+    "Try Hack Me/06 Wreath/4.5 Sshuttle.md",
+    "Try Hack Me/06 Wreath/4.4 Chisel.md",
+    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231216224120.png",
+    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231216223620.png",
+    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231216204015.png",
+    "Try Hack Me/06 Wreath/03  Enumeration.md",
+    "Try Hack Me/06 Wreath/02 Nmap.md",
+    "Try Hack Me/06 Wreath/01 Notes aka observation regarding the machine.md",
+    "Active Directory/00 Images/Pasted image 20231216160030.png",
+    "Active Directory/00 Images/Pasted image 20231216154258.png",
+    "Active Directory/Different Techniques.md",
+    "Try Hack Me/05 Vulnnet Endgame/02 Enumeration.md",
+    "Windows Enumeration.md",
+    "PNPT.md",
+    "Untitled",
     "Try Hack Me/06 Wreath/00 Images",
-    "Try Hack Me/06 Wreath",
-    "cayman-master/script",
-    "cayman-master/docs"
+    "Active Directory",
+    "Try Hack Me/05 Vulnnet Endgame/00 Images",
+    "Try Hack Me/05 Vulnnet Endgame",
+    "Active Directory Practice/05 Return/00 Images",
+    "Active Directory Practice/05 Return",
+    "Active Directory Practice/04 Support/00 Images",
+    "Active Directory Practice/04 Support",
+    "Active Directory Practice/03 Sizzle/00 Images"
   ]
 }
