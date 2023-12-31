@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/06 Wreath/5.3 Git Explotation.md",
+                "file": "Try Hack Me/06 Wreath/06 Command and Control Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/06 Wreath/5.3 Git Explotation.md",
+                "file": "Try Hack Me/06 Wreath/06 Command and Control Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/06 Wreath/5.3 Git Explotation.md",
+                "file": "Try Hack Me/06 Wreath/06 Command and Control Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/06 Wreath/5.3 Git Explotation.md"
+                "file": "Try Hack Me/06 Wreath/06 Command and Control Introduction.md"
               }
             }
           },
@@ -196,14 +196,15 @@
   },
   "active": "39c566d6714411ca",
   "lastOpenFiles": [
-    "Try Hack Me/06 Wreath/6.5 Empire Git server.md",
-    "Try Hack Me/06 Wreath/6.6 Empire Modules.md",
-    "Try Hack Me/06 Wreath/6.3 Empire Agents.md",
-    "Try Hack Me/06 Wreath/6.2 Empire Stagers.md",
     "Try Hack Me/06 Wreath/6.1 Empire Listeners.md",
     "Try Hack Me/06 Wreath/06 Command and Control Introduction.md",
+    "Try Hack Me/06 Wreath/6.6 Empire Modules.md",
+    "Try Hack Me/06 Wreath/6.5 Empire Git server.md",
     "Try Hack Me/06 Wreath/6.4 Empire Hop Listeners.md",
+    "Try Hack Me/06 Wreath/6.3 Empire Agents.md",
+    "Try Hack Me/06 Wreath/6.2 Empire Stagers.md",
     "Try Hack Me/06 Wreath/5.4 Stabilization & Post Exploitation.md",
+    "Try Hack Me/06 Wreath/5.3 Git Explotation.md",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231132215.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231132107.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231132050.png",
@@ -213,7 +214,6 @@
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231120902.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231120847.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231120840.png",
-    "Try Hack Me/06 Wreath/5.3 Git Explotation.md",
     "Try Hack Me/06 Wreath/5.2 Git Server Code Review.md",
     "Try Hack Me/06 Wreath/5.1 Git server Pivoting.md",
     "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
