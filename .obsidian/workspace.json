@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/06 Wreath/7 Personal PC Enumeration.md",
+                "file": "Try Hack Me/06 Wreath/7.1 Personal PC Pivoting.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/06 Wreath/7 Personal PC Enumeration.md",
+                "file": "Try Hack Me/06 Wreath/7.1 Personal PC Pivoting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/06 Wreath/7 Personal PC Enumeration.md",
+                "file": "Try Hack Me/06 Wreath/7.1 Personal PC Pivoting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/06 Wreath/7 Personal PC Enumeration.md"
+                "file": "Try Hack Me/06 Wreath/7.1 Personal PC Pivoting.md"
               }
             }
           },
@@ -196,9 +196,20 @@
   },
   "active": "39c566d6714411ca",
   "lastOpenFiles": [
+    "Try Hack Me/06 Wreath/7 Personal PC Enumeration.md",
+    "Try Hack Me/06 Wreath/7.1 Personal PC Pivoting.md",
+    "Try Hack Me/06 Wreath/00 Images/Pasted image 20240101000245.png",
+    "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
+    "Try Hack Me/06 Wreath/4.6 Conclusion.md",
+    "Try Hack Me/06 Wreath/4.5 Sshuttle.md",
+    "Try Hack Me/06 Wreath/4.4 Chisel.md",
+    "Try Hack Me/06 Wreath/4.1 SSH Tunneling  and Port Forwarding.md",
+    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231235530.png",
+    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231234939.png",
+    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231234320.png",
+    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231234252.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231234006.png",
     "Try Hack Me/06 Wreath/6.7 Empire Interactive Shell.md",
-    "Try Hack Me/06 Wreath/7 Personal PC Enumeration.md",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231230328.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231230257.png",
     "Try Hack Me/06 Wreath/6.6 Empire Modules.md",
@@ -214,24 +225,13 @@
     "Try Hack Me/06 Wreath/5.4 Stabilization & Post Exploitation.md",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231132215.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231132107.png",
-    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231132050.png",
-    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231125101.png",
-    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231120928.png",
-    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231120902.png",
-    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231120847.png",
-    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231120840.png",
     "Try Hack Me/06 Wreath/5.1 Git server Pivoting.md",
-    "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
-    "Try Hack Me/06 Wreath/4.6 Conclusion.md",
-    "Try Hack Me/06 Wreath/4.5 Sshuttle.md",
     "Try Hack Me/06 Wreath/4.3 Socat.md",
-    "Try Hack Me/06 Wreath/4.4 Chisel.md",
     "Try Hack Me/06 Wreath/04 Pivoting.md",
     "conflict-files-obsidian-git.md",
     "Windows Enumeration.md",
     "README.md",
     "PNPT.md",
-    "Offer Letter.md",
     "HackTheBox/desktop.ini",
     "HackTheBox",
     "Active Directory Practice/05 Return/00 Images",
