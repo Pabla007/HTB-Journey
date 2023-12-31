@@ -13,37 +13,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 How to close the VPN completely.md",
+                "file": "Try Hack Me/06 Wreath/02 Nmap.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7a44ad7577312013",
+            "id": "39c566d6714411ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Enumeration.md",
+                "file": "Try Hack Me/06 Wreath/4.3 Socat.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "14b05374dc4cba0b",
+            "id": "73ec6dd7160f5b25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/09 Bounty Hacker/09 Bounty Hacker.md",
+                "file": "Try Hack Me/06 Wreath/6.3 Empire Agents.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "1124bb4535c72500",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07 How to close the VPN completely.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07 How to close the VPN completely.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "07 How to close the VPN completely.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,53 +186,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a59eface60f8c62a",
+  "active": "1124bb4535c72500",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Try Hack Me/06 Wreath/6.3 Empire Agents.md",
+    "Try Hack Me/06 Wreath/4.3 Socat.md",
+    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231230202021.png",
+    "Try Hack Me/06 Wreath/6.2 Empire Stagers.md",
+    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231230201847.png",
+    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231230201322.png",
+    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231230202224.png",
+    "Windows Enumeration.md",
     "README.md",
-    "LICENSE",
-    "Starting Point/02 Fawn/image/Pasted image 20230722130210.png",
-    "Starting Point/04 Redeemer/Notes aka observation regarding the machine.md",
-    "Starting Point/02 Fawn/Notes aka observation regarding the machine.md",
-    "Starting Point/03 Dancing/Notes aka observation regarding the machine.md",
-    "Starting Point/02 Fawn/image",
-    "Starting Point/01 Meow/Notes aka observation regarding the machine.md",
-    "Starting Point/04 Redeemer",
-    "Starting Point/03 Dancing",
-    "Starting Point/02 Fawn",
-    "Starting Point/01 Meow",
-    "Starting Point",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230819122946.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230819113949.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230819113222.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230819122006.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230819122812.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230819122228.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230819121846.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230819114803.png",
-    "Retarded Machine/04 Bank/Images/Pasted image 20230819121105.png",
-    "Retarded Machine/04 Bank/Images",
-    "Retarded Machine/04 Bank/08 Let's move from Normal User to ROOT.md",
-    "Retarded Machine/04 Bank/07 Upload Vulnerability.md",
-    "Retarded Machine/04 Bank/06 Login using BurpSuite without creds.md",
-    "Retarded Machine/04 Bank/05 BurpSuite.md",
-    "Retarded Machine/04 Bank/04 Directory Busting or GoBuster.md",
-    "Retarded Machine/04 Bank/03 DNS recon.md",
-    "Retarded Machine/04 Bank/02 Nmap.md",
-    "Retarded Machine/04 Bank/01 Notes aka observation regarding the machine.md",
-    "Retarded Machine/03 Academy/Image",
-    "Retarded Machine/03 Academy/Error Details.md",
-    "Retarded Machine/03 Academy/08 Find password for Mrb3n.md",
-    "Retarded Machine/03 Academy/07 Spawn a Bin Bash Shell in MSF.md",
-    "Retarded Machine/03 Academy/06 Analyze X-XSRF-TOKEN And Encryption.md",
-    "Retarded Machine/03 Academy/05 Laravel.md",
-    "Retarded Machine/03 Academy/04 gobuster.md",
-    "Retarded Machine/03 Academy/04 BurpSuite.md",
-    "Retarded Machine/03 Academy/03 Directory Busting.md",
-    "Retarded Machine/03 Academy/02 Nmap.md",
-    "Retarded Machine/03 Academy/01 Notes aka observation regarding the machine.md",
-    "Retarded Machine/02 Help/Image",
-    "Retarded Machine/02 Help/06 Another Vulerability.md",
-    "Retarded Machine/02 Help/05 Finding the Root Flag.md",
-    "Retarded Machine/02 Help/04 HelpDeskZ.md"
+    "PNPT.md",
+    "Offer Letter.md",
+    "Linux Enumeration.md",
+    "host file.md",
+    "Active Directory Practice/03 Sizzle/01 Scanning.md",
+    "07 How to close the VPN completely.md",
+    "Try Hack Me/06 Wreath/5.1 Git server Pivoting.md",
+    "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
+    "Try Hack Me/06 Wreath/4.6 Conclusion.md",
+    "Try Hack Me/06 Wreath/4.5 Sshuttle.md",
+    "Try Hack Me/06 Wreath/4.4 Chisel.md",
+    "Try Hack Me/06 Wreath/4.2 Plink.exe.md",
+    "Try Hack Me/06 Wreath/4.1 SSH Tunneling  and Port Forwarding.md",
+    "Try Hack Me/06 Wreath/04 Pivoting.md",
+    "Try Hack Me/06 Wreath/03  Enumeration.md",
+    "Try Hack Me/06 Wreath/02 Nmap.md",
+    "Try Hack Me/06 Wreath/01 Notes aka observation regarding the machine.md",
+    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231230200923.png",
+    "Try Hack Me/06 Wreath/6.1 Empire Listeners.md",
+    "Try Hack Me/06 Wreath/06 Command and Control Introduction.md",
+    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231230200808.png",
+    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231230195952.png",
+    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231230194927.png",
+    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231230194913.png",
+    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231230194813.png",
+    "HackTheBox/desktop.ini",
+    "HackTheBox",
+    "Active Directory Practice/05 Return/00 Images",
+    "Active Directory Practice/05 Return",
+    "Active Directory Practice/04 Support/00 Images",
+    "Active Directory Practice/04 Support",
+    "Active Directory Practice/03 Sizzle/00 Images",
+    "Active Directory Practice/03 Sizzle",
+    "Active Directory Practice/02 Blackfield/00 Images",
+    "Active Directory Practice/02 Blackfield"
   ]
 }
