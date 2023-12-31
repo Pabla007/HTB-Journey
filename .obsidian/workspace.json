@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/06 Wreath/4.4 Chisel.md",
+                "file": "Try Hack Me/06 Wreath/6.2 Empire Stagers.md",
                 "mode": "source",
                 "source": false
               }
@@ -196,8 +196,14 @@
   },
   "active": "4e7ab5b095f91db9",
   "lastOpenFiles": [
-    "Try Hack Me/06 Wreath/6.4 Empire Hop Listeners.md",
+    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231111814.png",
+    "Try Hack Me/06 Wreath/6.2 Empire Stagers.md",
+    "Try Hack Me/06 Wreath/6.1 Empire Listeners.md",
+    "Try Hack Me/06 Wreath/06 Command and Control Introduction.md",
+    "Try Hack Me/06 Wreath/5.3 Git Explotation.md",
+    "Try Hack Me/06 Wreath/4.4 Chisel.md",
     "Try Hack Me/06 Wreath/6.5 Empire Git server.md",
+    "Try Hack Me/06 Wreath/6.4 Empire Hop Listeners.md",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231105714.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231105302.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231105008.png",
@@ -205,7 +211,6 @@
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231104451.png",
     "Try Hack Me/06 Wreath/4.7 Ligolo-ng.md",
     "Try Hack Me/06 Wreath/04 Pivoting.md",
-    "Try Hack Me/06 Wreath/4.4 Chisel.md",
     "Try Hack Me/06 Wreath/4.3 Socat.md",
     "Try Hack Me/06 Wreath/4.5 Sshuttle.md",
     "Try Hack Me/06 Wreath/6.3 Empire Agents.md",
@@ -213,11 +218,7 @@
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231102934.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231100119.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231091126.png",
-    "Try Hack Me/06 Wreath/6.2 Empire Stagers.md",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231090942.png",
-    "Try Hack Me/06 Wreath/6.1 Empire Listeners.md",
-    "Try Hack Me/06 Wreath/06 Command and Control Introduction.md",
-    "Try Hack Me/06 Wreath/5.3 Git Explotation.md",
     "conflict-files-obsidian-git.md",
     "Windows Enumeration.md",
     "README.md",
@@ -231,7 +232,6 @@
     "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
     "Try Hack Me/06 Wreath/4.6 Conclusion.md",
     "Try Hack Me/06 Wreath/4.2 Plink.exe.md",
-    "Try Hack Me/06 Wreath/4.1 SSH Tunneling  and Port Forwarding.md",
     "HackTheBox/desktop.ini",
     "HackTheBox",
     "Active Directory Practice/05 Return/00 Images",
