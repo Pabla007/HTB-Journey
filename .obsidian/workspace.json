@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/06 Wreath/6.6 Empire Modules.md",
+                "file": "Try Hack Me/06 Wreath/4.7 Ligolo-ng.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/06 Wreath/6.6 Empire Modules.md",
+                "file": "Try Hack Me/06 Wreath/4.7 Ligolo-ng.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/06 Wreath/6.6 Empire Modules.md",
+                "file": "Try Hack Me/06 Wreath/4.7 Ligolo-ng.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/06 Wreath/6.6 Empire Modules.md"
+                "file": "Try Hack Me/06 Wreath/4.7 Ligolo-ng.md"
               }
             }
           },
@@ -196,8 +196,10 @@
   },
   "active": "1124bb4535c72500",
   "lastOpenFiles": [
-    "Try Hack Me/06 Wreath/6.5 Empire Git server.md",
+    "Try Hack Me/06 Wreath/6.1 Empire Listeners.md",
     "Try Hack Me/06 Wreath/6.6 Empire Modules.md",
+    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231125101.png",
+    "Try Hack Me/06 Wreath/6.5 Empire Git server.md",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231120928.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231120902.png",
     "Try Hack Me/06 Wreath/6.4 Empire Hop Listeners.md",
@@ -218,10 +220,8 @@
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231113626.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231113603.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231111814.png",
-    "Try Hack Me/06 Wreath/6.1 Empire Listeners.md",
     "Try Hack Me/06 Wreath/06 Command and Control Introduction.md",
     "Try Hack Me/06 Wreath/4.4 Chisel.md",
-    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231105714.png",
     "Try Hack Me/06 Wreath/04 Pivoting.md",
     "conflict-files-obsidian-git.md",
     "Windows Enumeration.md",
@@ -231,7 +231,6 @@
     "Linux Enumeration.md",
     "host file.md",
     "Active Directory Practice/03 Sizzle/01 Scanning.md",
-    "07 How to close the VPN completely.md",
     "HackTheBox/desktop.ini",
     "HackTheBox",
     "Active Directory Practice/05 Return/00 Images",
