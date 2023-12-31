@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/06 Wreath/6.4 Empire Hop Listeners.md",
+                "file": "Try Hack Me/06 Wreath/4.4 Chisel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e7ab5b095f91db9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Try Hack Me/06 Wreath/6.5 Empire Git server.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/06 Wreath/6.4 Empire Hop Listeners.md",
+                "file": "Try Hack Me/06 Wreath/6.5 Empire Git server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/06 Wreath/6.4 Empire Hop Listeners.md",
+                "file": "Try Hack Me/06 Wreath/6.5 Empire Git server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/06 Wreath/6.4 Empire Hop Listeners.md"
+                "file": "Try Hack Me/06 Wreath/6.5 Empire Git server.md"
               }
             }
           },
@@ -182,26 +194,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1124bb4535c72500",
+  "active": "4e7ab5b095f91db9",
   "lastOpenFiles": [
-    "Try Hack Me/06 Wreath/6.3 Empire Agents.md",
     "Try Hack Me/06 Wreath/6.4 Empire Hop Listeners.md",
+    "Try Hack Me/06 Wreath/6.5 Empire Git server.md",
+    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231105714.png",
+    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231105302.png",
+    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231105008.png",
+    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231104900.png",
+    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231104451.png",
+    "Try Hack Me/06 Wreath/4.7 Ligolo-ng.md",
+    "Try Hack Me/06 Wreath/04 Pivoting.md",
+    "Try Hack Me/06 Wreath/4.4 Chisel.md",
+    "Try Hack Me/06 Wreath/4.3 Socat.md",
+    "Try Hack Me/06 Wreath/4.5 Sshuttle.md",
+    "Try Hack Me/06 Wreath/6.3 Empire Agents.md",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231103034.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231102934.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231100119.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231091126.png",
     "Try Hack Me/06 Wreath/6.2 Empire Stagers.md",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231090942.png",
-    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231090804.png",
     "Try Hack Me/06 Wreath/6.1 Empire Listeners.md",
     "Try Hack Me/06 Wreath/06 Command and Control Introduction.md",
-    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231090145.png",
-    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231090132.png",
     "Try Hack Me/06 Wreath/5.3 Git Explotation.md",
     "conflict-files-obsidian-git.md",
-    "Try Hack Me/06 Wreath/4.3 Socat.md",
-    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231230202021.png",
-    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231230201847.png",
     "Windows Enumeration.md",
     "README.md",
     "PNPT.md",
@@ -213,13 +230,8 @@
     "Try Hack Me/06 Wreath/5.1 Git server Pivoting.md",
     "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
     "Try Hack Me/06 Wreath/4.6 Conclusion.md",
-    "Try Hack Me/06 Wreath/4.5 Sshuttle.md",
-    "Try Hack Me/06 Wreath/4.4 Chisel.md",
     "Try Hack Me/06 Wreath/4.2 Plink.exe.md",
     "Try Hack Me/06 Wreath/4.1 SSH Tunneling  and Port Forwarding.md",
-    "Try Hack Me/06 Wreath/04 Pivoting.md",
-    "Try Hack Me/06 Wreath/03  Enumeration.md",
-    "Try Hack Me/06 Wreath/02 Nmap.md",
     "HackTheBox/desktop.ini",
     "HackTheBox",
     "Active Directory Practice/05 Return/00 Images",
