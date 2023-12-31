@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/06 Wreath/6.3 Empire Agents.md",
+                "file": "Try Hack Me/06 Wreath/6.4 Empire Hop Listeners.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/06 Wreath/6.3 Empire Agents.md",
+                "file": "Try Hack Me/06 Wreath/6.4 Empire Hop Listeners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/06 Wreath/6.3 Empire Agents.md",
+                "file": "Try Hack Me/06 Wreath/6.4 Empire Hop Listeners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/06 Wreath/6.3 Empire Agents.md"
+                "file": "Try Hack Me/06 Wreath/6.4 Empire Hop Listeners.md"
               }
             }
           },
@@ -184,10 +184,13 @@
   },
   "active": "1124bb4535c72500",
   "lastOpenFiles": [
+    "Try Hack Me/06 Wreath/6.3 Empire Agents.md",
+    "Try Hack Me/06 Wreath/6.4 Empire Hop Listeners.md",
+    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231103034.png",
+    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231102934.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231100119.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231091126.png",
     "Try Hack Me/06 Wreath/6.2 Empire Stagers.md",
-    "Try Hack Me/06 Wreath/6.3 Empire Agents.md",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231090942.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231090804.png",
     "Try Hack Me/06 Wreath/6.1 Empire Listeners.md",
@@ -199,8 +202,6 @@
     "Try Hack Me/06 Wreath/4.3 Socat.md",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20231230202021.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20231230201847.png",
-    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231230201322.png",
-    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231230202224.png",
     "Windows Enumeration.md",
     "README.md",
     "PNPT.md",
@@ -219,7 +220,6 @@
     "Try Hack Me/06 Wreath/04 Pivoting.md",
     "Try Hack Me/06 Wreath/03  Enumeration.md",
     "Try Hack Me/06 Wreath/02 Nmap.md",
-    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231230200923.png",
     "HackTheBox/desktop.ini",
     "HackTheBox",
     "Active Directory Practice/05 Return/00 Images",
