@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/06 Wreath/7.1 Personal PC Pivoting.md",
+                "file": "Try Hack Me/06 Wreath/7 Personal PC Enumeration.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,8 +35,12 @@
             "id": "1124bb4535c72500",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Try Hack Me/06 Wreath/7.1 Personal PC Pivoting.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -48,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,13 +190,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39c566d6714411ca",
+  "active": "1124bb4535c72500",
   "lastOpenFiles": [
+    "Try Hack Me/06 Wreath/7 Personal PC Enumeration.md",
+    "Try Hack Me/06 Wreath/6.7 Empire Interactive Shell.md",
+    "Try Hack Me/06 Wreath/6.6 Empire Modules.md",
+    "Try Hack Me/06 Wreath/6.5 Empire Git server.md",
+    "Try Hack Me/06 Wreath/6.4 Empire Hop Listeners.md",
+    "Try Hack Me/06 Wreath/6.1 Empire Listeners.md",
+    "Try Hack Me/06 Wreath/06 Command and Control Introduction.md",
+    "Try Hack Me/06 Wreath/5.4 Stabilization & Post Exploitation.md",
+    "Try Hack Me/06 Wreath/5.3 Git Explotation.md",
+    "Try Hack Me/06 Wreath/5.2 Git Server Code Review.md",
+    "Try Hack Me/06 Wreath/5.1 Git server Pivoting.md",
+    "Try Hack Me/06 Wreath/7.1 Personal PC Pivoting.md",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240101003508.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240101003439.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240101002020.png",
-    "Try Hack Me/06 Wreath/7 Personal PC Enumeration.md",
-    "Try Hack Me/06 Wreath/7.1 Personal PC Pivoting.md",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240101000245.png",
     "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
     "Try Hack Me/06 Wreath/4.6 Conclusion.md",
@@ -204,21 +218,10 @@
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231234320.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231234252.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231234006.png",
-    "Try Hack Me/06 Wreath/6.7 Empire Interactive Shell.md",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231230328.png",
-    "Try Hack Me/06 Wreath/00 Images/Pasted image 20231231230257.png",
-    "Try Hack Me/06 Wreath/6.6 Empire Modules.md",
-    "Try Hack Me/06 Wreath/6.5 Empire Git server.md",
-    "Try Hack Me/06 Wreath/6.4 Empire Hop Listeners.md",
-    "Try Hack Me/06 Wreath/5.3 Git Explotation.md",
-    "Try Hack Me/06 Wreath/5.2 Git Server Code Review.md",
     "Try Hack Me/06 Wreath/4.7 Ligolo-ng.md",
     "Try Hack Me/06 Wreath/6.3 Empire Agents.md",
     "Try Hack Me/06 Wreath/6.2 Empire Stagers.md",
-    "Try Hack Me/06 Wreath/6.1 Empire Listeners.md",
-    "Try Hack Me/06 Wreath/06 Command and Control Introduction.md",
-    "Try Hack Me/06 Wreath/5.4 Stabilization & Post Exploitation.md",
-    "Try Hack Me/06 Wreath/5.1 Git server Pivoting.md",
     "Try Hack Me/06 Wreath/4.3 Socat.md",
     "Try Hack Me/06 Wreath/04 Pivoting.md",
     "conflict-files-obsidian-git.md",
