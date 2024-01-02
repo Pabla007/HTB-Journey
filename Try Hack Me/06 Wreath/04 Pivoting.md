@@ -100,6 +100,7 @@ But we can also use Dynamic chain that menas if one fails than it will move to t
 - There will be a time when we will be having a shell access but will not able to do ssh on that box. And the box didn't want to get exposed to the world.
 - SSH reverse tunnel is the solution
 
+>[!note] Terms Made Easy To Learn and Understand
 
 <h2>Port Fowarding</h2>
 With port forward you tell the mailman to temporarily send your letters to a friend in apartment 404.
@@ -108,6 +109,14 @@ It's like rerouting data through a specific port to reach it's destination.
 
 <h2>Pivoting</h2>
 Pivoting is like a Secret Tunnel inside that apartment building.
-We are in an apartment 305 and you have to visit your friend in apartment 404 wihtout going through the main Hallway.
+We are in an apartment 305 and you have to visit your friend in apartment 404 without going through the main Hallway.
 It's creating a hidden path b/w computers to access them without going the regular routes. 
-It's like a taking a shortcut through a as
+It's like a taking a shortcut through a secret passage.
+
+<h2>Jump Server</h2>
+It's referred to a jump host or jump box, is like a security checkpoint for your computer network.
+
+Security Guard : The jump server acts like a security guard at the castle gate.
+Control Center : Instead of allowing direct access to every computer that you use to manage and control access to other computers in your network.
+Protection : It adds an extra layer of protection.
+
