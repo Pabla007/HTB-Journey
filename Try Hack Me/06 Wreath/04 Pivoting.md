@@ -99,3 +99,15 @@ But we can also use Dynamic chain that menas if one fails than it will move to t
 <h2>Wait what we can't SSH to a box like jumpbox1 in our case</h2>
 - There will be a time when we will be having a shell access but will not able to do ssh on that box. And the box didn't want to get exposed to the world.
 - SSH reverse tunnel is the solution
+
+
+<h2>Port Fowarding</h2>
+With port forward you tell the mailman to temporarily send your letters to a friend in apartment 404.
+Your friend then forwards the letter to you.  
+It's like rerouting data through a specific port to reach it's destination.
+
+<h2>Pivoting</h2>
+Pivoting is like a Secret Tunnel inside that apartment building.
+We are in an apartment 305 and you have to visit your friend in apartment 404 wihtout going through the main Hallway.
+It's creating a hidden path b/w computers to access them without going the regular routes. 
+It's like a taking a shortcut through a as
