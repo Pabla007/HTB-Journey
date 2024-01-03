@@ -12,3 +12,6 @@ CVE-2019-15107
 ```
 https://thomaswreath.thm:10000/
 ```
+Got the shell and was not able to crack the administrator hash but was crack the hash of another user but but but will use the admin hash to login via ssh
+
+

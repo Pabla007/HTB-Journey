@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/06 Wreath/03  Enumeration.md",
+                "file": "Try Hack Me/06 Wreath/01 Notes aka observation regarding the machine.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,13 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/06 Wreath/03  Enumeration.md",
+                "file": "Try Hack Me/06 Wreath/4.3 Socat.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ee34c7a4c6d8d002",
@@ -119,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/06 Wreath/00 Summary Till Now.md",
+                "file": "Try Hack Me/06 Wreath/4.3 Socat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/06 Wreath/00 Summary Till Now.md",
+                "file": "Try Hack Me/06 Wreath/4.3 Socat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/06 Wreath/00 Summary Till Now.md"
+                "file": "Try Hack Me/06 Wreath/4.3 Socat.md"
               }
             }
           },
@@ -191,14 +192,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1124bb4535c72500",
+  "active": "4e7ab5b095f91db9",
   "lastOpenFiles": [
+    "Try Hack Me/06 Wreath/4.2 Plink.exe.md",
+    "Try Hack Me/06 Wreath/4.1 SSH Tunneling  and Port Forwarding.md",
+    "Try Hack Me/06 Wreath/04 Pivoting.md",
     "Try Hack Me/06 Wreath/03  Enumeration.md",
     "Try Hack Me/06 Wreath/02 Nmap.md",
     "Try Hack Me/06 Wreath/01 Notes aka observation regarding the machine.md",
     "Try Hack Me/06 Wreath/00 Summary Till Now.md",
     "Try Hack Me/06 Wreath/7 Personal PC Enumeration.md",
-    "Try Hack Me/06 Wreath/04 Pivoting.md",
     "Active Directory/02 Users.md",
     "Active Directory/01 Active Directory Lab Build.md",
     "Try Hack Me/09 Bounty Hacker/09 Bounty Hacker.md",
@@ -227,8 +230,6 @@
     "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
     "Try Hack Me/06 Wreath/4.6 Conclusion.md",
     "Try Hack Me/06 Wreath/4.5 Sshuttle.md",
-    "Try Hack Me/06 Wreath/4.4 Chisel.md",
-    "Try Hack Me/06 Wreath/4.1 SSH Tunneling  and Port Forwarding.md",
     "HackTheBox/desktop.ini",
     "HackTheBox",
     "Active Directory Practice/05 Return/00 Images",
