@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/06 Wreath/4.3 Socat.md",
+                "file": "Try Hack Me/06 Wreath/00 Summary Till Now.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/06 Wreath/4.3 Socat.md",
+                "file": "Try Hack Me/06 Wreath/00 Summary Till Now.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/06 Wreath/4.3 Socat.md"
+                "file": "Try Hack Me/06 Wreath/00 Summary Till Now.md"
               }
             }
           },
@@ -192,8 +192,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e7ab5b095f91db9",
+  "active": "1124bb4535c72500",
   "lastOpenFiles": [
+    "Try Hack Me/06 Wreath/4.3 Socat.md",
     "Try Hack Me/06 Wreath/4.2 Plink.exe.md",
     "Try Hack Me/06 Wreath/4.1 SSH Tunneling  and Port Forwarding.md",
     "Try Hack Me/06 Wreath/04 Pivoting.md",
@@ -229,7 +230,6 @@
     "Try Hack Me/06 Wreath/5.1 Git server Pivoting.md",
     "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
     "Try Hack Me/06 Wreath/4.6 Conclusion.md",
-    "Try Hack Me/06 Wreath/4.5 Sshuttle.md",
     "HackTheBox/desktop.ini",
     "HackTheBox",
     "Active Directory Practice/05 Return/00 Images",

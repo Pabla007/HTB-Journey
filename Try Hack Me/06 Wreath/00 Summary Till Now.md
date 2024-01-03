@@ -15,3 +15,4 @@ https://thomaswreath.thm:10000/
 Got the shell and was not able to crack the administrator hash but was crack the hash of another user but but but will use the admin hash to login via ssh
 
 
+Will upload the Socat binary (i.e. the compiled version) in the victim machine so that we can set a 
