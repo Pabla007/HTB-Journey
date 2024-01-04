@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/06 Wreath/7.1 Personal PC Pivoting.md",
+                "file": "Try Hack Me/06 Wreath/7.2 Personal PC The Wonders of Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
       {
         "id": "ee34c7a4c6d8d002",
         "type": "tabs",
-        "dimension": 49.69040247678018,
+        "dimension": 49.690402476780186,
         "children": [
           {
             "id": "1124bb4535c72500",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/06 Wreath/00 Summary Till Now.md",
+                "file": "Try Hack Me/06 Wreath/7.2 Personal PC The Wonders of Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/06 Wreath/00 Summary Till Now.md",
+                "file": "Try Hack Me/06 Wreath/7.2 Personal PC The Wonders of Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/06 Wreath/00 Summary Till Now.md"
+                "file": "Try Hack Me/06 Wreath/7.2 Personal PC The Wonders of Git.md"
               }
             }
           },
@@ -192,11 +192,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1124bb4535c72500",
+  "active": "4e7ab5b095f91db9",
   "lastOpenFiles": [
+    "Try Hack Me/06 Wreath/00 Images/Pasted image 20240104211111.png",
+    "Try Hack Me/06 Wreath/00 Images/Pasted image 20240104210957.png",
+    "Try Hack Me/06 Wreath/00 Images/Pasted image 20240104210916.png",
+    "Try Hack Me/06 Wreath/00 Summary Till Now.md",
     "Try Hack Me/06 Wreath/6.3 Empire Agents.md",
     "Try Hack Me/06 Wreath/7.1 Personal PC Pivoting.md",
-    "Try Hack Me/06 Wreath/00 Summary Till Now.md",
     "Try Hack Me/06 Wreath/5.4 Stabilization & Post Exploitation.md",
     "Try Hack Me/06 Wreath/06 Command and Control Introduction.md",
     "Try Hack Me/06 Wreath/6.4 Empire Hop Listeners.md",
@@ -219,7 +222,6 @@
     "Try Hack Me/06 Wreath/7 Personal PC Enumeration.md",
     "Active Directory/02 Users.md",
     "Active Directory/01 Active Directory Lab Build.md",
-    "Try Hack Me/09 Bounty Hacker/09 Bounty Hacker.md",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240101163815.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240101163648.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240101160448.png",
@@ -228,8 +230,6 @@
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240101153858.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240101153848.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240101153504.png",
-    "Try Hack Me/06 Wreath/00 Images/Pasted image 20240101153330.png",
-    "Try Hack Me/06 Wreath/00 Images/Pasted image 20240101144435.png",
     "HackTheBox/desktop.ini",
     "HackTheBox",
     "Active Directory Practice/05 Return/00 Images",
