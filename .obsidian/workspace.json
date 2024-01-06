@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/06 Wreath/7.3 Personal PC Website Code Analysis.md",
+                "file": "Try Hack Me/06 Wreath/7.4 Personal PC  Exploit PoC.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 265.5
   },
   "right": {
     "id": "92c39521ad6ea421",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/06 Wreath/7.3 Personal PC Website Code Analysis.md",
+                "file": "Try Hack Me/06 Wreath/7.4 Personal PC  Exploit PoC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/06 Wreath/7.3 Personal PC Website Code Analysis.md",
+                "file": "Try Hack Me/06 Wreath/7.4 Personal PC  Exploit PoC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/06 Wreath/7.3 Personal PC Website Code Analysis.md"
+                "file": "Try Hack Me/06 Wreath/7.4 Personal PC  Exploit PoC.md"
               }
             }
           },
@@ -194,9 +194,10 @@
   },
   "active": "4e7ab5b095f91db9",
   "lastOpenFiles": [
+    "Try Hack Me/06 Wreath/7.3 Personal PC Website Code Analysis.md",
+    "Try Hack Me/06 Wreath/7.4 Personal PC  Exploit PoC.md",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240104223252.png",
     "Try Hack Me/06 Wreath/7.2 Personal PC The Wonders of Git.md",
-    "Try Hack Me/06 Wreath/7.3 Personal PC Website Code Analysis.md",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240104211111.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240104210957.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240104210916.png",
@@ -229,7 +230,6 @@
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240101155955.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240101153914.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240101153858.png",
-    "Try Hack Me/06 Wreath/00 Images/Pasted image 20240101153848.png",
     "HackTheBox/desktop.ini",
     "HackTheBox",
     "Active Directory Practice/05 Return/00 Images",
