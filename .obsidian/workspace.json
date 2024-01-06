@@ -6,7 +6,6 @@
       {
         "id": "677873050f2e0e2d",
         "type": "tabs",
-        "dimension": 84.52012383900929,
         "children": [
           {
             "id": "954ce5fa3f3a5397",
@@ -26,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/06 Wreath/7.4 Personal PC  Exploit PoC.md",
+                "file": "Try Hack Me/06 Wreath/7.2 Personal PC The Wonders of Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,27 +33,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "ee34c7a4c6d8d002",
-        "type": "tabs",
-        "dimension": 15.479876160990713,
-        "children": [
-          {
-            "id": "1124bb4535c72500",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Try Hack Me/06 Wreath/00 Summary Till Now.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/06 Wreath/7.4 Personal PC  Exploit PoC.md",
+                "file": "Try Hack Me/06 Wreath/7.2 Personal PC The Wonders of Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/06 Wreath/7.4 Personal PC  Exploit PoC.md",
+                "file": "Try Hack Me/06 Wreath/7.2 Personal PC The Wonders of Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/06 Wreath/7.4 Personal PC  Exploit PoC.md"
+                "file": "Try Hack Me/06 Wreath/7.2 Personal PC The Wonders of Git.md"
               }
             }
           },
@@ -194,6 +172,13 @@
   },
   "active": "4e7ab5b095f91db9",
   "lastOpenFiles": [
+    "Try Hack Me/06 Wreath/7.1 Personal PC Pivoting.md",
+    "Try Hack Me/06 Wreath/7 Personal PC Enumeration.md",
+    "Try Hack Me/06 Wreath/6.7 Empire Interactive Shell.md",
+    "Try Hack Me/06 Wreath/06 Command and Control Introduction.md",
+    "Try Hack Me/06 Wreath/5.3 Git Explotation.md",
+    "Try Hack Me/06 Wreath/5.2 Git Server Code Review.md",
+    "Try Hack Me/06 Wreath/5.1 Git server Pivoting.md",
     "Try Hack Me/06 Wreath/7.3 Personal PC Website Code Analysis.md",
     "Try Hack Me/06 Wreath/7.4 Personal PC  Exploit PoC.md",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240104223252.png",
@@ -203,15 +188,10 @@
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240104210916.png",
     "Try Hack Me/06 Wreath/00 Summary Till Now.md",
     "Try Hack Me/06 Wreath/6.3 Empire Agents.md",
-    "Try Hack Me/06 Wreath/7.1 Personal PC Pivoting.md",
     "Try Hack Me/06 Wreath/5.4 Stabilization & Post Exploitation.md",
-    "Try Hack Me/06 Wreath/06 Command and Control Introduction.md",
     "Try Hack Me/06 Wreath/6.4 Empire Hop Listeners.md",
     "Try Hack Me/06 Wreath/01 Notes aka observation regarding the machine.md",
-    "Try Hack Me/06 Wreath/5.3 Git Explotation.md",
-    "Try Hack Me/06 Wreath/5.2 Git Server Code Review.md",
     "Try Hack Me/06 Wreath/6.1 Empire Listeners.md",
-    "Try Hack Me/06 Wreath/5.1 Git server Pivoting.md",
     "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
     "Try Hack Me/06 Wreath/4.7 Ligolo-ng.md",
     "Try Hack Me/06 Wreath/4.6 Conclusion.md",
@@ -222,8 +202,6 @@
     "Try Hack Me/06 Wreath/4.1 SSH Tunneling  and Port Forwarding.md",
     "Try Hack Me/06 Wreath/04 Pivoting.md",
     "Try Hack Me/06 Wreath/02 Nmap.md",
-    "Try Hack Me/06 Wreath/03  Enumeration.md",
-    "Try Hack Me/06 Wreath/7 Personal PC Enumeration.md",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240101163815.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240101163648.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240101160448.png",
