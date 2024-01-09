@@ -1,3 +1,9 @@
 {
-  "attachmentFolderPath": "Try Hack Me/06 Wreath/00 Images"
+  "attachmentFolderPath": "Try Hack Me/06 Wreath/00 Images",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
