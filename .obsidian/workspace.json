@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/06 Wreath/8.2 Appsec aka Web app testing.md",
+                "file": "Try Hack Me/06 Wreath/8.1 AV Detection Methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/06 Wreath/8.2 Appsec aka Web app testing.md",
+                "file": "Try Hack Me/06 Wreath/8.1 AV Detection Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/06 Wreath/8.2 Appsec aka Web app testing.md",
+                "file": "Try Hack Me/06 Wreath/8.1 AV Detection Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/06 Wreath/8.2 Appsec aka Web app testing.md"
+                "file": "Try Hack Me/06 Wreath/8.1 AV Detection Methods.md"
               }
             }
           },
@@ -171,8 +171,8 @@
   },
   "active": "954ce5fa3f3a5397",
   "lastOpenFiles": [
-    "Try Hack Me/06 Wreath/8.1 AV Detection Methods.md",
     "Try Hack Me/06 Wreath/8.2 Appsec aka Web app testing.md",
+    "Try Hack Me/06 Wreath/8.1 AV Detection Methods.md",
     "Try Hack Me/06 Wreath/08 AV Evasion Introduction.md",
     "Try Hack Me/06 Wreath/7.4 Personal PC  Exploit PoC.md",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240106131145.png",
