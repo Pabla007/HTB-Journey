@@ -16,10 +16,18 @@ nmap --script=smb2-security-mode.nse -p445 <ip_address>
 ![[Pasted image 20240120122918.png]]
 
 
-
 Some configuration changes to the responder
 SMB and HTTP should be off so that is not captured but relayed
 ```
-
+SMB = OFF
+HTTP = OFF
 ```
+
+We can also add -I at the end for NTLM relay and could interactive shell. 
+instead of getting the sam dump 
+
+or or or 
+
+we can also run commands with -c
+
 
