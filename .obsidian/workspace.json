@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory/Initial Attack Vectors/2.1 SMB Attack.md",
+                "file": "Try Hack Me/06 Wreath/7.1 Personal PC Pivoting.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory/Initial Attack Vectors/2.1 SMB Attack.md",
+                "file": "Try Hack Me/06 Wreath/7.1 Personal PC Pivoting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory/Initial Attack Vectors/2.1 SMB Attack.md",
+                "file": "Try Hack Me/06 Wreath/7.1 Personal PC Pivoting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory/Initial Attack Vectors/2.1 SMB Attack.md"
+                "file": "Try Hack Me/06 Wreath/7.1 Personal PC Pivoting.md"
               }
             }
           },
@@ -179,6 +179,8 @@
   },
   "active": "954ce5fa3f3a5397",
   "lastOpenFiles": [
+    "Try Hack Me/06 Wreath/7 Personal PC Enumeration.md",
+    "Active Directory/Initial Attack Vectors/2.1 SMB Attack.md",
     "Active Directory/00 Images/Pasted image 20240120151006.png",
     "Active Directory/00 Images/Pasted image 20240120150947.png",
     "Active Directory/00 Images/Pasted image 20240120131959.png",
@@ -189,12 +191,10 @@
     "Active Directory/00 Images/Pasted image 20240120125838.png",
     "Active Directory/00 Images/Pasted image 20240120125323.png",
     "Active Directory/Initial Attack Vectors/02 SMB relay attack.md",
-    "Active Directory/Initial Attack Vectors/2.1 SMB Attack.md",
     "Active Directory/00 Images/Pasted image 20240120122918.png",
     "Active Directory/Initial Attack Vectors/1.2 Mitigation.md",
     "Active Directory/Initial Attack Vectors/01 LLMNR Poising.md",
     "Active Directory/Initial Attack Vectors/1.1 Cracking Captured Hashes.md",
-    "Active Directory/00 Images/Pasted image 20240120120911.png",
     "Active Directory/02 Users.md",
     "Active Directory/Different Techniques.md",
     "Active Directory/01 Active Directory Lab Build.md",
@@ -209,7 +209,6 @@
     "Try Hack Me/06 Wreath/7.3 Personal PC Website Code Analysis.md",
     "Try Hack Me/06 Wreath/7.2 Personal PC The Wonders of Git.md",
     "Try Hack Me/06 Wreath/7.1 Personal PC Pivoting.md",
-    "Try Hack Me/06 Wreath/7 Personal PC Enumeration.md",
     "Try Hack Me/06 Wreath/8.1 AV Evasion Methods.md",
     "Try Hack Me/06 Wreath/5.4 Stabilization & Post Exploitation.md",
     "Try Hack Me/06 Wreath/5.3 Git Explotation.md",
