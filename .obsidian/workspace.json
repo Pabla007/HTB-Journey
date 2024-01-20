@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory/3.1 LLMNR Poising.md",
+                "file": "Active Directory/Initial Attack Vectors/02 SMB relay attack.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory/3.1 LLMNR Poising.md",
+                "file": "Active Directory/Initial Attack Vectors/02 SMB relay attack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory/3.1 LLMNR Poising.md",
+                "file": "Active Directory/Initial Attack Vectors/02 SMB relay attack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory/3.1 LLMNR Poising.md"
+                "file": "Active Directory/Initial Attack Vectors/02 SMB relay attack.md"
               }
             }
           },
@@ -177,17 +177,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a59eface60f8c62a",
+  "active": "954ce5fa3f3a5397",
   "lastOpenFiles": [
-    "Active Directory/Untitled",
+    "Active Directory/00 Images/Pasted image 20240120122918.png",
+    "Active Directory/Initial Attack Vectors/1.2 Mitigation.md",
+    "Active Directory/Initial Attack Vectors/02 SMB relay attack.md",
+    "Active Directory/Initial Attack Vectors/01 LLMNR Poising.md",
+    "Active Directory/Initial Attack Vectors/1.1 Cracking Captured Hashes.md",
+    "Active Directory/00 Images/Pasted image 20240120120911.png",
+    "Active Directory/02 Users.md",
+    "Active Directory/Different Techniques.md",
+    "Active Directory/01 Active Directory Lab Build.md",
+    "Active Directory/00 Active Directory Contents.md",
+    "Active Directory/Initial Attack Vectors",
     "Active Directory/00 Images/Pasted image 20240120110605.png",
     "Active Directory/00 Images/Pasted image 20240120110530.png",
     "Active Directory/00 Images/Pasted image 20240120110444.png",
     "Active Directory/00 Images/Pasted image 20240120110426.png",
-    "Active Directory/03 Internal Attacks.md",
-    "Active Directory/02 Users.md",
+    "03 Internal Attacks.md",
     "Active Directory/00 Images/Pasted image 20240120110349.png",
-    "Active Directory/3.1 LLMNR Poising.md",
     "Try Hack Me/06 Wreath/8.3 AV Evasion Compiling Netcat & Reverse Shell!.md",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240114231903.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240114231420.png",
@@ -201,7 +209,6 @@
     "Try Hack Me/06 Wreath/7.1 Personal PC Pivoting.md",
     "Try Hack Me/06 Wreath/7 Personal PC Enumeration.md",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240114204927.png",
-    "Try Hack Me/06 Wreath/00 Images/Pasted image 20240114204304.png",
     "Try Hack Me/06 Wreath/8.1 AV Evasion Methods.md",
     "Try Hack Me/06 Wreath/5.4 Stabilization & Post Exploitation.md",
     "Try Hack Me/06 Wreath/5.3 Git Explotation.md",
@@ -209,12 +216,6 @@
     "Try Hack Me/06 Wreath/5.1 Git server Pivoting.md",
     "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
     "Try Hack Me/06 Wreath/4.7 Ligolo-ng.md",
-    "Try Hack Me/06 Wreath/4.6 Conclusion.md",
-    "Try Hack Me/06 Wreath/4.5 Sshuttle.md",
-    "Try Hack Me/06 Wreath/6.7 Empire Interactive Shell.md",
-    "Try Hack Me/06 Wreath/6.5 Empire Git server.md",
-    "Try Hack Me/06 Wreath/8.5 AV Evasion Privilege Escalation.md",
-    "Try Hack Me/06 Wreath/06 Command and Control Introduction.md",
     "HackTheBox/desktop.ini",
     "HackTheBox",
     "Active Directory Practice/05 Return/00 Images",
@@ -223,7 +224,6 @@
     "Active Directory Practice/04 Support",
     "Active Directory Practice/03 Sizzle/00 Images",
     "Active Directory Practice/03 Sizzle",
-    "Active Directory Practice/02 Blackfield/00 Images",
-    "Active Directory Practice/02 Blackfield"
+    "Active Directory Practice/02 Blackfield/00 Images"
   ]
 }

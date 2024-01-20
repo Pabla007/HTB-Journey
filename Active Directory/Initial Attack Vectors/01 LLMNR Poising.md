@@ -1,4 +1,4 @@
-Internal Attack | LLMNR Poisoing
+Internal Attack | LLMNR Poisoning
 When DNS fails to resolve the address than LLMNR comes into Play.
 the victim goes out and say Hey does anybody on this network know how to reach this hackm folder
 and this is the broadcast message send over the network.
