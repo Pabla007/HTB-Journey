@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/06 Wreath/8.5 AV Evasion Privilege Escalation.md",
+                "file": "Try Hack Me/06 Wreath/7.1 Personal PC Pivoting.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/06 Wreath/8.5 AV Evasion Privilege Escalation.md",
+                "file": "Try Hack Me/06 Wreath/7.1 Personal PC Pivoting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/06 Wreath/8.5 AV Evasion Privilege Escalation.md",
+                "file": "Try Hack Me/06 Wreath/7.1 Personal PC Pivoting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/06 Wreath/8.5 AV Evasion Privilege Escalation.md"
+                "file": "Try Hack Me/06 Wreath/7.1 Personal PC Pivoting.md"
               }
             }
           },
@@ -179,6 +179,10 @@
   },
   "active": "954ce5fa3f3a5397",
   "lastOpenFiles": [
+    "Try Hack Me/06 Wreath/7 Personal PC Enumeration.md",
+    "Try Hack Me/06 Wreath/6.7 Empire Interactive Shell.md",
+    "Try Hack Me/06 Wreath/7.1 Personal PC Pivoting.md",
+    "Try Hack Me/06 Wreath/8.5 AV Evasion Privilege Escalation.md",
     "Try Hack Me/06 Wreath/8.4 AV Evasion Enumeration.md",
     "Try Hack Me/06 Wreath/8.3 AV Evasion Compiling Netcat & Reverse Shell!.md",
     "Try Hack Me/06 Wreath/8.2 AV Evasion PHP Payload Obfuscation.md",
@@ -187,10 +191,8 @@
     "Try Hack Me/06 Wreath/7.4 Personal PC  Exploit PoC.md",
     "Try Hack Me/06 Wreath/7.3 Personal PC Website Code Analysis.md",
     "Try Hack Me/06 Wreath/7.2 Personal PC The Wonders of Git.md",
-    "Try Hack Me/06 Wreath/7.1 Personal PC Pivoting.md",
     "Try Hack Me/06 Wreath/4.6 Conclusion.md",
     "Try Hack Me/06 Wreath/4.7 Ligolo-ng.md",
-    "Try Hack Me/06 Wreath/8.5 AV Evasion Privilege Escalation.md",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240121013522.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240121013347.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240121013107.png",
@@ -201,7 +203,6 @@
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240121010030.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240121005421.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240121004855.png",
-    "Try Hack Me/06 Wreath/7 Personal PC Enumeration.md",
     "Active Directory/Initial Attack Vectors/2.1 SMB Attack.md",
     "Active Directory/Initial Attack Vectors/02 SMB relay attack.md",
     "Active Directory/Initial Attack Vectors/1.2 Mitigation.md",
@@ -215,7 +216,6 @@
     "03 Internal Attacks.md",
     "Try Hack Me/06 Wreath/5.4 Stabilization & Post Exploitation.md",
     "Try Hack Me/06 Wreath/5.3 Git Explotation.md",
-    "Try Hack Me/06 Wreath/5.2 Git Server Code Review.md",
     "HackTheBox/desktop.ini",
     "HackTheBox",
     "Active Directory Practice/05 Return/00 Images",
