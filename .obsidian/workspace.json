@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory/Initial Attack Vectors/2.1 SMB Attack.md",
+                "file": "Active Directory/Initial Attack Vectors/03 Gaining shells.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory/Initial Attack Vectors/2.1 SMB Attack.md",
+                "file": "Active Directory/Initial Attack Vectors/03 Gaining shells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory/Initial Attack Vectors/2.1 SMB Attack.md",
+                "file": "Active Directory/Initial Attack Vectors/03 Gaining shells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory/Initial Attack Vectors/2.1 SMB Attack.md"
+                "file": "Active Directory/Initial Attack Vectors/03 Gaining shells.md"
               }
             }
           },
@@ -192,6 +192,10 @@
   },
   "active": "309ad3be916fa8a9",
   "lastOpenFiles": [
+    "Active Directory/00 Images/Pasted image 20240122204923.png",
+    "Active Directory/00 Images/Pasted image 20240122204822.png",
+    "Active Directory/Initial Attack Vectors/2.1 SMB Attack.md",
+    "Active Directory/Initial Attack Vectors/03 Gaining shells.md",
     "Active Directory/00 Images/Pasted image 20240122202904.png",
     "Active Directory/00 Images/Pasted image 20240122202733.png",
     "Active Directory/Initial Attack Vectors/1.2 Mitigation.md",
@@ -205,8 +209,6 @@
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240121224811.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240121224707.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240121220629.png",
-    "Try Hack Me/06 Wreath/00 Images/Pasted image 20240121220608.png",
-    "Try Hack Me/06 Wreath/00 Images/Pasted image 20240121220114.png",
     "Try Hack Me/05 Vulnnet Endgame/04 Escalation.md",
     "Try Hack Me/06 Wreath/7.1 Personal PC Pivoting.md",
     "Try Hack Me/06 Wreath/7 Personal PC Enumeration.md",
@@ -220,14 +222,12 @@
     "Try Hack Me/06 Wreath/7.2 Personal PC The Wonders of Git.md",
     "Try Hack Me/06 Wreath/4.6 Conclusion.md",
     "Try Hack Me/06 Wreath/4.7 Ligolo-ng.md",
-    "Active Directory/Initial Attack Vectors/2.1 SMB Attack.md",
     "Active Directory/Initial Attack Vectors/02 SMB relay attack.md",
     "Active Directory/Initial Attack Vectors/01 LLMNR Poising.md",
     "Active Directory/Initial Attack Vectors/1.1 Cracking Captured Hashes.md",
     "Active Directory/02 Users.md",
     "Active Directory/Different Techniques.md",
     "Active Directory/01 Active Directory Lab Build.md",
-    "Active Directory/00 Active Directory Contents.md",
     "Active Directory/Initial Attack Vectors",
     "HackTheBox/desktop.ini",
     "HackTheBox",
