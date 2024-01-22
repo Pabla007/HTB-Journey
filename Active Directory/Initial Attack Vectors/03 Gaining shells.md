@@ -46,3 +46,12 @@ but but but as the AV is on it will get picked up and we won't be able to get th
 
 ![[Pasted image 20240122204923.png]]
 
+Two more tools to keep in mind if psexec.py 
+```
+wmiexec.py
+smbexec.py
+```
+
+
+And we don't need a shell to be successful but will keep this in back of our mind.
+
