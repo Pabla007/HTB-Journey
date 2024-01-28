@@ -1,12 +1,15 @@
 Before running the nmap will see the scope 
 ```
 nmap -sn -n 10.200.95.0/24 -oA Ping-Sweep
-
-10.200.95.33
-10.200.95.250
-
-nmap -sS 10.200.95.33 10.200.95.250 -v -oA Initial-Scan-Subnet1-Hosts
 ```
+10.200.145.30
+10.200.145.33
+10.200.145.250
+
+```
+nmap -sS 10.200.145.33 10.200.145.250 -v -oA Initial-Scan-Subnet1-Hosts
+```
+
 ![[Pasted image 20231001212830.png]]
 ![[Pasted image 20231001212914.png]]
 

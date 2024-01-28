@@ -8,51 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "954ce5fa3f3a5397",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Try Hack Me/05 Vulnnet Endgame/04 Escalation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e7ab5b095f91db9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Try Hack Me/06 Wreath/8.3 AV Evasion Compiling Netcat & Reverse Shell!.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "309ad3be916fa8a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Active Directory/Initial Attack Vectors/04 IPv6 Attacks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c7cb287dab612c74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Try Hack Me/07 Holo/03 Nmap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7dd6b24ee999536",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory/Initial Attack Vectors/04 IPv6 Attacks.md",
+                "file": "Try Hack Me/07 Holo/03 Nmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory/Initial Attack Vectors/04 IPv6 Attacks.md",
+                "file": "Try Hack Me/07 Holo/03 Nmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory/Initial Attack Vectors/04 IPv6 Attacks.md"
+                "file": "Try Hack Me/07 Holo/03 Nmap.md"
               }
             }
           },
@@ -190,11 +165,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "309ad3be916fa8a9",
+  "active": "c7cb287dab612c74",
   "lastOpenFiles": [
+    "Try Hack Me/07 Holo/04 Web Enumeration with Gobuster Wfuzz.md",
+    "Try Hack Me/07 Holo/00 Images/Pasted image 20231017234139.png",
+    "Try Hack Me/07 Holo/03 Nmap.md",
+    "Try Hack Me/07 Holo/02 .Net Bascis.md",
+    "Try Hack Me/07 Holo/01 Notes aka observation regarding the machine.md",
+    "Active Directory/Initial Attack Vectors/04 IPv6 Attacks.md",
     "Active Directory/00 Images/Pasted image 20240122221820.png",
     "Active Directory/Initial Attack Vectors/03 Gaining shells.md",
-    "Active Directory/Initial Attack Vectors/04 IPv6 Attacks.md",
     "Active Directory/00 Images/Pasted image 20240122204923.png",
     "Active Directory/00 Images/Pasted image 20240122204822.png",
     "Active Directory/Initial Attack Vectors/2.1 SMB Attack.md",
@@ -208,8 +188,6 @@
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240121225444.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240121225354.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240121225208.png",
-    "Try Hack Me/06 Wreath/00 Images/Pasted image 20240121224811.png",
-    "Try Hack Me/06 Wreath/00 Images/Pasted image 20240121224707.png",
     "Try Hack Me/05 Vulnnet Endgame/04 Escalation.md",
     "Try Hack Me/06 Wreath/7.1 Personal PC Pivoting.md",
     "Try Hack Me/06 Wreath/7 Personal PC Enumeration.md",
@@ -225,9 +203,6 @@
     "Try Hack Me/06 Wreath/4.7 Ligolo-ng.md",
     "Active Directory/Initial Attack Vectors/02 SMB relay attack.md",
     "Active Directory/Initial Attack Vectors/01 LLMNR Poising.md",
-    "Active Directory/Initial Attack Vectors/1.1 Cracking Captured Hashes.md",
-    "Active Directory/02 Users.md",
-    "Active Directory/Different Techniques.md",
     "Active Directory/Initial Attack Vectors",
     "HackTheBox/desktop.ini",
     "HackTheBox",
