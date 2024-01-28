@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/07 Holo/03 Nmap.md",
+                "file": "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/07 Holo/03 Nmap.md",
+                "file": "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/07 Holo/03 Nmap.md",
+                "file": "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/07 Holo/03 Nmap.md"
+                "file": "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md"
               }
             }
           },
@@ -167,9 +167,10 @@
   },
   "active": "c7cb287dab612c74",
   "lastOpenFiles": [
+    "Try Hack Me/07 Holo/05 Web Directory Bursting.md",
     "Try Hack Me/07 Holo/04 Web Enumeration with Gobuster Wfuzz.md",
-    "Try Hack Me/07 Holo/00 Images/Pasted image 20231017234139.png",
     "Try Hack Me/07 Holo/03 Nmap.md",
+    "Try Hack Me/07 Holo/00 Images/Pasted image 20231017234139.png",
     "Try Hack Me/07 Holo/02 .Net Bascis.md",
     "Try Hack Me/07 Holo/01 Notes aka observation regarding the machine.md",
     "Active Directory/Initial Attack Vectors/04 IPv6 Attacks.md",
@@ -202,7 +203,6 @@
     "Try Hack Me/06 Wreath/4.6 Conclusion.md",
     "Try Hack Me/06 Wreath/4.7 Ligolo-ng.md",
     "Active Directory/Initial Attack Vectors/02 SMB relay attack.md",
-    "Active Directory/Initial Attack Vectors/01 LLMNR Poising.md",
     "Active Directory/Initial Attack Vectors",
     "HackTheBox/desktop.ini",
     "HackTheBox",

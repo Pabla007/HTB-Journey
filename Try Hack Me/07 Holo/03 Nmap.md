@@ -3,7 +3,6 @@ Before running the nmap will see the scope
 nmap -sn -n 10.200.95.0/24 -oA Ping-Sweep
 ```
 10.200.145.30
-10.200.145.33
 10.200.145.250
 
 ```
@@ -42,6 +41,10 @@ Once you have identified open machines on the network and basic ports open, you 
 
 ![[Pasted image 20230926224524.png]]
 ![[Pasted image 20230926224504.png]]
+
+```
+nmap -T4 -p- -A 10.200.95.33
+```
 
 ```
 └─# nmap -T4 -p- -A 10.200.95.33        
