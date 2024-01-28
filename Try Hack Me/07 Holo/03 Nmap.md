@@ -1,4 +1,4 @@
-Before running the nmap will see the scope 
+Before running the Nmap will see the scope 
 ```
 nmap -sn -n 10.200.95.0/24 -oA Ping-Sweep
 ```
