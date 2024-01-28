@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/07 Holo/04 Web Enumeration with Gobuster Wfuzz.md",
+                "file": "Try Hack Me/07 Holo/03 Nmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/07 Holo/03 Nmap.md",
+                "file": "Try Hack Me/07 Holo/04 Web Enumeration with Gobuster Wfuzz.md",
                 "mode": "source",
                 "source": false
               }
@@ -197,11 +197,11 @@
   "active": "dc7f1c8d6904a49b",
   "lastOpenFiles": [
     "Obsidian CSS.md",
+    "Try Hack Me/07 Holo/04 Web Enumeration with Gobuster Wfuzz.md",
+    "Master Note.md",
     "Try Hack Me/07 Holo/03 Nmap.md",
     "Try Hack Me/07 Holo/02 .Net Bascis.md",
     "Try Hack Me/07 Holo/01 Notes aka observation regarding the machine.md",
-    "Master Note.md",
-    "Try Hack Me/07 Holo/04 Web Enumeration with Gobuster Wfuzz.md",
     "Try Hack Me/07 Holo/05 Web Directory Bursting.md",
     "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
     "Linux Enumeration.md",
