@@ -94,3 +94,25 @@ wpscan -url <IP_address>
 whatweb <domain_name>
 ```
 
+
+<h2>Google Dorks</h2>
+```
+site:tesla.com 
+```
+
+```
+site:tesla.com -www
+```
+
+```
+site:tesla.com -www -ir 
+```
+
+```
+site:tesla.com filetype:docx
+```
+
+```
+site:tesla.com filetype:pdf
+```
+

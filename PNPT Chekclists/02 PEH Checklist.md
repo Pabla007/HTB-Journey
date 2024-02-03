@@ -9,7 +9,9 @@
 <h2> Information Gathering</h2>
 - [ ] Identify targets
 
-- [ ] Google Fu
+
+<h2>Google Fu</h2>
+- [ ] [Google Dorks](https://ahrefs.com/blog/google-advanced-search-operators/)
 
 
  <h2>Email Enumeration</h2> 
@@ -36,3 +38,6 @@
 - [ ] [builtwith](https://builtwith.com/)
 - [ ] [Wappalyzer](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)
 - [ ] whatweb
+- [ ] Burp-Suite
+- [ ] Foxy-proxy
+
