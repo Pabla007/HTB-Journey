@@ -42,7 +42,7 @@ wfuzz -u <URL> -w <wordlist> -H "Host: FUZZ.example.com" --hc <status codes to h
 ```
 
 ```
-wfuzz -u http:<Hostname> -w /usr/share/seclists/SecLists-master/Discovery/DNS/subdomains-top1million-110000.txt  -H "Host: FUZZ.<hostname>" --hc 400
+wfuzz -u http://<Hostname> -w /usr/share/seclists/SecLists-master/Discovery/DNS/subdomains-top1million-110000.txt  -H "Host: FUZZ.<hostname>" --hc 400
 ```
 
 ```
@@ -51,6 +51,13 @@ wfuzz -u http:<Hostname> -w /usr/share/seclists/SecLists-master/Discovery/DNS/su
 --hl Hide line count
 --hh Hide character count
 ```
+
+
+>[!important] ffuf
+```
+ffuf -u http://holo.live -w /usr/share/wordlists/seclists/SecLists-master/Discovery/DNS/subdomains-top1million-110000.txt -H "HOST:FUZZ.holo.live" -mc 200 -o fuzz_holo.txt
+```
+
 
 
 >[!important] 

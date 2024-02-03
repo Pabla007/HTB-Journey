@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "79004b67846034b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Master Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fde698b437544a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Checklist.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/07 Holo/04 Web Enumeration with Gobuster Wfuzz.md",
+                "file": "Checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/07 Holo/04 Web Enumeration with Gobuster Wfuzz.md",
+                "file": "Checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/07 Holo/04 Web Enumeration with Gobuster Wfuzz.md"
+                "file": "Checklist.md"
               }
             }
           },
@@ -194,16 +218,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc7f1c8d6904a49b",
+  "active": "0fde698b437544a3",
   "lastOpenFiles": [
-    "Try Hack Me/07 Holo/03 Nmap.md",
     "Master Note.md",
+    "Checklist.md",
+    "Obsidian CSS.md",
     "Try Hack Me/07 Holo/04 Web Enumeration with Gobuster Wfuzz.md",
+    "Try Hack Me/07 Holo/05 Web Directory Bursting.md",
+    "Try Hack Me/07 Holo/03 Nmap.md",
     "Try Hack Me/07 Holo/02 .Net Bascis.md",
     "Try Hack Me/07 Holo/01 Notes aka observation regarding the machine.md",
     "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
-    "Try Hack Me/07 Holo/05 Web Directory Bursting.md",
-    "Obsidian CSS.md",
     "Linux Enumeration.md",
     "host file.md",
     "Offer Letter.md",
@@ -231,7 +256,6 @@
     "Try Hack Me/06 Wreath/7 Personal PC Enumeration.md",
     "Try Hack Me/06 Wreath/6.7 Empire Interactive Shell.md",
     "Try Hack Me/06 Wreath/8.3 AV Evasion Compiling Netcat & Reverse Shell!.md",
-    "Try Hack Me/06 Wreath/8.2 AV Evasion PHP Payload Obfuscation.md",
     "Active Directory/Initial Attack Vectors",
     "HackTheBox/desktop.ini",
     "HackTheBox",
