@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Master Note.md",
+                "file": "PNPT Chekclists/01 Master Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Checklist.md",
+                "file": "PNPT Chekclists/01 Master Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zip",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,8 +126,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Checklist.md",
+                "file": "PNPT Chekclists/01 Master Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Checklist.md",
+                "file": "PNPT Chekclists/01 Master Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Checklist.md"
+                "file": "PNPT Chekclists/01 Master Note.md"
               }
             }
           },
@@ -221,42 +220,43 @@
   },
   "active": "0fde698b437544a3",
   "lastOpenFiles": [
-    "Master Note.md",
+    "PNPT Chekclists/02 PEH Checklist.md",
+    "PNPT Chekclists/00 Checklist.md",
+    "PNPT Chekclists/01 Master Note.md",
+    "PNPT Chekclists/2.1 AD CheckList.md",
+    "PNPT Chekclists/06 EPP Checklist.md",
+    "PNPT Chekclists/05 LPE Checklist.md",
+    "PNPT Chekclists/04 WPE Checklist.md",
+    "PNPT Chekclists/03 OSINT Checklist.md",
+    "Offer Letter.md",
+    "Windows Enumeration.md",
+    "README.md",
+    "Linux Enumeration.md",
+    "host file.md",
+    "PNPT.md",
+    "PNPT Chekclists",
     "Active Directory Practice/04 Support/03 Smb Enumeration.md",
     "Try Hack Me/04 VulnNet/03 Enumeration.md",
     "Try Hack Me/01 Pickle Rick/02 Nmap and Nikto.md",
     "Try Hack Me/05 Vulnnet Endgame/02 Enumeration.md",
     "Try Hack Me/07 Holo/04 Web Enumeration with Gobuster Wfuzz.md",
     "Obsidian CSS.md",
-    "Checklist.md",
     "Try Hack Me/07 Holo/05 Web Directory Bursting.md",
     "Try Hack Me/07 Holo/03 Nmap.md",
     "Try Hack Me/07 Holo/02 .Net Bascis.md",
     "Try Hack Me/07 Holo/01 Notes aka observation regarding the machine.md",
     "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
-    "Linux Enumeration.md",
-    "host file.md",
-    "Offer Letter.md",
-    "Windows Enumeration.md",
-    "README.md",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20231017234139.png",
     "Active Directory/Initial Attack Vectors/04 IPv6 Attacks.md",
     "Active Directory/00 Images/Pasted image 20240122221820.png",
-    "Active Directory/Initial Attack Vectors/03 Gaining shells.md",
     "Active Directory/00 Images/Pasted image 20240122204923.png",
     "Active Directory/00 Images/Pasted image 20240122204822.png",
-    "Active Directory/Initial Attack Vectors/2.1 SMB Attack.md",
     "Active Directory/00 Images/Pasted image 20240122202904.png",
     "Active Directory/00 Images/Pasted image 20240122202733.png",
-    "Active Directory/Initial Attack Vectors/1.2 Mitigation.md",
-    "Try Hack Me/06 Wreath/09  Exfiltration Techniques & Post Exploitation.md",
-    "Try Hack Me/06 Wreath/8.5 AV Evasion Privilege Escalation.md",
-    "Try Hack Me/06 Wreath/8.4 AV Evasion Enumeration.md",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240121225825.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240121225444.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240121225354.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240121225208.png",
-    "Try Hack Me/05 Vulnnet Endgame/04 Escalation.md",
     "Active Directory/Initial Attack Vectors",
     "HackTheBox/desktop.ini",
     "HackTheBox",
@@ -265,7 +265,6 @@
     "Active Directory Practice/04 Support/00 Images",
     "Active Directory Practice/04 Support",
     "Active Directory Practice/03 Sizzle/00 Images",
-    "Active Directory Practice/03 Sizzle",
-    "Active Directory Practice/02 Blackfield/00 Images"
+    "Active Directory Practice/03 Sizzle"
   ]
 }

@@ -63,6 +63,25 @@ ffuf -u http://holo.live -w /usr/share/wordlists/seclists/SecLists-master/Discov
 >[!important] 
 
 
+<h2>Sub-Domains</h2>
+Sublist3r
+```
+sublist3r -d <domain_name> -t 100
+```
+
+Amass
+```
+amass enum -d tesla.com 
+```
+
+```
+amass intel -d tesla.com -whois
+```
+
+Httpprobe
+```
+cat domains.txt | httprobe >> working_domains.txt
+```
 
 
 <h2>Enumeration</h2>
@@ -70,4 +89,8 @@ ffuf -u http://holo.live -w /usr/share/wordlists/seclists/SecLists-master/Discov
 wpscan -url <IP_address>    
 ```
 
+
+```
+whatweb <domain_name>
+```
 
