@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
+                "file": "Try Hack Me/07 Holo/04 Web Enumeration with Gobuster Wfuzz.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/07 Holo/04 Web Enumeration with Gobuster Wfuzz.md",
+                "file": "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,12 +206,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7dd6b24ee999536",
+  "active": "dc7f1c8d6904a49b",
   "lastOpenFiles": [
-    "Try Hack Me/07 Holo/Pasted image 20240204115344.png",
     "Try Hack Me/07 Holo/05 Web Directory Bursting.md",
-    "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
     "Try Hack Me/07 Holo/04 Web Enumeration with Gobuster Wfuzz.md",
+    "Obsidian CSS.md",
+    "Try Hack Me/07 Holo/03 Nmap.md",
+    "Try Hack Me/07 Holo/02 .Net Bascis.md",
+    "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
+    "Try Hack Me/07 Holo/00 Images/Pasted image 20240204120201.png",
+    "Try Hack Me/07 Holo/00 Images/Pasted image 20240204115344.png",
     "Active Directory Practice/04 Support/03 Smb Enumeration.md",
     "PNPT Chekclists/02 PEH Checklist.md",
     "PNPT Chekclists/01 Master Note.md",
@@ -230,9 +235,6 @@
     "Try Hack Me/04 VulnNet/03 Enumeration.md",
     "Try Hack Me/01 Pickle Rick/02 Nmap and Nikto.md",
     "Try Hack Me/05 Vulnnet Endgame/02 Enumeration.md",
-    "Obsidian CSS.md",
-    "Try Hack Me/07 Holo/03 Nmap.md",
-    "Try Hack Me/07 Holo/02 .Net Bascis.md",
     "Try Hack Me/07 Holo/01 Notes aka observation regarding the machine.md",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20231017234139.png",
     "Active Directory/00 Images/Pasted image 20240122221820.png",
@@ -242,8 +244,6 @@
     "Active Directory/00 Images/Pasted image 20240122202733.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240121225825.png",
     "Try Hack Me/06 Wreath/00 Images/Pasted image 20240121225444.png",
-    "Try Hack Me/06 Wreath/00 Images/Pasted image 20240121225354.png",
-    "Try Hack Me/06 Wreath/00 Images/Pasted image 20240121225208.png",
     "Active Directory/Initial Attack Vectors",
     "HackTheBox/desktop.ini",
     "HackTheBox",
