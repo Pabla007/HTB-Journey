@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/08 RootMe/03 Let's priv escalate.md",
+                "file": "Try Hack Me/06 Wreath/03  Enumeration.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "xterm",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +126,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -220,11 +221,12 @@
   },
   "active": "e09d384b23a04857",
   "lastOpenFiles": [
-    "PNPT Chekclists/01 Master Note.md",
+    "Try Hack Me/06 Wreath/03  Enumeration.md",
     "Try Hack Me/08 RootMe/03 Let's priv escalate.md",
+    "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
+    "PNPT Chekclists/01 Master Note.md",
     "PNPT Chekclists/00 Checklist.md",
     "Try Hack Me/10 Wonderland/03 Got the Low Level Shell.md",
-    "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240204124629.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240204124112.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240204124028.png",
@@ -251,7 +253,6 @@
     "PNPT Chekclists",
     "Try Hack Me/04 VulnNet/03 Enumeration.md",
     "Try Hack Me/01 Pickle Rick/02 Nmap and Nikto.md",
-    "Try Hack Me/05 Vulnnet Endgame/02 Enumeration.md",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20231017234139.png",
     "Active Directory/00 Images/Pasted image 20240122221820.png",
     "Active Directory/00 Images/Pasted image 20240122204923.png",
