@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
+                "file": "Try Hack Me/08 RootMe/03 Let's priv escalate.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,8 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e09d384b23a04857",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -205,16 +218,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7dd6b24ee999536",
+  "active": "e09d384b23a04857",
   "lastOpenFiles": [
+    "PNPT Chekclists/01 Master Note.md",
+    "Try Hack Me/08 RootMe/03 Let's priv escalate.md",
+    "PNPT Chekclists/00 Checklist.md",
+    "Try Hack Me/10 Wonderland/03 Got the Low Level Shell.md",
+    "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240204124629.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240204124112.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240204124028.png",
     "Try Hack Me/07 Holo/05 Web Directory Bursting.md",
     "Try Hack Me/07 Holo/04 Web Enumeration with Gobuster Wfuzz.md",
-    "PNPT Chekclists/01 Master Note.md",
-    "PNPT Chekclists/00 Checklist.md",
-    "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
     "Obsidian CSS.md",
     "Try Hack Me/07 Holo/03 Nmap.md",
     "Try Hack Me/07 Holo/02 .Net Bascis.md",
@@ -237,13 +252,11 @@
     "Try Hack Me/04 VulnNet/03 Enumeration.md",
     "Try Hack Me/01 Pickle Rick/02 Nmap and Nikto.md",
     "Try Hack Me/05 Vulnnet Endgame/02 Enumeration.md",
-    "Try Hack Me/07 Holo/01 Notes aka observation regarding the machine.md",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20231017234139.png",
     "Active Directory/00 Images/Pasted image 20240122221820.png",
     "Active Directory/00 Images/Pasted image 20240122204923.png",
     "Active Directory/00 Images/Pasted image 20240122204822.png",
     "Active Directory/00 Images/Pasted image 20240122202904.png",
-    "Active Directory/00 Images/Pasted image 20240122202733.png",
     "Active Directory/Initial Attack Vectors",
     "HackTheBox/desktop.ini",
     "HackTheBox",
