@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/07 Holo/04 Web Enumeration with Gobuster Wfuzz.md",
+                "file": "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
+                "file": "PNPT Chekclists/00 Checklist.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,21 +205,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc7f1c8d6904a49b",
+  "active": "e7dd6b24ee999536",
   "lastOpenFiles": [
+    "Try Hack Me/07 Holo/00 Images/Pasted image 20240204124629.png",
+    "Try Hack Me/07 Holo/00 Images/Pasted image 20240204124112.png",
+    "Try Hack Me/07 Holo/00 Images/Pasted image 20240204124028.png",
     "Try Hack Me/07 Holo/05 Web Directory Bursting.md",
     "Try Hack Me/07 Holo/04 Web Enumeration with Gobuster Wfuzz.md",
+    "PNPT Chekclists/01 Master Note.md",
+    "PNPT Chekclists/00 Checklist.md",
+    "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
     "Obsidian CSS.md",
     "Try Hack Me/07 Holo/03 Nmap.md",
     "Try Hack Me/07 Holo/02 .Net Bascis.md",
-    "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240204120201.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240204115344.png",
     "Active Directory Practice/04 Support/03 Smb Enumeration.md",
     "PNPT Chekclists/02 PEH Checklist.md",
-    "PNPT Chekclists/01 Master Note.md",
     "PNPT Chekclists/2.1 AD CheckList.md",
-    "PNPT Chekclists/00 Checklist.md",
     "PNPT Chekclists/06 EPP Checklist.md",
     "PNPT Chekclists/05 LPE Checklist.md",
     "PNPT Chekclists/04 WPE Checklist.md",
@@ -242,8 +244,6 @@
     "Active Directory/00 Images/Pasted image 20240122204822.png",
     "Active Directory/00 Images/Pasted image 20240122202904.png",
     "Active Directory/00 Images/Pasted image 20240122202733.png",
-    "Try Hack Me/06 Wreath/00 Images/Pasted image 20240121225825.png",
-    "Try Hack Me/06 Wreath/00 Images/Pasted image 20240121225444.png",
     "Active Directory/Initial Attack Vectors",
     "HackTheBox/desktop.ini",
     "HackTheBox",
