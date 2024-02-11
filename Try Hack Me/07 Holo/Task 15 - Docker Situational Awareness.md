@@ -11,6 +11,7 @@ Let's POC by comparing the number of processes there are in Docker container tha
 
 Containers allow environment variables to be provided from the host operating system by the use of a .dockerenv file. This file is located in the "/" directory and would exist on a container -even if no environment variables were provided.
 
+to check if docker env is there or not this is the command
 ```
 cd / && ls -lah
 ```
