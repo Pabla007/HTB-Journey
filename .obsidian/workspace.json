@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
+                "file": "Try Hack Me/07 Holo/03 Nmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
+                "file": "Try Hack Me/07 Holo/03 Nmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
+                "file": "Try Hack Me/07 Holo/03 Nmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md"
+                "file": "Try Hack Me/07 Holo/03 Nmap.md"
               }
             }
           },
@@ -220,9 +220,19 @@
   },
   "active": "e09d384b23a04857",
   "lastOpenFiles": [
+    "HackTheBox/Retarded Machine/02 Help/01 Notes aka observation regarding the machine.md",
+    "HackTheBox/Retarded Machine/01 Active/01 Notes aka observation regarding the machine.md",
+    "HackTheBox/Retarded Machine/03 Academy/Error Details.md",
+    "HackTheBox/Retarded Machine/02 Help/05 Finding the Root Flag.md",
+    "HackTheBox/Retarded Machine/02 Help/06 Another Vulerability.md",
+    "HackTheBox/Retarded Machine/02 Help/04 HelpDeskZ.md",
+    "HackTheBox/Retarded Machine/02 Help/03 PPP port 3000 looks juicy.md",
+    "HackTheBox/Retarded Machine/02 Help/02.1 Directory Bursting Port 80.md",
+    "HackTheBox/Retarded Machine/02 Help/02 Nmap.md",
+    "Try Hack Me/07 Holo/03 Nmap.md",
+    "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240204202300.png",
     "Try Hack Me/07 Holo/05 Web Directory Bursting.md",
-    "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
     "Try Hack Me/06 Wreath/03  Enumeration.md",
     "Try Hack Me/08 RootMe/03 Let's priv escalate.md",
     "PNPT Chekclists/01 Master Note.md",
@@ -233,7 +243,6 @@
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240204124028.png",
     "Try Hack Me/07 Holo/04 Web Enumeration with Gobuster Wfuzz.md",
     "Obsidian CSS.md",
-    "Try Hack Me/07 Holo/03 Nmap.md",
     "Try Hack Me/07 Holo/02 .Net Bascis.md",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240204120201.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240204115344.png",
@@ -243,20 +252,11 @@
     "PNPT Chekclists/06 EPP Checklist.md",
     "PNPT Chekclists/05 LPE Checklist.md",
     "PNPT Chekclists/04 WPE Checklist.md",
-    "PNPT Chekclists/03 OSINT Checklist.md",
-    "Offer Letter.md",
-    "Windows Enumeration.md",
-    "README.md",
-    "Linux Enumeration.md",
-    "host file.md",
-    "PNPT.md",
     "PNPT Chekclists",
-    "Try Hack Me/04 VulnNet/03 Enumeration.md",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20231017234139.png",
     "Active Directory/00 Images/Pasted image 20240122221820.png",
     "Active Directory/00 Images/Pasted image 20240122204923.png",
     "Active Directory/00 Images/Pasted image 20240122204822.png",
-    "Active Directory/00 Images/Pasted image 20240122202904.png",
     "Active Directory/Initial Attack Vectors",
     "HackTheBox/desktop.ini",
     "HackTheBox",
