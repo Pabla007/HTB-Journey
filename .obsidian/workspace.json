@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/07 Holo/Task 15 - Docker Situational Awareness.md",
+                "file": "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/07 Holo/Task 15 - Docker Situational Awareness.md",
+                "file": "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/07 Holo/Task 15 - Docker Situational Awareness.md",
+                "file": "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/07 Holo/Task 15 - Docker Situational Awareness.md"
+                "file": "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md"
               }
             }
           },
@@ -220,11 +220,11 @@
   },
   "active": "e09d384b23a04857",
   "lastOpenFiles": [
+    "Try Hack Me/07 Holo/Task 15 - Docker Situational Awareness.md",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240211103411.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240211103345.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240211103153.png",
     "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
-    "Try Hack Me/07 Holo/Task 15 - Docker Situational Awareness.md",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240211102404.png",
     "Try Hack Me/07 Holo/05 Web Directory Bursting.md",
     "Try Hack Me/07 Holo/04 Web Enumeration with Gobuster Wfuzz.md",
@@ -256,7 +256,6 @@
     "PNPT Chekclists/2.1 AD CheckList.md",
     "PNPT Chekclists/06 EPP Checklist.md",
     "PNPT Chekclists",
-    "Try Hack Me/07 Holo/00 Images/Pasted image 20231017234139.png",
     "Active Directory/Initial Attack Vectors",
     "HackTheBox/desktop.ini",
     "HackTheBox",
