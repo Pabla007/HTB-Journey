@@ -38,3 +38,17 @@ mysql -h 192.168.100.1 -u admin -p
 
 ![[Pasted image 20240214212640.png]]
 
+```
+use DashboardDB
+```
+
+```
+show tables
+```
+![[Pasted image 20240214222335.png]]
+
+```
+select * from users
+```
+![[Pasted image 20240214222647.png]]
+
