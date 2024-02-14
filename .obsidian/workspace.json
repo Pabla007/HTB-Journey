@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/07 Holo/Task 16 - Living Off the LAND.md",
+                "file": "Try Hack Me/07 Holo/Situational Awareness Dorkus Storkus - Protector of the Database.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/07 Holo/Task 16 - Living Off the LAND.md",
+                "file": "Try Hack Me/07 Holo/Situational Awareness Dorkus Storkus - Protector of the Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/07 Holo/Task 16 - Living Off the LAND.md",
+                "file": "Try Hack Me/07 Holo/Situational Awareness Dorkus Storkus - Protector of the Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/07 Holo/Task 16 - Living Off the LAND.md"
+                "file": "Try Hack Me/07 Holo/Situational Awareness Dorkus Storkus - Protector of the Database.md"
               }
             }
           },
@@ -232,12 +232,14 @@
   },
   "active": "53990ced3d71ad4d",
   "lastOpenFiles": [
-    "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
-    "Try Hack Me/07 Holo/Task 15 - Docker Situational Awareness.md",
+    "Try Hack Me/07 Holo/00 Images/Pasted image 20240214212640.png",
     "Try Hack Me/07 Holo/Task 16 - Living Off the LAND.md",
+    "Try Hack Me/07 Holo/Situational Awareness Dorkus Storkus - Protector of the Database.md",
+    "Try Hack Me/07 Holo/Task 15 - Docker Situational Awareness.md",
+    "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
+    "Linux Enumeration.md",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240211230543.png",
     "Try Hack Me/06 Wreath/4.3 Socat.md",
-    "Linux Enumeration.md",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240211225158.png",
     "Try Hack Me/06 Wreath/03  Enumeration.md",
     "Obsidian CSS.md",
@@ -266,7 +268,6 @@
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240204124629.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240204124112.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240204124028.png",
-    "Try Hack Me/07 Holo/02 .Net Bascis.md",
     "PNPT Chekclists",
     "Active Directory/Initial Attack Vectors",
     "HackTheBox/desktop.ini",

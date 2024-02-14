@@ -26,11 +26,13 @@ So to access the database we need a binary of the database access tool used. Dat
 mysql -u <username> -p -h 127.0.0.1 -u is for username -p parameter however it does not take an argument. -h parameter to access remote databases.
 ```
 
+
 ```
 hostname
 uname -a
 ```
 ![[Pasted image 20240211225158.png]]
+
 
 ```
 nc -zv 192.168.100.1 1-65535
