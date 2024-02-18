@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/07 Holo/Task 18 Docker Breakout.md",
+                "file": "Try Hack Me/07 Holo/Task 19 Docker Breakout.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/07 Holo/Task 18 Docker Breakout.md",
+                "file": "Try Hack Me/07 Holo/Task 19 Docker Breakout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/07 Holo/Task 18 Docker Breakout.md",
+                "file": "Try Hack Me/07 Holo/Task 19 Docker Breakout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/07 Holo/Task 18 Docker Breakout.md"
+                "file": "Try Hack Me/07 Holo/Task 19 Docker Breakout.md"
               }
             }
           },
@@ -232,13 +232,13 @@
   },
   "active": "53990ced3d71ad4d",
   "lastOpenFiles": [
+    "Try Hack Me/07 Holo/Task 18 Docker Breakout.md",
+    "Try Hack Me/07 Holo/Task 19 Docker Breakout.md",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240219000458.png",
     "Try Hack Me/07 Holo/Task 17 - Situational Awareness.md",
-    "Try Hack Me/07 Holo/Task 18 Docker Breakout.md",
     "Try Hack Me/07 Holo/Task 16 - Living Off the LAND.md",
     "Try Hack Me/07 Holo/Task 15 - Docker Situational Awareness.md",
     "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
-    "Try Hack Me/07 Holo/Task 19 Docker Breakout.md",
     "07 How to close the VPN completely.md",
     "Linux Enumeration.md",
     "PNPT Chekclists/01 Master Note.md",
@@ -261,7 +261,6 @@
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240211103411.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240211103345.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240211103153.png",
-    "Try Hack Me/07 Holo/00 Images/Pasted image 20240211102404.png",
     "Try Hack Me/07 Holo/05 Web Directory Bursting.md",
     "HackTheBox/Retarded Machine/01 Active/01 Notes aka observation regarding the machine.md",
     "HackTheBox/Retarded Machine/03 Academy/Error Details.md",
