@@ -85,26 +85,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/07 Holo/Task 18 Docker Breakout.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42e4f77cc50fca4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diet Plan.md",
+                "file": "07 How to close the VPN completely.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -133,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "vpn",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +138,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diet Plan.md",
+                "file": "07 How to close the VPN completely.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diet Plan.md",
+                "file": "07 How to close the VPN completely.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diet Plan.md"
+                "file": "07 How to close the VPN completely.md"
               }
             }
           },
@@ -242,10 +231,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42e4f77cc50fca4e",
+  "active": "53990ced3d71ad4d",
   "lastOpenFiles": [
-    "Try Hack Me/07 Holo/Task 18 Docker Breakout.md",
+    "HackTheBox/Starting Point/04 Redeemer/Notes aka observation regarding the machine.md",
+    "07 How to close the VPN completely.md",
+    "HackTheBox/Retarded Machine/02 Help/01 Notes aka observation regarding the machine.md",
+    "Try Hack Me/07 Holo/03 Nmap.md",
+    "Try Hack Me/07 Holo/04 Web Enumeration with Gobuster Wfuzz.md",
     "Diet Plan.md",
+    "Try Hack Me/07 Holo/Task 18 Docker Breakout.md",
     "Try Hack Me/07 Holo/Task 17 - Situational Awareness.md",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240215205743.png",
     "Try Hack Me/07 Holo/Task 19 Docker Breakout.md",
@@ -269,17 +263,12 @@
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240211103153.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240211102404.png",
     "Try Hack Me/07 Holo/05 Web Directory Bursting.md",
-    "Try Hack Me/07 Holo/04 Web Enumeration with Gobuster Wfuzz.md",
-    "Try Hack Me/07 Holo/03 Nmap.md",
-    "HackTheBox/Retarded Machine/02 Help/01 Notes aka observation regarding the machine.md",
     "HackTheBox/Retarded Machine/01 Active/01 Notes aka observation regarding the machine.md",
     "HackTheBox/Retarded Machine/03 Academy/Error Details.md",
     "HackTheBox/Retarded Machine/02 Help/05 Finding the Root Flag.md",
     "HackTheBox/Retarded Machine/02 Help/06 Another Vulerability.md",
     "HackTheBox/Retarded Machine/02 Help/04 HelpDeskZ.md",
     "HackTheBox/Retarded Machine/02 Help/03 PPP port 3000 looks juicy.md",
-    "HackTheBox/Retarded Machine/02 Help/02.1 Directory Bursting Port 80.md",
-    "HackTheBox/Retarded Machine/02 Help/02 Nmap.md",
     "PNPT Chekclists",
     "Active Directory/Initial Attack Vectors",
     "HackTheBox/desktop.ini",
