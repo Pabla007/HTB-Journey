@@ -52,3 +52,11 @@ docker run -v /:/mnt --rm -i cb1b741122e8 chroot /mnt sh
 
 Finally we escalated and got the root user
 ![[Pasted image 20240225120209.png]]
+
+As we are root now so will find the root flag (i.e. there is no root flag in the root folder)
+But we have to do into the mnt folder and can simply find the root flag there.
+
+```
+HOLO{e16581b01d445a05adb2e6d45eb373f7}
+```
+
