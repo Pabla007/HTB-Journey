@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/07 Holo/Task 20 Privilege Escalation.md",
+                "file": "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/07 Holo/Task 20 Privilege Escalation.md",
+                "file": "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/07 Holo/Task 20 Privilege Escalation.md",
+                "file": "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/07 Holo/Task 20 Privilege Escalation.md"
+                "file": "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md"
               }
             }
           },
@@ -244,13 +244,13 @@
   },
   "active": "53990ced3d71ad4d",
   "lastOpenFiles": [
+    "Try Hack Me/07 Holo/Task 16 - Living Off the LAND.md",
+    "Try Hack Me/07 Holo/Task 15 - Docker Situational Awareness.md",
+    "Try Hack Me/07 Holo/Task 20 Privilege Escalation.md",
     "Try Hack Me/07 Holo/Task 19 Docker Breakout.md",
     "Try Hack Me/07 Holo/Task 18 Docker Breakout.md",
     "Try Hack Me/07 Holo/Task 17 - Situational Awareness.md",
-    "Try Hack Me/07 Holo/Task 16 - Living Off the LAND.md",
     "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
-    "Try Hack Me/07 Holo/Task 15 - Docker Situational Awareness.md",
-    "Try Hack Me/07 Holo/Task 20 Privilege Escalation.md",
     "07 How to close the VPN completely.md",
     "Linux Enumeration.md",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240219212229.png",
