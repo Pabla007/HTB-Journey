@@ -104,19 +104,31 @@
             }
           },
           {
-            "id": "2e750e61840644e0",
+            "id": "27ac60fa14e7bdf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
+                "file": "Try Hack Me/07 Holo/Task 21  Post Exploitation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "184c1dce53deddf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Active Directory Practice/02 Blackfield/02 Enumeration.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -254,12 +266,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb929a067e7f2cf5",
+  "active": "27ac60fa14e7bdf0",
   "lastOpenFiles": [
+    "Try Hack Me/07 Holo/00 Images/Pasted image 20240225151524.png",
+    "Active Directory Practice/02 Blackfield/02 Enumeration.md",
+    "Try Hack Me/07 Holo/Task 21  Post Exploitation.md",
+    "Try Hack Me/07 Holo/Task 20 Privilege Escalation.md",
+    "Try Hack Me/07 Holo/Task 19 Docker Breakout.md",
+    "Try Hack Me/07 Holo/Task 17 - Situational Awareness.md",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240225122707.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240225121717.png",
-    "Try Hack Me/07 Holo/Task 20 Privilege Escalation.md",
-    "Try Hack Me/07 Holo/Task 21  Post Exploitation.md",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240225121145.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240225120209.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240225120029.png",
@@ -268,18 +284,15 @@
     "Try Hack Me/07 Holo/Task 15 - Docker Situational Awareness.md",
     "Try Hack Me/07 Holo/Task 16 - Living Off the LAND.md",
     "Try Hack Me/07 Holo/Task 18 Docker Breakout.md",
-    "Try Hack Me/07 Holo/Task 17 - Situational Awareness.md",
     "Try Hack Me/07 Holo/05 Web Directory Bursting.md",
     "Try Hack Me/07 Holo/04 Web Enumeration with Gobuster Wfuzz.md",
     "Try Hack Me/07 Holo/03 Nmap.md",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240225115552.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240225115238.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240225114721.png",
-    "Try Hack Me/07 Holo/Task 19 Docker Breakout.md",
     "Linux Enumeration.md",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240219212229.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240219212210.png",
-    "Try Hack Me/07 Holo/00 Images/Pasted image 20240219212157.png",
     "PNPT Chekclists/01 Master Note.md",
     "HackTheBox/Starting Point/04 Redeemer/Notes aka observation regarding the machine.md",
     "HackTheBox/Retarded Machine/02 Help/01 Notes aka observation regarding the machine.md",
@@ -291,7 +304,6 @@
     "PNPT Chekclists/02 PEH Checklist.md",
     "HackTheBox/Retarded Machine/01 Active/01 Notes aka observation regarding the machine.md",
     "HackTheBox/Retarded Machine/03 Academy/Error Details.md",
-    "HackTheBox/Retarded Machine/02 Help/05 Finding the Root Flag.md",
     "PNPT Chekclists",
     "Active Directory/Initial Attack Vectors",
     "HackTheBox/desktop.ini",
