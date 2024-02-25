@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
+                "file": "Try Hack Me/07 Holo/Task 20 Privilege Escalation.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,14 +97,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 How to close the VPN completely.md",
+                "file": "Try Hack Me/07 Holo/Task 21  Post Exploitation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e750e61840644e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
+                "file": "Try Hack Me/07 Holo/Task 21  Post Exploitation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
+                "file": "Try Hack Me/07 Holo/Task 21  Post Exploitation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md"
+                "file": "Try Hack Me/07 Holo/Task 21  Post Exploitation.md"
               }
             }
           },
@@ -242,35 +254,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53990ced3d71ad4d",
+  "active": "cb929a067e7f2cf5",
   "lastOpenFiles": [
-    "Try Hack Me/07 Holo/Task 16 - Living Off the LAND.md",
-    "Try Hack Me/07 Holo/Task 15 - Docker Situational Awareness.md",
+    "Try Hack Me/07 Holo/00 Images/Pasted image 20240225121145.png",
     "Try Hack Me/07 Holo/Task 20 Privilege Escalation.md",
-    "Try Hack Me/07 Holo/Task 19 Docker Breakout.md",
+    "Try Hack Me/07 Holo/Task 21  Post Exploitation.md",
+    "Try Hack Me/07 Holo/00 Images/Pasted image 20240225120209.png",
+    "Try Hack Me/07 Holo/00 Images/Pasted image 20240225120029.png",
+    "07 How to close the VPN completely.md",
+    "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
+    "Try Hack Me/07 Holo/Task 15 - Docker Situational Awareness.md",
+    "Try Hack Me/07 Holo/Task 16 - Living Off the LAND.md",
     "Try Hack Me/07 Holo/Task 18 Docker Breakout.md",
     "Try Hack Me/07 Holo/Task 17 - Situational Awareness.md",
-    "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
-    "07 How to close the VPN completely.md",
+    "Try Hack Me/07 Holo/05 Web Directory Bursting.md",
+    "Try Hack Me/07 Holo/04 Web Enumeration with Gobuster Wfuzz.md",
+    "Try Hack Me/07 Holo/03 Nmap.md",
+    "Try Hack Me/07 Holo/00 Images/Pasted image 20240225115552.png",
+    "Try Hack Me/07 Holo/00 Images/Pasted image 20240225115238.png",
+    "Try Hack Me/07 Holo/00 Images/Pasted image 20240225114721.png",
+    "Try Hack Me/07 Holo/Task 19 Docker Breakout.md",
     "Linux Enumeration.md",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240219212229.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240219212210.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240219212157.png",
-    "Try Hack Me/07 Holo/05 Web Directory Bursting.md",
-    "Try Hack Me/07 Holo/04 Web Enumeration with Gobuster Wfuzz.md",
     "PNPT Chekclists/01 Master Note.md",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240219000458.png",
     "HackTheBox/Starting Point/04 Redeemer/Notes aka observation regarding the machine.md",
     "HackTheBox/Retarded Machine/02 Help/01 Notes aka observation regarding the machine.md",
-    "Try Hack Me/07 Holo/03 Nmap.md",
     "Diet Plan.md",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240215205743.png",
-    "Try Hack Me/07 Holo/00 Images/Pasted image 20240214222647.png",
-    "Try Hack Me/07 Holo/00 Images/Pasted image 20240214222335.png",
-    "Try Hack Me/07 Holo/00 Images/Pasted image 20240214212640.png",
-    "Try Hack Me/07 Holo/00 Images/Pasted image 20240211230543.png",
     "Try Hack Me/06 Wreath/4.3 Socat.md",
-    "Try Hack Me/07 Holo/00 Images/Pasted image 20240211225158.png",
     "Try Hack Me/06 Wreath/03  Enumeration.md",
     "Obsidian CSS.md",
     "PNPT Chekclists/00 Checklist.md",
@@ -278,8 +292,6 @@
     "HackTheBox/Retarded Machine/01 Active/01 Notes aka observation regarding the machine.md",
     "HackTheBox/Retarded Machine/03 Academy/Error Details.md",
     "HackTheBox/Retarded Machine/02 Help/05 Finding the Root Flag.md",
-    "HackTheBox/Retarded Machine/02 Help/06 Another Vulerability.md",
-    "HackTheBox/Retarded Machine/02 Help/04 HelpDeskZ.md",
     "PNPT Chekclists",
     "Active Directory/Initial Attack Vectors",
     "HackTheBox/desktop.ini",

