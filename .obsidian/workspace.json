@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/07 Holo/Task 21  Post Exploitation.md",
+                "file": "Try Hack Me/07 Holo/Task 23 Pivoting Digging a tunnel to nowhere.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/07 Holo/Task 21  Post Exploitation.md",
+                "file": "Try Hack Me/07 Holo/Task 23 Pivoting Digging a tunnel to nowhere.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/07 Holo/Task 21  Post Exploitation.md",
+                "file": "Try Hack Me/07 Holo/Task 23 Pivoting Digging a tunnel to nowhere.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/07 Holo/Task 21  Post Exploitation.md"
+                "file": "Try Hack Me/07 Holo/Task 23 Pivoting Digging a tunnel to nowhere.md"
               }
             }
           },
@@ -268,12 +268,19 @@
   },
   "active": "27ac60fa14e7bdf0",
   "lastOpenFiles": [
+    "Try Hack Me/07 Holo/00 Images/Pasted image 20240225161700.png",
+    "Try Hack Me/07 Holo/00 Images/Pasted image 20240225161611.png",
+    "Try Hack Me/07 Holo/00 Images/Pasted image 20240225161434.png",
+    "Try Hack Me/07 Holo/Task 21  Post Exploitation.md",
+    "Try Hack Me/07 Holo/Task 23 Pivoting Digging a tunnel to nowhere.md",
+    "Try Hack Me/07 Holo/Task 20 Privilege Escalation.md",
+    "Try Hack Me/07 Holo/Task 19 Docker Breakout.md",
+    "Try Hack Me/06 Wreath/4.3 Socat.md",
+    "HackTheBox/Retarded Machine/04 Bank/04 Directory Busting or GoBuster.md",
+    "Active Directory Practice/04 Support/03 Smb Enumeration.md",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240225152335.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240225151524.png",
     "Active Directory Practice/02 Blackfield/02 Enumeration.md",
-    "Try Hack Me/07 Holo/Task 21  Post Exploitation.md",
-    "Try Hack Me/07 Holo/Task 20 Privilege Escalation.md",
-    "Try Hack Me/07 Holo/Task 19 Docker Breakout.md",
     "Try Hack Me/07 Holo/Task 17 - Situational Awareness.md",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240225122707.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240225121717.png",
@@ -289,21 +296,14 @@
     "Try Hack Me/07 Holo/04 Web Enumeration with Gobuster Wfuzz.md",
     "Try Hack Me/07 Holo/03 Nmap.md",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240225115552.png",
-    "Try Hack Me/07 Holo/00 Images/Pasted image 20240225115238.png",
-    "Try Hack Me/07 Holo/00 Images/Pasted image 20240225114721.png",
     "Linux Enumeration.md",
-    "Try Hack Me/07 Holo/00 Images/Pasted image 20240219212229.png",
     "PNPT Chekclists/01 Master Note.md",
     "HackTheBox/Starting Point/04 Redeemer/Notes aka observation regarding the machine.md",
     "HackTheBox/Retarded Machine/02 Help/01 Notes aka observation regarding the machine.md",
     "Diet Plan.md",
-    "Try Hack Me/06 Wreath/4.3 Socat.md",
     "Try Hack Me/06 Wreath/03  Enumeration.md",
     "Obsidian CSS.md",
     "PNPT Chekclists/00 Checklist.md",
-    "PNPT Chekclists/02 PEH Checklist.md",
-    "HackTheBox/Retarded Machine/01 Active/01 Notes aka observation regarding the machine.md",
-    "HackTheBox/Retarded Machine/03 Academy/Error Details.md",
     "PNPT Chekclists",
     "Active Directory/Initial Attack Vectors",
     "HackTheBox/desktop.ini",
