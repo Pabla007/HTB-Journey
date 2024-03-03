@@ -1,4 +1,10 @@
 
+What should be our Methodology when we are seeing a Website  ??
+- Service Version Information
+- Backend Directory's
+- Looking for Source Code
+- Potential Vulnerability Scanning With Nikto
+
 <h2>Nmap</h2>
 
 Normal Nmap Scanning
@@ -23,7 +29,10 @@ nmap -sn -n 10.200.95.0/24 -oA Ping-Sweep
 nmap -sS 10.200.145.33 10.200.145.250 -v -oA Initial-Scan-Subnet1-Hosts
 ```
 
-
+<h2>Nikto</h2>
+```
+ nikto -h <IP_Address>
+```
 
 <h2>Fuzzing</h2>
 >[!important]  Gobuster
