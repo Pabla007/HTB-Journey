@@ -10,6 +10,9 @@ nmap -T4 -p- -A -Pn <IP_Address>
 nmap -sS -T4 -p- -Pn <IP_Address>
 ```
 
+```
+nmap -sU -T4 --top-ports 1000 <IP_Address>
+```
 
 Ping Sweep
 ```
