@@ -59,18 +59,23 @@ Add the IP to the host files
 
 
 <h2> Scanning / Enumeration</h2>
-- [ ] Nessus
+- [ ] Nessus (i.e. this is the 1st thing we should do when got the ip cuz it will take time)
 - [ ] Nmap 
+- [ ] Dnsrecon 
+- [ ] arpscan (i.e. when we got a reverse shell )
 - [ ] Nikto 
 - [ ] Wappalyzer
 - [ ] Vhost
 - [ ] Directory Bursting
 - [ ] wpscan
-- [ ] searchspolit
+- [ ] Searchspolit
 - [ ] 
 
 Note* that some of the list below will not applicable as it totally depends on the port.
-
+```
+- Will target the low hanging fruits.
+- 80 > 443 > 139 > 445 are the juicest of all.
+```
 
 
 <hr>
