@@ -235,6 +235,16 @@ And add
 
 
 <h2>Buffer Overflow</h2>
+
+Install Windows 10 in the VM
+[Windows 10](https://www.microsoft.com/en-in/evalcenter/evaluate-windows-10-enterprise)
+
+[Immunity Debugger](https://www.immunityinc.com/products/debugger/)
+
+[Vulnserver](https://thegreycorner.com/vulnserver.html) 
+Remember that we have to STOP the security (i.e. Windows Defender and than install the software cux it was not letting me to open that )
+
+Spi
 ```
 
 ```
