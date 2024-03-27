@@ -22,7 +22,8 @@
 - [ ] [Verify Mail](https://tools.emailhippo.com/)
 - [ ] Last trick but not the least is don't under-estimate the power of forgot passwords.
 
-<h2>Password Enuemration</h2>
+
+<h2>Password Enumeration</h2>
 - [ ] Breach-parse (i.e. install the breached from torrent and test the script on it before giving the exam)
 - [ ] [Dehashed](https://www.dehashed.com/)
 - [ ] [Crackstation](https://crackstation.net/)
@@ -35,10 +36,12 @@
 - [ ] 
 - [ ] [crt.sh](https://crt.sh/)
 
+
 <h2>Web/Tech Enumeration</h2>
 - [ ] [builtwith](https://builtwith.com/)
 - [ ] [Wappalyzer](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)
 - [ ] whatweb
 - [ ] Burp-Suite
 - [ ] Foxy-proxy
+
 
