@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PNPT Chekclists/2.1 AD CheckList.md",
+                "file": "PNPT Chekclists/2.2 AD Master Checklist.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory/Initial Attack Vectors/03 Gaining shells.md",
+                "file": "Active Directory/Initial Attack Vectors/04 IPv6 Attacks.md",
                 "mode": "source",
                 "source": false
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PNPT Chekclists/2.1 AD CheckList.md",
+                "file": "PNPT Chekclists/2.2 AD Master Checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PNPT Chekclists/2.1 AD CheckList.md",
+                "file": "PNPT Chekclists/2.2 AD Master Checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PNPT Chekclists/2.1 AD CheckList.md"
+                "file": "PNPT Chekclists/2.2 AD Master Checklist.md"
               }
             }
           },
@@ -304,10 +304,12 @@
   },
   "active": "fde385250f406449",
   "lastOpenFiles": [
-    "Active Directory/Initial Attack Vectors/03 Gaining shells.md",
     "PNPT Chekclists/2.1 AD CheckList.md",
-    "Active Directory/Initial Attack Vectors/2.1 SMB Attack.md",
+    "PNPT Chekclists/2.2 AD Master Checklist.md",
+    "Active Directory/Initial Attack Vectors/04 IPv6 Attacks.md",
+    "Active Directory/Initial Attack Vectors/03 Gaining shells.md",
     "PNPT Chekclists/01 Master Note.md",
+    "Active Directory/Initial Attack Vectors/2.1 SMB Attack.md",
     "Active Directory/Initial Attack Vectors/02 SMB relay attack.md",
     "Active Directory/Initial Attack Vectors/1.2 Mitigation.md",
     "Active Directory/Initial Attack Vectors/1.1 Cracking Captured Hashes.md",
@@ -326,7 +328,6 @@
     "host file.md",
     "PEH + OSINT.md",
     "README.md",
-    "Active Directory/Initial Attack Vectors/04 IPv6 Attacks.md",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240227210851.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240227210749.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240227210642.png",
@@ -337,7 +338,6 @@
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240227202743.png",
     "Active Directory Practice/02 Blackfield/02 Enumeration.md",
     "Try Hack Me/07 Holo/Task 21  Post Exploitation.md",
-    "Try Hack Me/07 Holo/Task 20 Privilege Escalation.md",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240225161700.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240225161611.png",
     "PNPT Chekclists",
