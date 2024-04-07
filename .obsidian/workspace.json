@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/03 Sizzle/02 Enumeration.md",
+                "file": "Active Directory Practice/03 Sizzle/01 Scanning.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,14 +169,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory/Initial Attack Vectors/04 IPv6 Attacks.md",
+                "file": "Active Directory Practice/02 Blackfield/02 Enumeration.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -205,7 +205,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "NPuser",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -222,7 +222,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -242,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory Practice/03 Sizzle/02 Enumeration.md",
+                "file": "Active Directory Practice/02 Blackfield/02 Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory Practice/03 Sizzle/02 Enumeration.md",
+                "file": "Active Directory Practice/02 Blackfield/02 Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory Practice/03 Sizzle/02 Enumeration.md"
+                "file": "Active Directory Practice/02 Blackfield/02 Enumeration.md"
               }
             }
           },
@@ -314,16 +315,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fabf7a7d925e9e71",
+  "active": "e4b50cdbffcdcb4f",
   "lastOpenFiles": [
+    "Active Directory Practice/03 Sizzle/02 Enumeration.md",
+    "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240407162414.png",
+    "Active Directory Practice/04 Support/02 Enumeration.md",
+    "Try Hack Me/05 RazorBlack/03 Enumeration.md",
+    "Active Directory/Initial Attack Vectors/04 IPv6 Attacks.md",
+    "Active Directory Practice/03 Sizzle/01 Scanning.md",
+    "Active Directory Practice/02 Blackfield/04 lsaa.DMP  More enumeration.md",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240407160839.png",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240407160216.png",
-    "Active Directory Practice/03 Sizzle/01 Scanning.md",
     "PNPT Chekclists/2.1 AD CheckList.md",
     "PNPT Chekclists/01 Master Note.md",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240407154741.png",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240407154257.png",
-    "Active Directory Practice/03 Sizzle/02 Enumeration.md",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20231119233234.png",
     "07 How to close the VPN completely.md",
     "PNPT.md",
@@ -335,7 +341,6 @@
     "Try Hack Me/02 Blueprint/04 osCommerce 2.3.4.md",
     "Try Hack Me/02 Blueprint/03 FFuF.md",
     "Try Hack Me/05 RazorBlack/02  Nmap.md",
-    "Try Hack Me/05 RazorBlack/03 Enumeration.md",
     "Try Hack Me/04 VulnNet/08 Dumb Shell.md",
     "Try Hack Me/04 VulnNet/06 More SMB Enumeration.md",
     "Try Hack Me/04 VulnNet/05 Let's try to catch the NTLMv2 hash.md",
@@ -343,15 +348,10 @@
     "Try Hack Me/04 VulnNet/03 Enumeration.md",
     "Try Hack Me/03 Attacktive Directory/05.2 Secret's Dump.md",
     "Try Hack Me/03 Attacktive Directory/05.1 SMB Client Exploitation.md",
-    "Try Hack Me/03 Attacktive Directory/05 Exploitations.md",
-    "Try Hack Me/03 Attacktive Directory/04 Enumerate AD.md",
-    "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240227210851.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240227210749.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240227210642.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240227205648.png",
-    "Try Hack Me/07 Holo/00 Images/Pasted image 20240227205620.png",
-    "Try Hack Me/07 Holo/00 Images/Pasted image 20240227204802.png",
     "PNPT Chekclists",
     "Active Directory/Initial Attack Vectors",
     "HackTheBox/desktop.ini",
