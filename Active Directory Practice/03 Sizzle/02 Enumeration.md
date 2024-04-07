@@ -68,6 +68,16 @@ smbclient -N //10.10.10.103/'Department Shares'
 ```
 ![[Pasted image 20240407233233.png]]
 
+We have read access to ZZ_ARCHIVE and Users/Pubic
+```
+put Valid_user.txt
+```
+![[Pasted image 20240407233732.png]]
+
+![[Pasted image 20240407235813.png]]
+
+![[Pasted image 20240407235859.png]]
+
 
 
 ```
@@ -79,6 +89,7 @@ sizzle.htb.local
 ```
 kerbrute userenum -d HTB.local --dc 10.10.10.103 userlist.txt -t  100
 ```
+
 
 ```
 2024/04/07 06:48:37 >  [+] VALID USERNAME:       amanda@HTB.local
@@ -102,6 +113,5 @@ administrator@HTB.local
 sizzle@HTB.local
 sizzler@HTB.local
 ```
-
 
 
