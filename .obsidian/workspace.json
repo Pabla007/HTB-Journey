@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/02 Blackfield/02 Enumeration.md",
+                "file": "Active Directory Practice/03 Sizzle/02 Enumeration.md",
                 "mode": "source",
                 "source": false
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "NPuser",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -222,8 +222,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -243,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory Practice/02 Blackfield/02 Enumeration.md",
+                "file": "Active Directory Practice/03 Sizzle/02 Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory Practice/02 Blackfield/02 Enumeration.md",
+                "file": "Active Directory Practice/03 Sizzle/02 Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -283,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory Practice/02 Blackfield/02 Enumeration.md"
+                "file": "Active Directory Practice/03 Sizzle/02 Enumeration.md"
               }
             }
           },
@@ -317,6 +316,14 @@
   },
   "active": "e4b50cdbffcdcb4f",
   "lastOpenFiles": [
+    "PNPT Chekclists/2.2 AD Master Checklist.md",
+    "PNPT Chekclists/2.1 AD CheckList.md",
+    "PNPT Chekclists/03 OSINT Checklist.md",
+    "HackTheBox/Retarded Machine/04 Bank/06 Login using BurpSuite without creds.md",
+    "HackTheBox/Retarded Machine/04 Bank/05 BurpSuite.md",
+    "HackTheBox/Retarded Machine/04 Bank/04 Directory Busting or GoBuster.md",
+    "HackTheBox/Retarded Machine/04 Bank/03 DNS recon.md",
+    "Active Directory Practice/02 Blackfield/02 Enumeration.md",
     "Active Directory Practice/03 Sizzle/02 Enumeration.md",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240407162414.png",
     "Active Directory Practice/04 Support/02 Enumeration.md",
@@ -326,7 +333,6 @@
     "Active Directory Practice/02 Blackfield/04 lsaa.DMP  More enumeration.md",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240407160839.png",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240407160216.png",
-    "PNPT Chekclists/2.1 AD CheckList.md",
     "PNPT Chekclists/01 Master Note.md",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240407154741.png",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240407154257.png",
@@ -336,18 +342,12 @@
     "README.md",
     "Windows Enumeration.md",
     "Try Hack Me/03 Attacktive Directory/04.1 Kerberos enumeration of users & passwd.md",
-    "Active Directory Practice/02 Blackfield/02 Enumeration.md",
     "Active Directory Practice/04 Support/05 Bloodhound.md",
     "Try Hack Me/02 Blueprint/04 osCommerce 2.3.4.md",
     "Try Hack Me/02 Blueprint/03 FFuF.md",
     "Try Hack Me/05 RazorBlack/02  Nmap.md",
     "Try Hack Me/04 VulnNet/08 Dumb Shell.md",
     "Try Hack Me/04 VulnNet/06 More SMB Enumeration.md",
-    "Try Hack Me/04 VulnNet/05 Let's try to catch the NTLMv2 hash.md",
-    "Try Hack Me/04 VulnNet/02 Nmap.md",
-    "Try Hack Me/04 VulnNet/03 Enumeration.md",
-    "Try Hack Me/03 Attacktive Directory/05.2 Secret's Dump.md",
-    "Try Hack Me/03 Attacktive Directory/05.1 SMB Client Exploitation.md",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240227210851.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240227210749.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240227210642.png",
