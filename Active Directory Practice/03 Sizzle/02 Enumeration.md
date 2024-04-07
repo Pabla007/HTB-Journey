@@ -1,5 +1,8 @@
 
 ![[Pasted image 20231119231622.png]]
+There is the nothing in the photo that we can use it for ourselves
+![[Pasted image 20240407154741.png | 400]]
+
 
 ```
 gobuster dir -u http://10.10.10.103 -w /usr/share/wordlists/dirb/common.txt
@@ -13,4 +16,29 @@ gobuster dir -u http://10.10.10.103 -w /usr/share/wordlists/dirb/common.txt
 
 ```
 ![[Pasted image 20231119233234.png]]
+
+```
+enum4linux -a 10.10.10.103
+```
+
+```
+Domain Name: HTB                                                             
+Domain Sid: S-1-5-21-2379389067-1826974543-3574127760
+```
+![[Pasted image 20240407160839.png]]
+
+
+```
+http://10.10.10.103/certsrv
+```
+![[Pasted image 20240407154257.png]]
+We need login and password in order to get the initial access so will keep this in mind as well
+
+Will see we can use Sizzle as the username in future if we don't get anything.
+
+
+```
+smbclient -L 10.10.10.103 -U 'anonymous'
+```
+![[Pasted image 20240407160216.png]]
 
