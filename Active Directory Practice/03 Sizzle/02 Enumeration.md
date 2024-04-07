@@ -43,6 +43,34 @@ smbclient -L 10.10.10.103 -U 'anonymous'
 ![[Pasted image 20240407160216.png]]
 
 ```
+smbclient //10.10.10.103/SYSVOL -U 'anonymous'
+```
+
+```
+smbclient -N //10.10.10.103/SYSVOL
+```
+
+```
+smbclient -N -L \\\\10.10.10.103 | grep Disk | sed 's/^\s*\(.*\)\s*Disk.*/\1/'
+do_connect: Connection to 10.10.10.103 failed (Error NT_STATUS_RESOURCE_NAME_NOT_FOUND)
+ADMIN$          
+C$              
+CertEnroll      
+Department Shares 
+NETLOGON        
+Operations      
+SYSVOL   
+```
+
+We can access the Department Shares and got something
+```
+smbclient -N //10.10.10.103/'Department Shares'
+```
+![[Pasted image 20240407233233.png]]
+
+
+
+```
 cme smb 10.10.10.103 -u 'anonymous' -p 'anonymous' --shares
 ```
 domain:HTB.LOCAL
@@ -74,4 +102,6 @@ administrator@HTB.local
 sizzle@HTB.local
 sizzler@HTB.local
 ```
+
+
 

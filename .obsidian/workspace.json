@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -242,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory Practice/03 Sizzle/01 Scanning.md",
+                "file": "Active Directory Practice/03 Sizzle/02 Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory Practice/03 Sizzle/01 Scanning.md",
+                "file": "Active Directory Practice/03 Sizzle/02 Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory Practice/03 Sizzle/01 Scanning.md"
+                "file": "Active Directory Practice/03 Sizzle/02 Enumeration.md"
               }
             }
           },
@@ -314,12 +314,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4b50cdbffcdcb4f",
+  "active": "fabf7a7d925e9e71",
   "lastOpenFiles": [
+    "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240407233233.png",
+    "Active Directory Practice/03 Sizzle/01 Scanning.md",
     "Active Directory Practice/03 Sizzle/02 Enumeration.md",
     "Try Hack Me/03 Attacktive Directory/05 Exploitations.md",
     "PNPT Chekclists/2.1 AD CheckList.md",
-    "Active Directory Practice/03 Sizzle/01 Scanning.md",
     "HackTheBox/Retarded Machine/01 Active/01 Notes aka observation regarding the machine.md",
     "Try Hack Me/05 RazorBlack/10 Kerberos Attack.md",
     "Active Directory Practice/02 Blackfield/03 SMB and Winrm.md",
@@ -344,7 +345,6 @@
     "Active Directory/Initial Attack Vectors/04 IPv6 Attacks.md",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240407160839.png",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240407160216.png",
-    "PNPT Chekclists/01 Master Note.md",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240407154741.png",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240407154257.png",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20231119233234.png",
