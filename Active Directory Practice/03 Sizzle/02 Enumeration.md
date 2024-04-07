@@ -71,12 +71,7 @@ Valid Users
 amanda@HTB.local
 guest@HTB.local
 administrator@HTB.local
-Amanda@HTB.local
 sizzle@HTB.local
-Guest@HTB.local
-Administrator@HTB.local
-AMANDA@HTB.local
 sizzler@HTB.local
-GUEST@HTB.local
 ```
 
