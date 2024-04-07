@@ -152,6 +152,18 @@
             }
           },
           {
+            "id": "fabf7a7d925e9e71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Try Hack Me/03 Attacktive Directory/04.1 Kerberos enumeration of users & passwd.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e4b50cdbffcdcb4f",
             "type": "leaf",
             "state": {
@@ -164,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -193,7 +205,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "users",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,7 +222,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -230,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PNPT Chekclists/2.1 AD CheckList.md",
+                "file": "Try Hack Me/03 Attacktive Directory/04.1 Kerberos enumeration of users & passwd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PNPT Chekclists/2.1 AD CheckList.md",
+                "file": "Try Hack Me/03 Attacktive Directory/04.1 Kerberos enumeration of users & passwd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PNPT Chekclists/2.1 AD CheckList.md"
+                "file": "Try Hack Me/03 Attacktive Directory/04.1 Kerberos enumeration of users & passwd.md"
               }
             }
           },
@@ -302,8 +315,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fde385250f406449",
+  "active": "fabf7a7d925e9e71",
   "lastOpenFiles": [
+    "Active Directory Practice/02 Blackfield/02 Enumeration.md",
+    "Active Directory Practice/04 Support/05 Bloodhound.md",
+    "Try Hack Me/02 Blueprint/04 osCommerce 2.3.4.md",
+    "Try Hack Me/02 Blueprint/03 FFuF.md",
+    "Try Hack Me/05 RazorBlack/02  Nmap.md",
+    "Try Hack Me/05 RazorBlack/03 Enumeration.md",
+    "Try Hack Me/04 VulnNet/08 Dumb Shell.md",
+    "Try Hack Me/04 VulnNet/06 More SMB Enumeration.md",
+    "Try Hack Me/04 VulnNet/05 Let's try to catch the NTLMv2 hash.md",
+    "Try Hack Me/04 VulnNet/02 Nmap.md",
+    "Try Hack Me/04 VulnNet/03 Enumeration.md",
+    "Try Hack Me/03 Attacktive Directory/05.2 Secret's Dump.md",
+    "Try Hack Me/03 Attacktive Directory/05.1 SMB Client Exploitation.md",
+    "Try Hack Me/03 Attacktive Directory/05 Exploitations.md",
+    "Try Hack Me/03 Attacktive Directory/04.1 Kerberos enumeration of users & passwd.md",
+    "Try Hack Me/03 Attacktive Directory/04 Enumerate AD.md",
+    "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
+    "Try Hack Me/07 Holo/05 Web Directory Bursting.md",
+    "Try Hack Me/07 Holo/04 Web Enumeration with Gobuster Wfuzz.md",
     "PNPT Chekclists/02 PEH Checklist.md",
     "PNPT Chekclists/03 OSINT Checklist.md",
     "PNPT Chekclists/2.2 AD Master Checklist.md",
@@ -311,24 +343,6 @@
     "Active Directory/Initial Attack Vectors/04 IPv6 Attacks.md",
     "Active Directory/Initial Attack Vectors/03 Gaining shells.md",
     "PNPT Chekclists/01 Master Note.md",
-    "Active Directory/Initial Attack Vectors/2.1 SMB Attack.md",
-    "Active Directory/Initial Attack Vectors/02 SMB relay attack.md",
-    "Active Directory/Initial Attack Vectors/1.2 Mitigation.md",
-    "Active Directory/Initial Attack Vectors/1.1 Cracking Captured Hashes.md",
-    "Active Directory/Initial Attack Vectors/01 LLMNR Poising.md",
-    "Active Directory/Different Techniques.md",
-    "Active Directory/02 Users.md",
-    "Active Directory/01 Active Directory Lab Build.md",
-    "Active Directory/00 Active Directory Contents.md",
-    "PNPT Chekclists/05 LPE Checklist.md",
-    "PNPT Chekclists/00 Checklist.md",
-    "Try Hack Me/09 Bounty Hacker/09 Bounty Hacker.md",
-    "Active Directory Practice/03 Sizzle/01 Scanning.md",
-    "Linux Enumeration.md",
-    "Obsidian CSS.md",
-    "host file.md",
-    "PEH + OSINT.md",
-    "README.md",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240227210851.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240227210749.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240227210642.png",
@@ -337,7 +351,6 @@
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240227204802.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240227204206.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240227202743.png",
-    "Active Directory Practice/02 Blackfield/02 Enumeration.md",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240225161700.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240225161611.png",
     "PNPT Chekclists",
