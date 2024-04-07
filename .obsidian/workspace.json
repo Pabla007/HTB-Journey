@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/03 Attacktive Directory/04.1 Kerberos enumeration of users & passwd.md",
+                "file": "Active Directory Practice/03 Sizzle/02 Enumeration.md",
                 "mode": "source",
                 "source": false
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "users",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -222,8 +222,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -243,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/03 Attacktive Directory/04.1 Kerberos enumeration of users & passwd.md",
+                "file": "Active Directory Practice/03 Sizzle/02 Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/03 Attacktive Directory/04.1 Kerberos enumeration of users & passwd.md",
+                "file": "Active Directory Practice/03 Sizzle/02 Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -283,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/03 Attacktive Directory/04.1 Kerberos enumeration of users & passwd.md"
+                "file": "Active Directory Practice/03 Sizzle/02 Enumeration.md"
               }
             }
           },
@@ -317,6 +316,14 @@
   },
   "active": "fabf7a7d925e9e71",
   "lastOpenFiles": [
+    "Active Directory Practice/03 Sizzle/01 Scanning.md",
+    "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20231119233234.png",
+    "07 How to close the VPN completely.md",
+    "Active Directory Practice/03 Sizzle/02 Enumeration.md",
+    "PNPT.md",
+    "README.md",
+    "Windows Enumeration.md",
+    "Try Hack Me/03 Attacktive Directory/04.1 Kerberos enumeration of users & passwd.md",
     "Active Directory Practice/02 Blackfield/02 Enumeration.md",
     "Active Directory Practice/04 Support/05 Bloodhound.md",
     "Try Hack Me/02 Blueprint/04 osCommerce 2.3.4.md",
@@ -331,18 +338,10 @@
     "Try Hack Me/03 Attacktive Directory/05.2 Secret's Dump.md",
     "Try Hack Me/03 Attacktive Directory/05.1 SMB Client Exploitation.md",
     "Try Hack Me/03 Attacktive Directory/05 Exploitations.md",
-    "Try Hack Me/03 Attacktive Directory/04.1 Kerberos enumeration of users & passwd.md",
     "Try Hack Me/03 Attacktive Directory/04 Enumerate AD.md",
     "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
     "Try Hack Me/07 Holo/05 Web Directory Bursting.md",
     "Try Hack Me/07 Holo/04 Web Enumeration with Gobuster Wfuzz.md",
-    "PNPT Chekclists/02 PEH Checklist.md",
-    "PNPT Chekclists/03 OSINT Checklist.md",
-    "PNPT Chekclists/2.2 AD Master Checklist.md",
-    "PNPT Chekclists/2.1 AD CheckList.md",
-    "Active Directory/Initial Attack Vectors/04 IPv6 Attacks.md",
-    "Active Directory/Initial Attack Vectors/03 Gaining shells.md",
-    "PNPT Chekclists/01 Master Note.md",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240227210851.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240227210749.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240227210642.png",
@@ -352,7 +351,6 @@
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240227204206.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240227202743.png",
     "Try Hack Me/07 Holo/00 Images/Pasted image 20240225161700.png",
-    "Try Hack Me/07 Holo/00 Images/Pasted image 20240225161611.png",
     "PNPT Chekclists",
     "Active Directory/Initial Attack Vectors",
     "HackTheBox/desktop.ini",
