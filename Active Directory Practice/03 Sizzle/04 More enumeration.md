@@ -16,3 +16,4 @@ ldapdomaindump ldaps://10.10.10.103 -u 'HTB\Amanda' -p 'Ashare1972'
 ![[Pasted image 20240408014627.png]]
 
 Will run bloodhound on this tomorrow.
+
