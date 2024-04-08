@@ -17,3 +17,10 @@ ldapdomaindump ldaps://10.10.10.103 -u 'HTB\Amanda' -p 'Ashare1972'
 
 Will run bloodhound on this tomorrow.
 
+It seems like we have to do something with the certificate i guess. Like make a certificate for Amanda.
+
+![[Pasted image 20240408131444.png]]
+
+Will select advanced certificate request as User certificate throughs error at us.
+![[Pasted image 20240408131533.png]]
+
