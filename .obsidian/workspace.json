@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/03 Sizzle/04 More enumeration.md",
+                "file": "PNPT Chekclists/2.1 AD CheckList.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,14 +169,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/03 Sizzle/02 Enumeration.md",
+                "file": "Active Directory Practice/03 Sizzle/03 SMB SCF attack.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -205,7 +205,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mget ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -242,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory Practice/03 Sizzle/04 More enumeration.md",
+                "file": "Active Directory Practice/03 Sizzle/03 SMB SCF attack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory Practice/03 Sizzle/04 More enumeration.md",
+                "file": "Active Directory Practice/03 Sizzle/03 SMB SCF attack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory Practice/03 Sizzle/04 More enumeration.md"
+                "file": "Active Directory Practice/03 Sizzle/03 SMB SCF attack.md"
               }
             }
           },
@@ -314,14 +314,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e6bf9e475d18203",
+  "active": "e4b50cdbffcdcb4f",
   "lastOpenFiles": [
-    "Active Directory Practice/02 Blackfield/03 SMB and Winrm.md",
     "Active Directory Practice/03 Sizzle/04 More enumeration.md",
+    "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240408014627.png",
+    "Active Directory Practice/03 Sizzle/03 SMB SCF attack.md",
+    "Active Directory Practice/03 Sizzle/02 Enumeration.md",
+    "PNPT Chekclists/2.1 AD CheckList.md",
+    "Active Directory Practice/02 Blackfield/04 lsaa.DMP  More enumeration.md",
+    "Active Directory Practice/01 Forest/05 BloodHound.md",
+    "Active Directory Practice/04 Support/04 Wireshark.md",
+    "Try Hack Me/05 RazorBlack/04 NFS.md",
+    "Active Directory Practice/02 Blackfield/03 SMB and Winrm.md",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240408013556.png",
     "Active Directory Practice/02 Blackfield/02 Enumeration.md",
-    "Active Directory Practice/03 Sizzle/02 Enumeration.md",
-    "Active Directory Practice/03 Sizzle/03 SMB SCF attack.md",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240408012930.png",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240408012748.png",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240408012428.png",
@@ -338,19 +344,13 @@
     "HackTheBox/Starting Point/02 Fawn/Notes aka observation regarding the machine.md",
     "HackTheBox/Retarded Machine/01 Active/01 Notes aka observation regarding the machine.md",
     "PNPT Chekclists/2.2 AD Master Checklist.md",
-    "PNPT Chekclists/2.1 AD CheckList.md",
     "PNPT Chekclists/01 Master Note.md",
     "Active Directory Practice/03 Sizzle/01 Scanning.md",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240407235859.png",
-    "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240407235813.png",
     "Try Hack Me/03 Attacktive Directory/05 Exploitations.md",
     "Try Hack Me/05 RazorBlack/10 Kerberos Attack.md",
     "host file.md",
-    "Active Directory Practice/04 Support/04 Wireshark.md",
     "Try Hack Me/03 Attacktive Directory/05.2 Secret's Dump.md",
-    "Active Directory Practice/01 Forest/05 BloodHound.md",
-    "Try Hack Me/07 Holo/05 Web Directory Bursting.md",
-    "Try Hack Me/06 Wreath/04 Pivoting.md",
     "PNPT Chekclists",
     "Active Directory/Initial Attack Vectors",
     "HackTheBox/desktop.ini",
