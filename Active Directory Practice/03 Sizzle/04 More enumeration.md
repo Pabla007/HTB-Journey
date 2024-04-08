@@ -74,3 +74,10 @@ What i was doing wrong is that i was entering the wrong key we have to copy the 
 
 How we have the key and will simply use a script winrm as you know that we can't connect to it through linux but luckily we have a Ruby library and will use it.
 
+We install 
+```
+gem install winrm
+``` 
+
+Now we are getting this error
+![[Pasted image 20240408170210.png]]
