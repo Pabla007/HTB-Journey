@@ -81,3 +81,5 @@ gem install winrm
 
 Now we are getting this error
 ![[Pasted image 20240408170210.png]]
+
+![[Pasted image 20240408181853.png]]
