@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/03 Sizzle/04 More enumeration.md",
+                "file": "Active Directory Practice/03 Sizzle/03 SMB SCF attack.md",
                 "mode": "source",
                 "source": false
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory Practice/03 Sizzle/04 More enumeration.md",
+                "file": "Active Directory Practice/03 Sizzle/03 SMB SCF attack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory Practice/03 Sizzle/04 More enumeration.md",
+                "file": "Active Directory Practice/03 Sizzle/03 SMB SCF attack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory Practice/03 Sizzle/04 More enumeration.md"
+                "file": "Active Directory Practice/03 Sizzle/03 SMB SCF attack.md"
               }
             }
           },
@@ -316,12 +316,12 @@
   },
   "active": "e4b50cdbffcdcb4f",
   "lastOpenFiles": [
+    "Active Directory Practice/03 Sizzle/04 More enumeration.md",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240408142323.png",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240408141959.png",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240408141724.png",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240408133614.png",
     "Active Directory Practice/03 Sizzle/01 Scanning.md",
-    "Active Directory Practice/03 Sizzle/04 More enumeration.md",
     "Active Directory Practice/03 Sizzle/03 SMB SCF attack.md",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240408131533.png",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240408131444.png",
@@ -337,7 +337,6 @@
     "Active Directory Practice/02 Blackfield/02 Enumeration.md",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240408012930.png",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240408012748.png",
-    "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240408012428.png",
     "Active Directory Practice/01 Forest/02 Enumeration.md",
     "07 How to close the VPN completely.md",
     "HackTheBox/Starting Point/04 Redeemer/Notes aka observation regarding the machine.md",
