@@ -121,3 +121,16 @@ ruby psremote.rb
 ```
 ![[Pasted image 20240408221759.png]]
 
+
+Ldap
+```
+ldapsearch -x -H ldap://sizzle.HTB.local -D 'amanda@htb.local' -w 'Ashare1972' -b 'dc=htb,dc=local'
+```
+
+We are getting a lot of data so will run a ldap query to get only the admin account even though we know about that from the ldap dump
+
+```
+ldapsearch -x -H ldap://sizzle.HTB.local -D 'amanda@htb.local' -w 'Ashare1972' -b 'dc=htb,dc=local' "(&(objectClass=user)(memberOf=CN=Domain Admins, CN=Users,DC=htb,DC=local))" | grep sAMAccountName 
+```
+![[Pasted image 20240410154311.png]]
+

@@ -64,4 +64,12 @@ cme smb 10.10.10.103 -u 'AMANDA' -p 'Ashare1972' --shares
 ```
 ![[Pasted image 20240408012930.png]]
 
+As well as we got another option to check the read / write access
+```
+smbmap -u amanda -d HTB.local -p 'Ashare1972' -H 10.10.10.103
+```
+![[Pasted image 20240410152512.png]]
+
 We got a low level use as we got the read access
+
+
