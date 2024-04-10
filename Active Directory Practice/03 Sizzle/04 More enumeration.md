@@ -201,7 +201,16 @@ smbclient  //10.10.10.103/c$ -U 'administrator' --pw-nt-hash f6b7160bfc91823792e
 ```
 ![[Pasted image 20240411024509.png]]
 
+User Flag
+```
+f48c6cf9668b7207e062e31888bfe8a5
+```
+![[Pasted image 20240411031015.png]]
+
 Root Flag
 ```
 e8b8cfd4ac3f10c125b471ff69d6db0a
 ```
+
+But this is the not the intended way to get the flag let's back track and see how things should go when we have the user id of amanda and see how things can escalate from there.
+
