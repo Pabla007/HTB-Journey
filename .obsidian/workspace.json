@@ -205,7 +205,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "secretsdump",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -222,7 +222,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -316,6 +317,7 @@
   },
   "active": "e4b50cdbffcdcb4f",
   "lastOpenFiles": [
+    "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240410165928.png",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240410154311.png",
     "Active Directory Practice/03 Sizzle/03 SMB SCF attack.md",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240410152512.png",
@@ -330,7 +332,6 @@
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240408133614.png",
     "Active Directory Practice/03 Sizzle/01 Scanning.md",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240408131533.png",
-    "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240408131444.png",
     "PNPT Chekclists/2.1 AD CheckList.md",
     "Active Directory Practice/02 Blackfield/04 lsaa.DMP  More enumeration.md",
     "Active Directory Practice/01 Forest/05 BloodHound.md",

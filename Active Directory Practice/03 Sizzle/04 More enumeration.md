@@ -134,3 +134,38 @@ ldapsearch -x -H ldap://sizzle.HTB.local -D 'amanda@htb.local' -w 'Ashare1972' -
 ```
 ![[Pasted image 20240410154311.png]]
 
+What is the next go to step is to simply see if we can download the SAM SYSTEM and Security file to dump the hashes locally but i haven no idea how to do that.
+
+But while doing the OSINT i found the hashes of all the users in a file.txt file
+```
+krbtgt:502:aad3b435b51404eeaad3b435b51404ee:296ec447eee58283143efbd5d39408c8:::
+Administrator:500:aad3b435b51404eeaad3b435b51404ee:c718f548c75062ada93250db208d3178:::
+
+Domain    User  ID  Hash
+------    ----  --  ----
+HTB.LOCAL Guest 501 -   
+amanda:1104:aad3b435b51404eeaad3b435b51404ee:7d0516ea4b6ed084f3fdf71c47d9beb3:::
+mrb3n:1105:aad3b435b51404eeaad3b435b51404ee:bceef4f6fe9c026d1d8dec8dce48adef:::
+mrlky:1603:aad3b435b51404eeaad3b435b51404ee:bceef4f6fe9c026d1d8dec8dce48adef:::
+```
+
+Got the password of Administrator
+```
+Pass123!
+```
+![[Pasted image 20240410165928.png]]
+
+```
+mrb3n
+```
+
+
+Got the SMB aka valid users even though administrator and mrb3bn password didn't worked.
+```
+mrlky
+```
+
+```
+Football#7
+```
+
