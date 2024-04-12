@@ -36,3 +36,15 @@ cd Covenant/Covenant
  docker build -t covenant .
 ```
 
+I don't have docker so we have to install it as well
+
+```
+sudo apt install docker.io
+```
+
+```
+sudo apt install docker-compose
+```
+
+![[Pasted image 20240412091251.png]]
+
