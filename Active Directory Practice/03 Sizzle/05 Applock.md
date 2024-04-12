@@ -56,3 +56,6 @@ docker run -it -p 7443:7443 -p 80:80 -p 443:443 --name covenant -v $(pwd)/Data:/
 testing123
 ```
 
+![[Pasted image 20240412101938.png]]
+
+We have installed Convenant in no time with the help of docker.
