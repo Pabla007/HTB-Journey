@@ -48,3 +48,11 @@ sudo apt install docker-compose
 
 ![[Pasted image 20240412091251.png]]
 
+```
+docker run -it -p 7443:7443 -p 80:80 -p 443:443 --name covenant -v $(pwd)/Data:/app/Data covenant --username singh
+```
+
+```
+testing123
+```
+
