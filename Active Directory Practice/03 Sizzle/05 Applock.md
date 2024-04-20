@@ -59,3 +59,7 @@ testing123
 ![[Pasted image 20240412101938.png]]
 
 We have installed Convenant in no time with the help of docker.
+
+These both things are virtually the same (i.e. Covenant is server aspects and elite is the client that connects to the server)
+
+I tried installing Elite but it's deprecated Temporarily 
