@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/07 Holo/05 Web Directory Bursting.md",
+                "file": "Active Directory Practice/03 Sizzle/05 Applock.md",
                 "mode": "source",
                 "source": false
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/07 Holo/05 Web Directory Bursting.md",
+                "file": "Active Directory Practice/03 Sizzle/05 Applock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/07 Holo/05 Web Directory Bursting.md",
+                "file": "Active Directory Practice/03 Sizzle/05 Applock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/07 Holo/05 Web Directory Bursting.md"
+                "file": "Active Directory Practice/03 Sizzle/05 Applock.md"
               }
             }
           },
@@ -316,6 +316,12 @@
   },
   "active": "e4b50cdbffcdcb4f",
   "lastOpenFiles": [
+    "Active Directory Practice/03 Sizzle/04 More enumeration.md",
+    "Active Directory Practice/03 Sizzle/03 SMB SCF attack.md",
+    "Active Directory Practice/03 Sizzle/02 Enumeration.md",
+    "Active Directory Practice/03 Sizzle/01 Scanning.md",
+    "Active Directory Practice/03 Sizzle/05 Applock.md",
+    "Try Hack Me/07 Holo/05 Web Directory Bursting.md",
     "Try Hack Me/07 Holo/04 Web Enumeration with Gobuster Wfuzz.md",
     "PNPT Chekclists/03 OSINT Checklist.md",
     "PNPT Chekclists/2.2 AD Master Checklist.md",
@@ -323,22 +329,17 @@
     "PNPT Chekclists/02 PEH Checklist.md",
     "PNPT Chekclists/01 Master Note.md",
     "PNPT Chekclists/00 Checklist.md",
-    "Active Directory Practice/03 Sizzle/05 Applock.md",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240412101938.png",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240412091251.png",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240412082454.png",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240411235342.png",
-    "Active Directory Practice/03 Sizzle/04 More enumeration.md",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240411031015.png",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240411024509.png",
-    "Active Directory Practice/03 Sizzle/02 Enumeration.md",
-    "Active Directory Practice/03 Sizzle/03 SMB SCF attack.md",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240411023832.png",
     "Active Directory/00 Active Directory Contents.md",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240410165928.png",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240410154311.png",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240410152512.png",
-    "Active Directory Practice/03 Sizzle/01 Scanning.md",
     "Active Directory Practice/02 Blackfield/04 lsaa.DMP  More enumeration.md",
     "Active Directory Practice/01 Forest/05 BloodHound.md",
     "Active Directory Practice/04 Support/04 Wireshark.md",
@@ -351,7 +352,6 @@
     "Try Hack Me/06 Wreath/01 Notes aka observation regarding the machine.md",
     "HackTheBox/Retarded Machine/02 Help/01 Notes aka observation regarding the machine.md",
     "HackTheBox/Starting Point/03 Dancing/Notes aka observation regarding the machine.md",
-    "HackTheBox/Starting Point/02 Fawn/Notes aka observation regarding the machine.md",
     "PNPT Chekclists",
     "Active Directory/Initial Attack Vectors",
     "HackTheBox/desktop.ini",

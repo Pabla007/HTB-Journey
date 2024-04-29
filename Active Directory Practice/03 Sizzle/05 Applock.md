@@ -23,7 +23,7 @@ C:\Windows\Temp
 
 
 Will install a C2 framework (i.e. [Covenant](https://github.com/cobbr/Covenant))
-Clone the respository
+Clone the repository
 ```
 git clone --recurse-submodules https://github.com/cobbr/Covenant
 ```
@@ -62,4 +62,13 @@ We have installed Convenant in no time with the help of docker.
 
 These both things are virtually the same (i.e. Covenant is server aspects and elite is the client that connects to the server)
 
-I tried installing Elite but it's deprecated Temporarily 
+I tried installing Elite but it's deprecated Temporarily.
+
+```
+docker ps -a
+```
+
+```
+docker rm covenant
+```
+
