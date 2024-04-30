@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/06  Sauna/01 Overview.md",
+                "file": "Active Directory Practice/06  Sauna/02 Scanning.md",
                 "mode": "source",
                 "source": false
               }
@@ -226,7 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 279.5
   },
   "right": {
     "id": "92c39521ad6ea421",
@@ -242,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory Practice/06  Sauna/01 Overview.md",
+                "file": "Active Directory Practice/06  Sauna/02 Scanning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory Practice/06  Sauna/01 Overview.md",
+                "file": "Active Directory Practice/06  Sauna/02 Scanning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory Practice/06  Sauna/01 Overview.md"
+                "file": "Active Directory Practice/06  Sauna/02 Scanning.md"
               }
             }
           },
@@ -316,9 +316,10 @@
   },
   "active": "e4b50cdbffcdcb4f",
   "lastOpenFiles": [
+    "Active Directory Practice/06  Sauna/01 Overview.md",
+    "Active Directory Practice/06  Sauna/00 Images/Pasted image 20240501051839.png",
     "Active Directory Practice/06  Sauna/03 Enumeration.md",
     "Active Directory Practice/06  Sauna/02 Scanning.md",
-    "Active Directory Practice/06  Sauna/01 Overview.md",
     "Active Directory/00 Active Directory Contents.md",
     "Active Directory Practice/06  Sauna/00 Images",
     "Active Directory Practice/06  Sauna",
@@ -340,7 +341,6 @@
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240501021739.png",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240501021504.png",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240501021325.png",
-    "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240501020755.png",
     "PNPT Chekclists/2.1 AD CheckList.md",
     "PNPT Chekclists/2.2 AD Master Checklist.md",
     "Active Directory Practice/03 Sizzle/02 Enumeration.md",
@@ -353,7 +353,6 @@
     "PNPT Chekclists/00 Checklist.md",
     "Active Directory Practice/02 Blackfield/04 lsaa.DMP  More enumeration.md",
     "Active Directory Practice/01 Forest/05 BloodHound.md",
-    "Active Directory Practice/04 Support/04 Wireshark.md",
     "PNPT Chekclists",
     "Active Directory/Initial Attack Vectors",
     "HackTheBox/desktop.ini",
