@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/03 Sizzle/04 More enumeration.md",
+                "file": "PNPT Chekclists/2.1 AD CheckList.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -205,7 +205,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ldapdomaindump",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -222,8 +222,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -243,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory Practice/03 Sizzle/04 More enumeration.md",
+                "file": "Active Directory Practice/03 Sizzle/05 Applock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory Practice/03 Sizzle/04 More enumeration.md",
+                "file": "Active Directory Practice/03 Sizzle/05 Applock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -283,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory Practice/03 Sizzle/04 More enumeration.md"
+                "file": "Active Directory Practice/03 Sizzle/05 Applock.md"
               }
             }
           },
@@ -315,12 +314,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e6bf9e475d18203",
+  "active": "e4b50cdbffcdcb4f",
   "lastOpenFiles": [
+    "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240501014433.png",
+    "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240501014332.png",
     "PNPT Chekclists/2.1 AD CheckList.md",
+    "Active Directory Practice/03 Sizzle/04 More enumeration.md",
     "PNPT Chekclists/2.2 AD Master Checklist.md",
     "Active Directory Practice/03 Sizzle/05 Applock.md",
-    "Active Directory Practice/03 Sizzle/04 More enumeration.md",
     "Active Directory Practice/03 Sizzle/03 SMB SCF attack.md",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240429212821.png",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240429212708.png",
@@ -339,7 +340,6 @@
     "PNPT Chekclists/00 Checklist.md",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240412101938.png",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240412091251.png",
-    "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240412082454.png",
     "Active Directory/00 Active Directory Contents.md",
     "Active Directory Practice/02 Blackfield/04 lsaa.DMP  More enumeration.md",
     "Active Directory Practice/01 Forest/05 BloodHound.md",

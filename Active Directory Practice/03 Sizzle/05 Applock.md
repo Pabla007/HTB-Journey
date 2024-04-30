@@ -103,3 +103,14 @@ help
 We have different commands like Rubeus , Seat Belt
 ![[Pasted image 20240429212821.png]]
 
+Will simply see the video as we already how to run bloodhound and see things as we are getting with our but learnt the method
+
+![[Pasted image 20240501014332.png]]
+
+![[Pasted image 20240501014433.png]]
+
+As we have both the rights we can simply attempt DCSync attack.
+
+```
+MRLKY@HTB.LOCAL
+```
