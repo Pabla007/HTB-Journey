@@ -30,7 +30,7 @@ TryHackme
 HackTheBox
 - [x] Forest 
 - [x] Blackfield
-- [ ] Sizzle 
+- [x] Sizzle 
 - [ ] Monterverde
 - [ ] Return
 - [ ] Sauna <- this one is great
