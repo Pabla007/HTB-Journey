@@ -151,3 +151,18 @@ I don't know that asterisk mark was on purpose so that we should got this error 
 Football#7
 ```
 
+
+```
+maketoken mrlky htb Fotball#7
+```
+![[Pasted image 20240501034808.png]]
+
+
+```
+DCSync sizzle
+```
+![[Pasted image 20240501035039.png]]
+
+We got error with mrlky let's try with administrator
+
+
