@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PNPT Chekclists/2.1 AD CheckList.md",
+                "file": "Active Directory Practice/03 Sizzle/04 More enumeration.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -205,7 +205,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wfuzz",
+                "query": "ldapdomaindump",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -222,7 +222,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -242,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory Practice/03 Sizzle/05 Applock.md",
+                "file": "Active Directory Practice/03 Sizzle/04 More enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory Practice/03 Sizzle/05 Applock.md",
+                "file": "Active Directory Practice/03 Sizzle/04 More enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory Practice/03 Sizzle/05 Applock.md"
+                "file": "Active Directory Practice/03 Sizzle/04 More enumeration.md"
               }
             }
           },
@@ -314,11 +315,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fabf7a7d925e9e71",
+  "active": "4e6bf9e475d18203",
   "lastOpenFiles": [
+    "PNPT Chekclists/2.1 AD CheckList.md",
+    "PNPT Chekclists/2.2 AD Master Checklist.md",
+    "Active Directory Practice/03 Sizzle/05 Applock.md",
     "Active Directory Practice/03 Sizzle/04 More enumeration.md",
     "Active Directory Practice/03 Sizzle/03 SMB SCF attack.md",
-    "Active Directory Practice/03 Sizzle/05 Applock.md",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240429212821.png",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240429212708.png",
     "Active Directory Practice/03 Sizzle/00 Images/Pasted image 20240429212547.png",
@@ -331,8 +334,6 @@
     "Try Hack Me/07 Holo/05 Web Directory Bursting.md",
     "Try Hack Me/07 Holo/04 Web Enumeration with Gobuster Wfuzz.md",
     "PNPT Chekclists/03 OSINT Checklist.md",
-    "PNPT Chekclists/2.2 AD Master Checklist.md",
-    "PNPT Chekclists/2.1 AD CheckList.md",
     "PNPT Chekclists/02 PEH Checklist.md",
     "PNPT Chekclists/01 Master Note.md",
     "PNPT Chekclists/00 Checklist.md",
