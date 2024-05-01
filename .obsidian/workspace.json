@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/06  Sauna/04 Got a User password.md",
+                "file": "Active Directory Practice/04 Support/04 Wireshark.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,14 +169,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows Enumeration.md",
+                "file": "Active Directory Practice/06  Sauna/04 Got a User password.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -314,16 +314,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fabf7a7d925e9e71",
+  "active": "e4b50cdbffcdcb4f",
   "lastOpenFiles": [
     "Active Directory Practice/06  Sauna/05 Privilege Escalation.md",
+    "Active Directory Practice/06  Sauna/06 BloodHound.md",
+    "Active Directory Practice/06  Sauna/00 Images/Pasted image 20240502031931.png",
+    "Active Directory Practice/06  Sauna/00 Images/Pasted image 20240502031857.png",
+    "Active Directory Practice/02 Blackfield/03 SMB and Winrm.md",
+    "Windows Enumeration.md",
+    "Active Directory Practice/04 Support/04 Wireshark.md",
+    "Active Directory Practice/06  Sauna/03 Enumeration.md",
+    "Active Directory Practice/06  Sauna/00 Images/Pasted image 20240502030853.png",
+    "Active Directory Practice/06  Sauna/04 Got a User password.md",
+    "Active Directory Practice/06  Sauna/02 Scanning.md",
+    "Active Directory Practice/06  Sauna/01 Overview.md",
     "Active Directory Practice/06  Sauna/00 Images/Pasted image 20240502024103.png",
     "Active Directory Practice/06  Sauna/00 Images/Pasted image 20240502024020.png",
     "Active Directory Practice/06  Sauna/00 Images/Pasted image 20240502022922.png",
-    "Active Directory Practice/06  Sauna/04 Got a User password.md",
-    "Active Directory Practice/06  Sauna/03 Enumeration.md",
-    "Active Directory Practice/06  Sauna/02 Scanning.md",
-    "Windows Enumeration.md",
     "Active Directory Practice/06  Sauna/00 Images/Pasted image 20240502021900.png",
     "Active Directory Practice/06  Sauna/00 Images/Pasted image 20240502021554.png",
     "Active Directory Practice/06  Sauna/00 Images/Pasted image 20240502021215.png",
@@ -331,11 +338,6 @@
     "Obsidian CSS.md",
     "Linux Enumeration.md",
     "07 How to close the VPN completely.md",
-    "Active Directory Practice/06  Sauna/00 Images/Pasted image 20240502020516.png",
-    "Active Directory Practice/06  Sauna/00 Images/Pasted image 20240502020250.png",
-    "Active Directory Practice/06  Sauna/00 Images/Pasted image 20240502020038.png",
-    "Active Directory Practice/06  Sauna/01 Overview.md",
-    "Active Directory Practice/04 Support/04 Wireshark.md",
     "Try Hack Me/03 Attacktive Directory/04 Enumerate AD.md",
     "Active Directory Practice/04 Support/03 Smb Enumeration.md",
     "PNPT Chekclists/2.2 AD Master Checklist.md",
@@ -345,14 +347,12 @@
     "Active Directory Practice/02 Blackfield/02 Enumeration.md",
     "Active Directory Practice/03 Sizzle/05 Applock.md",
     "Try Hack Me/05 RazorBlack/01 Notes aka observation regarding the machine.md",
-    "Active Directory Practice/02 Blackfield/03 SMB and Winrm.md",
     "Active Directory Practice/03 Sizzle/01 Scanning.md",
     "Active Directory/00 Active Directory Contents.md",
     "Active Directory Practice/06  Sauna/00 Images",
     "Active Directory Practice/06  Sauna",
     "Active Directory/01 Active Directory Lab Build.md",
     "Active Directory/02 Users.md",
-    "Active Directory Practice/05 Return/04 Escalate Access.md",
     "PNPT Chekclists",
     "Active Directory/Initial Attack Vectors",
     "HackTheBox/desktop.ini",

@@ -35,6 +35,24 @@ I tried running x86 but in the end x64 worked which means that the system is x64
 ![[Pasted image 20240502022922.png]]
 ![[Pasted image 20240502024020.png]]
 I guess this password is not working
+```
+svc_loanmanager
+```
+
+```
+Moneymakestheworldgoround!
+```
+
+The password was correct but i think this could easily happen in the exam as well
+
+```
+evil-winrm -u svc_loanmgr -p 'Moneymakestheworldgoround!' -i 10.10.10.175
+```
+
+![[Pasted image 20240502030853.png]]
+
+As we have to use the username and look what we got the shell and will the bloodhound.
 
 ![[Pasted image 20240502024103.png]]
+
 
