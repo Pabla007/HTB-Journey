@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/06  Sauna/04 Got a User password.md",
+                "file": "Active Directory Practice/06  Sauna/06 BloodHound.md",
                 "mode": "source",
                 "source": false
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory Practice/06  Sauna/04 Got a User password.md",
+                "file": "Active Directory Practice/06  Sauna/06 BloodHound.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory Practice/06  Sauna/04 Got a User password.md",
+                "file": "Active Directory Practice/06  Sauna/06 BloodHound.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory Practice/06  Sauna/04 Got a User password.md"
+                "file": "Active Directory Practice/06  Sauna/06 BloodHound.md"
               }
             }
           },
@@ -316,25 +316,27 @@
   },
   "active": "e4b50cdbffcdcb4f",
   "lastOpenFiles": [
-    "Active Directory Practice/06  Sauna/05 Privilege Escalation.md",
+    "Active Directory Practice/06  Sauna/00 Images/Pasted image 20240502034520.png",
+    "Active Directory Practice/06  Sauna/00 Images/Pasted image 20240502034412.png",
+    "Active Directory Practice/06  Sauna/00 Images/Pasted image 20240502034225.png",
+    "Active Directory Practice/06  Sauna/00 Images/Pasted image 20240502034223.png",
+    "Active Directory Practice/06  Sauna/00 Images/Pasted image 20240502033429.png",
+    "Active Directory Practice/06  Sauna/00 Images/Pasted image 20240502033313.png",
+    "Active Directory Practice/06  Sauna/00 Images/Pasted image 20240502032554.png",
+    "Try Hack Me/05 RazorBlack/07 Zip File enumeration.md",
+    "Active Directory Practice/06  Sauna/00 Images/Pasted image 20240502032542.png",
     "Active Directory Practice/06  Sauna/06 BloodHound.md",
+    "Active Directory Practice/04 Support/04 Wireshark.md",
+    "Active Directory Practice/06  Sauna/04 Got a User password.md",
+    "Active Directory Practice/06  Sauna/05 Privilege Escalation.md",
     "Active Directory Practice/06  Sauna/00 Images/Pasted image 20240502031931.png",
     "Active Directory Practice/06  Sauna/00 Images/Pasted image 20240502031857.png",
     "Active Directory Practice/02 Blackfield/03 SMB and Winrm.md",
     "Windows Enumeration.md",
-    "Active Directory Practice/04 Support/04 Wireshark.md",
     "Active Directory Practice/06  Sauna/03 Enumeration.md",
     "Active Directory Practice/06  Sauna/00 Images/Pasted image 20240502030853.png",
-    "Active Directory Practice/06  Sauna/04 Got a User password.md",
     "Active Directory Practice/06  Sauna/02 Scanning.md",
     "Active Directory Practice/06  Sauna/01 Overview.md",
-    "Active Directory Practice/06  Sauna/00 Images/Pasted image 20240502024103.png",
-    "Active Directory Practice/06  Sauna/00 Images/Pasted image 20240502024020.png",
-    "Active Directory Practice/06  Sauna/00 Images/Pasted image 20240502022922.png",
-    "Active Directory Practice/06  Sauna/00 Images/Pasted image 20240502021900.png",
-    "Active Directory Practice/06  Sauna/00 Images/Pasted image 20240502021554.png",
-    "Active Directory Practice/06  Sauna/00 Images/Pasted image 20240502021215.png",
-    "Active Directory Practice/06  Sauna/00 Images/Pasted image 20240502020942.png",
     "Obsidian CSS.md",
     "Linux Enumeration.md",
     "07 How to close the VPN completely.md",
@@ -352,7 +354,6 @@
     "Active Directory Practice/06  Sauna/00 Images",
     "Active Directory Practice/06  Sauna",
     "Active Directory/01 Active Directory Lab Build.md",
-    "Active Directory/02 Users.md",
     "PNPT Chekclists",
     "Active Directory/Initial Attack Vectors",
     "HackTheBox/desktop.ini",
