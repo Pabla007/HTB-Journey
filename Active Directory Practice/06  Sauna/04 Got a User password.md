@@ -32,3 +32,9 @@ It seems interesting so let's enumerate
 ![[Pasted image 20240501060920.png]]
 
 
+```
+prompt off
+recurse on
+ls
+mget *
+```

