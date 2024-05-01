@@ -62,3 +62,11 @@ OS and Service detection performed. Please report any incorrect results at https
 Nmap done: 1 IP address (1 host up) scanned in 428.71 seconds
 ```
 
+Port that we should target
+53 DNS
+88 Kerveros
+139/445 smb
+3268 ldap
+5985 http
+Host: SAUNA
+ 
