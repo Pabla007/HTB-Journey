@@ -33,6 +33,6 @@ HackTheBox
 - [x] Sizzle 
 - [ ] Monterverde
 - [ ] Return
-- [ ] Sauna <- this one is great
+- [x] Sauna <- this one is great
 - [x] Active
 - [x] Support
