@@ -42,3 +42,20 @@ dgalanos
 Administrator
 roleary
 ```
+
+Valid Users
+```
+|   |
+|---|
+|Administrator@MEGABANK|
+|svc-bexec@MEGABANK|
+|roleary@MEGABANK|
+|SABatchJobs@MEGABANK|
+|mhope@MEGABANK|
+|smorgan@MEGABANK|
+|svc-netapp@MEGABANK|
+|AAD_987d7f2f57d2@MEGABANK|
+|SABatchJobs@MEGABANK|
+|dgalanos@MEGABANK|
+|svc-ata@MEGABANK|
+```
