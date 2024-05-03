@@ -17,3 +17,8 @@ svc-netapp
 ```
 ![[Pasted image 20240503124010.png]]
 
+
+We got username info from this
+```
+enum4linux -a 10.10.10.172
+```
