@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PNPT Chekclists/03 OSINT Checklist.md",
+                "file": "Windows Enumeration.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory Practice/07 Monterverde/04 Privilege Escalation.md",
+                "file": "Windows Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory Practice/07 Monterverde/04 Privilege Escalation.md",
+                "file": "Windows Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory Practice/07 Monterverde/04 Privilege Escalation.md"
+                "file": "Windows Enumeration.md"
               }
             }
           },
@@ -254,8 +254,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "184c1dce53deddf9",
+  "active": "27ac60fa14e7bdf0",
   "lastOpenFiles": [
+    "PNPT Chekclists/03 OSINT Checklist.md",
+    "Active Directory Practice/07 Monterverde/04 Privilege Escalation.md",
+    "Active Directory Practice/07 Monterverde/00 Images/Pasted image 20240504014452.png",
     "Active Directory Practice/07 Monterverde/00 Images/Pasted image 20240504013058.png",
     "Active Directory Practice/07 Monterverde/00 Images/Pasted image 20240504013037.png",
     "Active Directory Practice/07 Monterverde/00 Images/Pasted image 20240504003704.png",
@@ -265,15 +268,12 @@
     "Active Directory Practice/07 Monterverde/01 Overview.md",
     "Active Directory Practice/06  Sauna/06 BloodHound.md",
     "Active Directory Practice/06  Sauna/05 Privilege Escalation.md",
-    "Active Directory Practice/07 Monterverde/04 Privilege Escalation.md",
     "Active Directory Practice/07 Monterverde/00 Images/Pasted image 20240503181747.png",
     "Active Directory Practice/07 Monterverde/00 Images/Pasted image 20240503181745.png",
     "Active Directory Practice/07 Monterverde/00 Images/Pasted image 20240503181643.png",
     "Active Directory Practice/07 Monterverde/00 Images/Pasted image 20240503181245.png",
     "Active Directory Practice/07 Monterverde/00 Images/Pasted image 20240503181028.png",
     "Active Directory Practice/02 Blackfield/03 SMB and Winrm.md",
-    "Active Directory Practice/07 Monterverde/00 Images/Pasted image 20240503180623.png",
-    "Active Directory Practice/07 Monterverde/00 Images/Pasted image 20240503180348.png",
     "Active Directory Practice/06  Sauna/03 Enumeration.md",
     "Active Directory Practice/06  Sauna/02 Scanning.md",
     "PNPT Chekclists/00 Checklist.md",
