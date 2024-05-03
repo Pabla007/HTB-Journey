@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/07 Monterverde/02 Scanning.md",
+                "file": "Active Directory Practice/07 Monterverde/03 Enumeration.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory Practice/07 Monterverde/02 Scanning.md",
+                "file": "Active Directory Practice/07 Monterverde/03 Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory Practice/07 Monterverde/02 Scanning.md",
+                "file": "Active Directory Practice/07 Monterverde/03 Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory Practice/07 Monterverde/02 Scanning.md"
+                "file": "Active Directory Practice/07 Monterverde/03 Enumeration.md"
               }
             }
           },
@@ -256,9 +256,12 @@
   },
   "active": "184c1dce53deddf9",
   "lastOpenFiles": [
+    "Active Directory Practice/07 Monterverde/00 Images/Pasted image 20240503124918.png",
+    "Active Directory Practice/07 Monterverde/00 Images/Pasted image 20240503124645.png",
+    "Active Directory Practice/07 Monterverde/01 Overview.md",
+    "Active Directory Practice/07 Monterverde/00 Images/Pasted image 20240503124010.png",
     "Active Directory Practice/07 Monterverde/03 Enumeration.md",
     "Active Directory Practice/07 Monterverde/02 Scanning.md",
-    "Active Directory Practice/07 Monterverde/01 Overview.md",
     "PNPT Chekclists/00 Checklist.md",
     "Active Directory Practice/07 Monterverde/Untitled.canvas",
     "Active Directory Practice/07 Monterverde/00 Images",
@@ -292,9 +295,6 @@
     "Try Hack Me/05 RazorBlack/07 Zip File enumeration.md",
     "Active Directory Practice/06  Sauna/00 Images/Pasted image 20240502032542.png",
     "Active Directory Practice/06  Sauna/04 Got a User password.md",
-    "Active Directory Practice/06  Sauna/05 Privilege Escalation.md",
-    "Active Directory Practice/06  Sauna/00 Images/Pasted image 20240502031931.png",
-    "Active Directory Practice/06  Sauna/00 Images/Pasted image 20240502031857.png",
     "Active Directory Practice/06  Sauna/00 Images",
     "Active Directory Practice/06  Sauna",
     "PNPT Chekclists",
