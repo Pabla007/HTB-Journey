@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows Enumeration.md",
+                "file": "Active Directory Practice/07 Monterverde/04 Privilege Escalation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows Enumeration.md",
+                "file": "Active Directory Practice/07 Monterverde/04 Privilege Escalation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows Enumeration.md"
+                "file": "Active Directory Practice/07 Monterverde/04 Privilege Escalation.md"
               }
             }
           },
@@ -254,16 +254,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "27ac60fa14e7bdf0",
+  "active": "184c1dce53deddf9",
   "lastOpenFiles": [
-    "PNPT Chekclists/03 OSINT Checklist.md",
+    "Active Directory Practice/07 Monterverde/03 Enumeration.md",
     "Active Directory Practice/07 Monterverde/04 Privilege Escalation.md",
+    "Windows Enumeration.md",
+    "PNPT Chekclists/03 OSINT Checklist.md",
     "Active Directory Practice/07 Monterverde/00 Images/Pasted image 20240504014452.png",
     "Active Directory Practice/07 Monterverde/00 Images/Pasted image 20240504013058.png",
     "Active Directory Practice/07 Monterverde/00 Images/Pasted image 20240504013037.png",
     "Active Directory Practice/07 Monterverde/00 Images/Pasted image 20240504003704.png",
     "Active Directory Practice/07 Monterverde/00 Images/Pasted image 20240504002952.png",
-    "Active Directory Practice/07 Monterverde/03 Enumeration.md",
     "Active Directory Practice/07 Monterverde/02 Scanning.md",
     "Active Directory Practice/07 Monterverde/01 Overview.md",
     "Active Directory Practice/06  Sauna/06 BloodHound.md",
@@ -294,7 +295,6 @@
     "Active Directory/02 Users.md",
     "Active Directory/Different Techniques.md",
     "Active Directory Practice/04 Support/04 Wireshark.md",
-    "PNPT Chekclists/2.1 AD CheckList.md",
     "Active Directory Practice/06  Sauna/00 Images",
     "Active Directory Practice/06  Sauna",
     "PNPT Chekclists",
