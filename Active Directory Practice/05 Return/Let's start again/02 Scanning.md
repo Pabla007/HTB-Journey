@@ -76,3 +76,12 @@ OS and Service detection performed. Please report any incorrect results at https
 Nmap done: 1 IP address (1 host up) scanned in 1105.35 seconds
 ```
 
+
+10.10.16.20 4444
+
+Port 53
+Port 88 kerberos
+Port 139 and 445
+Port 3268
+Port 5985
+
