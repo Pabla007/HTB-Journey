@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/05 Return/Let's start again/04 Privilege Escalation.md",
+                "file": "HackTheBox/Retarded Machine/01 Active/06GetUserspn.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory Practice/05 Return/Let's start again/04 Privilege Escalation.md",
+                "file": "HackTheBox/Retarded Machine/01 Active/06GetUserspn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory Practice/05 Return/Let's start again/04 Privilege Escalation.md",
+                "file": "HackTheBox/Retarded Machine/01 Active/06GetUserspn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory Practice/05 Return/Let's start again/04 Privilege Escalation.md"
+                "file": "HackTheBox/Retarded Machine/01 Active/06GetUserspn.md"
               }
             }
           },
@@ -256,52 +256,52 @@
   },
   "active": "53990ced3d71ad4d",
   "lastOpenFiles": [
+    "HackTheBox/Retarded Machine/01 Active/05 Psexec.py.md",
+    "HackTheBox/Retarded Machine/01 Active/04 Group.md",
+    "HackTheBox/Retarded Machine/01 Active/03 smbclient.md",
+    "HackTheBox/Retarded Machine/01 Active/02 Nmap.md",
+    "HackTheBox/Retarded Machine/01 Active/01 Notes aka observation regarding the machine.md",
+    "Active Directory/00 Active Directory Contents.md",
+    "Active Directory/02 Users.md",
+    "Active Directory/Different Techniques.md",
+    "Active Directory Practice/04 Support/Let's Practise/01 Overview.md",
+    "Active Directory Practice/04 Support/Let's Practise/03 Enumeration.md",
+    "Active Directory Practice/04 Support/Let's Practise/02 Scanning.md",
+    "Active Directory Practice/04 Support/01 Scanning.md",
+    "Active Directory Practice/04 Support/Let's Practise/00 Images",
+    "Active Directory Practice/04 Support/Let's Practise",
+    "Active Directory Practice/04 Support/02 Enumeration.md",
+    "Active Directory Practice/04 Support/03 Smb Enumeration.md",
+    "Active Directory Practice/03 Sizzle/03 SMB SCF attack.md",
+    "Active Directory Practice/01 Forest/03 SMB Enumeration.md",
+    "Active Directory Practice/01 Forest/02 Enumeration.md",
+    "Active Directory Practice/02 Blackfield/06 Steal Ntds.md",
+    "Active Directory Practice/02 Blackfield/05 Let's Escalate.md",
+    "Active Directory Practice/02 Blackfield/04 lsaa.DMP  More enumeration.md",
+    "Active Directory Practice/02 Blackfield/03 SMB and Winrm.md",
+    "Active Directory Practice/02 Blackfield/02 Enumeration.md",
+    "Active Directory Practice/02 Blackfield/01 Scanning.md",
+    "Active Directory Practice/06  Sauna/03 Enumeration.md",
+    "Active Directory Practice/05 Return/04 Escalate Access.md",
+    "Active Directory Practice/05 Return/03 Initial Access.md",
+    "Active Directory Practice/05 Return/Let's start again/00 Images/Pasted image 20240506043433.png",
+    "Active Directory Practice/05 Return/Let's start again/00 Images/Pasted image 20240506043343.png",
     "Active Directory Practice/05 Return/Let's start again/00 Images/Pasted image 20240506041014.png",
     "Active Directory Practice/05 Return/Let's start again/00 Images/Pasted image 20240506040930.png",
     "Active Directory Practice/05 Return/Let's start again/00 Images/Pasted image 20240506040642.png",
-    "07 How to close the VPN completely.md",
-    "HackTheBox/Retarded Machine/02 Help/01 Notes aka observation regarding the machine.md",
-    "HackTheBox/Retarded Machine/01 Active/01 Notes aka observation regarding the machine.md",
-    "Active Directory Practice/05 Return/Let's start again/04 Privilege Escalation.md",
     "Active Directory Practice/05 Return/Let's start again/00 Images/Pasted image 20240506023311.png",
     "Active Directory Practice/05 Return/Let's start again/00 Images/Pasted image 20240506022907.png",
     "Active Directory Practice/05 Return/Let's start again/00 Images/Pasted image 20240506022418.png",
     "Active Directory Practice/05 Return/Let's start again/00 Images/Pasted image 20240506022414.png",
     "Active Directory Practice/05 Return/Let's start again/00 Images/Pasted image 20240506022345.png",
-    "Active Directory Practice/05 Return/Let's start again/03 Enumeration.md",
-    "Active Directory Practice/05 Return/Let's start again/00 Images/Pasted image 20240506020652.png",
-    "Active Directory Practice/05 Return/Let's start again/00 Images/Pasted image 20240506015645.png",
-    "Active Directory Practice/05 Return/Let's start again/00 Images/Pasted image 20240505194413.png",
-    "Active Directory Practice/05 Return/Let's start again/02 Scanning.md",
-    "Active Directory Practice/07 Monterverde/03 Enumeration.md",
-    "Active Directory Practice/05 Return/Let's start again/01 Overview.md",
     "Active Directory Practice/05 Return/Let's start again/00 Images",
-    "Active Directory Practice/05 Return/01 Scanning.md",
-    "Active Directory/00 Active Directory Contents.md",
     "Active Directory Practice/05 Return/Let's start again",
-    "Active Directory/01 Active Directory Lab Build.md",
-    "Active Directory/02 Users.md",
-    "Active Directory/Different Techniques.md",
-    "Active Directory Practice/07 Monterverde/04 Privilege Escalation.md",
-    "Active Directory Practice/07 Monterverde/02 Scanning.md",
-    "Try Hack Me/07 Holo/Task 20 Privilege Escalation.md",
-    "Windows Enumeration.md",
-    "PNPT Chekclists/07 Password Policy.md",
-    "PNPT Chekclists/03 OSINT Checklist.md",
-    "Active Directory Practice/07 Monterverde/01 Overview.md",
-    "Active Directory Practice/06  Sauna/06 BloodHound.md",
-    "Active Directory Practice/06  Sauna/05 Privilege Escalation.md",
-    "Active Directory Practice/02 Blackfield/03 SMB and Winrm.md",
-    "Active Directory Practice/06  Sauna/03 Enumeration.md",
-    "Active Directory Practice/06  Sauna/02 Scanning.md",
     "Active Directory Practice/07 Monterverde/Untitled.canvas",
     "Active Directory Practice/07 Monterverde/00 Images",
     "Active Directory Practice/07 Monterverde",
     "Active Directory Practice/06  Sauna/00 Images",
     "Active Directory Practice/06  Sauna",
     "PNPT Chekclists",
-    "Active Directory/Initial Attack Vectors",
-    "HackTheBox/desktop.ini",
-    "HackTheBox"
+    "Active Directory/Initial Attack Vectors"
   ]
 }
