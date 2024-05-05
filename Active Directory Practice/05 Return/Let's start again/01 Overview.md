@@ -14,10 +14,15 @@ So what i was doing is changing the port and IP address but we have to keep the 
 
 ```
 printer.return.local
+```
 
+```
+svc-printer
 ```
 
 ```
 1edFg43012!!
 ```
 ![[Pasted image 20240505164616.png]]
+
+So we have a username and password already but don't know the privileges it have.

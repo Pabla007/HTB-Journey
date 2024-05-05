@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/05 Return/Let's start again/01 Overview.md",
+                "file": "Active Directory Practice/05 Return/Let's start again/03 Enumeration.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory Practice/05 Return/Let's start again/01 Overview.md",
+                "file": "Active Directory Practice/05 Return/Let's start again/03 Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory Practice/05 Return/Let's start again/01 Overview.md",
+                "file": "Active Directory Practice/05 Return/Let's start again/03 Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory Practice/05 Return/Let's start again/01 Overview.md"
+                "file": "Active Directory Practice/05 Return/Let's start again/03 Enumeration.md"
               }
             }
           },
@@ -256,15 +256,15 @@
   },
   "active": "53990ced3d71ad4d",
   "lastOpenFiles": [
+    "Active Directory Practice/05 Return/Let's start again/01 Overview.md",
+    "Active Directory Practice/05 Return/Let's start again/02 Scanning.md",
+    "Active Directory Practice/05 Return/Let's start again/03 Enumeration.md",
     "Active Directory Practice/05 Return/Let's start again/00 Images/Pasted image 20240505164616.png",
     "Active Directory Practice/05 Return/Let's start again/00 Images/Pasted image 20240505164612.png",
     "Active Directory Practice/05 Return/Let's start again/00 Images/Pasted image 20240505164148.png",
     "Active Directory Practice/05 Return/Let's start again/00 Images/Pasted image 20240505164125.png",
-    "Active Directory Practice/05 Return/Let's start again/02 Scanning.md",
     "Active Directory Practice/05 Return/Let's start again/00 Images",
-    "Active Directory Practice/05 Return/Let's start again/01 Overview.md",
     "Active Directory Practice/05 Return/01 Scanning.md",
-    "Active Directory Practice/05 Return/Let's start again/03 Enumeration.md",
     "Active Directory/00 Active Directory Contents.md",
     "Active Directory Practice/05 Return/Let's start again",
     "Active Directory/01 Active Directory Lab Build.md",
@@ -277,7 +277,6 @@
     "Active Directory Practice/07 Monterverde/00 Images/Pasted image 20240505160814.png",
     "Active Directory Practice/07 Monterverde/00 Images/Pasted image 20240505160411.png",
     "Active Directory Practice/07 Monterverde/00 Images/Pasted image 20240505160023.png",
-    "Active Directory Practice/07 Monterverde/00 Images/Pasted image 20240505154724.png",
     "Active Directory Practice/07 Monterverde/03 Enumeration.md",
     "Active Directory Practice/07 Monterverde/02 Scanning.md",
     "Try Hack Me/07 Holo/Task 20 Privilege Escalation.md",
