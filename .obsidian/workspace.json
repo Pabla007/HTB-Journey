@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/05 Return/Let's start again/03 Enumeration.md",
+                "file": "Active Directory Practice/05 Return/Let's start again/02 Scanning.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory Practice/05 Return/Let's start again/03 Enumeration.md",
+                "file": "Active Directory Practice/05 Return/Let's start again/02 Scanning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory Practice/05 Return/Let's start again/03 Enumeration.md",
+                "file": "Active Directory Practice/05 Return/Let's start again/02 Scanning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory Practice/05 Return/Let's start again/03 Enumeration.md"
+                "file": "Active Directory Practice/05 Return/Let's start again/02 Scanning.md"
               }
             }
           },
@@ -256,9 +256,9 @@
   },
   "active": "53990ced3d71ad4d",
   "lastOpenFiles": [
+    "Active Directory Practice/05 Return/Let's start again/03 Enumeration.md",
     "Active Directory Practice/05 Return/Let's start again/01 Overview.md",
     "Active Directory Practice/05 Return/Let's start again/02 Scanning.md",
-    "Active Directory Practice/05 Return/Let's start again/03 Enumeration.md",
     "Active Directory Practice/05 Return/Let's start again/00 Images/Pasted image 20240505164616.png",
     "Active Directory Practice/05 Return/Let's start again/00 Images/Pasted image 20240505164612.png",
     "Active Directory Practice/05 Return/Let's start again/00 Images/Pasted image 20240505164148.png",
