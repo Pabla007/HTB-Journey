@@ -36,3 +36,31 @@ HackTheBox
 - [x] Sauna <- this one is great
 - [x] Active
 - [x] Support
+
+
+- [ ] Resolute 
+- [ ] Reel
+- [ ] Mantis 
+- [ ] multimaster
+- [ ] cascade 
+
+
+traversex
+Resolute
+Fuse
+remote
+fulcrum
+following
+
+
+10 AD boxes to attack. Have fun!!!
+https://app.hackthebox.com/tracks/Active-Directory-101
+Forest, Sauna, Active, Blackfield, Resolute, Reel, Sizzle, Mantis, Cascade, Multimaster
+
+If you're up for a realistic challenge that emulates a real-life network, check out Pro Labs which are larger, simulated corporate networks.
+
+https://app.hackthebox.com/prolabs/overview/offshore
+
+Reference: https://www.hackthebox.com/blog/introduction-to-active-directory
+
+
