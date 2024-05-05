@@ -111,3 +111,23 @@ d2101a768fb7f09c6b6fb7d728f911fa
 ```
 ![[Pasted image 20240503181747.png]]
 
+
+How to check password Policy
+```
+crackmapexec smb 10.10.10.172 --pass-pol
+```
+![[Pasted image 20240505061805.png]]
+
+
+We all got a new tool called Seatbelt.exe
+
+```
+sqlcmd ?
+```
+![[Pasted image 20240505063434.png]]
+
+Will search for Powerup Cheatsheets
+https://github.com/NetSPI/PowerUpSQL/wiki/PowerUpSQL-Cheat-Sheet
+```
+
+```

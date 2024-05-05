@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/07 Holo/Task 20 Privilege Escalation.md",
+                "file": "Active Directory Practice/07 Monterverde/03 Enumeration.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,14 +109,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/07 Monterverde/04 Privilege Escalation.md",
+                "file": "PNPT Chekclists/07 Password Policy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory Practice/07 Monterverde/04 Privilege Escalation.md",
+                "file": "Active Directory Practice/07 Monterverde/03 Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory Practice/07 Monterverde/04 Privilege Escalation.md",
+                "file": "Active Directory Practice/07 Monterverde/03 Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory Practice/07 Monterverde/04 Privilege Escalation.md"
+                "file": "Active Directory Practice/07 Monterverde/03 Enumeration.md"
               }
             }
           },
@@ -254,8 +254,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "184c1dce53deddf9",
+  "active": "53990ced3d71ad4d",
   "lastOpenFiles": [
+    "Active Directory Practice/07 Monterverde/00 Images/Pasted image 20240505063434.png",
+    "Active Directory Practice/07 Monterverde/00 Images/Pasted image 20240505061805.png",
+    "Active Directory Practice/07 Monterverde/02 Scanning.md",
+    "Active Directory Practice/07 Monterverde/04 Privilege Escalation.md",
+    "Try Hack Me/07 Holo/Task 20 Privilege Escalation.md",
+    "Windows Enumeration.md",
+    "PNPT Chekclists/07 Password Policy.md",
     "Active Directory Practice/07 Monterverde/00 Images/Pasted image 20240505045617.png",
     "Active Directory Practice/07 Monterverde/00 Images/Pasted image 20240505044351.png",
     "Active Directory Practice/07 Monterverde/00 Images/Pasted image 20240505043207.png",
@@ -265,13 +272,8 @@
     "Active Directory Practice/07 Monterverde/00 Images/Pasted image 20240505041831.png",
     "Active Directory Practice/07 Monterverde/00 Images/Pasted image 20240505041505.png",
     "Active Directory Practice/07 Monterverde/00 Images/Pasted image 20240505041414.png",
-    "Active Directory Practice/07 Monterverde/00 Images/Pasted image 20240505041255.png",
     "Active Directory Practice/07 Monterverde/03 Enumeration.md",
-    "Active Directory Practice/07 Monterverde/04 Privilege Escalation.md",
-    "Windows Enumeration.md",
     "PNPT Chekclists/03 OSINT Checklist.md",
-    "Active Directory Practice/07 Monterverde/00 Images/Pasted image 20240504014452.png",
-    "Active Directory Practice/07 Monterverde/02 Scanning.md",
     "Active Directory Practice/07 Monterverde/01 Overview.md",
     "Active Directory Practice/06  Sauna/06 BloodHound.md",
     "Active Directory Practice/06  Sauna/05 Privilege Escalation.md",
@@ -293,8 +295,6 @@
     "07 How to close the VPN completely.md",
     "03 Internal Attacks.md",
     "Active Directory/01 Active Directory Lab Build.md",
-    "Active Directory/02 Users.md",
-    "Active Directory/Different Techniques.md",
     "Active Directory Practice/06  Sauna/00 Images",
     "Active Directory Practice/06  Sauna",
     "PNPT Chekclists",
