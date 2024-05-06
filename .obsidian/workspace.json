@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/08 Resolute/04 Privilege Escalation.md",
+                "file": "Active Directory Practice/09 Reel/01 Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory Practice/08 Resolute/04 Privilege Escalation.md",
+                "file": "Active Directory Practice/09 Reel/01 Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory Practice/08 Resolute/04 Privilege Escalation.md",
+                "file": "Active Directory Practice/09 Reel/01 Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory Practice/08 Resolute/04 Privilege Escalation.md"
+                "file": "Active Directory Practice/09 Reel/01 Overview.md"
               }
             }
           },
@@ -256,10 +256,18 @@
   },
   "active": "27ac60fa14e7bdf0",
   "lastOpenFiles": [
+    "Active Directory Practice/09 Reel/03 Enumeration.md",
+    "Active Directory Practice/09 Reel/02 Scanning.md",
+    "Active Directory Practice/09 Reel/01 Overview.md",
+    "Active Directory Practice/08 Resolute/04 Privilege Escalation.md",
+    "Active Directory Practice/09 Reel/00 Images",
+    "Active Directory Practice/09 Reel",
+    "Active Directory Practice/08 Resolute/00 Images/Pasted image 20240507022044.png",
+    "Active Directory Practice/08 Resolute/00 Images/Pasted image 20240507021928.png",
+    "Active Directory Practice/08 Resolute/00 Images/Pasted image 20240507021840.png",
     "Active Directory Practice/08 Resolute/00 Images/Pasted image 20240507011836.png",
     "Windows Enumeration.md",
     "PNPT Chekclists/07 Password Policy.md",
-    "Active Directory Practice/08 Resolute/04 Privilege Escalation.md",
     "Active Directory Practice/08 Resolute/00 Images/Pasted image 20240506081837.png",
     "Active Directory Practice/08 Resolute/00 Images/Pasted image 20240506081507.png",
     "Active Directory Practice/08 Resolute/00 Images/Pasted image 20240506072623.png",
@@ -267,11 +275,7 @@
     "Active Directory Practice/08 Resolute/00 Images/Pasted image 20240506071911.png",
     "Active Directory Practice/08 Resolute/03 Enumeration.md",
     "Active Directory Practice/08 Resolute/00 Images/Pasted image 20240506071656.png",
-    "Active Directory Practice/08 Resolute/00 Images/Pasted image 20240506071315.png",
-    "Active Directory Practice/08 Resolute/00 Images/Pasted image 20240506070800.png",
-    "Active Directory Practice/08 Resolute/00 Images/Pasted image 20240506070133.png",
     "Active Directory Practice/07 Monterverde/03 Enumeration.md",
-    "Active Directory Practice/08 Resolute/00 Images/Pasted image 20240506062115.png",
     "Active Directory Practice/08 Resolute/01 Overview.md",
     "Active Directory Practice/08 Resolute/02 Scanning.md",
     "Active Directory Practice/06  Sauna/03 Enumeration.md",
@@ -294,14 +298,10 @@
     "Active Directory Practice/04 Support/01 Scanning.md",
     "Active Directory Practice/04 Support/Let's Practise/00 Images",
     "Active Directory Practice/04 Support/Let's Practise",
-    "Active Directory Practice/04 Support/02 Enumeration.md",
-    "Active Directory Practice/03 Sizzle/03 SMB SCF attack.md",
     "Active Directory Practice/05 Return/Let's start again/00 Images",
     "Active Directory Practice/05 Return/Let's start again",
     "Active Directory Practice/07 Monterverde/Untitled.canvas",
     "Active Directory Practice/07 Monterverde/00 Images",
-    "Active Directory Practice/07 Monterverde",
-    "Active Directory Practice/06  Sauna/00 Images",
-    "Active Directory Practice/06  Sauna"
+    "Active Directory Practice/07 Monterverde"
   ]
 }
