@@ -78,3 +78,16 @@ User Flag
 2381d46ef2566c000d1184a57ca5f5f4
 ```
 
+We got a new tool kit for ldap 
+https://github.com/ropnop/windapsearch
+
+```
+./windapsearch.py -d resolute.megabank.local --dc-ip 10.10.10.169 -U
+```
+
+```
+./windapsearch.py -d resolute.megabank.local --dc-ip 10.10.10.169 -U --full |
+grep Password
+```
+
+It's not running for some reason will see it later what to do
