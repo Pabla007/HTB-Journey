@@ -57,3 +57,11 @@ It didn't worked
 
 ![[Pasted image 20240506072229.png]]
 
+So the group that stands out is DnsAdmins
+![[Pasted image 20240506072623.png]]
+
+https://medium.com/@esnesenon/feature-not-bug-dnsadmin-to-dc-compromise-in-one-line-a0f779b8dc83
+
+```
+
+```

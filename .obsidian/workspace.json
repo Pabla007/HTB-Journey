@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows Enumeration.md",
+                "file": "Active Directory Practice/08 Resolute/04 Privilege Escalation.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows Enumeration.md",
+                "file": "Active Directory Practice/08 Resolute/04 Privilege Escalation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows Enumeration.md",
+                "file": "Active Directory Practice/08 Resolute/04 Privilege Escalation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows Enumeration.md"
+                "file": "Active Directory Practice/08 Resolute/04 Privilege Escalation.md"
               }
             }
           },
@@ -256,6 +256,8 @@
   },
   "active": "53990ced3d71ad4d",
   "lastOpenFiles": [
+    "Active Directory Practice/08 Resolute/00 Images/Pasted image 20240506072623.png",
+    "Windows Enumeration.md",
     "Active Directory Practice/08 Resolute/04 Privilege Escalation.md",
     "Active Directory Practice/08 Resolute/00 Images/Pasted image 20240506072229.png",
     "Active Directory Practice/08 Resolute/00 Images/Pasted image 20240506071911.png",
@@ -294,7 +296,6 @@
     "Active Directory Practice/04 Support/02 Enumeration.md",
     "Active Directory Practice/03 Sizzle/03 SMB SCF attack.md",
     "Active Directory Practice/01 Forest/03 SMB Enumeration.md",
-    "Active Directory Practice/01 Forest/02 Enumeration.md",
     "Active Directory Practice/05 Return/Let's start again/00 Images",
     "Active Directory Practice/05 Return/Let's start again",
     "Active Directory Practice/07 Monterverde/Untitled.canvas",
