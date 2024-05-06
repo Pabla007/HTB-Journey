@@ -75,3 +75,4 @@ https://lolbas-project.github.io/
 
 ![[Pasted image 20240506081837.png]]
 
+I think we have to host the fill remotely or i am doing something
