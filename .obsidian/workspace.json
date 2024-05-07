@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/09 Reel/03 Enumeration.md",
+                "file": "Active Directory Practice/08 Resolute/02 Scanning.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory Practice/09 Reel/03 Enumeration.md",
+                "file": "Active Directory Practice/08 Resolute/02 Scanning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory Practice/09 Reel/03 Enumeration.md",
+                "file": "Active Directory Practice/08 Resolute/02 Scanning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory Practice/09 Reel/03 Enumeration.md"
+                "file": "Active Directory Practice/08 Resolute/02 Scanning.md"
               }
             }
           },
@@ -256,9 +256,11 @@
   },
   "active": "27ac60fa14e7bdf0",
   "lastOpenFiles": [
-    "Active Directory Practice/09 Reel/00 Images/Pasted image 20240507085045.png",
-    "Active Directory Practice/09 Reel/02 Scanning.md",
+    "Active Directory Practice/08 Resolute/03 Enumeration.md",
+    "Active Directory Practice/08 Resolute/02 Scanning.md",
     "Active Directory Practice/09 Reel/03 Enumeration.md",
+    "Active Directory Practice/09 Reel/02 Scanning.md",
+    "Active Directory Practice/09 Reel/00 Images/Pasted image 20240507085045.png",
     "Active Directory Practice/09 Reel/01 Overview.md",
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240507024218.png",
     "PNPT Chekclists/01 Master Note.md",
@@ -276,11 +278,8 @@
     "Active Directory Practice/08 Resolute/00 Images/Pasted image 20240506081507.png",
     "Active Directory Practice/08 Resolute/00 Images/Pasted image 20240506072623.png",
     "Active Directory Practice/08 Resolute/00 Images/Pasted image 20240506072229.png",
-    "Active Directory Practice/08 Resolute/00 Images/Pasted image 20240506071911.png",
-    "Active Directory Practice/08 Resolute/03 Enumeration.md",
     "Active Directory Practice/07 Monterverde/03 Enumeration.md",
     "Active Directory Practice/08 Resolute/01 Overview.md",
-    "Active Directory Practice/08 Resolute/02 Scanning.md",
     "Active Directory Practice/06  Sauna/03 Enumeration.md",
     "Active Directory Practice/08 Resolute/00 Images",
     "Active Directory Practice/08 Resolute",
