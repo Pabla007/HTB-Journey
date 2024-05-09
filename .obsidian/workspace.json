@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/Untitled.md",
+                "file": "Logrythm/02 What is SIEM Logrythm/01 Quiz.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/Untitled.md",
+                "file": "Logrythm/02 What is SIEM Logrythm/01 Quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/Untitled.md",
+                "file": "Logrythm/02 What is SIEM Logrythm/01 Quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/Untitled.md"
+                "file": "Logrythm/02 What is SIEM Logrythm/01 Quiz.md"
               }
             }
           },
@@ -254,21 +254,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a59eface60f8c62a",
+  "active": "27ac60fa14e7bdf0",
   "lastOpenFiles": [
+    "Logrythm/00 Images/Pasted image 20240510005417.png",
+    "Logrythm/00 Images/Pasted image 20240510005313.png",
+    "Logrythm/00 Images/Pasted image 20240510005216.png",
+    "Logrythm/00 Images/Pasted image 20240510005154.png",
+    "Logrythm/00 Images/Pasted image 20240510004842.png",
+    "Logrythm/00 Images/Pasted image 20240510004519.png",
+    "Logrythm/00 Images/Pasted image 20240510004309.png",
+    "Logrythm/00 Images/Pasted image 20240510004149.png",
+    "Logrythm/00 Images/Pasted image 20240510004045.png",
+    "Logrythm/Untitled.md",
+    "Logrythm/02 What is SIEM Logrythm/01 Quiz.md",
     "Logrythm/02 What is SIEM Logrythm",
     "Logrythm/01 Getting Started/01 Prior Knowledge.md",
-    "Logrythm/Untitled.md",
     "Logrythm/00 Images/Pasted image 20240510000551.png",
     "Logrythm/00 Images/Pasted image 20240510000226.png",
-    "Logrythm/00 Images/Pasted image 20240510000057.png",
-    "Logrythm/00 Images/Pasted image 20240509235924.png",
-    "Logrythm/00 Images/Pasted image 20240509235852.png",
-    "Logrythm/00 Images/Pasted image 20240509235812.png",
-    "Logrythm/00 Images/Pasted image 20240509212828.png",
-    "Logrythm/00 Images/Pasted image 20240509211551.png",
-    "Logrythm/00 Images/Pasted image 20240509210610.png",
-    "Logrythm/00 Images/Pasted image 20240509203908.png",
     "Logrythm/00 301 Administration Fundamentals.md",
     "Active Directory Practice/09 Reel/02 Scanning.md",
     "Active Directory Practice/09 Reel/03 Enumeration.md",
@@ -298,10 +300,8 @@
     "Active Directory/02 Users.md",
     "HackTheBox/Retarded Machine/01 Active/06GetUserspn.md",
     "HackTheBox/Retarded Machine/01 Active/05 Psexec.py.md",
-    "HackTheBox/Retarded Machine/01 Active/04 Group.md",
     "Active Directory Practice/04 Support/Let's Practise/00 Images",
     "Active Directory Practice/04 Support/Let's Practise",
-    "Active Directory Practice/05 Return/Let's start again/00 Images",
     "Active Directory Practice/07 Monterverde/Untitled.canvas"
   ]
 }
