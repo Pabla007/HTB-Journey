@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/01 Getting Started/01 Prior Knowledge.md",
+                "file": "Active Directory Practice/09 Reel/03 Enumeration.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/01 Getting Started/01 Prior Knowledge.md",
+                "file": "Active Directory Practice/09 Reel/03 Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/01 Getting Started/01 Prior Knowledge.md",
+                "file": "Active Directory Practice/09 Reel/03 Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/01 Getting Started/01 Prior Knowledge.md"
+                "file": "Active Directory Practice/09 Reel/03 Enumeration.md"
               }
             }
           },
@@ -256,23 +256,23 @@
   },
   "active": "27ac60fa14e7bdf0",
   "lastOpenFiles": [
+    "Active Directory Practice/09 Reel/01 Overview.md",
+    "Active Directory Practice/09 Reel/02 Scanning.md",
+    "Active Directory Practice/09 Reel/03 Enumeration.md",
+    "Logrythm/00 301 Administration Fundamentals.md",
+    "Logrythm/01 Getting Started/01 Prior Knowledge.md",
     "Logrythm/00 Images/Pasted image 20240508172849.png",
     "Logrythm/00 Images/Pasted image 20240508172803.png",
     "Logrythm/00 Images/Pasted image 20240508171536.png",
     "Logrythm/00 Images/Pasted image 20240508171515.png",
     "Logrythm/00 Images/Pasted image 20240508171455.png",
     "Logrythm/00 Images/Pasted image 20240508171323.png",
-    "Logrythm/00 301 Administration Fundamentals.md",
-    "Logrythm/01 Getting Started/01 Prior Knowledge.md",
     "Logrythm/01 Getting Started",
     "Active Directory Practice/08 Resolute/02 Scanning.md",
     "Logrythm/00 Images",
     "Logrythm",
     "Active Directory Practice/08 Resolute/03 Enumeration.md",
-    "Active Directory Practice/09 Reel/03 Enumeration.md",
-    "Active Directory Practice/09 Reel/02 Scanning.md",
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240507085045.png",
-    "Active Directory Practice/09 Reel/01 Overview.md",
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240507024218.png",
     "PNPT Chekclists/01 Master Note.md",
     "PNPT Chekclists/02 PEH Checklist.md",
@@ -282,7 +282,6 @@
     "Active Directory Practice/09 Reel",
     "Active Directory Practice/08 Resolute/00 Images/Pasted image 20240507022044.png",
     "Active Directory Practice/08 Resolute/00 Images/Pasted image 20240507021928.png",
-    "Active Directory Practice/08 Resolute/00 Images/Pasted image 20240507021840.png",
     "Windows Enumeration.md",
     "Active Directory Practice/07 Monterverde/03 Enumeration.md",
     "Active Directory Practice/08 Resolute/01 Overview.md",

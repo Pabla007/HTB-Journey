@@ -39,3 +39,8 @@ nico@megabank.com
 ![[Pasted image 20240507085045.png]]
 
 
+It is clear that we have to take the mail path to get something out of it. And if we recall there was a note that they are processing some files with .exe , bat so which means we have to draft a Phising mail to send to Nico and assume that our reverse shell get's executed and we get the shell.
+
+But for that i have take some hello from the walkthrough and how to do it.
+
+
