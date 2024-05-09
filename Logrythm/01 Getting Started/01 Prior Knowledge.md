@@ -40,3 +40,7 @@ System Monitor | Data Processor | Data Indexer
 
 
 AI Engine | Platform Manager | Web Console & Client Console
+![[Pasted image 20240510000551.png]]
+
+**Client Console -** Used to manage all aspects of a deployment, customize different views for analysis and monitoring, and manage investigations.
+
