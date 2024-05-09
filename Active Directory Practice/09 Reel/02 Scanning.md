@@ -128,9 +128,3 @@ OS and Service detection performed. Please report any incorrect results at https
 Nmap done: 1 IP address (1 host up) scanned in 434.15 seconds
 ```
 
-Finally the script ran and we are good to go
-![[Pasted image 20240509172043.png]]
-
-Now we to copy the scripts in reel folder
-
-Now we have the rtf file that we have to send to someone that will contain the link to a HTA file that will than redirect them to a powershell
