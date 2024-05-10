@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/09 Reel/04 Crack the User Password.md",
+                "file": "Logrythm/02 What is SIEM Logrythm/02 Course Legend.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory Practice/09 Reel/04 Crack the User Password.md",
+                "file": "Logrythm/02 What is SIEM Logrythm/02 Course Legend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory Practice/09 Reel/04 Crack the User Password.md",
+                "file": "Logrythm/02 What is SIEM Logrythm/02 Course Legend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory Practice/09 Reel/04 Crack the User Password.md"
+                "file": "Logrythm/02 What is SIEM Logrythm/02 Course Legend.md"
               }
             }
           },
@@ -230,23 +230,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53990ced3d71ad4d",
+  "active": "a59eface60f8c62a",
   "lastOpenFiles": [
+    "Logrythm/02 What is SIEM Logrythm/Untitled",
+    "Logrythm/00 Images/Pasted image 20240510231505.png",
+    "Logrythm/00 Images/Pasted image 20240510231327.png",
+    "Logrythm/02 What is SIEM Logrythm/01 Quiz.md",
+    "Logrythm/02 What is SIEM Logrythm/02 Course Legend.md",
+    "Logrythm/00 301 Administration Fundamentals.md",
+    "Active Directory Practice/09 Reel/04 Crack the User Password.md",
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240510165611.png",
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240510164644.png",
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240510164630.png",
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240510164619.png",
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240510163007.png",
     "Active Directory Practice/09 Reel/03 Enumeration.md",
-    "Active Directory Practice/09 Reel/04 Crack the User Password.md",
     "Active Directory Practice/09 Reel/02 Scanning.md",
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240510130253.png",
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240510125918.png",
     "Active Directory Practice/09 Reel/03.1 Enumeration.md",
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240510124742.png",
-    "Active Directory Practice/09 Reel/00 Images/Pasted image 20240510124556.png",
-    "Active Directory Practice/09 Reel/00 Images/Pasted image 20240510124414.png",
-    "Active Directory Practice/09 Reel/00 Images/Pasted image 20240510123803.png",
     "PNPT Chekclists/00 Checklist.md",
     "Active Directory Practice/09 Reel/01 Overview.md",
     "PNPT Chekclists/01 Master Note.md",
@@ -265,9 +268,6 @@
     "Offer Letter.md",
     "PEH + OSINT.md",
     "PNPT.md",
-    "README.md",
-    "Windows Enumeration.md",
-    "Logrythm/01 Getting Started/01 Prior Knowledge.md",
     "Logrythm/02 What is SIEM Logrythm",
     "Logrythm/01 Getting Started",
     "Logrythm/00 Images",
