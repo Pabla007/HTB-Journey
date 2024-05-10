@@ -90,9 +90,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2fd44b573e9121fd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -230,13 +238,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc7f1c8d6904a49b",
+  "active": "53990ced3d71ad4d",
   "lastOpenFiles": [
+    "Active Directory Practice/09 Reel/03.1 Enumeration.md",
+    "Active Directory Practice/09 Reel/03 Enumeration.md",
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240510015653.png",
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240510014134.png",
     "Active Directory Practice/09 Reel/02 Scanning.md",
-    "Active Directory Practice/09 Reel/03 Enumeration.md",
-    "Active Directory Practice/09 Reel/03.1 Enumeration.md",
     "PNPT Chekclists/00 Checklist.md",
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240510013451.png",
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240509131155.png",
@@ -246,7 +254,6 @@
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240509130445.png",
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240509125558.png",
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240510012644.png",
-    "Active Directory Practice/09 Reel/00 Images/Pasted image 20240507085045.png",
     "Active Directory Practice/09 Reel/01 Overview.md",
     "PNPT Chekclists/01 Master Note.md",
     "Linux Enumeration.md",

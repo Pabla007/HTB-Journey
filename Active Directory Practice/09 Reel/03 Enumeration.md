@@ -47,7 +47,7 @@ But for that i have take some hello from the walkthrough and how to do it.
 
 We can send the mail to nicko using RCPT and we got a OK response.
 
-Will not make a malicious macro word file and wait for it to execute as the user is not using Microsoft word (i.e. using wordpad)
+Will not make a malicious macro word file and wait for it to execute as the user is not using Microsoft word (i.e. using WordPad)
 
 But will learn how to do that for future use.
 
