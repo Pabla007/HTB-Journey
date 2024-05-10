@@ -54,3 +54,11 @@ https://forum.hackthebox.com/t/sharphound-ps1-doesnt-work/266964
 
 ![[Pasted image 20240510163007.png]]
 
+Made a smb share to copy the file
+![[Pasted image 20240510164619.png]]
+![[Pasted image 20240510164630.png]]
+![[Pasted image 20240510164644.png]]
+
+Will filter the data and see what data or info we get out of it.
+![[Pasted image 20240510165611.png]]
+
