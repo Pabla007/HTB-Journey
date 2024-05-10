@@ -62,3 +62,27 @@ Made a smb share to copy the file
 Will filter the data and see what data or info we get out of it.
 ![[Pasted image 20240510165611.png]]
 
+After adding a filter we get a objectname herman@HTB.local who has write access.
+![[Pasted image 20240511021329.png]]
+
+
+```
+ObjectName	ObjectType	ObjectGuid	PrincipalName	PrincipalType	ActiveDirectoryRights	ACEType	AccessControlType	IsInherited
+
+herman@HTB.LOCAL	USER		nico@HTB.LOCAL	USER	WriteOwner		AccessAllowed	False
+```
+
+And Tom has write write access onver clair
+![[Pasted image 20240511021637.png]]
+
+And if we search with a Claire than we can say that it has access to Backup_Admins@HTB_LOCAL
+![[Pasted image 20240511021845.png]]
+
+
+```
+net groups /domain
+```
+![[Pasted image 20240511023040.png]]
+
+![[Pasted image 20240511023923.png]]
+

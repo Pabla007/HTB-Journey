@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/02 Parsing & Data Normalization.md",
+                "file": "Active Directory Practice/09 Reel/04 Crack the User Password.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/02 Parsing & Data Normalization.md",
+                "file": "Active Directory Practice/09 Reel/04 Crack the User Password.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/02 Parsing & Data Normalization.md",
+                "file": "Active Directory Practice/09 Reel/04 Crack the User Password.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/02 Parsing & Data Normalization.md"
+                "file": "Active Directory Practice/09 Reel/04 Crack the User Password.md"
               }
             }
           },
@@ -232,6 +232,9 @@
   },
   "active": "53990ced3d71ad4d",
   "lastOpenFiles": [
+    "Active Directory Practice/09 Reel/00 Images/Pasted image 20240511023923.png",
+    "Active Directory Practice/09 Reel/00 Images/Pasted image 20240511023040.png",
+    "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/02 Parsing & Data Normalization.md",
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240511021845.png",
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240511021637.png",
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240511021529.png",
@@ -241,10 +244,7 @@
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240511021451.png",
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240511021329.png",
     "Logrythm/00 Images/Pasted image 20240511020426.png",
-    "Logrythm/00 Images/Pasted image 20240511020150.png",
-    "Logrythm/00 Images/Pasted image 20240511020129.png",
     "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/01 Data Collection.md",
-    "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/02 Parsing & Data Normalization.md",
     "Logrythm/02 What is SIEM Logrythm/02 Course Legend.md",
     "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection",
     "Logrythm/02 What is SIEM Logrythm/01 Quiz.md",

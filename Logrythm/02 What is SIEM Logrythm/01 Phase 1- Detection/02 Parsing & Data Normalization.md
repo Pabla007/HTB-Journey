@@ -89,19 +89,3 @@ To learn more about LogRhythm's parsing tools, visit [https://docs.logrhythm.co
 **For LogRhythm's Data Normalization tools, search Data Processor, Metadata Fields, or Normalization.**
 ```
 
-After adding a filter we get a objectname herman@HTB.local who has write access.
-![[Pasted image 20240511021329.png]]
-
-
-```
-ObjectName	ObjectType	ObjectGuid	PrincipalName	PrincipalType	ActiveDirectoryRights	ACEType	AccessControlType	IsInherited
-
-herman@HTB.LOCAL	USER		nico@HTB.LOCAL	USER	WriteOwner		AccessAllowed	False
-```
-
-And Tom has write write access onver clair
-![[Pasted image 20240511021637.png]]
-
-And if we search with a Claire than we can say that it has access to Backup_Admins@HTB_LOCAL
-![[Pasted image 20240511021845.png]]
-
