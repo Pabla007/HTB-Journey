@@ -49,3 +49,8 @@ Not able to run the Bloodhound from the sharp hound function will see what mista
 Invoke-BloodHound -CollectionMethod All
 ```
 
+We don't have to run this as there is some problem with .net version so will simply download the acl something from the tom
+https://forum.hackthebox.com/t/sharphound-ps1-doesnt-work/266964
+
+![[Pasted image 20240510163007.png]]
+
