@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/02 Parsing & Data Normalization.md",
+                "file": "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/04 Detection.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/02 Parsing & Data Normalization.md",
+                "file": "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/04 Detection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/02 Parsing & Data Normalization.md",
+                "file": "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/04 Detection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/02 Parsing & Data Normalization.md"
+                "file": "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/04 Detection.md"
               }
             }
           },
@@ -232,18 +232,21 @@
   },
   "active": "53990ced3d71ad4d",
   "lastOpenFiles": [
+    "Pasted image 20240511160957.png",
+    "Pasted image 20240511160853.png",
+    "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/03 Event Correlation.md",
+    "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/04 Detection.md",
+    "Pasted image 20240511160431.png",
+    "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/02 Parsing & Data Normalization.md",
     "Active Directory Practice/09 Reel/04 Crack the User Password.md",
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240511023923.png",
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240511023040.png",
-    "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/02 Parsing & Data Normalization.md",
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240511021845.png",
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240511021637.png",
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240511021529.png",
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240511021513.png",
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240511021500.png",
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240511021457.png",
-    "Active Directory Practice/09 Reel/00 Images/Pasted image 20240511021451.png",
-    "Active Directory Practice/09 Reel/00 Images/Pasted image 20240511021329.png",
     "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/01 Data Collection.md",
     "Logrythm/02 What is SIEM Logrythm/02 Course Legend.md",
     "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection",
@@ -266,8 +269,6 @@
     "Try Hack Me/07 Holo/Task 15 - Docker Situational Awareness.md",
     "Active Directory/01 Active Directory Lab Build.md",
     "Active Directory/00 Active Directory Contents.md",
-    "Obsidian CSS.md",
-    "Offer Letter.md",
     "Logrythm/02 What is SIEM Logrythm",
     "Logrythm/01 Getting Started",
     "Logrythm/00 Images",
