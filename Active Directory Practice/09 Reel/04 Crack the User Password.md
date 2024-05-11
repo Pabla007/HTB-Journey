@@ -85,4 +85,3 @@ net groups /domain
 ![[Pasted image 20240511023040.png]]
 
 ![[Pasted image 20240511023923.png]]
-
