@@ -79,7 +79,6 @@ If two systems use different metadata field names for the same information, the 
 
 **Parsing** and **Data Normalization** enable the **detection** of problematic patterns in the data, making it possible to identify and address issues effectively.
 
-
 ![[Pasted image 20240511020426.png]]
 
 
