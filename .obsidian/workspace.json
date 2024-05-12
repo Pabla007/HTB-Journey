@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/02 What is SIEM Logrythm/03 Phase 3 - Response/01 Manual or Automated.md",
+                "file": "Logrythm/02 What is SIEM Logrythm/Final Quiz.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Pasted image 20240509130445",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/02 What is SIEM Logrythm/03 Phase 3 - Response/01 Manual or Automated.md",
+                "file": "Logrythm/02 What is SIEM Logrythm/Final Quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/02 What is SIEM Logrythm/03 Phase 3 - Response/01 Manual or Automated.md",
+                "file": "Logrythm/02 What is SIEM Logrythm/Final Quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/02 What is SIEM Logrythm/03 Phase 3 - Response/01 Manual or Automated.md"
+                "file": "Logrythm/02 What is SIEM Logrythm/Final Quiz.md"
               }
             }
           },
@@ -232,32 +232,35 @@
   },
   "active": "53990ced3d71ad4d",
   "lastOpenFiles": [
-    "Logrythm/00 Images/Pasted image 20240512143131.png",
+    "Logrythm/00 Images/Pasted image 20240512180014.png",
     "Logrythm/02 What is SIEM Logrythm/02 Phase 2- Analysis/04 Review- Analysis.md",
-    "Logrythm/02 What is SIEM Logrythm/03 Phase 3 - Response/01 Manual or Automated.md",
-    "Logrythm/02 What is SIEM Logrythm/03 Phase 3 - Response",
-    "Logrythm/00 Images/Pasted image 20240512141230.png",
-    "Logrythm/00 Images/Pasted image 20240512141131.png",
-    "Logrythm/00 Images/Pasted image 20240512140859.png",
-    "Logrythm/00 Images/Pasted image 20240511195103.png",
-    "Logrythm/00 Images/Pasted image 20240511162932.png",
-    "Logrythm/00 Images/Pasted image 20240511162753.png",
-    "Logrythm/00 Images/Pasted image 20240511162649.png",
-    "Logrythm/00 Images/Pasted image 20240511160431.png",
     "Logrythm/02 What is SIEM Logrythm/02 Phase 2- Analysis/03 Forensic Investigation.md",
     "Logrythm/02 What is SIEM Logrythm/02 Phase 2- Analysis/02 Reporting.md",
-    "Logrythm/00 Images/Pasted image 20240511194107.png",
     "Logrythm/02 What is SIEM Logrythm/02 Phase 2- Analysis/01 Alarming.md",
-    "Logrythm/00 Images/Pasted image 20240511193524.png",
-    "Logrythm/02 What is SIEM Logrythm/02 Course Legend.md",
-    "Logrythm/02 What is SIEM Logrythm/02 Phase 2- Analysis",
-    "Logrythm/02 What is SIEM Logrythm/Untitled.md",
-    "Logrythm/02 What is SIEM Logrythm/01 Quiz.md",
     "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/04 Detection.md",
     "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/03 Event Correlation.md",
     "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/02 Parsing & Data Normalization.md",
-    "Active Directory Practice/09 Reel/04 Crack the User Password.md",
     "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/01 Data Collection.md",
+    "Logrythm/02 What is SIEM Logrythm/Final Quiz.md",
+    "Logrythm/00 Images/Pasted image 20240512175229.png",
+    "Logrythm/02 What is SIEM Logrythm/04 Logrythm's SIEM Solution/01 Connect SIEM Terms to Logrythm Tools.md",
+    "Logrythm/00 Images/Pasted image 20240512175125.png",
+    "Logrythm/00 Images/Pasted image 20240512174845.png",
+    "Logrythm/02 What is SIEM Logrythm/04 Logrythm's SIEM Solution",
+    "Logrythm/02 What is SIEM Logrythm/03 Phase 3 - Response/02 Review Response.md",
+    "Logrythm/00 Images/Pasted image 20240512174409.png",
+    "Logrythm/00 Images/Pasted image 20240512174321.png",
+    "Logrythm/00 Images/Pasted image 20240512174255.png",
+    "Logrythm/00 Images/Pasted image 20240512174208.png",
+    "Logrythm/02 What is SIEM Logrythm/03 Phase 3 - Response/01 Manual or Automated.md",
+    "Logrythm/00 Images/Pasted image 20240512174000.png",
+    "Logrythm/00 Images/Pasted image 20240512143131.png",
+    "Logrythm/02 What is SIEM Logrythm/03 Phase 3 - Response",
+    "Logrythm/00 Images/Pasted image 20240512141230.png",
+    "Logrythm/02 What is SIEM Logrythm/02 Course Legend.md",
+    "Logrythm/02 What is SIEM Logrythm/02 Phase 2- Analysis",
+    "Logrythm/02 What is SIEM Logrythm/01 Quiz.md",
+    "Active Directory Practice/09 Reel/04 Crack the User Password.md",
     "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection",
     "Logrythm/00 301 Administration Fundamentals.md",
     "Active Directory Practice/09 Reel/03 Enumeration.md",
@@ -269,15 +272,12 @@
     "Linux Enumeration.md",
     "host file.md",
     "07 How to close the VPN completely.md",
-    "03 Internal Attacks.md",
-    "Assessment/07 SQL Injection.md",
     "Logrythm/02 What is SIEM Logrythm",
     "Logrythm/01 Getting Started",
     "Logrythm/00 Images",
     "Logrythm",
     "Active Directory Practice/09 Reel/00 Images",
     "Active Directory Practice/09 Reel",
-    "Active Directory Practice/08 Resolute/00 Images",
     "Active Directory Practice/07 Monterverde/Untitled.canvas"
   ]
 }

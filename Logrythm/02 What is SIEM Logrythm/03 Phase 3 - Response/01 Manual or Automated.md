@@ -40,3 +40,9 @@ An automated SIEM Response is pre-configured and can run automatically without a
 
 Using a SIEM for **Response** allows an Analyst to pre-configure common Responses and access infrastructure to make changes or update detection rules.
 
+
+![[Pasted image 20240512174000.png]]
+
+
+To learn more about LogRhythm's Response tools, visit [docs.logrhythm.com/lrsiem(opens in a new tab)](https://docs.logrhythm.com/lrsiem/) and search **SmartResponse.**
+
