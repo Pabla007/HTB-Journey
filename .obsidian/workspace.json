@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/02 What is SIEM Logrythm/02 Phase 2- Analysis/03 Forensic Investigation.md",
+                "file": "Logrythm/02 What is SIEM Logrythm/02 Phase 2- Analysis/04 Review- Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/02 What is SIEM Logrythm/02 Phase 2- Analysis/03 Forensic Investigation.md",
+                "file": "Logrythm/02 What is SIEM Logrythm/02 Phase 2- Analysis/04 Review- Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/02 What is SIEM Logrythm/02 Phase 2- Analysis/03 Forensic Investigation.md",
+                "file": "Logrythm/02 What is SIEM Logrythm/02 Phase 2- Analysis/04 Review- Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/02 What is SIEM Logrythm/02 Phase 2- Analysis/03 Forensic Investigation.md"
+                "file": "Logrythm/02 What is SIEM Logrythm/02 Phase 2- Analysis/04 Review- Analysis.md"
               }
             }
           },
@@ -232,6 +232,7 @@
   },
   "active": "53990ced3d71ad4d",
   "lastOpenFiles": [
+    "Logrythm/02 What is SIEM Logrythm/02 Phase 2- Analysis/03 Forensic Investigation.md",
     "Pasted image 20240511195103.png",
     "Logrythm/02 What is SIEM Logrythm/02 Phase 2- Analysis/02 Reporting.md",
     "Pasted image 20240511194107.png",
@@ -239,7 +240,6 @@
     "Pasted image 20240511193524.png",
     "Pasted image 20240511193034.png",
     "Logrythm/02 What is SIEM Logrythm/02 Phase 2- Analysis/04 Review- Analysis.md",
-    "Logrythm/02 What is SIEM Logrythm/02 Phase 2- Analysis/03 Forensic Investigation.md",
     "Logrythm/02 What is SIEM Logrythm/02 Course Legend.md",
     "Logrythm/02 What is SIEM Logrythm/02 Phase 2- Analysis",
     "Logrythm/02 What is SIEM Logrythm/Untitled.md",
@@ -254,7 +254,6 @@
     "Pasted image 20240511160431.png",
     "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/02 Parsing & Data Normalization.md",
     "Active Directory Practice/09 Reel/04 Crack the User Password.md",
-    "Active Directory Practice/09 Reel/00 Images/Pasted image 20240511023923.png",
     "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/01 Data Collection.md",
     "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection",
     "Logrythm/00 301 Administration Fundamentals.md",
