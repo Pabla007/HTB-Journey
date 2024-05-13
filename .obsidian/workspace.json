@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/301 Administration Fundamentals/01 Getting Started/02 Labs & Student Guides.md",
+                "file": "Active Directory Practice/09 Reel/05 Escalate.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/301 Administration Fundamentals/01 Getting Started/02 Labs & Student Guides.md",
+                "file": "Active Directory Practice/09 Reel/05 Escalate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/301 Administration Fundamentals/01 Getting Started/02 Labs & Student Guides.md",
+                "file": "Active Directory Practice/09 Reel/05 Escalate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/301 Administration Fundamentals/01 Getting Started/02 Labs & Student Guides.md"
+                "file": "Active Directory Practice/09 Reel/05 Escalate.md"
               }
             }
           },
@@ -230,10 +230,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a59eface60f8c62a",
+  "active": "53990ced3d71ad4d",
   "lastOpenFiles": [
-    "Logrythm/301 Administration Fundamentals/01 Getting Started/01 Introduction to Course.md",
+    "Active Directory Practice/09 Reel/00 Images/Pasted image 20240514040453.png",
+    "Active Directory Practice/09 Reel/00 Images/Pasted image 20240514040331.png",
+    "Active Directory Practice/09 Reel/00 Images/Pasted image 20240514035852.png",
+    "Active Directory Practice/09 Reel/05 Escalate.md",
+    "Active Directory Practice/09 Reel/04 Crack the User Password.md",
+    "Active Directory Practice/09 Reel/03 Enumeration.md",
     "Logrythm/301 Administration Fundamentals/01 Getting Started/02 Labs & Student Guides.md",
+    "Logrythm/301 Administration Fundamentals/01 Getting Started/01 Introduction to Course.md",
     "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/02 Parsing & Data Normalization.md",
     "Logrythm/301 Administration Fundamentals/01 Getting Started",
     "Logrythm/301 Administration Fundamentals",
@@ -257,23 +263,17 @@
     "Logrythm/00 Images/Pasted image 20240512174255.png",
     "Logrythm/00 Images/Pasted image 20240512174208.png",
     "Logrythm/02 What is SIEM Logrythm/03 Phase 3 - Response/01 Manual or Automated.md",
-    "Logrythm/00 Images/Pasted image 20240512174000.png",
-    "Logrythm/00 Images/Pasted image 20240512143131.png",
     "Logrythm/02 What is SIEM Logrythm/03 Phase 3 - Response",
     "Logrythm/02 What is SIEM Logrythm/02 Course Legend.md",
     "Logrythm/02 What is SIEM Logrythm/02 Phase 2- Analysis",
     "Logrythm/02 What is SIEM Logrythm/01 Quiz.md",
-    "Active Directory Practice/09 Reel/04 Crack the User Password.md",
     "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection",
     "Logrythm/00 301 Administration Fundamentals.md",
-    "Active Directory Practice/09 Reel/03 Enumeration.md",
     "Active Directory Practice/09 Reel/02 Scanning.md",
     "Active Directory Practice/09 Reel/03.1 Enumeration.md",
     "PNPT Chekclists/00 Checklist.md",
     "Active Directory Practice/09 Reel/01 Overview.md",
     "PNPT Chekclists/01 Master Note.md",
-    "Linux Enumeration.md",
-    "host file.md",
     "Logrythm/02 What is SIEM Logrythm",
     "Logrythm/01 Getting Started",
     "Logrythm/00 Images",
