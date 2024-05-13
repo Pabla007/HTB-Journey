@@ -62,5 +62,30 @@ Get-DomainGroup -MemberIdentity Herman | select samaccountname
 ```
 ![[Pasted image 20240514043838.png]]
 
-I don
+I don't know but i have to run the script again in order to get it work
 ![[Pasted image 20240514044804.png]]
+
+Will ssh to Herman again 
+![[Pasted image 20240514045031.png]]
+but we don't have the access to root.txt
+
+Than simply means that we have to hassle a little more to get the password.
+![[Pasted image 20240514045317.png]]
+If you see we have a backup scripts folder which looks suspicious to me and i have a hunch that we will get something from here.
+```
+type * | findstr password
+```
+![[Pasted image 20240514045415.png]]
+
+```
+Cr4ckMeIfYouC4n!
+```
+
+And if we do ssh to the administrator
+![[Pasted image 20240514045712.png]]
+
+We can read the root flag
+```
+876b2385b3deed360e94b0276029e5f5
+```
+

@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/09 Reel/05 Escalate.md",
+                "file": "Active Directory Practice/10 Mantis/03 Enumeration.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory Practice/09 Reel/05 Escalate.md",
+                "file": "Active Directory Practice/10 Mantis/03 Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory Practice/09 Reel/05 Escalate.md",
+                "file": "Active Directory Practice/10 Mantis/03 Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory Practice/09 Reel/05 Escalate.md"
+                "file": "Active Directory Practice/10 Mantis/03 Enumeration.md"
               }
             }
           },
@@ -232,16 +232,22 @@
   },
   "active": "53990ced3d71ad4d",
   "lastOpenFiles": [
+    "Active Directory Practice/10 Mantis/01 Overview.md",
+    "Active Directory Practice/10 Mantis/02 Scanning.md",
+    "Active Directory Practice/10 Mantis/03 Enumeration.md",
+    "Active Directory Practice/09 Reel/05 Escalate.md",
+    "Active Directory Practice/10 Mantis/00 Images",
+    "Active Directory Practice/10 Mantis",
+    "Active Directory Practice/09 Reel/00 Images/Pasted image 20240514045712.png",
+    "Active Directory Practice/09 Reel/00 Images/Pasted image 20240514045415.png",
+    "Active Directory Practice/09 Reel/00 Images/Pasted image 20240514045317.png",
+    "Active Directory Practice/09 Reel/00 Images/Pasted image 20240514045031.png",
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240514044804.png",
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240514043838.png",
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240514043644.png",
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240514043417.png",
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240514043326.png",
     "Active Directory Practice/09 Reel/00 Images/Pasted image 20240514042312.png",
-    "Active Directory Practice/09 Reel/00 Images/Pasted image 20240514040453.png",
-    "Active Directory Practice/09 Reel/00 Images/Pasted image 20240514040331.png",
-    "Active Directory Practice/09 Reel/00 Images/Pasted image 20240514035852.png",
-    "Active Directory Practice/09 Reel/05 Escalate.md",
     "Active Directory Practice/09 Reel/04 Crack the User Password.md",
     "Active Directory Practice/09 Reel/03 Enumeration.md",
     "Logrythm/301 Administration Fundamentals/01 Getting Started/02 Labs & Student Guides.md",
@@ -250,7 +256,6 @@
     "Logrythm/301 Administration Fundamentals/01 Getting Started",
     "Logrythm/301 Administration Fundamentals",
     "Logrythm/02 What is SIEM Logrythm/Final Quiz.md",
-    "Logrythm/00 Images/Pasted image 20240512180014.png",
     "Logrythm/02 What is SIEM Logrythm/02 Phase 2- Analysis/04 Review- Analysis.md",
     "Logrythm/02 What is SIEM Logrythm/02 Phase 2- Analysis/03 Forensic Investigation.md",
     "Logrythm/02 What is SIEM Logrythm/02 Phase 2- Analysis/02 Reporting.md",
@@ -258,7 +263,6 @@
     "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/04 Detection.md",
     "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/03 Event Correlation.md",
     "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/01 Data Collection.md",
-    "Logrythm/00 Images/Pasted image 20240512175229.png",
     "Logrythm/02 What is SIEM Logrythm/04 Logrythm's SIEM Solution/01 Connect SIEM Terms to Logrythm Tools.md",
     "Logrythm/02 What is SIEM Logrythm/04 Logrythm's SIEM Solution",
     "Logrythm/02 What is SIEM Logrythm/03 Phase 3 - Response/02 Review Response.md",
@@ -272,12 +276,8 @@
     "Active Directory Practice/09 Reel/02 Scanning.md",
     "Active Directory Practice/09 Reel/03.1 Enumeration.md",
     "PNPT Chekclists/00 Checklist.md",
-    "Active Directory Practice/09 Reel/01 Overview.md",
-    "PNPT Chekclists/01 Master Note.md",
     "Logrythm/02 What is SIEM Logrythm",
     "Logrythm/01 Getting Started",
-    "Logrythm/00 Images",
-    "Logrythm",
     "Active Directory Practice/07 Monterverde/Untitled.canvas"
   ]
 }
