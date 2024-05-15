@@ -22,3 +22,29 @@ As discussed, using a service account with appropriate permissions, will allow a
 
 
 
+## Syslog Relays
+
+**Syslog Relays**
+
+Every System Monitor supports collection of Syslog data direct from devices, servers, and applications, or from a Syslog Relay, such as Syslog-NG or rSyslog device. 
+
+The LogRhythm System Monitor requires that the Syslog Relay's IP address be provided, so that the individual Syslog messages can be identified correctly for each Syslog source. When the System Monitor sees an IP listed here, it uses special parsing to determine the true source of the log.
+
+LogRhythm processes each log message individually. If a Syslog message is provided by a Syslog Relay, the Message Processing Engine (MPE) must be able to identify where each log message originated from. Using a router or firewall as an example, the MPE must be able to look past a router/firewall IP address and identify the hosts generating the traffic. If this differentiation did not occur, every log message would appear to originate from the router/firewall.
+
+System Monitors can be configured to listen for Syslog messages on multiple network interface cards (NICs), allowing for versatility in deployments and a maximized collection from Syslog feeds.
+
+
+
+## Flow Data
+
+**Flow Data**  
+NetFlow, sFlow, and J-Flow are network protocols that capture IP traffic information on a network, typically used to monitor network traffic and perform statistical analysis of network usage. These protocols are supported by many network devices, such as Juniper (J-Flow), Cisco (NetFlow), and others.
+
+System Monitors can collect NetFlow, sFlow, and J-Flow data. To collect this information, a Pro licensed System Monitor's NetFlow, J-Flow, or sFlow Server must be enabled in the System Monitor Agent Properties window.  
+
+Most Flow data will be collected and stored in the Archives only and will not be forwarded to the Platform Manager as Events, by default.
+
+LogRhythm's Network Monitor can collect and provide Flow data to the LogRhythm Platform, although this data is not transmitted as Flow data. The Network Monitor repackages this data as Syslog and transmits that data across the normal Syslog channel.
+
+
