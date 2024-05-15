@@ -9,3 +9,8 @@ This is used for brand-new Agents. Once you have installed LogRhythm Agent and c
 
 ![[Pasted image 20240514144559.png]]
 
+
+![[Pasted image 20240515103841.png]]
+
+![[Pasted image 20240515104012.png]]
+

@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/LogRhythm/01 LogRhythm SIEM Fundamentals/03 What is SIEM/01 What is a SIEM.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/06 Licensing newly accepted Agents.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/LogRhythm/01 LogRhythm SIEM Fundamentals/03 What is SIEM/01 What is a SIEM.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/06 Licensing newly accepted Agents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/LogRhythm/01 LogRhythm SIEM Fundamentals/03 What is SIEM/01 What is a SIEM.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/06 Licensing newly accepted Agents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/LogRhythm/01 LogRhythm SIEM Fundamentals/03 What is SIEM/01 What is a SIEM.md"
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/06 Licensing newly accepted Agents.md"
               }
             }
           },
@@ -218,8 +218,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a59eface60f8c62a",
+  "active": "53990ced3d71ad4d",
   "lastOpenFiles": [
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240515105148.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/05 Agent Onboarding.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/06 Licensing newly accepted Agents.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/Untitled",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240515104012.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/01 System Monitors.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240515103841.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/04 Agent Installation & Configuration.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/03 Installation Location.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/02 Agent Fundamentals.md",
+    "Logrythm/LogRhythm/Logrhythm 301/01 LogRhythm 301.md",
+    "Logrythm/LogRhythm/Logrhythm 301/Registration Error.md",
+    "Logrythm/00 301 Administration Fundamentals.md",
+    "Logrythm/LogRhythm/01 LogRhythm SIEM Fundamentals/03 What is SIEM/01 What is a SIEM.md",
     "Logrythm/LogRhythm/01 LogRhythm SIEM Fundamentals/02 Deal Registration Process/01 Deal Registration Process.md",
     "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/02 Parsing & Data Normalization.md",
     "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/01 Data Collection.md",
@@ -229,11 +243,6 @@
     "Logrythm/LogRhythm/01 LogRhythm SIEM Fundamentals/01 Partnering with LogRhythm/01 LogRhythm Buyer Personas, Questions, and Objections.md",
     "Logrythm/301 Administration Fundamentals/01 Getting Started/02 Labs & Student Guides.md",
     "Logrythm/301 Administration Fundamentals/01 Getting Started/01 Introduction to Course.md",
-    "Logrythm/LogRhythm/Logrhythm 301/01 LogRhythm 301.md",
-    "Logrythm/LogRhythm/Logrhythm 301/Registration Error.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/05 Agent Onboarding.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/04 Agent Installation & Configuration.md",
-    "Logrythm/00 301 Administration Fundamentals.md",
     "Logrythm/LogRhythm/Logrhythm 301",
     "Logrythm/LogRhythm/301 Administration Fundamentals/07 User, Profiles and Permissions",
     "Logrythm/LogRhythm/301 Administration Fundamentals/06 Advanced Log Collection",
@@ -241,31 +250,22 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources",
     "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding",
     "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/03 Installation Location.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/02 Agent Fundamentals.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/01 System Monitors.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240514144559.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240514144153.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240514143941.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240514143243.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240514131156.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240514121612.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240513104042.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240513103653.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors",
     "Logrythm/LogRhythm/301 Administration Fundamentals/Introduction to the Course.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images",
-    "Logrythm/LogRhythm/301 Administration Fundamentals",
     "Logrythm/LogRhythm/01 LogRhythm SIEM Fundamentals/03 What is SIEM/07 Battlecard Walkthrough.md",
     "Logrythm/LogRhythm/01 LogRhythm SIEM Fundamentals/03 What is SIEM/06 LogRhythm SIEM Customer Value Stories.md",
     "Logrythm/LogRhythm/01 LogRhythm SIEM Fundamentals/03 What is SIEM/05 Case study The Football Association Deploys LogRhythm.md",
     "Logrythm/LogRhythm/01 LogRhythm SIEM Fundamentals/03 What is SIEM/04 LogRhythm In Action.md",
     "Logrythm/LogRhythm/01 LogRhythm SIEM Fundamentals/03 What is SIEM/03 LogRhythm SIEM.md",
     "Logrythm/LogRhythm/01 LogRhythm SIEM Fundamentals/03 What is SIEM/02 LogRhythm SIEM vs. Shopping Mall.md",
-    "Logrythm/LogRhythm/01 LogRhythm SIEM Fundamentals/03 What is SIEM/01 What is a SIEM.md",
     "Logrythm/LogRhythm/01 LogRhythm SIEM Fundamentals/LogRythm Resources.md",
-    "Logrythm/LogRhythm/01 LogRhythm SIEM Fundamentals/03 Video.md",
-    "Logrythm/LogRhythm/01 LogRhythm SIEM Fundamentals/01 LogRhythm SIEM Course Pathway.md",
     "Active Directory Practice/07 Monterverde/Untitled.canvas"
   ]
 }
