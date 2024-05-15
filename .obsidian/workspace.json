@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/10 Mantis/02 Scanning.md",
+                "file": "Active Directory Practice/10 Mantis/01 Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory Practice/10 Mantis/02 Scanning.md",
+                "file": "Active Directory Practice/10 Mantis/01 Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory Practice/10 Mantis/02 Scanning.md",
+                "file": "Active Directory Practice/10 Mantis/01 Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory Practice/10 Mantis/02 Scanning.md"
+                "file": "Active Directory Practice/10 Mantis/01 Overview.md"
               }
             }
           },
@@ -220,9 +220,13 @@
   },
   "active": "53990ced3d71ad4d",
   "lastOpenFiles": [
-    "Active Directory Practice/10 Mantis/01 Overview.md",
+    "Active Directory Practice/10 Mantis/00 Images/Pasted image 20240515234931.png",
+    "Active Directory Practice/10 Mantis/00 Images/Pasted image 20240515234640.png",
+    "Active Directory Practice/10 Mantis/00 Images/Pasted image 20240515234614.png",
     "Active Directory Practice/10 Mantis/02 Scanning.md",
     "Active Directory Practice/10 Mantis/03 Enumeration.md",
+    "Active Directory Practice/10 Mantis/01 Overview.md",
+    "Active Directory Practice/10 Mantis/00 Images/Pasted image 20240515233953.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/13 Knowledge Check.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/09 System Monitor  Configuration Policy Manager.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/01 System Monitors.md",
@@ -235,10 +239,7 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240515152657.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240515151905.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240515151514.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240515151448.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/10 System Monitor Package Manager.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240515145351.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240515145238.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/08 Remote Collection Configuration.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/07 Service Accounts.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/06 Licensing newly accepted Agents.md",
@@ -256,7 +257,6 @@
     "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/01 Data Collection.md",
     "Logrythm/01 Getting Started/01 Prior Knowledge.md",
     "Logrythm/LogRhythm/01 LogRhythm SIEM Fundamentals/01 Partnering with LogRhythm/01 LogRhythm Buyer Personas, Questions, and Objections.md",
-    "Logrythm/301 Administration Fundamentals/01 Getting Started/02 Labs & Student Guides.md",
     "Logrythm/LogRhythm/Logrhythm 301",
     "Logrythm/LogRhythm/301 Administration Fundamentals/07 User, Profiles and Permissions",
     "Logrythm/LogRhythm/301 Administration Fundamentals/06 Advanced Log Collection",
