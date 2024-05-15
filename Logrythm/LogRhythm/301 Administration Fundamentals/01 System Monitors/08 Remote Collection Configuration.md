@@ -48,3 +48,18 @@ Most Flow data will be collected and stored in the Archives only and will not be
 LogRhythm's Network Monitor can collect and provide Flow data to the LogRhythm Platform, although this data is not transmitted as Flow data. The Network Monitor repackages this data as Syslog and transmits that data across the normal Syslog channel.
 
 
+## API Log Collection
+
+For select log sources, a System Monitor Agent installed on Windows is capable of remotely collecting logs via API connection.
+
+Log source specific .ini files are available in a _config_ folder within the installation directory of a System Monitor Agent and require information to be populated in these files specific to the log source connection. 
+
+Once populated, the path to an .ini file is entered into a File Path field of the respective log source.
+
+![[Pasted image 20240515144140.png | 400]]
+
+## LogRhythm Documentation: API Log Collection
+
+To assist with collection configurations for various API log sources, LogRhythm’s Online Documentation (https://docs.logrhythm.com/) contains a Device Configuration section that outlines required steps for many of these sources.
+
+

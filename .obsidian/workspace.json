@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/08 Remote Collection Configuration.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/11 Endpoint Monitoring.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/08 Remote Collection Configuration.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/11 Endpoint Monitoring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/08 Remote Collection Configuration.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/11 Endpoint Monitoring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/08 Remote Collection Configuration.md"
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/11 Endpoint Monitoring.md"
               }
             }
           },
@@ -220,21 +220,25 @@
   },
   "active": "53990ced3d71ad4d",
   "lastOpenFiles": [
+    "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/10 System Monitor Package Manager.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/11 Endpoint Monitoring.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240515145351.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240515145238.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/09 System Monitor  Configuration Policy Manager.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240515144431.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/08 Remote Collection Configuration.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240515144140.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240515122205.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240515114934.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/07 Service Accounts.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/08 Remote Collection Configuration.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240515114524.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240515114434.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240515113849.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/06 Licensing newly accepted Agents.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240515105510.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240515105148.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/05 Agent Onboarding.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/Untitled",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240515104012.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/01 System Monitors.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240515103841.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/04 Agent Installation & Configuration.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/03 Installation Location.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/02 Agent Fundamentals.md",
@@ -246,8 +250,6 @@
     "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/02 Parsing & Data Normalization.md",
     "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/01 Data Collection.md",
     "Logrythm/01 Getting Started/01 Prior Knowledge.md",
-    "Logrythm/00 Images/Pasted image 20240508171323.png",
-    "Logrythm/00 Images/Pasted image 20240508171455.png",
     "Logrythm/LogRhythm/01 LogRhythm SIEM Fundamentals/01 Partnering with LogRhythm/01 LogRhythm Buyer Personas, Questions, and Objections.md",
     "Logrythm/301 Administration Fundamentals/01 Getting Started/02 Labs & Student Guides.md",
     "Logrythm/301 Administration Fundamentals/01 Getting Started/01 Introduction to Course.md",
@@ -264,8 +266,6 @@
     "Logrythm/LogRhythm/01 LogRhythm SIEM Fundamentals/03 What is SIEM/07 Battlecard Walkthrough.md",
     "Logrythm/LogRhythm/01 LogRhythm SIEM Fundamentals/03 What is SIEM/06 LogRhythm SIEM Customer Value Stories.md",
     "Logrythm/LogRhythm/01 LogRhythm SIEM Fundamentals/03 What is SIEM/05 Case study The Football Association Deploys LogRhythm.md",
-    "Logrythm/LogRhythm/01 LogRhythm SIEM Fundamentals/03 What is SIEM/04 LogRhythm In Action.md",
-    "Logrythm/LogRhythm/01 LogRhythm SIEM Fundamentals/03 What is SIEM/03 LogRhythm SIEM.md",
     "Active Directory Practice/07 Monterverde/Untitled.canvas"
   ]
 }
