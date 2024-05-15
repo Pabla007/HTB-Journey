@@ -118,6 +118,14 @@ james@htb.local
 J@m3s_P@ssW0rd!
 ```
 
+```
+admin
+```
+
+```
+AL1337E2D6YHm0iIysVzG8LA76OozgMSlyOJk1Ov5WCGK+lgKY6vrQuswfWHKZn2+A==
+```
+
 ![[Pasted image 20240516015649.png]]
 
 
@@ -125,4 +133,13 @@ J@m3s_P@ssW0rd!
 crackmapexec smb 10.10.10.52 -u james -p 'J@m3s_P@ssW0rd!' --shares
 ```
 ![[Pasted image 20240516015931.png]]
+
+I have not able to get shell with evil-winrm or psexec let's change the approach and try 
+ldap and bloodhound.
+
+
+```
+bloodhound-python -d htb.local -u james -p 'J@m3s_P@ssW0rd!' -ns 10.10.10.52 -c all 
+```
+![[Pasted image 20240516022525.png]]
 
