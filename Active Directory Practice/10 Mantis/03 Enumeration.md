@@ -78,7 +78,20 @@ crackmapexec smb 10.10.10.52 -u ~root/HackTheBox/Mantis/valid_user.txt -p m$$ql_
 
 We have to login into the sql server and i have to find the command for it
 
+Tried this command but it didn't worked
 ```
-mysql -h 10.10.10.52 -u admin -p 'm$$ql_S@_P@ssW0rd!'
+mysql -h 10.10.10.52 -P 50255 -u admin -p 'm$$ql_S@_P@ssW0rd!'
 ```
 
+I have installed a GUI base software to handle this stuff
+![[Pasted image 20240516011427.png]]
+
+
+![[Pasted image 20240516013029.png]]
+
+
+```
+Hostname: 10.10.10.52
+Database: orcharddb
+Password: m$$ql_S@_P@ssW0rd!
+```
