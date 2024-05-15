@@ -95,3 +95,51 @@ Each FIM policy contains configurations for the files and directories to monitor
 
 
 **See below for more details about how FIM works.**
+![[Pasted image 20240515152657.png]]
+
+
+## Administration from the Deployment Manager
+
+Registry Integrity Monitoring, Data Loss Defender, and File Integrity Monitor do have policy managers that can be managed from Deployment Manager > Tools > Administration. See the image below to see how to access those.
+
+![[Pasted image 20240515152820.png | 500]]
+
+## Network Connection Monitor
+
+**Network connections** can be independently monitored for network connections being opened and closed on a Windows or UNIX host.
+
+The System Monitor will generate a log when a connection opens on the host and another log when it detects that the connection has been closed. If enabled, the Network Connection Monitor logs will contain UAM information about the users connected to the host at the time the connection was opened or closed.  
+
+Logs include, but are not limited to, the following data:
+
+- Protocol
+- Local IP address and port
+- Remote IP address and port
+- Open time and close time
+- Duration
+
+The Network Connection Monitor can be enabled to monitor:
+
+- Inbound TCP connections
+- Outbound TCP connections
+- Listening TCP/UDP sockets
+
+![[Pasted image 20240515154720.png]]
+
+
+##  Process Monitor
+
+**Process monito****ring logs when processes start and stop** on a Windows or UNIX host running a System Monitor. The System Monitor generates a log when a process starts on the host and another log when the System Monitor detects the process has stopped. 
+
+If enabled, the Process Monitor logs will contain UAM information about the users connected to the host at the time the process was started or stopped.
+
+Log messages include but are not limited to:
+- Process name
+- Owner name
+- Start time
+- Duration
+
+Network Connection Monitor
+![[Pasted image 20240515154935.png]]
+
+
