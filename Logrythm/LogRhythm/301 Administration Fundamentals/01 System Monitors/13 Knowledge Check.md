@@ -27,3 +27,23 @@ The license type to be selected will depend on the log source types that an Agen
 
 <hr>
 
+System Monitor Agents should be configured for Least Privileged Access, which allows for improved security in remote collection of log data.
+
+Examples of remote collection requirements under a Least Privileged configuration include full control of the installation directory path, read permissions to target directories or files, and membership in the Event Log Readers group in Active Directory.
+
+<hr>
+
+
+Configuring Agents for remote collection will require firewall rules for specific ports.
+
+For example, syslog will require port 514, by default.
+
+
+```
+Service Account - LPE 
+Syslog Relay - Message Processing Engine - router / firewall
+
+User Activity Monitoring (UAM)
+The Agent can see it before the operating system does!
+```
+
