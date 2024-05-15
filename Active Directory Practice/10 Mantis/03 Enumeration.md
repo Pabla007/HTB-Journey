@@ -32,6 +32,8 @@ http://10.10.10.52:1337/secure_notes/
 ```
 gobuster dir -u http://10.10.10.52:1337 -w /usr/share/wordlists/dirbuster/directory-list-lowercase-2.3-medium.txt
 ```
+
+![[Pasted image 20240516015043.png]]
 ![[Pasted image 20240516003001.png]]
 
 We already have the valid user names so in short we have the usernames and all we need is a password to get into.
@@ -95,3 +97,32 @@ Hostname: 10.10.10.52
 Database: orcharddb
 Password: m$$ql_S@_P@ssW0rd!
 ```
+
+It worked finally and i was able to download the database
+![[Pasted image 20240516014152.png]]
+
+
+We got the database we want
+![[Pasted image 20240516014208.png]]
+Now will search for passwords
+
+Will simply search for Users
+![[Pasted image 20240516015532.png]]
+
+Select data and we get the password
+```
+james@htb.local
+```
+
+```
+J@m3s_P@ssW0rd!
+```
+
+![[Pasted image 20240516015649.png]]
+
+
+```
+crackmapexec smb 10.10.10.52 -u james -p 'J@m3s_P@ssW0rd!' --shares
+```
+![[Pasted image 20240516015931.png]]
+
