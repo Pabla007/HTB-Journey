@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/06 Licensing newly accepted Agents.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/07 Service Accounts.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/06 Licensing newly accepted Agents.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/07 Service Accounts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/06 Licensing newly accepted Agents.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/07 Service Accounts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/06 Licensing newly accepted Agents.md"
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/07 Service Accounts.md"
               }
             }
           },
@@ -220,9 +220,11 @@
   },
   "active": "53990ced3d71ad4d",
   "lastOpenFiles": [
+    "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/06 Licensing newly accepted Agents.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/07 Service Accounts.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240515105510.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240515105148.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/05 Agent Onboarding.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/06 Licensing newly accepted Agents.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/Untitled",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240515104012.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/01 System Monitors.md",
@@ -254,8 +256,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240514144153.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240514143941.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240514143243.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240514131156.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240514121612.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors",
     "Logrythm/LogRhythm/301 Administration Fundamentals/Introduction to the Course.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images",

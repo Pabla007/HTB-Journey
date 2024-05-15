@@ -34,3 +34,10 @@ License Features
 Also note: LogRhythm System Monitor Agents have different features between Operating Systems and License Types. For further information, navigate to: [https://community.logrhythm.com/t5/SysMon-Downloads/tkb-p/SysMon-kb(opens in a new tab)](https://community.logrhythm.com/t5/SysMon-Downloads/tkb-p/SysMon-kb).
 
 
+Locating License Totals
+At times, it is necessary to determine how many System Monitor Agent licenses are used vs. available in an environment.
+
+Information about what your deployment is licensed for can be found from the Client Console > Help > About LogRhythm > License Report.
+
+![[Pasted image 20240515105510.png]]
+
