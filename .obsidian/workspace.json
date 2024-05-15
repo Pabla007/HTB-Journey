@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/10 Mantis/03 Enumeration.md",
+                "file": "Active Directory Practice/10 Mantis/02 Scanning.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory Practice/10 Mantis/03 Enumeration.md",
+                "file": "Active Directory Practice/10 Mantis/02 Scanning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory Practice/10 Mantis/03 Enumeration.md",
+                "file": "Active Directory Practice/10 Mantis/02 Scanning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory Practice/10 Mantis/03 Enumeration.md"
+                "file": "Active Directory Practice/10 Mantis/02 Scanning.md"
               }
             }
           },
@@ -220,6 +220,7 @@
   },
   "active": "53990ced3d71ad4d",
   "lastOpenFiles": [
+    "Active Directory Practice/10 Mantis/01 Overview.md",
     "Active Directory Practice/10 Mantis/02 Scanning.md",
     "Active Directory Practice/10 Mantis/03 Enumeration.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/13 Knowledge Check.md",
@@ -256,7 +257,6 @@
     "Logrythm/01 Getting Started/01 Prior Knowledge.md",
     "Logrythm/LogRhythm/01 LogRhythm SIEM Fundamentals/01 Partnering with LogRhythm/01 LogRhythm Buyer Personas, Questions, and Objections.md",
     "Logrythm/301 Administration Fundamentals/01 Getting Started/02 Labs & Student Guides.md",
-    "Logrythm/301 Administration Fundamentals/01 Getting Started/01 Introduction to Course.md",
     "Logrythm/LogRhythm/Logrhythm 301",
     "Logrythm/LogRhythm/301 Administration Fundamentals/07 User, Profiles and Permissions",
     "Logrythm/LogRhythm/301 Administration Fundamentals/06 Advanced Log Collection",
