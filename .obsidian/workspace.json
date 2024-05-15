@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/10 Mantis/01 Overview.md",
+                "file": "Active Directory Practice/10 Mantis/03 Enumeration.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory Practice/10 Mantis/01 Overview.md",
+                "file": "Active Directory Practice/10 Mantis/03 Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory Practice/10 Mantis/01 Overview.md",
+                "file": "Active Directory Practice/10 Mantis/03 Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory Practice/10 Mantis/01 Overview.md"
+                "file": "Active Directory Practice/10 Mantis/03 Enumeration.md"
               }
             }
           },
@@ -220,12 +220,13 @@
   },
   "active": "53990ced3d71ad4d",
   "lastOpenFiles": [
+    "Active Directory Practice/10 Mantis/00 Images/Pasted image 20240516003001.png",
+    "Active Directory Practice/10 Mantis/01 Overview.md",
+    "Active Directory Practice/10 Mantis/02 Scanning.md",
     "Active Directory Practice/10 Mantis/00 Images/Pasted image 20240515234931.png",
     "Active Directory Practice/10 Mantis/00 Images/Pasted image 20240515234640.png",
     "Active Directory Practice/10 Mantis/00 Images/Pasted image 20240515234614.png",
-    "Active Directory Practice/10 Mantis/02 Scanning.md",
     "Active Directory Practice/10 Mantis/03 Enumeration.md",
-    "Active Directory Practice/10 Mantis/01 Overview.md",
     "Active Directory Practice/10 Mantis/00 Images/Pasted image 20240515233953.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/13 Knowledge Check.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/09 System Monitor  Configuration Policy Manager.md",
@@ -238,7 +239,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240515152820.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240515152657.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240515151905.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240515151514.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/10 System Monitor Package Manager.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/08 Remote Collection Configuration.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/07 Service Accounts.md",
