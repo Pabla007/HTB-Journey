@@ -147,3 +147,7 @@ bloodhound-python -d htb.local -u james -p 'J@m3s_P@ssW0rd!' -ns 10.10.10.52 -c 
 
 ![[Pasted image 20240516025022.png]]
 
+
+As we know that RDP is not open on this host
+![[Pasted image 20240516082732.png]]
+
