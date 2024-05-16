@@ -75,3 +75,16 @@ smbclient -W HTB.LOCAL //MANTIS/c$ -k
 ```
 ![[Pasted image 20240516092052.png]]
 
+
+```
+S-1-5-21-4220043660-4019079961-2895681657-1103
+```
+![[Pasted image 20240516092352.png]]
+
+
+Now will need to run a code
+https://github.com/mubix/pykek.git
+clone this repo
+```
+
+```
