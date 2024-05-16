@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/10 Mantis/04 Kerberos Knock and Pass.md",
+                "file": "Active Directory Practice/11 Cascade/01 Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory Practice/10 Mantis/04 Kerberos Knock and Pass.md",
+                "file": "Active Directory Practice/11 Cascade/01 Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory Practice/10 Mantis/04 Kerberos Knock and Pass.md",
+                "file": "Active Directory Practice/11 Cascade/01 Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory Practice/10 Mantis/04 Kerberos Knock and Pass.md"
+                "file": "Active Directory Practice/11 Cascade/01 Overview.md"
               }
             }
           },
@@ -220,8 +220,18 @@
   },
   "active": "53990ced3d71ad4d",
   "lastOpenFiles": [
-    "Active Directory Practice/10 Mantis/03 Enumeration.md",
+    "Active Directory Practice/11 Cascade/02 Scanning.md",
+    "Active Directory Practice/11 Cascade/03 Enumeration.md",
+    "Active Directory Practice/11 Cascade/01 Overview.md",
+    "Active Directory Practice/11 Cascade",
+    "Active Directory/00 Active Directory Contents.md",
+    "Active Directory/Different Techniques.md",
+    "Active Directory/02 Users.md",
     "Active Directory Practice/10 Mantis/04 Kerberos Knock and Pass.md",
+    "Active Directory Practice/10 Mantis/00 Images/Pasted image 20240516234024.png",
+    "Active Directory Practice/10 Mantis/00 Images/Pasted image 20240516233917.png",
+    "Active Directory Practice/10 Mantis/00 Images/Pasted image 20240516233757.png",
+    "Active Directory Practice/10 Mantis/03 Enumeration.md",
     "Active Directory Practice/10 Mantis/00 Images/Pasted image 20240516092352.png",
     "Active Directory Practice/10 Mantis/00 Images/Pasted image 20240516092052.png",
     "Active Directory Practice/10 Mantis/00 Images/Pasted image 20240516091939.png",
@@ -230,11 +240,8 @@
     "Active Directory Practice/10 Mantis/00 Images/Pasted image 20240516082732.png",
     "Active Directory Practice/10 Mantis/00 Images/Pasted image 20240516025022.png",
     "Active Directory Practice/10 Mantis/00 Images/Pasted image 20240516025002.png",
-    "Active Directory Practice/10 Mantis/00 Images/Pasted image 20240516022525.png",
     "Active Directory Practice/02 Blackfield/03 SMB and Winrm.md",
     "Active Directory Practice/03 Sizzle/02 Enumeration.md",
-    "Active Directory Practice/10 Mantis/00 Images/Pasted image 20240516015931.png",
-    "Active Directory Practice/10 Mantis/00 Images/Pasted image 20240516015649.png",
     "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
     "Try Hack Me/05 Vulnnet Endgame/03 Typo03.md",
     "Active Directory Practice/10 Mantis/01 Overview.md",
@@ -251,11 +258,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/06 Licensing newly accepted Agents.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/05 Agent Onboarding.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/Untitled",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/04 Agent Installation & Configuration.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/03 Installation Location.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/02 Agent Fundamentals.md",
-    "Logrythm/LogRhythm/Logrhythm 301/01 LogRhythm 301.md",
-    "Logrythm/LogRhythm/Logrhythm 301/Registration Error.md",
     "Logrythm/LogRhythm/Logrhythm 301",
     "Logrythm/LogRhythm/301 Administration Fundamentals/07 User, Profiles and Permissions",
     "Logrythm/LogRhythm/301 Administration Fundamentals/06 Advanced Log Collection",
@@ -264,7 +266,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding",
     "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities",
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images",
     "Active Directory Practice/07 Monterverde/Untitled.canvas"
   ]
 }

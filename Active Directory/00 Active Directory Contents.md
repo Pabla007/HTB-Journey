@@ -38,9 +38,9 @@ HackTheBox
 - [x] Support
 
 
-- [ ] Resolute 
-- [ ] Reel
-- [ ] Mantis 
+- [x] Resolute 
+- [x] Reel
+- [x] Mantis 
 - [ ] multimaster
 - [ ] cascade 
 

