@@ -73,14 +73,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/11 Cascade/01 Overview.md",
+                "file": "Active Directory Practice/11 Cascade/02 Scanning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22420873f9eaedcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Active Directory Practice/11 Cascade/03 Enumeration.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory Practice/11 Cascade/01 Overview.md",
+                "file": "Active Directory Practice/11 Cascade/03 Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory Practice/11 Cascade/01 Overview.md",
+                "file": "Active Directory Practice/11 Cascade/03 Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory Practice/11 Cascade/01 Overview.md"
+                "file": "Active Directory Practice/11 Cascade/03 Enumeration.md"
               }
             }
           },
@@ -218,11 +230,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53990ced3d71ad4d",
+  "active": "22420873f9eaedcc",
   "lastOpenFiles": [
+    "Active Directory Practice/10 Mantis/00 Images/Pasted image 20240517001945.png",
     "Active Directory Practice/11 Cascade/02 Scanning.md",
-    "Active Directory Practice/11 Cascade/03 Enumeration.md",
+    "Untitled.md",
     "Active Directory Practice/11 Cascade/01 Overview.md",
+    "Active Directory Practice/11 Cascade/03 Enumeration.md",
     "Active Directory Practice/11 Cascade",
     "Active Directory/00 Active Directory Contents.md",
     "Active Directory/Different Techniques.md",
@@ -255,8 +269,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/10 System Monitor Package Manager.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/08 Remote Collection Configuration.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/07 Service Accounts.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/06 Licensing newly accepted Agents.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/05 Agent Onboarding.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/Untitled",
     "Logrythm/LogRhythm/Logrhythm 301",
     "Logrythm/LogRhythm/301 Administration Fundamentals/07 User, Profiles and Permissions",
