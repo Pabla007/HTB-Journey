@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/11 Cascade/03 Enumeration.md",
+                "file": "Logrythm/00 301 Administration Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory Practice/11 Cascade/03 Enumeration.md",
+                "file": "Logrythm/00 301 Administration Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory Practice/11 Cascade/03 Enumeration.md",
+                "file": "Logrythm/00 301 Administration Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory Practice/11 Cascade/03 Enumeration.md"
+                "file": "Logrythm/00 301 Administration Fundamentals.md"
               }
             }
           },
@@ -230,13 +230,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22420873f9eaedcc",
+  "active": "a59eface60f8c62a",
   "lastOpenFiles": [
+    "Active Directory Practice/11 Cascade/03 Enumeration.md",
     "Active Directory Practice/10 Mantis/00 Images/Pasted image 20240517001945.png",
     "Active Directory Practice/11 Cascade/02 Scanning.md",
     "Untitled.md",
     "Active Directory Practice/11 Cascade/01 Overview.md",
-    "Active Directory Practice/11 Cascade/03 Enumeration.md",
     "Active Directory Practice/11 Cascade",
     "Active Directory/00 Active Directory Contents.md",
     "Active Directory/Different Techniques.md",
@@ -253,7 +253,6 @@
     "Active Directory Practice/10 Mantis/02 Scanning.md",
     "Active Directory Practice/10 Mantis/00 Images/Pasted image 20240516082732.png",
     "Active Directory Practice/10 Mantis/00 Images/Pasted image 20240516025022.png",
-    "Active Directory Practice/10 Mantis/00 Images/Pasted image 20240516025002.png",
     "Active Directory Practice/02 Blackfield/03 SMB and Winrm.md",
     "Active Directory Practice/03 Sizzle/02 Enumeration.md",
     "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
