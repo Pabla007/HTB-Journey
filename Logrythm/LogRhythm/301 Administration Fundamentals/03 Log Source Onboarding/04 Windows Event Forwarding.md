@@ -39,10 +39,11 @@ Windows Event collector only requires a single network port to work, whereas RPC
 
 
 
-## Example Achitecture
+## Example Architecture
 
+```
 WEC can be as simple as a single server or as complicated as the example architecture. **This is an example architecture for Windows Event Forwarding across** **multiple regions.**
-
+```
 
 Note: WEC Servers have limitations for the number of logs they can collect - refer to Microsoft documentation for these.
 
@@ -53,6 +54,28 @@ Note: **Log Source Virtualization templates** are briefly mentioned here, but 
 This example architecture requires the use of a Log Source Virtualization Template if not splitting channels (Note: These templates are explained in more depth in a later lesson.):
 
 - If you put all these logs through a single subscription, you'll have Application, System, and Security logs (if you do the main three Windows logs) all coming through the same channel. 
-- It will be difficult for LogRhythm to properly parse those because we're looking at a single log source (it would probably come through the security log). So we'd need to create and apply Log Source Virtualization templates so that in the same stream of data, we can parse out the separate event logs: parsing out security logs into a security log template, application logs into an application log template, and system logs into a system log template. 
+- It will be difficult for LogRhythm to properly parse those because we're looking at a single log source (it would probably come through the security log). So we'd need to create and apply` Log Source Virtualization templates` so that in the same stream of data, we can parse out the separate event logs: parsing out security logs into a security log template, application logs into an application log template, and system logs into a system log template. 
 - The same is true if pulling DNS logs or Windows Sysmon - that's another channel that we'd have coming through the same feed, but we'd want to split those out.
+
+![[Pasted image 20240518180315.png]]
+
+
+## Requirements
+
+>**WEC Requirements:**
+- One or more servers must be acting as a subscription manager and log collector.
+- All endpoints and subscription managers must have `WinRM` enabled and remotely available through any local firewalls.
+- A local (Windows Workgroups) or Domain Group Policy Object (GPO) must be available, specifying the URL for the subscription manager. In other words: where is the machine going to send its logs?
+- One or more event log subscriptions.
+- NETWORK Service must be part of the Event Readers Group.
+    - A GPO to add the NETWORK Service account to the Event Log Readers group.
+    - A GPO to set Access Control Lists (ACLs) on all relevant log channels to allow read access by the Event Log Readers Group.
+
+In addition to the correct ACLs and GPOs, the following network ports are required to be open: TCP port 5985 (HTTP) or TCP port 5986 (HTTPS) on any network access control devices.
+
+
+By default, all log sources will be collected into a single Log Source. It is recommended to split these into separate channels, i.e. to have all Application logs into a WEC Application Log channel.
+
+![[Pasted image 20240518180750.png]]
+
 
