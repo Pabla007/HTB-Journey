@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/05  Syslog & Syslog Relay.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/04 Windows Event Forwarding.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/05  Syslog & Syslog Relay.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/04 Windows Event Forwarding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/05  Syslog & Syslog Relay.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/04 Windows Event Forwarding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/05  Syslog & Syslog Relay.md"
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/04 Windows Event Forwarding.md"
               }
             }
           },
@@ -232,8 +232,8 @@
   },
   "active": "22420873f9eaedcc",
   "lastOpenFiles": [
-    "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/04 Windows Event Forwarding.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/05  Syslog & Syslog Relay.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/04 Windows Event Forwarding.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240518180750.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240518180315.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240518172533.png",
