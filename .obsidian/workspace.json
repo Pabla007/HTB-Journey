@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/04 Windows Event Forwarding.md",
+                "file": "Red Team/Usernames.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/04 Windows Event Forwarding.md",
+                "file": "Red Team/Usernames.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/04 Windows Event Forwarding.md",
+                "file": "Red Team/Usernames.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/04 Windows Event Forwarding.md"
+                "file": "Red Team/Usernames.md"
               }
             }
           },
@@ -232,8 +232,16 @@
   },
   "active": "22420873f9eaedcc",
   "lastOpenFiles": [
-    "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/05  Syslog & Syslog Relay.md",
+    "Red Team/00 Images/Pasted image 20240522122505.png",
+    "Red Team/00 Images/Pasted image 20240522122426.png",
+    "Red Team/00 Images/Pasted image 20240522122341.png",
+    "Red Team/00 Images/Pasted image 20240522122308.png",
+    "Red Team/00 Images/Pasted image 20240522122243.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/04 Windows Event Forwarding.md",
+    "Red Team/Usernames.md",
+    "Red Team/00 Images",
+    "Red Team",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/05  Syslog & Syslog Relay.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240518180750.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240518180315.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240518172533.png",
@@ -245,7 +253,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/01 Log Source Onboarding.md",
     "Logrythm/00 301 Administration Fundamentals.md",
     "Active Directory Practice/11 Cascade/03 Enumeration.md",
-    "Active Directory Practice/10 Mantis/00 Images/Pasted image 20240517001945.png",
     "Active Directory Practice/11 Cascade/02 Scanning.md",
     "Untitled.md",
     "Active Directory Practice/11 Cascade/01 Overview.md",
@@ -254,9 +261,6 @@
     "Active Directory/Different Techniques.md",
     "Active Directory/02 Users.md",
     "Active Directory Practice/10 Mantis/04 Kerberos Knock and Pass.md",
-    "Active Directory Practice/10 Mantis/00 Images/Pasted image 20240516234024.png",
-    "Active Directory Practice/10 Mantis/00 Images/Pasted image 20240516233917.png",
-    "Active Directory Practice/10 Mantis/00 Images/Pasted image 20240516233757.png",
     "Active Directory Practice/10 Mantis/03 Enumeration.md",
     "Active Directory Practice/10 Mantis/02 Scanning.md",
     "Active Directory Practice/02 Blackfield/03 SMB and Winrm.md",
@@ -267,8 +271,6 @@
     "Try Hack Me/07 Holo/Task 17 - Situational Awareness.md",
     "Active Directory Practice/06  Sauna/03 Enumeration.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/13 Knowledge Check.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/09 System Monitor  Configuration Policy Manager.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/01 System Monitors.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/Untitled",
     "Logrythm/LogRhythm/Logrhythm 301",
     "Logrythm/LogRhythm/301 Administration Fundamentals/07 User, Profiles and Permissions",
@@ -276,8 +278,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration",
     "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources",
     "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors",
     "Active Directory Practice/07 Monterverde/Untitled.canvas"
   ]
 }
