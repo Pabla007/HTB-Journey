@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/Introduction to the Course.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/08 Log Source Virtualization Templates.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/Introduction to the Course.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/08 Log Source Virtualization Templates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/Introduction to the Course.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/08 Log Source Virtualization Templates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/Introduction to the Course.md"
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/08 Log Source Virtualization Templates.md"
               }
             }
           },
@@ -230,8 +230,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a59eface60f8c62a",
+  "active": "22420873f9eaedcc",
   "lastOpenFiles": [
+    "Logrythm/LogRhythm/301 Administration Fundamentals/Introduction to the Course.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/04 Network Records.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/01 Entities.md",
     "Red Team/Email Address aka Usernames.md",
