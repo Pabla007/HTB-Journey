@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/02 Log Sources.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/04 Adding Log Sources.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/02 Log Sources.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/04 Adding Log Sources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/02 Log Sources.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/04 Adding Log Sources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/02 Log Sources.md"
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/04 Adding Log Sources.md"
               }
             }
           },
@@ -232,8 +232,12 @@
   },
   "active": "22420873f9eaedcc",
   "lastOpenFiles": [
-    "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/01 Log Sources.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240522143742.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/03 Log Sources & Host Records.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/04 Adding Log Sources.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/02 Log Sources.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240522142331.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/01 Log Sources.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/05  Syslog & Syslog Relay.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/06 Syslog & Syslog Relay.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/07 Example Syslog Architecture.md",
@@ -257,7 +261,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240517154817.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240517154924.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240520125657.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240520125726.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/02 Entity Structure.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/03 Entity Organization.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/04.1 Risk vs. Threat.md",
@@ -265,11 +268,8 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/06 Host Records.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/07 Adding Host Records.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/08 Entity Wizard.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/09 Lab Exercises.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/10  Knowledge Check.md",
     "Red Team/00 Images",
     "Red Team",
-    "Logrythm/00 301 Administration Fundamentals.md",
     "Active Directory Practice/11 Cascade",
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/Untitled",
     "Logrythm/LogRhythm/Logrhythm 301",
