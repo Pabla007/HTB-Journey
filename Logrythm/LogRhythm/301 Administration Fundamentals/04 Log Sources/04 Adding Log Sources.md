@@ -14,8 +14,6 @@ As described in the previous section, network equipment such as firewalls, route
 When this traffic is detected, the device generating the traffic appears as a pending log source within the Log Sources tab of the Deployment Manager. At this point, the Syslog feed of the device can be accepted as a log source and added into the System Monitor configuration.
 
 
-
-
 ## Manual Creation via SMA
 
 Another way to add new Log Sources is from the System Monitor Agent Properties window of the System Monitor that will be collecting the logs. Log Sources that require you to enter customized information must be added from within the System Monitor tab in the Client Console.  
