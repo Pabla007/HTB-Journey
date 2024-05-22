@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/08 Log Source Virtualization Templates.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/02 Log Sources.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/08 Log Source Virtualization Templates.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/02 Log Sources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/08 Log Source Virtualization Templates.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/02 Log Sources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/08 Log Source Virtualization Templates.md"
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/02 Log Sources.md"
               }
             }
           },
@@ -232,6 +232,22 @@
   },
   "active": "22420873f9eaedcc",
   "lastOpenFiles": [
+    "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/01 Log Sources.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/02 Log Sources.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/05  Syslog & Syslog Relay.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/06 Syslog & Syslog Relay.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/07 Example Syslog Architecture.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/04 Windows Event Forwarding.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/01 Log Source Onboarding.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/10 Knowledge Check.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/09 Example AWS LSV Template Configuration.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/08 Log Source Virtualization Templates.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/03 Log Source Onboarding Overview.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/02 Log Collection Methodologies.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240522135829.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240522135743.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240522135716.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240522135442.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/Introduction to the Course.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/04 Network Records.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/01 Entities.md",
@@ -242,13 +258,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240517154924.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240520125657.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240520125726.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240520200656.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240520201348.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240516104954.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240516110123.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/06 Syslog & Syslog Relay.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/07 Example Syslog Architecture.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/08 Log Source Virtualization Templates.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/02 Entity Structure.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/03 Entity Organization.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/04.1 Risk vs. Threat.md",
@@ -258,18 +267,9 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/08 Entity Wizard.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/09 Lab Exercises.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/10  Knowledge Check.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/04 Windows Event Forwarding.md",
     "Red Team/00 Images",
     "Red Team",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/05  Syslog & Syslog Relay.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/03 Log Source Onboarding Overview.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/02 Log Collection Methodologies.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/01 Log Source Onboarding.md",
     "Logrythm/00 301 Administration Fundamentals.md",
-    "Active Directory Practice/11 Cascade/03 Enumeration.md",
-    "Active Directory Practice/11 Cascade/02 Scanning.md",
-    "Untitled.md",
-    "Active Directory Practice/11 Cascade/01 Overview.md",
     "Active Directory Practice/11 Cascade",
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/Untitled",
     "Logrythm/LogRhythm/Logrhythm 301",
