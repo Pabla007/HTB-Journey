@@ -21,12 +21,27 @@ QUESTION: Based on the Log Host and Collection Host columns (displayed below), a
 ANSWER: If the Collection Host column contains a different host than the Log Host column, logs are being collected remotely.
 
 
+<hr>
+
 
 >Additional Settings Tab
 
 The next step in adding a new Log Source is to validate the settings located on the Additional Settings tab. These include Virtualization Settings, Log Data Management and Processing Settings, and Silent Log Message Source Settings.
 
+![[Pasted image 20240523165714.png]]
 
 
+<hr>
 
+
+> Flat File Settings Tab
+
+The Flat File Settings Tab can help you adjust how to process each individual log.
+
+A flat file is a plain text file. For flat file type Log Sources, the Flat File Settings tab allows you to define the location of the file or File Path, the Date Parsing Format, Multiline Log Message Settings, and Directory Collection options.
+
+Flat File Settings are only available if an appropriate log source type is selected in the Basic Configurations tab. Otherwise, this section will show as grayed out.
+
+
+![[Pasted image 20240523170216.png]]
 
