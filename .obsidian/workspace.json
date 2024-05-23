@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/04 Adding Log Sources.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/05 Log Source Properties.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/04 Adding Log Sources.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/05 Log Source Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/04 Adding Log Sources.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/05 Log Source Properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/04 Adding Log Sources.md"
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/05 Log Source Properties.md"
               }
             }
           },
@@ -232,9 +232,15 @@
   },
   "active": "22420873f9eaedcc",
   "lastOpenFiles": [
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240523165357.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/04 Adding Log Sources.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/05 Log Source Properties.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240523164944.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240523164900.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240523164807.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240523164104.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240522143742.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/03 Log Sources & Host Records.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/04 Adding Log Sources.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/02 Log Sources.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240522142331.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/01 Log Sources.md",
@@ -256,18 +262,12 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/04 Network Records.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/01 Entities.md",
     "Red Team/Email Address aka Usernames.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240517154605.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240517154723.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240517154817.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240517154924.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240520125657.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/02 Entity Structure.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/03 Entity Organization.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/04.1 Risk vs. Threat.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/05 How to create a New Network Record.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/06 Host Records.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/07 Adding Host Records.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/08 Entity Wizard.md",
     "Red Team/00 Images",
     "Red Team",
     "Active Directory Practice/11 Cascade",
