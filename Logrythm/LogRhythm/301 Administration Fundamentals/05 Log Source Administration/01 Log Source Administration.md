@@ -4,4 +4,3 @@ Now that you've onboarded your log sources, you'll need to validate incoming i
 ```
 
 
-
