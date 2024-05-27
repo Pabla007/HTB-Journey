@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/05 Log Source Properties.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/05 Detecting Issues in Log Collection.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/05 Log Source Properties.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/05 Detecting Issues in Log Collection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/05 Log Source Properties.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/05 Detecting Issues in Log Collection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/05 Log Source Properties.md"
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/05 Detecting Issues in Log Collection.md"
               }
             }
           },
@@ -232,8 +232,11 @@
   },
   "active": "53990ced3d71ad4d",
   "lastOpenFiles": [
-    "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/04 Adding Log Sources.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240528013314.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240528012949.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240528012434.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/05 Log Source Properties.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/04 Adding Log Sources.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/06 Lab Exercises.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/03 Log Source Onboarding Overview.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/02 Log Collection Methodologies.md",
@@ -263,11 +266,8 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240524163424.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240521202709.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240521202643.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240523170216.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240523165714.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/Introduction to the Course.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/04 Network Records.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/01 Entities.md",
     "Red Team/00 Images",
     "Red Team",
     "Active Directory Practice/11 Cascade",
