@@ -37,3 +37,15 @@ In these advanced settings, a value of **MaxMessageCount** can be found. **Ma
 
 ![[Pasted image 20240528013314.png]]
 
+
+
+### ****Increasing Logging Level to Verbose****
+
+Next, it may be **necessary to increase the logging level of the System Monitor Agent from the default of Warning to the higher level of Verbose**. At the Verbose level, the scsm.log will display attempted reads (or log collection rates) for all log sources under the Agent’s collection cycle.
+
+- System Monitor Agent logging levels can be accessed by double-clicking on an Agent to open its properties. Then click the Advanced button, located at the bottom left of the properties window. Within Advanced Properties, the LogLevel setting can be adjusted to Verbose by clicking on the drop-down menu under the Value column.
+- Once the Agent’s logging level has been adjusted, the scsm.log file can be re-examined for attempted reads against the log source that is experiencing delays.
+- Log files can be opened in native text applications (e.g. Notepad on Windows), and a Find feature (e.g. CTRL+F on Windows) can highlight the read entry.
+- Within Advanced Properties, the LogLevel setting can be adjusted to Verbose by clicking on the drop-down menu under the Value column.
+
+
