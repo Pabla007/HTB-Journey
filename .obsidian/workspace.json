@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/07 Discovering Undefined Logs.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/08 Tuning a Log Source.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/07 Discovering Undefined Logs.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/08 Tuning a Log Source.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/07 Discovering Undefined Logs.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/08 Tuning a Log Source.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/07 Discovering Undefined Logs.md"
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/08 Tuning a Log Source.md"
               }
             }
           },
@@ -232,9 +232,10 @@
   },
   "active": "53990ced3d71ad4d",
   "lastOpenFiles": [
+    "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/07 Discovering Undefined Logs.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/08 Tuning a Log Source.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240528020726.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/06 Max Message Count.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/07 Discovering Undefined Logs.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240528015732.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/05 Detecting Issues in Log Collection.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240528013314.png",
@@ -267,7 +268,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240524190108.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240524172749.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240524163917.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240524163424.png",
     "Red Team/00 Images",
     "Red Team",
     "Active Directory Practice/11 Cascade",
