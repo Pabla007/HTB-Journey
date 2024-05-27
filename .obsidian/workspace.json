@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/08 Tuning a Log Source.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/06 Advanced Log Collection/02 Universal Database Log Adapter (UDLA).md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/08 Tuning a Log Source.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/06 Advanced Log Collection/02 Universal Database Log Adapter (UDLA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/08 Tuning a Log Source.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/06 Advanced Log Collection/02 Universal Database Log Adapter (UDLA).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/08 Tuning a Log Source.md"
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/06 Advanced Log Collection/02 Universal Database Log Adapter (UDLA).md"
               }
             }
           },
@@ -232,8 +232,18 @@
   },
   "active": "53990ced3d71ad4d",
   "lastOpenFiles": [
-    "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/07 Discovering Undefined Logs.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/06 Advanced Log Collection/01 Advanced Log Collection.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/06 Advanced Log Collection/02 Universal Database Log Adapter (UDLA).md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/10 Knowledge Check.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240528043844.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240528043822.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/09 Lab Exercises.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/01 Log Source Administration.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/02 Log Source Validation.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/03 Investigations.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/08 Tuning a Log Source.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240528042818.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/07 Discovering Undefined Logs.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240528020726.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/06 Max Message Count.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240528015732.png",
@@ -256,18 +266,8 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/04 Windows Event Forwarding.md",
     "Active Directory Practice/11 Cascade/02 Scanning.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/07 Knowledge Check.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/03 Log Sources & Host Records.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/02 Log Sources.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/01 Log Sources.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/01 Log Source Administration.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/04 Tails.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/03 Investigations.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/02 Log Source Validation.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240524191125.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240524190706.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240524190108.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240524172749.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240524163917.png",
     "Red Team/00 Images",
     "Red Team",
     "Active Directory Practice/11 Cascade",
