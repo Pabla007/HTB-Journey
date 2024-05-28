@@ -27,3 +27,32 @@ Normally, a 3rd party beat would require custom parsing rules written in JQ on t
 Check out [https://www.elastic.co/beats/(opens in a new tab)](https://www.elastic.co/beats/) for various options related to the beat types below.
 
 
+## Filebeat
+
+Filebeat is designed to read files from your system. It is particularly useful for system and application log files but can be used for any text files that you would like to index to Elasticsearch in some way. In the logging case, it helps centralize logs and files in an efficient manner by reading from your various servers and VMs, and then shipping to a central Logstash or Elasticsearch instance. Additionally, Filebeat eases the configuration process by including “modules” for grabbing common log file formats from MySQL, Apache, NGINX, and more. These modules reduce the Filebeat configuration to a single command.
+
+
+## Metricbeat
+
+As the name implies, Metricbeat is used to collect metrics from servers and systems. It is a lightweight platform dedicated to sending system and service statistics. Like Filebeat, Metricbeat includes modules to grab metrics from operating systems like Linux, Windows and Mac OS, and applications such as Apache, MongoDB, MySQL, and nginx. Metricbeat is extremely lightweight and can be installed on your systems without impacting system or application performance. As with all of the Beats, Metricbeat makes it easy to create your own custom modules.
+
+
+## Packbeat
+
+Packetbeat, a lightweight network packet analyzer, monitors network protocols to enable users to keep tabs on network latency, errors, response times, SLA performance, user access patterns, and more. With Packetbeat, data is processed in real time so users can understand and monitor how traffic is flowing through their network. Furthermore, Packetbeat supports multiple application layer protocols, including MySQL and HTTP.
+
+
+## Winlogbeat
+
+Winlogbeat is a tool specifically designed for providing live streams of Windows event logs. It can read events from any Windows event log channel, monitoring log-ons, log-on failures, USB storage device usage, and the installation of new software programs. The raw data collected by Winlogbeat is automatically sent to Elasticsearch and then indexed for convenient future reference. Winlogbeat acts as a security enhancement tool and makes it possible for a company to keep tabs on literally everything that is happening on its Windows-powered hosts.
+
+
+## Auditbeat
+
+Auditbeat performs a similar function on Linux platforms, monitoring user and process activity across your fleet. Auditd event data is analyzed and sent, in real time, to Elasticsearch for monitoring the security of your environment.
+
+
+## Heartbeat
+
+Heartbeat is a lightweight shipper for uptime monitoring. It monitors services, basically by pinging them, and then ships data to Elasticsearch for analysis and visualization. Heartbeat can ping using ICMP, TCP, and HTTP. It has support for TLS, authentication, and proxies. Its efficient DNS resolution enables it to monitor every single host behind a load-balanced server.
+
