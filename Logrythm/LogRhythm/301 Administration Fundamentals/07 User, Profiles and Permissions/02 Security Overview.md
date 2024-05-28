@@ -16,5 +16,7 @@ LogRhythm provides customizable access rights for users of the system. You can a
 - Global Analysts 
 - Restricted Analysts (can be further customized)
 
->[! importa]
-* In addition to active users who are allowed to log in to the Client and Web Consoles, LogRhythm provides a notification mechanism for people who do not have active user logins for LogRhythm. **This Notification-only role is accomplished via Person or Role records, which should not be confused with User r
+
+>[! important]
+* In addition to active users who are allowed to log in to the Client and Web Consoles, LogRhythm provides a notification mechanism for people who do not have active user logins for LogRhythm. **This Notification-only role is accomplished via Person or Role records, which should not be confused with User records.**
+
