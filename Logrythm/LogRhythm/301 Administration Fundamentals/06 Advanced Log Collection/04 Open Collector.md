@@ -56,3 +56,4 @@ Auditbeat performs a similar function on Linux platforms, monitoring user and pr
 
 Heartbeat is a lightweight shipper for uptime monitoring. It monitors services, basically by pinging them, and then ships data to Elasticsearch for analysis and visualization. Heartbeat can ping using ICMP, TCP, and HTTP. It has support for TLS, authentication, and proxies. Its efficient DNS resolution enables it to monitor every single host behind a load-balanced server.
 
+

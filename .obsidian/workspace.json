@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/06 Advanced Log Collection/04 Open Collector.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/07 User, Profiles and Permissions/02 Security Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/06 Advanced Log Collection/04 Open Collector.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/07 User, Profiles and Permissions/02 Security Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/06 Advanced Log Collection/04 Open Collector.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/07 User, Profiles and Permissions/02 Security Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/06 Advanced Log Collection/04 Open Collector.md"
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/07 User, Profiles and Permissions/02 Security Overview.md"
               }
             }
           },
@@ -232,22 +232,26 @@
   },
   "active": "53990ced3d71ad4d",
   "lastOpenFiles": [
+    "Logrythm/LogRhythm/301 Administration Fundamentals/07 User, Profiles and Permissions/01 Users, Profiles, and Permissions.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/07 User, Profiles and Permissions/02 Security Overview.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/06 Advanced Log Collection/07 Knowledge Check.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/06 Advanced Log Collection/03 API Collection via System Monitor Agent.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/06 Advanced Log Collection/01 Advanced Log Collection.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/06 Advanced Log Collection/02 Universal Database Log Adapter (UDLA).md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/06 Advanced Log Collection/06 Lab Exercises.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/06 Advanced Log Collection/05 LogRhythm’s Open Collector..md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240529034638.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240529034522.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240529034359.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/06 Advanced Log Collection/04 Open Collector.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240528051216.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240528051012.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/06 Advanced Log Collection/03 API Collection via System Monitor Agent.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/06 Advanced Log Collection/04 Open Collector.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240528050716.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240528050517.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240528050411.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240528050329.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/06 Advanced Log Collection/02 Universal Database Log Adapter (UDLA).md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240528045643.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240528045417.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240528044947.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240528044818.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/06 Advanced Log Collection/01 Advanced Log Collection.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/10 Knowledge Check.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240528043844.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/09 Lab Exercises.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/01 Log Source Administration.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/02 Log Source Validation.md",
@@ -264,10 +268,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/01 Log Source Onboarding.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/10 Knowledge Check.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/09 Example AWS LSV Template Configuration.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/08 Log Source Virtualization Templates.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/07 Example Syslog Architecture.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/06 Syslog & Syslog Relay.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/05  Syslog & Syslog Relay.md",
     "Red Team/00 Images",
     "Red Team",
     "Active Directory Practice/11 Cascade",
