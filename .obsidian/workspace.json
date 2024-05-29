@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/08 Lists/03 Creating and Managing Lists.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/08 Lists/04 List Utilization.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/08 Lists/03 Creating and Managing Lists.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/08 Lists/04 List Utilization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/08 Lists/03 Creating and Managing Lists.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/08 Lists/04 List Utilization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/08 Lists/03 Creating and Managing Lists.md"
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/08 Lists/04 List Utilization.md"
               }
             }
           },
@@ -232,10 +232,17 @@
   },
   "active": "22420873f9eaedcc",
   "lastOpenFiles": [
+    "Logrythm/LogRhythm/301 Administration Fundamentals/08 Lists/03 Creating and Managing Lists.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/08 Lists/04 List Utilization.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240529061645.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240529061530.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240529061402.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240529061336.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240529061255.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240529061221.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240529060945.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240529060931.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/08 Lists/02 Lists Overview.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/08 Lists/03 Creating and Managing Lists.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240529044632.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/08 Lists/01 Lists.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/07 User, Profiles and Permissions/07 Knowledge Check.md",
@@ -248,13 +255,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/07 User, Profiles and Permissions/06 Lab Exercises.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/07 User, Profiles and Permissions/05 Active Directory Groups.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240529043515.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240529043251.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240529042702.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240529042239.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240529042156.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240529041437.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240529041409.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240529041349.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/06 Advanced Log Collection/07 Knowledge Check.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/06 Advanced Log Collection/03 API Collection via System Monitor Agent.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/06 Advanced Log Collection/01 Advanced Log Collection.md",
