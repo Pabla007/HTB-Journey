@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/08 Lists/04 List Utilization.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/01 System Monitors.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/08 Lists/04 List Utilization.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/01 System Monitors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/08 Lists/04 List Utilization.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/01 System Monitors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/08 Lists/04 List Utilization.md"
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/01 System Monitors.md"
               }
             }
           },
@@ -232,8 +232,15 @@
   },
   "active": "22420873f9eaedcc",
   "lastOpenFiles": [
-    "Logrythm/LogRhythm/301 Administration Fundamentals/08 Lists/03 Creating and Managing Lists.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting/01 Alarming & Reporting.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/08 Lists/04 List Utilization.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/08 Lists/03 Creating and Managing Lists.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/08 Lists/02 Lists Overview.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/08 Lists/01 Lists.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/08 Lists/06 Knowledge Check.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/08 Lists/05 Lab Exercises.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/Introduction to the Course.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240529061645.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240529061530.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240529061402.png",
@@ -242,9 +249,7 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240529061221.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240529060945.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240529060931.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/08 Lists/02 Lists Overview.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240529044632.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/08 Lists/01 Lists.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/07 User, Profiles and Permissions/07 Knowledge Check.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/08 Lists",
     "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/07 Knowledge Check.md",
@@ -265,10 +270,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/10 Knowledge Check.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/09 Lab Exercises.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/01 Log Source Administration.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/02 Log Source Validation.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/03 Investigations.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/08 Tuning a Log Source.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/07 Discovering Undefined Logs.md",
     "Red Team/00 Images",
     "Red Team",
     "Active Directory Practice/11 Cascade",
@@ -277,7 +278,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/07 User, Profiles and Permissions",
     "Logrythm/LogRhythm/301 Administration Fundamentals/06 Advanced Log Collection",
     "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources",
     "Active Directory Practice/07 Monterverde/Untitled.canvas"
   ]
 }
