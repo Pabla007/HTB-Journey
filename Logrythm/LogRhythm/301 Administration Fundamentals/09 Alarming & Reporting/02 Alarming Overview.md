@@ -13,5 +13,13 @@ The LogRhythm SIEM Platform includes a **real-time alarming system** that can 
  - [ ] **Notifications** are available for delivery to recipients on the triggering of a rule.
 
 
-## **The Structure of an Alarm Rule**
+
+### **The Structure of an Alarm Rule**
+
+Alarm Rules are built on a series of metadata filters and log source criteria, with additional settings available for configuration. 
+
+The properties of an Alarm Rule include a series of criteria and requirements captured in various tabs that, when met, trigger the alarm itself. Explore the tabs of an Alarm Rule in the graphic below to learn more about the specific functions of each:
+
+
+![[Pasted image 20240529181603.png]]
 
