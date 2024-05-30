@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting/03 Viewing & Investigating Alarms.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting/07 Report Packages.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting/03 Viewing & Investigating Alarms.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting/07 Report Packages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting/03 Viewing & Investigating Alarms.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting/07 Report Packages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting/03 Viewing & Investigating Alarms.md"
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting/07 Report Packages.md"
               }
             }
           },
@@ -232,9 +232,17 @@
   },
   "active": "22420873f9eaedcc",
   "lastOpenFiles": [
+    "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting/06 Running a Report.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting/07 Report Packages.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240530114141.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting/05 Reporting Overview.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240530113901.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240530113700.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240530113446.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting/04 Notification Policies.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting/03 Viewing & Investigating Alarms.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240530102838.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting/02 Alarming Overview.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting/03 Viewing & Investigating Alarms.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240529181603.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting/01 Alarming & Reporting.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/08 Lists/02 Lists Overview.md",
@@ -254,11 +262,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240529061530.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240529061402.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240529061336.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240529061255.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240529061221.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240529060945.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240529060931.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240529044632.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/08 Lists",
     "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/07 Knowledge Check.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/07 User, Profiles and Permissions/04 User Profiles determine.md",
@@ -267,9 +270,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/07 User, Profiles and Permissions/01 Users, Profiles, and Permissions.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/07 User, Profiles and Permissions/05 Active Directory Groups.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/06 Advanced Log Collection/07 Knowledge Check.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/06 Advanced Log Collection/03 API Collection via System Monitor Agent.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/06 Advanced Log Collection/01 Advanced Log Collection.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/06 Advanced Log Collection/02 Universal Database Log Adapter (UDLA).md",
     "Red Team/00 Images",
     "Red Team",
     "Active Directory Practice/11 Cascade",
