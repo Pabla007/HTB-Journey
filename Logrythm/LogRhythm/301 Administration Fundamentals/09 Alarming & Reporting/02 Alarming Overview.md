@@ -71,3 +71,35 @@ The Actions tab allows for assigning automated actions (or Smart Response action
 ## Information
 
 The Information tab provides fields for the Alarm Rule name, the Alarm Group, descriptions of the Alarm Rule, and additional details.
+
+
+### **Diagnostic Alarms**
+
+Out-of-the-box alarm rules are available for detecting operational issues with LogRhythm-related components or processes. Flip the cards below to learn more about the logistics of diagnostic alarms.
+
+
+## Out-of-the-Box Alarms
+Most alarms within the Alarm Rules tab of the Client Console are available **out-of-the-box as part of Knowledge Base modules**.
+
+They include LogRhythm-specific Diagnostic Alarms which trigger if LogRhythm-related components encounter an issue.
+
+
+## Common Diagnostic Alarms
+The LogRhythm Agent **Heartbeat Missed** alarm, which triggers if any active System Monitor Agent does not generate a heartbeat within its allotted time.
+
+The LogRhythm **Silent Log Source Error** alarm, which triggers if any log source with Silent Log Message Source Detection enabled does not generate a last log message within the set time.
+
+
+## Addressing Alarms
+
+Most alarms, especially those dealing with the LogRhythm platform, will be **addressed by the LR team**. 
+
+However, the two examples provided above may need to be **addressed from onsite**.
+
+
+## Creating Alarm Rules
+New Alarm Rules can be created in the **Alarm Rules tab**; however, due to their “one log” limitation, **it is recommended to use AIE Rules for custom alarms** (even when detecting one instance of a log only).
+
+_We will cover AI Engine Rules in a later lesson._
+
+
