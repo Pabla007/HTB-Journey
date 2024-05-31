@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting/07 Report Packages.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/01 Platform Manager and Other Settings.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting/07 Report Packages.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/01 Platform Manager and Other Settings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting/07 Report Packages.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/01 Platform Manager and Other Settings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting/07 Report Packages.md"
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/01 Platform Manager and Other Settings.md"
               }
             }
           },
@@ -232,10 +232,15 @@
   },
   "active": "22420873f9eaedcc",
   "lastOpenFiles": [
+    "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting/09 Knowledge Check.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/01 Platform Manager and Other Settings.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting/10 Platform Manager and Other Settings.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting/08 Lab Exercises.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting/07 Report Packages.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240530182624.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240530181943.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting/06 Running a Report.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting/07 Report Packages.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240530114141.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting/05 Reporting Overview.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240530113901.png",
@@ -262,14 +267,10 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/Introduction to the Course.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240529061645.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240529061530.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240529061402.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/08 Lists",
     "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/07 Knowledge Check.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/07 User, Profiles and Permissions/04 User Profiles determine.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/07 User, Profiles and Permissions/03 User Profiles.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/07 User, Profiles and Permissions/02 Security Overview.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/07 User, Profiles and Permissions/01 Users, Profiles, and Permissions.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/07 User, Profiles and Permissions/05 Active Directory Groups.md",
     "Red Team/00 Images",
     "Red Team",
     "Active Directory Practice/11 Cascade",
@@ -277,7 +278,6 @@
     "Logrythm/LogRhythm/Logrhythm 301",
     "Logrythm/LogRhythm/301 Administration Fundamentals/07 User, Profiles and Permissions",
     "Logrythm/LogRhythm/301 Administration Fundamentals/06 Advanced Log Collection",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration",
     "Active Directory Practice/07 Monterverde/Untitled.canvas"
   ]
 }
