@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/06 Global Data Management Settings.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/07 Global System Settings.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/06 Global Data Management Settings.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/07 Global System Settings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/06 Global Data Management Settings.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/07 Global System Settings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/06 Global Data Management Settings.md"
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/07 Global System Settings.md"
               }
             }
           },
@@ -232,9 +232,12 @@
   },
   "active": "22420873f9eaedcc",
   "lastOpenFiles": [
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240531115445.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/06 Global Data Management Settings.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/07 Global System Settings.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240531115314.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240531114232.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/05 Understanding the RBP Settings.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/06 Global Data Management Settings.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240531114051.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/04 Global Risked Based Priority.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/03 Platform Manager.md",
@@ -254,8 +257,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240530114141.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting/05 Reporting Overview.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240530113901.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240530113700.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240530113446.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting/04 Notification Policies.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting/03 Viewing & Investigating Alarms.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting/02 Alarming Overview.md",
@@ -269,7 +270,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/08 Lists/04 List Utilization.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting",
     "Logrythm/LogRhythm/301 Administration Fundamentals/08 Lists/03 Creating and Managing Lists.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/08 Lists/01 Lists.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/08 Lists",
     "Red Team/00 Images",
     "Red Team",
