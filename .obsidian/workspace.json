@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/10 Archive Paths.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/13 Knowledge Check.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/10 Archive Paths.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/13 Knowledge Check.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/10 Archive Paths.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/13 Knowledge Check.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/10 Archive Paths.md"
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/13 Knowledge Check.md"
               }
             }
           },
@@ -232,10 +232,16 @@
   },
   "active": "22420873f9eaedcc",
   "lastOpenFiles": [
+    "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/12 Lab Exercises.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/13 Knowledge Check.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/11 Advanced Properties.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240531193442.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240531192938.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240531192911.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/10 Archive Paths.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240531183807.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240531183355.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/09 TrueIdentity.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/10 Archive Paths.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240531183002.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/08 Active Directory Synchronization.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240531125955.png",
@@ -244,14 +250,10 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240531115445.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/06 Global Data Management Settings.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240531115314.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240531114232.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/05 Understanding the RBP Settings.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240531114051.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/04 Global Risked Based Priority.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/03 Platform Manager.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240531112849.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/02 Knowledge Base Manager.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240531112300.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/01 Platform Manager and Other Settings.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting/09 Knowledge Check.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings",
@@ -267,8 +269,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/08 Lists/02 Lists Overview.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/07 User, Profiles and Permissions/07 Knowledge Check.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/07 User, Profiles and Permissions/06 Lab Exercises.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/13 Knowledge Check.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/02 Agent Fundamentals.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting",
     "Logrythm/LogRhythm/301 Administration Fundamentals/08 Lists",
     "Red Team/00 Images",

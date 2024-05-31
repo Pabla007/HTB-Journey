@@ -27,3 +27,17 @@ The integrity of LogRhythm archives is preserved, during various stages of proce
 - Archive file attributes and/or hashes are recorded by the LogRhythm Platform for use in verifying integrity during Archive restoration and other operations.
 - When Archived logs need to be accessed, the restoration tool, **SecondLook**, allows you to import the logs into a Data Processor database.
 
+
+## Changing Archive Location
+
+The Archive paths can be modified in the **Data Processor Advanced Properties window.** For best performance, keep Inactive Archives on a file share other than the LogRhythm appliance.
+
+_Note: If you plan to store Archives to a non-local path, the scmedsvr service must be set to run as a user account with permissions to access the specified path. The service account is set via the scmedsvr service properties in the Windows Services control panel._
+
+_Note: High Availability (HA) Network Area Storage (NAS) is recommended for writing Inactive Archives to remote UNC paths._
+
+
+The LogRhythm Archives are stored, by default, in the S or D:\LogRhythmArchives\Active and D:\LogRhythmArchives\Inactive directories.
+
+
+
