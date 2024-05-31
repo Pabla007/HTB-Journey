@@ -17,3 +17,12 @@ Global Data Management Settings define platform behaviors, such as which logs wi
 
 <hr>
 
+**Lab overview:**
+
+- **Image:** LRVM-XM-3012; **Credentials:** Administrator / logrhythm!1
+- **Image:** centos7_301; **Credentials:** logrhythm / logrhythm!1
+- **Image:** LRVM-AD; **Credentials:** Administrator / logrhythm!1
+
+![[Pasted image 20240601011922.png]]
+
+
