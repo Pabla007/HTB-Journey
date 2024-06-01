@@ -26,3 +26,18 @@ Global Data Management Settings define platform behaviors, such as which logs wi
 ![[Pasted image 20240601011922.png]]
 
 
+From the Deployment Manager, answer the following questions: 
+
+1. Which tab contains information for each System Monitor? ______________________________ 
+Component status
+
+2. How many System Monitors are currently listed in this deployment?
+one
+
+3. Which tab contains information on the hosts and networks monitored by LogRhythm? 
+
+
+5. Which tab shows all the Log Processing Policies currently supported by LogRhythm? __________ 
+
+
+6. Are there any Alarm Rules currently enabled? If so, how many? 
