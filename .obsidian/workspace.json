@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/05 Log Source Properties.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/09 Lab Exercises.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/05 Log Source Properties.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/09 Lab Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/05 Log Source Properties.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/09 Lab Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/05 Log Source Properties.md"
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/09 Lab Exercises.md"
               }
             }
           },
@@ -232,8 +232,15 @@
   },
   "active": "53990ced3d71ad4d",
   "lastOpenFiles": [
-    "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/03 Log Sources & Host Records.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/08 Entity Wizard.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/07 Adding Host Records.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/06 Host Records.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/04.1 Risk vs. Threat.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/04 Network Records.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/03 Entity Organization.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/02 Log Sources.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/05 Log Source Properties.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/03 Log Sources & Host Records.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/10 Knowledge Check.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/09 Example AWS LSV Template Configuration.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/08 Log Source Virtualization Templates.md",
@@ -242,13 +249,7 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/04 Windows Event Forwarding.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/03 Log Source Onboarding Overview.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/02 Log Collection Methodologies.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/08 Entity Wizard.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/07 Adding Host Records.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/06 Host Records.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/05 How to create a New Network Record.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/04.1 Risk vs. Threat.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/04 Network Records.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/03 Entity Organization.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/02 Entity Structure.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/09 Lab Exercises.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/12 Lab Exercises.md",
@@ -261,7 +262,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240531193442.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240531192938.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240531192911.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/10 Archive Paths.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240531183807.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240531183355.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240531183002.png",
