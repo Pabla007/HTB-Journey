@@ -35,9 +35,10 @@ Component status
 one
 
 3. Which tab contains information on the hosts and networks monitored by LogRhythm? 
-
+Data Processor
 
 5. Which tab shows all the Log Processing Policies currently supported by LogRhythm? __________ 
-
+Log processing policy 
 
 6. Are there any Alarm Rules currently enabled? If so, how many? 
+Yes, 
