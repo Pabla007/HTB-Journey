@@ -7,11 +7,11 @@ To complete the exercises, follow the step-by-step instructions in your **Stude
 
 **You are finished with the lab for this lesson when you have:** 
 
-- [ ] Installed both a Linux and Windows System Monitor Agent
+- [x] Installed both a Linux and Windows System Monitor Agent
     
-- [ ] Accepted the Agents in the Client Console
+- [x] Accepted the Agents in the Client Console
     
-- [ ] Configured Syslog acceptance on the LRVM-AD Agent
+- [x] Configured Syslog acceptance on the LRVM-AD Agent
     
 
 **Estimated time: 45 minutes**
