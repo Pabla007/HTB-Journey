@@ -58,5 +58,3 @@ LogRhythm’s APIs get new calls and functions with each release and changes to 
 <hr>
 
 
-## Knowledge Check
-

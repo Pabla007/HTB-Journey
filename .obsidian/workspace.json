@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/13 LogRhythm's API Ecosystem/01 Knowledge Check.md",
+                "file": "Logrythm/02 What is SIEM Logrythm/03 Phase 3 - Response/01 Manual or Automated.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "SIEM",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,7 +138,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/13 LogRhythm's API Ecosystem/01 Knowledge Check.md",
+                "file": "Logrythm/02 What is SIEM Logrythm/03 Phase 3 - Response/01 Manual or Automated.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/13 LogRhythm's API Ecosystem/01 Knowledge Check.md",
+                "file": "Logrythm/02 What is SIEM Logrythm/03 Phase 3 - Response/01 Manual or Automated.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/13 LogRhythm's API Ecosystem/01 Knowledge Check.md"
+                "file": "Logrythm/02 What is SIEM Logrythm/03 Phase 3 - Response/01 Manual or Automated.md"
               }
             }
           },
@@ -230,14 +231,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a59eface60f8c62a",
+  "active": "22420873f9eaedcc",
   "lastOpenFiles": [
+    "Logrythm/LogRhythm/301 Administration Fundamentals/16 Tuning and Restoration of Data/01 Knowledge Check.md",
+    "Logrythm/02 What is SIEM Logrythm/04 Logrythm's SIEM Solution/01 Connect SIEM Terms to Logrythm Tools.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/02 Agent Fundamentals.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/06 Licensing newly accepted Agents.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/01 System Monitors.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/15 Health Monitoring and Maintenance/01 Knowledge Check.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/16 Tuning and Restoration of Data",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/14 SOAR/01 Knowledge Check.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/13 LogRhythm's API Ecosystem/01 Knowledge Check.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/15 Health Monitoring and Maintenance",
     "Logrythm/LogRhythm/301 Administration Fundamentals/14 SOAR",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240606013544.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/13 LogRhythm's API Ecosystem",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Untitled",
     "Logrythm/LogRhythm/301 Administration Fundamentals/12 Threat Intelligence Integration/01 Knowledge Check.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/13 LogRhythm's API Ecosystem/01 Knowledge Check.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/Introduction to the Course.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/12 Threat Intelligence Integration",
     "Logrythm/LogRhythm/301 Administration Fundamentals/11 Compliance and Threat Modules/01 Knowledge Check.md",
@@ -257,12 +267,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/09 Example AWS LSV Template Configuration.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/08 Log Source Virtualization Templates.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/07 Example Syslog Architecture.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/05  Syslog & Syslog Relay.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/04 Windows Event Forwarding.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/03 Log Source Onboarding Overview.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/03 Log Source Onboarding/02 Log Collection Methodologies.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/05 How to create a New Network Record.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/02 Entity Structure.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240601011922.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240531193442.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240531192938.png",
@@ -275,9 +279,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings",
     "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting",
     "Logrythm/LogRhythm/301 Administration Fundamentals/08 Lists",
-    "Red Team/00 Images",
-    "Red Team",
-    "Active Directory Practice/11 Cascade",
     "Active Directory Practice/07 Monterverde/Untitled.canvas"
   ]
 }
