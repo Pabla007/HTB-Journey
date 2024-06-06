@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/302 AI Engine Fundamentals/01 Use Cases/04 Knowledge Check.md",
+                "file": "Logrythm/302 AI Engine Fundamentals/02 Introduction to AI Engine/02 AI Engine Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/302 AI Engine Fundamentals/01 Use Cases/04 Knowledge Check.md",
+                "file": "Logrythm/302 AI Engine Fundamentals/02 Introduction to AI Engine/02 AI Engine Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/302 AI Engine Fundamentals/01 Use Cases/04 Knowledge Check.md",
+                "file": "Logrythm/302 AI Engine Fundamentals/02 Introduction to AI Engine/02 AI Engine Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/302 AI Engine Fundamentals/01 Use Cases/04 Knowledge Check.md"
+                "file": "Logrythm/302 AI Engine Fundamentals/02 Introduction to AI Engine/02 AI Engine Overview.md"
               }
             }
           },
@@ -218,12 +218,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a59eface60f8c62a",
+  "active": "53990ced3d71ad4d",
   "lastOpenFiles": [
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240606180532.png",
+    "Logrythm/302 AI Engine Fundamentals/02 Introduction to AI Engine/01 Overview.md",
+    "Logrythm/302 AI Engine Fundamentals/02 Introduction to AI Engine/02 AI Engine Overview.md",
+    "Logrythm/302 AI Engine Fundamentals/01 Use Cases/04 Knowledge Check.md",
     "Logrythm/302 AI Engine Fundamentals/02 Introduction to AI Engine",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240606175941.png",
     "Logrythm/302 AI Engine Fundamentals/01 Use Cases/01 Use Cases.md",
-    "Logrythm/302 AI Engine Fundamentals/01 Use Cases/04 Knowledge Check.md",
     "Logrythm/302 AI Engine Fundamentals/01 Use Cases/03 LogRhythm ECHO.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240606174634.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240606174235.png",
@@ -262,10 +265,7 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/Introduction to the Course.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/12 Threat Intelligence Integration",
     "Logrythm/LogRhythm/301 Administration Fundamentals/11 Compliance and Threat Modules/01 Knowledge Check.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/13 Knowledge Check.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/11 Compliance and Threat Modules",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/08 Entity Wizard.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings",
     "Active Directory Practice/07 Monterverde/Untitled.canvas"
   ]
 }
