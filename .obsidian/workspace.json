@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/05 Detecting Issues in Log Collection.md",
+                "file": "Logrythm/302 AI Engine Fundamentals/01 Use Cases/01 Use Cases.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "maxmessage",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,8 +126,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/05 Detecting Issues in Log Collection.md",
+                "file": "Logrythm/302 AI Engine Fundamentals/01 Use Cases/01 Use Cases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/05 Detecting Issues in Log Collection.md",
+                "file": "Logrythm/302 AI Engine Fundamentals/01 Use Cases/01 Use Cases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/05 Detecting Issues in Log Collection.md"
+                "file": "Logrythm/302 AI Engine Fundamentals/01 Use Cases/01 Use Cases.md"
               }
             }
           },
@@ -221,6 +220,16 @@
   },
   "active": "53990ced3d71ad4d",
   "lastOpenFiles": [
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240606173120.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240606173033.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240606172837.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240606172452.png",
+    "Logrythm/00 301 Administration Fundamentals.md",
+    "Logrythm/302 AI Engine Fundamentals/01 Use Cases/01 Use Cases.md",
+    "Logrythm/302 AI Engine Fundamentals/00 Overview.md",
+    "Logrythm/302 AI Engine Fundamentals/01 Use Cases",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/05 Detecting Issues in Log Collection.md",
+    "Logrythm/302 AI Engine Fundamentals",
     "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting/02 Alarming Overview.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/09 Lab Exercises.md",
     "Logrythm/00 Images/Pasted image 20240508172803.png",
@@ -253,20 +262,10 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/07 Adding Host Records.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/06 Host Records.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/04.1 Risk vs. Threat.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/04 Network Records.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/03 Entity Organization.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/02 Log Sources.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/05 Log Source Properties.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/04 Log Sources/03 Log Sources & Host Records.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240601011922.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240531193442.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240531192938.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240531192911.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240531183807.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240531183355.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/08 Lists",
     "Active Directory Practice/07 Monterverde/Untitled.canvas"
   ]
 }
