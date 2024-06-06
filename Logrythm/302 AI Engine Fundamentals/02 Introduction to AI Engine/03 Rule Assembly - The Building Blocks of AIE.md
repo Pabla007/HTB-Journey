@@ -147,3 +147,15 @@ AIE is designed to create visibility and allow you to execute actions. 
 
 - AI Engine Rules can be configured with a Smartresponse auto-remediation action.
 - The ARM service on the Platform Manager is responsible for initiating SmartResponse actions. These actions can be configured to run automatically or upon approval.
+
+![[Pasted image 20240607014212.png]]
+
+As criteria for an AI Engine Rule are met, LogRhythm SIEM performs the following actions: AIE Events are made visible, AIE Alarms are made visible, Notifications are sent, SmartResponse remediation actions are performed.
+
+### **Notification Types:**
+
+The **ARM** or **Notification service** on the Platform Manager can send notifications in several ways. People and Roles, created in LogRhythm under the People tab of the Deployment Manager, may be assigned a contact method of SMTP.
+
+Once the appropriate option is selected, AI Engine alarm notifications can be sent in HTML format which allow for easier reading and a greater detail of information. To send these enhanced notifications, select the HTML option in the Notification Policy Manager.
+
+
