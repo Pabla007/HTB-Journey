@@ -66,7 +66,7 @@ It is complimentary to the Cyber Kill Chain at every phase.
 
 
 
-Example Use Case Template
+**Example Use Case Template**
 
 It is essential that use cases **contain all the relevant points** so that any member of the IT Security Team can pick up the document and understand what is trying to be achieved.
 
@@ -83,4 +83,22 @@ It is essential that use cases **contain all the relevant points** so that any
 | **SOC Notifications**         | Who and how will people be notified (e.g., dashboards or alarm emails)?                                                                |
 | **Use Case Data Source(s)**   | What data sources will be needed? Align to MITRE ATT&CK, cyber kill chain, or other methodology.                                       |
 | **Assumptions & Limitations** | As an example, if this use case requires LDAP, then the assumption is that all new LDAP servers will be configured to log to the SIEM. |
+
+
+## An example from LogRhythm’s Threat Module
+
+View an example of **LogRhythm’s Threat Module** information and how the information above is included. 
+
+Note that LogRhythm’s Threat Module information is more generic, as details regarding environment specifics, infrastructure, or logging capabilities would not be available to LogRhythm initially.
+
+
+![[Pasted image 20240606173426.png]]
+
+
+## Where to find the Knowledge Base
+
+To access the Knowledge Base, open Tools > Knowledge > Knowledge Base Manager. 
+
+**Note: if any other windows are open, the KB will not be available to open.**
+
 

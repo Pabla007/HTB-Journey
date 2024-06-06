@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/302 AI Engine Fundamentals/01 Use Cases/01 Use Cases.md",
+                "file": "Logrythm/302 AI Engine Fundamentals/01 Use Cases/04 Knowledge Check.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/302 AI Engine Fundamentals/01 Use Cases/01 Use Cases.md",
+                "file": "Logrythm/302 AI Engine Fundamentals/01 Use Cases/04 Knowledge Check.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/302 AI Engine Fundamentals/01 Use Cases/01 Use Cases.md",
+                "file": "Logrythm/302 AI Engine Fundamentals/01 Use Cases/04 Knowledge Check.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/302 AI Engine Fundamentals/01 Use Cases/01 Use Cases.md"
+                "file": "Logrythm/302 AI Engine Fundamentals/01 Use Cases/04 Knowledge Check.md"
               }
             }
           },
@@ -218,14 +218,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53990ced3d71ad4d",
+  "active": "a59eface60f8c62a",
   "lastOpenFiles": [
+    "Logrythm/302 AI Engine Fundamentals/02 Introduction to AI Engine",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240606175941.png",
+    "Logrythm/302 AI Engine Fundamentals/01 Use Cases/01 Use Cases.md",
+    "Logrythm/302 AI Engine Fundamentals/01 Use Cases/04 Knowledge Check.md",
+    "Logrythm/302 AI Engine Fundamentals/01 Use Cases/03 LogRhythm ECHO.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240606174634.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240606174235.png",
+    "Logrythm/302 AI Engine Fundamentals/01 Use Cases/02 Testing Your Use Case.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240606174138.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240606173426.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240606173120.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240606173033.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240606172837.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240606172452.png",
     "Logrythm/00 301 Administration Fundamentals.md",
-    "Logrythm/302 AI Engine Fundamentals/01 Use Cases/01 Use Cases.md",
     "Logrythm/302 AI Engine Fundamentals/00 Overview.md",
     "Logrythm/302 AI Engine Fundamentals/01 Use Cases",
     "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/05 Detecting Issues in Log Collection.md",
@@ -233,8 +242,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting/02 Alarming Overview.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/09 Lab Exercises.md",
     "Logrythm/00 Images/Pasted image 20240508172803.png",
-    "Logrythm/00 Images/Pasted image 20240508171536.png",
-    "Logrythm/00 Images/Pasted image 20240508171323.png",
     "Logrythm/LogRhythm/01 LogRhythm SIEM Fundamentals/03 What is SIEM/02 LogRhythm SIEM vs. Shopping Mall.md",
     "Logrythm/LogRhythm/01 LogRhythm SIEM Fundamentals/03 What is SIEM/01 What is a SIEM.md",
     "Logrythm/02 What is SIEM Logrythm/03 Phase 3 - Response/01 Manual or Automated.md",
@@ -249,7 +256,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/13 LogRhythm's API Ecosystem/01 Knowledge Check.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/15 Health Monitoring and Maintenance",
     "Logrythm/LogRhythm/301 Administration Fundamentals/14 SOAR",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240606013544.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/13 LogRhythm's API Ecosystem",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Untitled",
     "Logrythm/LogRhythm/301 Administration Fundamentals/12 Threat Intelligence Integration/01 Knowledge Check.md",
@@ -259,12 +265,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/13 Knowledge Check.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/11 Compliance and Threat Modules",
     "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/08 Entity Wizard.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/07 Adding Host Records.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/06 Host Records.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/02 Entities/04.1 Risk vs. Threat.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240601011922.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240531193442.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240531192938.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings",
     "Active Directory Practice/07 Monterverde/Untitled.canvas"
   ]
