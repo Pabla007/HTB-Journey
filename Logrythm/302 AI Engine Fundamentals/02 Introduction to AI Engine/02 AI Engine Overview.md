@@ -26,3 +26,20 @@ AIE, however, does not carry this limitation – activity can span multiple logs
 8. Account deleted
 
 
+### **Review of the Flow of Data Within the LogRhythm SIEM Platform**
+
+- As part of the normal flow of log data through the LogRhythm platform, the **Data Processor** forwards a copy of every processed log message to the **LogRhythm AI Engine**. A **_processed log_** is one which has been successfully identified by the **Message Processing Engine (MPE)**, has been matched to an **MPE Rule**, and one where metadata has been parsed.
+- The **AI Engine** evaluates metadata against **AI Engine Rules.** The **Alarming and Response Manager (ARM)**, a service on the **Platform Manager**, evaluates **Alarm Rules** to determine if an Event should trigger an Alarm and can perform a Notification and SmartResponse action, if configured in the rule.
+
+
+![[Pasted image 20240606201735.png]]
+
+
+
+WHAT DO YOU THINK?
+   
+**Why would the Data Processor deliver non-Event logs to the AI Engine?**
+
+One non-Event log may not be important, but given the right successive activity, **a non-Event log may indicate a security threat**.
+
+
