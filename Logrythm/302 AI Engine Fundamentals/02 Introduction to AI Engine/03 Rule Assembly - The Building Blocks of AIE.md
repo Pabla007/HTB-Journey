@@ -86,3 +86,28 @@ Something we were expecting to see within a certain timeframe, but it did not ha
 
 >[! bug] **Log Observed, Unique Values, and Threshold Rule Blocks will only evaluate data for a maximum of 7 days.**
 
+
+### **Rule Block Examples**
+
+Watch the short video below for an overview and helpful examples of the nine varieties of rule block types within the three categories: Log, Threshold, and Unique Value – Behavioral Rules are more complex and will be covered in detail later.
+
+![[Pasted image 20240606204214.png]]
+
+Examples of all 9 varieties of the 3 basic rule types (Log, Threshold, and Unique Value)
+
+### **Compound Rules:**
+
+ Simple Alarm Rules vs. Rule Blocks
+
+Simple traditional Alarm Rules are static and linear in nature. They are configured to monitor for specified criteria found in a single log message, or a number of these same logs occurring within a specified time span. 
+
+Rule Blocks are what enable the AI Engine to evaluate and correlate multiple logs. The **AI Engine Rule Blocks can be combined with each other to make compound rules** capable of detecting sophisticated external attacks, internal threats, complex operational issues, and much more.
+
+## Compound Rules
+
+- A Compound Rule is an AIE rule using 2 or 3 rule blocks for complex data correlation (3 rule blocks is the maximum in any one AI Engine rule)
+- Different types of Rule Blocks can be used in Compound Rules. As an example, a rule could utilize a Threshold Rule Block followed by a Log Observed Rule Block. 
+- AIE Rules pass information from one block to the next to ensure correlation of specific data.
+
+![[Pasted image 20240606204526.png]]
+
