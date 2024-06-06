@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/302 AI Engine Fundamentals/02 Introduction to AI Engine/04 Knowledge Check.md",
+                "file": "Logrythm/302 AI Engine Fundamentals/03 Log Observed & Log Not Observed Rule Blocks/05 Log Not Observed Compound Rule Block.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/302 AI Engine Fundamentals/02 Introduction to AI Engine/04 Knowledge Check.md",
+                "file": "Logrythm/302 AI Engine Fundamentals/03 Log Observed & Log Not Observed Rule Blocks/05 Log Not Observed Compound Rule Block.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/302 AI Engine Fundamentals/02 Introduction to AI Engine/04 Knowledge Check.md",
+                "file": "Logrythm/302 AI Engine Fundamentals/03 Log Observed & Log Not Observed Rule Blocks/05 Log Not Observed Compound Rule Block.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/302 AI Engine Fundamentals/02 Introduction to AI Engine/04 Knowledge Check.md"
+                "file": "Logrythm/302 AI Engine Fundamentals/03 Log Observed & Log Not Observed Rule Blocks/05 Log Not Observed Compound Rule Block.md"
               }
             }
           },
@@ -220,25 +220,32 @@
   },
   "active": "53990ced3d71ad4d",
   "lastOpenFiles": [
-    "Logrythm/302 AI Engine Fundamentals/02 Introduction to AI Engine/03 Rule Assembly - The Building Blocks of AIE.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240607032250.png",
+    "Logrythm/302 AI Engine Fundamentals/03 Log Observed & Log Not Observed Rule Blocks/04 The Log Observed Rule Block.md",
+    "Logrythm/302 AI Engine Fundamentals/03 Log Observed & Log Not Observed Rule Blocks/05 Log Not Observed Compound Rule Block.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240607031930.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240607031336.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240607031212.png",
+    "Logrythm/302 AI Engine Fundamentals/03 Log Observed & Log Not Observed Rule Blocks/03 AI Engine Rule Wizard.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240607031024.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240607031010.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240607030944.png",
+    "Logrythm/302 AI Engine Fundamentals/03 Log Observed & Log Not Observed Rule Blocks/02 AI Engine Administration.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240607030703.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240607030358.png",
+    "Logrythm/302 AI Engine Fundamentals/03 Log Observed & Log Not Observed Rule Blocks/01 Log Observed & Log Not Observed Rule Blocks.md",
     "Logrythm/302 AI Engine Fundamentals/02 Introduction to AI Engine/04 Knowledge Check.md",
+    "Logrythm/302 AI Engine Fundamentals/03 Log Observed & Log Not Observed Rule Blocks",
+    "Logrythm/302 AI Engine Fundamentals/02 Introduction to AI Engine/03 Rule Assembly - The Building Blocks of AIE.md",
     "Logrythm/302 AI Engine Fundamentals/02 Introduction to AI Engine/02 AI Engine Overview.md",
     "Logrythm/302 AI Engine Fundamentals/02 Introduction to AI Engine/01 Overview.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240607014212.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240606204526.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240606204214.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240606201735.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240606180532.png",
     "Logrythm/302 AI Engine Fundamentals/01 Use Cases/04 Knowledge Check.md",
     "Logrythm/302 AI Engine Fundamentals/02 Introduction to AI Engine",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240606175941.png",
     "Logrythm/302 AI Engine Fundamentals/01 Use Cases/01 Use Cases.md",
     "Logrythm/302 AI Engine Fundamentals/01 Use Cases/03 LogRhythm ECHO.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240606174634.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240606174235.png",
     "Logrythm/302 AI Engine Fundamentals/01 Use Cases/02 Testing Your Use Case.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240606174138.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240606173426.png",
     "Logrythm/00 301 Administration Fundamentals.md",
     "Logrythm/302 AI Engine Fundamentals/00 Overview.md",
     "Logrythm/302 AI Engine Fundamentals/01 Use Cases",
@@ -253,19 +260,12 @@
     "Logrythm/02 What is SIEM Logrythm/04 Logrythm's SIEM Solution/01 Connect SIEM Terms to Logrythm Tools.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/02 Agent Fundamentals.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/06 Licensing newly accepted Agents.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/01 System Monitors/01 System Monitors.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/15 Health Monitoring and Maintenance/01 Knowledge Check.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/16 Tuning and Restoration of Data",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/14 SOAR/01 Knowledge Check.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/13 LogRhythm's API Ecosystem/01 Knowledge Check.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/15 Health Monitoring and Maintenance",
     "Logrythm/LogRhythm/301 Administration Fundamentals/14 SOAR",
     "Logrythm/LogRhythm/301 Administration Fundamentals/13 LogRhythm's API Ecosystem",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Untitled",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/12 Threat Intelligence Integration/01 Knowledge Check.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/Introduction to the Course.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/12 Threat Intelligence Integration",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/11 Compliance and Threat Modules",
     "Active Directory Practice/07 Monterverde/Untitled.canvas"
   ]
 }
