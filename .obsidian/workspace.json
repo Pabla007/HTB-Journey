@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/302 AI Engine Fundamentals/04 Threshold & Unique Values Rule Blocks/03 Threshold Rule Blocks.md",
+                "file": "Logrythm/302 AI Engine Fundamentals/04 Threshold & Unique Values Rule Blocks/04 The Thresholds Tab.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/302 AI Engine Fundamentals/04 Threshold & Unique Values Rule Blocks/03 Threshold Rule Blocks.md",
+                "file": "Logrythm/302 AI Engine Fundamentals/04 Threshold & Unique Values Rule Blocks/04 The Thresholds Tab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/302 AI Engine Fundamentals/04 Threshold & Unique Values Rule Blocks/03 Threshold Rule Blocks.md",
+                "file": "Logrythm/302 AI Engine Fundamentals/04 Threshold & Unique Values Rule Blocks/04 The Thresholds Tab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/302 AI Engine Fundamentals/04 Threshold & Unique Values Rule Blocks/03 Threshold Rule Blocks.md"
+                "file": "Logrythm/302 AI Engine Fundamentals/04 Threshold & Unique Values Rule Blocks/04 The Thresholds Tab.md"
               }
             }
           },
@@ -220,8 +220,11 @@
   },
   "active": "53990ced3d71ad4d",
   "lastOpenFiles": [
-    "Logrythm/302 AI Engine Fundamentals/04 Threshold & Unique Values Rule Blocks/02 Threshold and Unique Values overview.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240608025643.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240608025541.png",
     "Logrythm/302 AI Engine Fundamentals/04 Threshold & Unique Values Rule Blocks/03 Threshold Rule Blocks.md",
+    "Logrythm/302 AI Engine Fundamentals/04 Threshold & Unique Values Rule Blocks/04 The Thresholds Tab.md",
+    "Logrythm/302 AI Engine Fundamentals/04 Threshold & Unique Values Rule Blocks/02 Threshold and Unique Values overview.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240607123237.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240607123224.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240607123209.png",
@@ -243,7 +246,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240607033855.png",
     "Logrythm/302 AI Engine Fundamentals/03 Log Observed & Log Not Observed Rule Blocks/07 Common Configuration of Rule Blocks.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240607033409.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240607033226.png",
     "Logrythm/302 AI Engine Fundamentals/03 Log Observed & Log Not Observed Rule Blocks/01 Log Observed & Log Not Observed Rule Blocks.md",
     "Logrythm/302 AI Engine Fundamentals/02 Introduction to AI Engine/04 Knowledge Check.md",
     "Logrythm/302 AI Engine Fundamentals/03 Log Observed & Log Not Observed Rule Blocks",
@@ -258,7 +260,6 @@
     "Logrythm/00 301 Administration Fundamentals.md",
     "Logrythm/302 AI Engine Fundamentals/00 Overview.md",
     "Logrythm/302 AI Engine Fundamentals/01 Use Cases",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/05 Log Source Administration/05 Detecting Issues in Log Collection.md",
     "Logrythm/302 AI Engine Fundamentals",
     "Logrythm/LogRhythm/301 Administration Fundamentals/16 Tuning and Restoration of Data",
     "Logrythm/LogRhythm/301 Administration Fundamentals/15 Health Monitoring and Maintenance",

@@ -27,3 +27,11 @@ The answer to that question lies in what the server's job is. If the server were
 
 What if the web server were an e-commerce host ?
 
+In this case, the scenario becomes much more valid. In this case, the web server is responsible for sending HTML source pages, images, and other resources to the requester. (Never underestimate caching, as well; if the visitor has visited the website in the past, even less data is sent to the visitor as it should reside in their local cache!) Usually, the total volume in data sent is very small.
+
+The administrator in this case has identified that 10 MB transferred in a short time period may indicate that there has been some sort of compromise or attack on the web server (such as a SQL Injection attack that is proceeding to download the contents of the back-end database! Or possibly another kind of more traditional attack where an attacker has gained access to the server and is offloading valuable assets).
+
+
+While this method of monitoring would not be used to directly detect a SQL Injection (for example), it is valid in alerting analysts that abnormal activity is taking place.
+
+
