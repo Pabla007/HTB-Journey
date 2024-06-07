@@ -17,3 +17,13 @@ For example, the Threshold Blocks can be used whenever you would like to know wh
 ![[Pasted image 20240607123237.png]]
 
 
+**Use Case: Web Server Data Transfer**
+
+Why would administrators watch for such a small amount of data to be transferred off of or onto their server ?
+
+The answer to that question lies in what the server's job is. If the server were a mirror for file downloads, this scenario would not be valid. Its normal day-to-day job is to send large amounts of data to requesters (not to mention that large amounts of data must be copied to the server to be made available for downloading).
+
+
+
+What if the web server were an e-commerce host ?
+
