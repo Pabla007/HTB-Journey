@@ -77,5 +77,30 @@ If another log that matches the threshold configuration appears within the one-h
 
 <hr>
 
-## ****Use Case: Data Theft via DNS tunneling****
+## Use Case: Data Theft via DNS tunneling
+
+DNS Tunneling is a method of cyber-attack that encodes the data of other programs or protocols in DNS queries and responses. DNS tunneling often includes data payloads that can be added to an attacked DNS server and used to control a remote server and applications. 
+
+The normal use for this, apart from to bypass Hotel and Airport WIFI, is to use it for Data Exfiltration where the Upstream DNS requests are not restricted. The idea behind this use case is that normally UDP DNS traffic is more or less about 100 bytes in size. As we are using the first part of a DNS request to send encoded data the packet size will increases to 200 bytes or more in size which is a sign of something unusual happening.
+
+
+![[Pasted image 20240608033132.png]]
+
+
+
+## Additional info
+
+[(opens in a new tab)](https://attack.mitre.org/techniques/T1048/)(External links)
+
+- [**MITRE’s ATT&CK Technique T1048**(opens in a new tab)](https://attack.mitre.org/techniques/T1048/)
+- [**Iodine**(opens in a new tab)](https://github.com/yarrick/iodine) – an example tool for DNS tunneling
+- [**National Chocolate covered Cherry Day**(opens in a new tab)](https://www.daysoftheyear.com/days/chocolate-covered-cherry-day/) – Events like this can be used as Social Engineering Phishing attacks. They are attempts to get the user to engage with the malicious link or code.[(opens in a new tab)](https://github.com/martinoj2009/ICMPExfil)
+- [**IMCPEXfil on Github**](https://github.com/martinoj2009/ICMPExfil)
+
+
+
+**What other use cases** can you think of for Threshold Observed Rules?
+An increase in error logs for a server might be indicative of an Operational error or possibly a DOS attack.
+
+
 
