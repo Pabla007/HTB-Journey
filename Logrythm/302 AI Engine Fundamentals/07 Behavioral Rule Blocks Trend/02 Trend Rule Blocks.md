@@ -20,9 +20,12 @@ Trend Rule Blocks use a concept of a rolling baseline. This baseline will dynami
 
 The Trend **Base****line configuration must be completed prior to the Trend Monitors block configuration.** Like the Whitelist block, the Trend Block can be automatically configured to share the same data filter as the Baseline block, or it can be custom configured with a separate filter. Usually, the two configurations are the same
 
-
-## 
-
-Organizational Familiarity
+## Organizational Familiarity
 
 When using Trend Rules, it is important to become familiar with how your organization operates with respect to work schedules and holidays (as examples) in order to reduce the likelihood of false positives
+
+
+## Use Case
+
+For example, a Trend Rule Block can be used to monitor user access to files for more frequent than normal activity.
+
