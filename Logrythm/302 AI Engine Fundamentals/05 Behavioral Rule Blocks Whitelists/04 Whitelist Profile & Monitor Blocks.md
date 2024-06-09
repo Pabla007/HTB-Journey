@@ -131,3 +131,26 @@ This Whitelist Rule is meant to detect changes in host-to-host communication tha
 **Explore the Use Case details below:**
 
 
+Whitelists are great at detecting variations to a behavior. However, it is possible to do something similar with lists and a Log Observed rule. For example, your organization uses Application Whitelisting – your set of approved applications is Word, Excel, PowerPoint, Teams, Outlook, and Firefox – you can use a list for this. However, you now must maintain this list, where as a Whitelist can be used to record a known good system and if there are approved corporate changes, set up to re-record those changes.
+
+
+## Taking it further
+
+
+**A Whitelist is simply a way of collecting information from something that is known to be good and apply this to your current environment.** Taking this idea further, a Whitelist can be applied to several use cases, as follows.
+
+- Users in a certain department will use certain applications and have certain behaviors. You can use a Whitelist to record these behaviors and alert on variations to "normal" behavior. 
+- For example, Bob in the Finance department, logs on at 08:55 each morning and starts his email, the company Intranet site for the most up-to-date corporate news, and Teams to see what his colleagues are up to. Then, 15 minutes later starts up his Finance and Payroll packages and starts the process of scanning invoices or approving expenses. This behavior can be recorded in a Whitelist (Process or Application) and then applied to his team.
+
+
+## Resources
+
+For further reading and reference, feel free to explore these resources (external links):
+
+- MITRE ATT&CK Technique T1135 Network Share Discovery: [**https://attack.mitre.org/techniques/T1135/**(opens in a new tab)](https://attack.mitre.org/techniques/T1135/) 
+- MITRE’s ATT&CK Technique T1046 Network Service Scanning: [**https://attack.mitre.org/techniques/T1046/**(opens in a new tab)](https://attack.mitre.org/techniques/T1046/) 
+- Tools used for Network Service scanning include CrackMapExec: [**https://github.com/byt3bl33d3r/CrackMapExec**(opens in a new tab)](https://github.com/byt3bl33d3r/CrackMapExec)
+
+
+## Knowledge Check
+

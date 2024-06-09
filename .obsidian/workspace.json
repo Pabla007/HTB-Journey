@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/302 AI Engine Fundamentals/05 Behavioral Rule Blocks Whitelists/04 Whitelist Profile & Monitor Blocks.md",
+                "file": "Logrythm/302 AI Engine Fundamentals/06 Behavioral Rule Blocks Statistical/03 Filters & Configuration.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/302 AI Engine Fundamentals/05 Behavioral Rule Blocks Whitelists/04 Whitelist Profile & Monitor Blocks.md",
+                "file": "Logrythm/302 AI Engine Fundamentals/06 Behavioral Rule Blocks Statistical/03 Filters & Configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/302 AI Engine Fundamentals/05 Behavioral Rule Blocks Whitelists/04 Whitelist Profile & Monitor Blocks.md",
+                "file": "Logrythm/302 AI Engine Fundamentals/06 Behavioral Rule Blocks Statistical/03 Filters & Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/302 AI Engine Fundamentals/05 Behavioral Rule Blocks Whitelists/04 Whitelist Profile & Monitor Blocks.md"
+                "file": "Logrythm/302 AI Engine Fundamentals/06 Behavioral Rule Blocks Statistical/03 Filters & Configuration.md"
               }
             }
           },
@@ -232,6 +232,13 @@
   },
   "active": "6180739aa47bda90",
   "lastOpenFiles": [
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240609094253.png",
+    "Logrythm/302 AI Engine Fundamentals/06 Behavioral Rule Blocks Statistical/02 Statistical Rule Blocks.md",
+    "Logrythm/302 AI Engine Fundamentals/06 Behavioral Rule Blocks Statistical/03 Filters & Configuration.md",
+    "Logrythm/302 AI Engine Fundamentals/06 Behavioral Rule Blocks Statistical/01 Behavioral Rule Blocks Statistical.md",
+    "Logrythm/302 AI Engine Fundamentals/05 Behavioral Rule Blocks Whitelists/05 Key Takeaways.md",
+    "Logrythm/302 AI Engine Fundamentals/05 Behavioral Rule Blocks Whitelists/04 Whitelist Profile & Monitor Blocks.md",
+    "Logrythm/302 AI Engine Fundamentals/06 Behavioral Rule Blocks Statistical",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240609084910.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240609084806.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240609084650.png",
@@ -240,7 +247,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240609083629.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240609083344.png",
     "Logrythm/302 AI Engine Fundamentals/05 Behavioral Rule Blocks Whitelists/03 Whitelist Rule Block.md",
-    "Logrythm/302 AI Engine Fundamentals/05 Behavioral Rule Blocks Whitelists/04 Whitelist Profile & Monitor Blocks.md",
     "Logrythm/302 AI Engine Fundamentals/05 Behavioral Rule Blocks Whitelists/02 Behavioral Rule Block Overview.md",
     "Logrythm/302 AI Engine Fundamentals/05 Behavioral Rule Blocks Whitelists/01 Behavioral Rule Blocks Whitelists.md",
     "Logrythm/302 AI Engine Fundamentals/04 Threshold & Unique Values Rule Blocks/07 Knowledge Check.md",
@@ -253,7 +259,6 @@
     "Logrythm/302 AI Engine Fundamentals/04 Threshold & Unique Values Rule Blocks/02 Threshold and Unique Values overview.md",
     "Logrythm/302 AI Engine Fundamentals/04 Threshold & Unique Values Rule Blocks/01 Threshold & Unique Values Rule Blocks.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240608040039.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240608035653.png",
     "Logrythm/302 AI Engine Fundamentals/04 Threshold & Unique Values Rule Blocks/05 Unique Values Rules Blocks.md",
     "Logrythm/302 AI Engine Fundamentals/04 Threshold & Unique Values Rule Blocks",
     "Logrythm/302 AI Engine Fundamentals/03 Log Observed & Log Not Observed Rule Blocks/11 Knowledge Check.md",
@@ -266,18 +271,13 @@
     "Logrythm/302 AI Engine Fundamentals/03 Log Observed & Log Not Observed Rule Blocks/09 Rule Block Relationships.md",
     "Logrythm/302 AI Engine Fundamentals/03 Log Observed & Log Not Observed Rule Blocks/08 The Group By Tab.md",
     "Logrythm/302 AI Engine Fundamentals/03 Log Observed & Log Not Observed Rule Blocks/07 Common Configuration of Rule Blocks.md",
-    "Logrythm/302 AI Engine Fundamentals/03 Log Observed & Log Not Observed Rule Blocks/01 Log Observed & Log Not Observed Rule Blocks.md",
-    "Logrythm/302 AI Engine Fundamentals/02 Introduction to AI Engine/04 Knowledge Check.md",
     "Logrythm/302 AI Engine Fundamentals/03 Log Observed & Log Not Observed Rule Blocks",
-    "Logrythm/302 AI Engine Fundamentals/02 Introduction to AI Engine/03 Rule Assembly - The Building Blocks of AIE.md",
-    "Logrythm/302 AI Engine Fundamentals/02 Introduction to AI Engine/02 AI Engine Overview.md",
     "Logrythm/302 AI Engine Fundamentals/02 Introduction to AI Engine",
     "Logrythm/302 AI Engine Fundamentals/01 Use Cases",
     "Logrythm/302 AI Engine Fundamentals",
     "Logrythm/LogRhythm/301 Administration Fundamentals/16 Tuning and Restoration of Data",
     "Logrythm/LogRhythm/301 Administration Fundamentals/15 Health Monitoring and Maintenance",
     "Logrythm/LogRhythm/301 Administration Fundamentals/14 SOAR",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/13 LogRhythm's API Ecosystem",
     "Active Directory Practice/07 Monterverde/Untitled.canvas"
   ]
 }
