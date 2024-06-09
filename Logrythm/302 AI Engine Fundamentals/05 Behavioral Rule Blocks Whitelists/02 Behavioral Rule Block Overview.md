@@ -26,3 +26,18 @@ The Trend Rule Block is similar to the Whitelist Rule Block, but it constantly u
 For example, a Trend rule can be set to monitor production servers and trigger an Alarm when a server exceeds its normal activity due to increased requests from applications or users.
 
 
+The Behavioral blocks are used to monitor behavior of hosts, users, and other Log Sources that match a filter based on previous behavior or known-good behavior.
+
+These blocks can be used to "learn" to identify normal behavior, configurations, or trending data and utilize complex expressions to evaluate that behavior over time. In some cases, these blocks will trend data over time in a rolling trend analysis; in other cases, a known, set value will be set and used as a comparison point.
+
+
+## Special Configurations
+
+Each of the Behavioral Rule Blocks contains special configuration options that are much more complex than the configuration of the previously introduced blocks. 
+
+- In Whitelist blocks, a learning mode is enabled.
+- In Trend Rule Blocks, a rolling trend analysis mode is enabled.
+- In Statistical Rule Blocks, complex expressions are used to compare data in an analytical fashion.
+
+>[!bug ] **Because Behavioral Rule Blocks are more complex, it is recommended that you establish familiarity with how rule blocks in previously covered tiers function first.**
+
