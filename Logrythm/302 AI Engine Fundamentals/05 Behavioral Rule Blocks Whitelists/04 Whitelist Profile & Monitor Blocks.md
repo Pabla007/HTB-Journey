@@ -81,3 +81,53 @@ Once profile data collection is complete, the Whitelist is available to view. Yo
 
 
 ## **Monitor Block**
+
+![[Pasted image 20240609084650.png]]
+
+**The cubic Monitor Block is used after the Profile has been created.** 
+
+- It will monitor live data against the learned Profile of activity, hosts, etc. 
+- When data is observed that is not included in the Whitelist Profile, the rule can trigger an Event or Alarm to notify that unusual or unacceptable behavior was detected.
+
+
+### Viewing the Whitelist
+
+Once the collection interval completes, the Monitor block is used to view and modify the data. The rule will be able to monitor live logs, as they arrive in AI Engine and look for items that do not match the data set defined on the whitelist.
+
+![[Pasted image 20240609084806.png]]
+
+
+**View a sample collection of Whitelist data below:**
+
+![[Pasted image 20240609084910.png]]
+
+The top line indicates the data collected by this Whitelist. The number of columns will vary with the selection of Group By fields.
+
+As seen in the top line in the image to the left, the data collected in this example was "Process" and "MsgCount" 
+
+Each line item in the rows that follow consist of those two Group By metadata fields.
+
+
+
+### Editing the Whitelist
+
+The Whitelist can be manually adjusted from the Profile tab (if set to EMDB) in order to add/remove list entries. 
+
+Take care when modifying a Whitelist. Take note of the format in which the data exists. Be aware that there is additional information captured by the Whitelist that is critical to the workings of the Rule Block. 
+
+### **Recommendations:** 
+
+- Make a copy of a line in the file to use a template, then paste that line at the bottom of the list. Then modify the information in the pasted line to ensure you maintain the correct format of the file.
+- If adjusting the Whitelist, it is recommended that you copy a segment and paste it into a text editor in large enough font so that all minor details in syntax can be followed and included.
+
+>[!bug ] Correct syntax is required. **If a mistake is made on line 20 of a 100-line list, only the first 20 lines of data are used by the rule.**
+>
+
+
+### **Use Case: Detect New Host Communication**
+
+This Whitelist Rule is meant to detect changes in host-to-host communication that have not previously been observed. In short, **we want to know which hosts in our network are talking to each other**. 
+
+**Explore the Use Case details below:**
+
+
