@@ -83,9 +83,11 @@
             "id": "6180739aa47bda90",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.2"
+                "file": "Logrythm/302 AI Engine Fundamentals/05 Behavioral Rule Blocks Whitelists/03 Whitelist Rule Block.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -231,8 +233,8 @@
   "active": "6180739aa47bda90",
   "lastOpenFiles": [
     "Logrythm/302 AI Engine Fundamentals/05 Behavioral Rule Blocks Whitelists/02 Behavioral Rule Block Overview.md",
-    "Logrythm/302 AI Engine Fundamentals/05 Behavioral Rule Blocks Whitelists/03 Whitelist Rule Block.md",
     "Logrythm/302 AI Engine Fundamentals/05 Behavioral Rule Blocks Whitelists/01 Behavioral Rule Blocks Whitelists.md",
+    "Logrythm/302 AI Engine Fundamentals/05 Behavioral Rule Blocks Whitelists/03 Whitelist Rule Block.md",
     "Logrythm/302 AI Engine Fundamentals/04 Threshold & Unique Values Rule Blocks/07 Knowledge Check.md",
     "Logrythm/302 AI Engine Fundamentals/05 Behavioral Rule Blocks Whitelists",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240608041204.png",
