@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/302 AI Engine Fundamentals/05 Behavioral Rule Blocks Whitelists/03 Whitelist Rule Block.md",
+                "file": "Logrythm/302 AI Engine Fundamentals/05 Behavioral Rule Blocks Whitelists/04 Whitelist Profile & Monitor Blocks.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/302 AI Engine Fundamentals/05 Behavioral Rule Blocks Whitelists/03 Whitelist Rule Block.md",
+                "file": "Logrythm/302 AI Engine Fundamentals/05 Behavioral Rule Blocks Whitelists/04 Whitelist Profile & Monitor Blocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/302 AI Engine Fundamentals/05 Behavioral Rule Blocks Whitelists/03 Whitelist Rule Block.md",
+                "file": "Logrythm/302 AI Engine Fundamentals/05 Behavioral Rule Blocks Whitelists/04 Whitelist Profile & Monitor Blocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/302 AI Engine Fundamentals/05 Behavioral Rule Blocks Whitelists/03 Whitelist Rule Block.md"
+                "file": "Logrythm/302 AI Engine Fundamentals/05 Behavioral Rule Blocks Whitelists/04 Whitelist Profile & Monitor Blocks.md"
               }
             }
           },
@@ -232,9 +232,14 @@
   },
   "active": "6180739aa47bda90",
   "lastOpenFiles": [
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240609084141.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240609083827.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240609083629.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240609083344.png",
+    "Logrythm/302 AI Engine Fundamentals/05 Behavioral Rule Blocks Whitelists/03 Whitelist Rule Block.md",
+    "Logrythm/302 AI Engine Fundamentals/05 Behavioral Rule Blocks Whitelists/04 Whitelist Profile & Monitor Blocks.md",
     "Logrythm/302 AI Engine Fundamentals/05 Behavioral Rule Blocks Whitelists/02 Behavioral Rule Block Overview.md",
     "Logrythm/302 AI Engine Fundamentals/05 Behavioral Rule Blocks Whitelists/01 Behavioral Rule Blocks Whitelists.md",
-    "Logrythm/302 AI Engine Fundamentals/05 Behavioral Rule Blocks Whitelists/03 Whitelist Rule Block.md",
     "Logrythm/302 AI Engine Fundamentals/04 Threshold & Unique Values Rule Blocks/07 Knowledge Check.md",
     "Logrythm/302 AI Engine Fundamentals/05 Behavioral Rule Blocks Whitelists",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240608041204.png",
@@ -250,9 +255,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240608033132.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240608025643.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240608025541.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240607123237.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240607123224.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240607123209.png",
     "Logrythm/302 AI Engine Fundamentals/04 Threshold & Unique Values Rule Blocks",
     "Logrythm/302 AI Engine Fundamentals/03 Log Observed & Log Not Observed Rule Blocks/11 Knowledge Check.md",
     "Logrythm/302 AI Engine Fundamentals/03 Log Observed & Log Not Observed Rule Blocks/06 Log Not Observed Scheduled Rule Block.md",
@@ -269,8 +271,6 @@
     "Logrythm/302 AI Engine Fundamentals/03 Log Observed & Log Not Observed Rule Blocks",
     "Logrythm/302 AI Engine Fundamentals/02 Introduction to AI Engine/03 Rule Assembly - The Building Blocks of AIE.md",
     "Logrythm/302 AI Engine Fundamentals/02 Introduction to AI Engine/02 AI Engine Overview.md",
-    "Logrythm/302 AI Engine Fundamentals/02 Introduction to AI Engine/01 Overview.md",
-    "Logrythm/302 AI Engine Fundamentals/01 Use Cases/04 Knowledge Check.md",
     "Logrythm/302 AI Engine Fundamentals/02 Introduction to AI Engine",
     "Logrythm/302 AI Engine Fundamentals/01 Use Cases",
     "Logrythm/302 AI Engine Fundamentals",
