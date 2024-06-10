@@ -90,9 +90,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ebeed810be5d104d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -230,7 +240,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6180739aa47bda90",
+  "active": "ebeed810be5d104d",
   "lastOpenFiles": [
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240609104443.png",
     "Logrythm/302 AI Engine Fundamentals/07 Behavioral Rule Blocks Trend/01 Behavioral Rule Blocks Trend.md",
