@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows Enumeration.md",
+                "file": "Logrythm/302 AI Engine Fundamentals/07 Behavioral Rule Blocks Trend/02 Trend Rule Blocks.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows Enumeration.md",
+                "file": "Logrythm/302 AI Engine Fundamentals/07 Behavioral Rule Blocks Trend/02 Trend Rule Blocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows Enumeration.md",
+                "file": "Logrythm/302 AI Engine Fundamentals/07 Behavioral Rule Blocks Trend/02 Trend Rule Blocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows Enumeration.md"
+                "file": "Logrythm/302 AI Engine Fundamentals/07 Behavioral Rule Blocks Trend/02 Trend Rule Blocks.md"
               }
             }
           },
@@ -244,8 +244,9 @@
   },
   "active": "ebeed810be5d104d",
   "lastOpenFiles": [
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240609104443.png",
     "Logrythm/302 AI Engine Fundamentals/07 Behavioral Rule Blocks Trend/01 Behavioral Rule Blocks Trend.md",
+    "Windows Enumeration.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240609104443.png",
     "Logrythm/302 AI Engine Fundamentals/07 Behavioral Rule Blocks Trend/02 Trend Rule Blocks.md",
     "Logrythm/302 AI Engine Fundamentals/07 Behavioral Rule Blocks Trend/02",
     "Logrythm/302 AI Engine Fundamentals/06 Behavioral Rule Blocks Statistical/05 Knowledge Check.md",
@@ -266,7 +267,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240609084141.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240609083827.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240609083629.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240609083344.png",
     "Logrythm/302 AI Engine Fundamentals/05 Behavioral Rule Blocks Whitelists/03 Whitelist Rule Block.md",
     "Logrythm/302 AI Engine Fundamentals/05 Behavioral Rule Blocks Whitelists/02 Behavioral Rule Block Overview.md",
     "Logrythm/302 AI Engine Fundamentals/05 Behavioral Rule Blocks Whitelists/01 Behavioral Rule Blocks Whitelists.md",

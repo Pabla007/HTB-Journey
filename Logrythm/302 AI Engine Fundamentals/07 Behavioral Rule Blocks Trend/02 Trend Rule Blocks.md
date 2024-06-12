@@ -29,3 +29,16 @@ When using Trend Rules, it is important to become familiar with how your organiz
 
 For example, a Trend Rule Block can be used to monitor user access to files for more frequent than normal activity.
 
+
+### Use Case: Server Load Comparison
+
+For example, an Administrator may want to create a Trend Rule to monitor a critical server for its overall load, and to create Events and Alarms when the load on the server exceeds four times the normal load.
+
+**Configuration**: The Administrator creates a new AI Engine Rule using the Trend Rule Block. The filter for this block is set to monitor all activity on the one host. This includes all user activity, authentication and access activity, operational activity including errors and warnings, and any other information that can be associated to that host.
+
+- The Administrator then configures the **Data Fields** to be the Log Count (how many logs have been observed related to this host).
+- The Administrator configures the **Group By** fields to include the Host (Origin) and Host (Impacted) fields.
+- The Administrator configures a four-hour **Baseline Time Period** with a one-hour **Live Time Period**.
+- On the **Expressions** tab, the Administrator adds the Log Count Comparison expression. It also configures it to trigger if the number of logs observed in the Live Time Period is at least four times greater than the number of logs observed during the Baseline Time Period.
+
+This Trend Rule will create new Events and Alarms, if the critical server appears in logs at a rate that exceeds four times the "normal" average log volume as measured by the rolling baseline. As soon as the load on the server falls within the Baseline value, the Events and Alarms will stop being generated.
