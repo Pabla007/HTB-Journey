@@ -42,3 +42,61 @@ For example, an Administrator may want to create a Trend Rule to monitor a criti
 - On the **Expressions** tab, the Administrator adds the Log Count Comparison expression. It also configures it to trigger if the number of logs observed in the Live Time Period is at least four times greater than the number of logs observed during the Baseline Time Period.
 
 This Trend Rule will create new Events and Alarms, if the critical server appears in logs at a rate that exceeds four times the "normal" average log volume as measured by the rolling baseline. As soon as the load on the server falls within the Baseline value, the Events and Alarms will stop being generated.
+
+
+<hr>
+
+## Use Case: Rogue HostDetection
+
+This Trend Rule Use Case is looking for new rogue hosts being added to the network. 
+
+The trend rule collects known hostnames over a 3-day period and then evaluates this against new data collected every 4 to 8 hours and alerts on any changes. These new hosts could be endpoints, WIFI devices such as access points, DHCP Servers etc. 
+
+You could add some tuning here such as, you use Dell equipment, and you wish to exclude these Mac Addresses by their OUI’s.
+
+![[Pasted image 20240612171649.png]]
+
+
+## **What other use cases can you think of for Trend Rules?**
+
+Answers will vary. For example: unusual Spike in Log Generation from a Server – indicative of either misconfiguration or maybe a DOS attack.
+
+Other examples include:
+
+- Web Server DDOS Attack
+- Rogue Host Detection
+- Abnormal Origin Location
+- Abnormal File Access
+- Abnormal Amount of Audit Failures
+- New Common Event
+- Abnormal Log Volume Fluctuation
+
+
+## Resources
+
+External links for further reading and reference:
+- [(opens in a new tab)](https://attack.mitre.org/techniques/T1135/)Go to [**MITRE ATT&CK Rogue Wi-Fi Access Points**(opens in a new tab)](https://attack.mitre.org/techniques/T1465/)[(opens in a new tab)](https://attack.mitre.org/techniques/T1465/)
+- Go to [**MITRE ATT&CK Rogue Cellular Base Station**(opens in a new tab)](https://attack.mitre.org/techniques/T1467/).  
+- Go to [**MITRE ATT&CK Host Based Hiding Techniques**(opens in a new tab)](https://attack.mitre.org/techniques/T1314).
+- Go to [**Github for WIFIPhisher a Rogue WIFI Access point**(opens in a new tab)](https://github.com/wifiphisher/wifiphisher).
+
+
+
+## Knowledge Check
+
+Trend Rule Blocks compare live log data against a stored baseline to detect variances over time.
+
+Trend Rule Blocks utilize a two-block setup, consisting of a _Baseline_ and _Monitor_ Block. 
+
+An example of a Trend use case would be monitoring for file access activity that is more frequent than normal.
+
+
+## Each Behavioral Rule Block includes time setting options to apply during their configuration.
+
+- The Whitelist Rule Block has a _Collection Interval_ setting in the Profile tab that determines how long the rule block will record behavioral data to be included in the Whitelist. 
+- The Statistical Rule Block has a _Time and Schedule_ tab that will include settings for the _Live Time Period_, the _Evaluation Frequency_, and the _Evaluation Schedule_. 
+- The Trend Rule Block also has a _Time and Schedule_ tab, but with a _Baseline Time Period_ in addition to the _Live Time Period_, _Evaluation Frequency_, and _Evaluation Schedule_. 
+
+Time settings for Behavioral Rules should be tuned in order to balance between rule effectiveness and system resource availability.
+
+
