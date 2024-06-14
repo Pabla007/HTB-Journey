@@ -12,3 +12,5 @@ IP
 
 ![[Pasted image 20240614205645.png]]
 
+![[Pasted image 20240614210158.png]]
+
