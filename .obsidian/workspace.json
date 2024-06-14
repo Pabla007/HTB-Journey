@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/302 AI Engine Fundamentals/08 Tuning & Configuration/01 Tuning & Configuration.md",
+                "file": "Logrythm/302 AI Engine Fundamentals/08 Tuning & Configuration/04 Using AI Engine Workloads.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/302 AI Engine Fundamentals/08 Tuning & Configuration/01 Tuning & Configuration.md",
+                "file": "Logrythm/302 AI Engine Fundamentals/08 Tuning & Configuration/04 Using AI Engine Workloads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/302 AI Engine Fundamentals/08 Tuning & Configuration/01 Tuning & Configuration.md",
+                "file": "Logrythm/302 AI Engine Fundamentals/08 Tuning & Configuration/04 Using AI Engine Workloads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/302 AI Engine Fundamentals/08 Tuning & Configuration/01 Tuning & Configuration.md"
+                "file": "Logrythm/302 AI Engine Fundamentals/08 Tuning & Configuration/04 Using AI Engine Workloads.md"
               }
             }
           },
@@ -244,8 +244,15 @@
   },
   "active": "ebeed810be5d104d",
   "lastOpenFiles": [
-    "Logrythm/302 AI Engine Fundamentals/07 Behavioral Rule Blocks Trend/02 Trend Rule Blocks.md",
+    "Logrythm/302 AI Engine Fundamentals/08 Tuning & Configuration/03 AI Engine Tuning.md",
+    "Logrythm/302 AI Engine Fundamentals/08 Tuning & Configuration/04 Using AI Engine Workloads.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240614092809.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240614092643.png",
+    "Logrythm/302 AI Engine Fundamentals/08 Tuning & Configuration/02 Corroborated AIE Rules.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240614091410.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240614091331.png",
     "Logrythm/302 AI Engine Fundamentals/08 Tuning & Configuration/01 Tuning & Configuration.md",
+    "Logrythm/302 AI Engine Fundamentals/07 Behavioral Rule Blocks Trend/02 Trend Rule Blocks.md",
     "Logrythm/302 AI Engine Fundamentals/08 Tuning & Configuration",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240612171649.png",
     "Logrythm/302 AI Engine Fundamentals/07 Behavioral Rule Blocks Trend/01 Behavioral Rule Blocks Trend.md",
@@ -265,10 +272,6 @@
     "Logrythm/302 AI Engine Fundamentals/05 Behavioral Rule Blocks Whitelists/04 Whitelist Profile & Monitor Blocks.md",
     "Logrythm/302 AI Engine Fundamentals/06 Behavioral Rule Blocks Statistical",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240609084910.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240609084806.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240609084650.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240609084141.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240609083827.png",
     "Logrythm/302 AI Engine Fundamentals/05 Behavioral Rule Blocks Whitelists/03 Whitelist Rule Block.md",
     "Logrythm/302 AI Engine Fundamentals/05 Behavioral Rule Blocks Whitelists/02 Behavioral Rule Block Overview.md",
     "Logrythm/302 AI Engine Fundamentals/05 Behavioral Rule Blocks Whitelists/01 Behavioral Rule Blocks Whitelists.md",
@@ -283,9 +286,6 @@
     "Logrythm/302 AI Engine Fundamentals/04 Threshold & Unique Values Rule Blocks",
     "Logrythm/302 AI Engine Fundamentals/03 Log Observed & Log Not Observed Rule Blocks/11 Knowledge Check.md",
     "Logrythm/302 AI Engine Fundamentals/03 Log Observed & Log Not Observed Rule Blocks/06 Log Not Observed Scheduled Rule Block.md",
-    "Logrythm/302 AI Engine Fundamentals/03 Log Observed & Log Not Observed Rule Blocks/05 Log Not Observed Compound Rule Block.md",
-    "Logrythm/302 AI Engine Fundamentals/03 Log Observed & Log Not Observed Rule Blocks/04 The Log Observed Rule Block.md",
-    "Logrythm/302 AI Engine Fundamentals/03 Log Observed & Log Not Observed Rule Blocks/02 AI Engine Administration.md",
     "Logrythm/302 AI Engine Fundamentals/03 Log Observed & Log Not Observed Rule Blocks",
     "Logrythm/302 AI Engine Fundamentals/02 Introduction to AI Engine",
     "Logrythm/302 AI Engine Fundamentals/01 Use Cases",

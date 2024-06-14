@@ -10,3 +10,12 @@ AI Engine Rules can be **tuned** and **corroborated** to improve the effecti
 - Workloads provide a way to organize AI Engine Rules and manage resource consumption.
 
 
+## What will I learn?
+
+By the end of this lesson you will be able to:
+
+- Reduce False Positives with Corroborated AI Engine Rules.
+- Tune AI Engine Rules to ensure optimal performance of AIE rules.
+- Utilize Workloads to further tune and improve performance.
+
+
