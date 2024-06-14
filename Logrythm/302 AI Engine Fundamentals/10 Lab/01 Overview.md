@@ -8,3 +8,7 @@ IP
 
 ![[Pasted image 20240614173009.png]]
 
+![[Pasted image 20240614205516.png]]
+
+![[Pasted image 20240614205645.png]]
+
