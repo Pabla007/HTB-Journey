@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/302 AI Engine Fundamentals/08 Tuning & Configuration/04 Using AI Engine Workloads.md",
+                "file": "Logrythm/302 AI Engine Fundamentals/08 Tuning & Configuration/06 Knowledge Check.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/302 AI Engine Fundamentals/08 Tuning & Configuration/04 Using AI Engine Workloads.md",
+                "file": "Logrythm/302 AI Engine Fundamentals/08 Tuning & Configuration/06 Knowledge Check.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/302 AI Engine Fundamentals/08 Tuning & Configuration/04 Using AI Engine Workloads.md",
+                "file": "Logrythm/302 AI Engine Fundamentals/08 Tuning & Configuration/06 Knowledge Check.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/302 AI Engine Fundamentals/08 Tuning & Configuration/04 Using AI Engine Workloads.md"
+                "file": "Logrythm/302 AI Engine Fundamentals/08 Tuning & Configuration/06 Knowledge Check.md"
               }
             }
           },
@@ -244,8 +244,11 @@
   },
   "active": "ebeed810be5d104d",
   "lastOpenFiles": [
-    "Logrythm/302 AI Engine Fundamentals/08 Tuning & Configuration/03 AI Engine Tuning.md",
+    "Logrythm/302 AI Engine Fundamentals/08 Tuning & Configuration/05 AIE Recommended Practices.md",
+    "Logrythm/302 AI Engine Fundamentals/08 Tuning & Configuration/06 Knowledge Check.md",
     "Logrythm/302 AI Engine Fundamentals/08 Tuning & Configuration/04 Using AI Engine Workloads.md",
+    "Logrythm/302 AI Engine Fundamentals/08 Tuning & Configuration/Untitled",
+    "Logrythm/302 AI Engine Fundamentals/08 Tuning & Configuration/03 AI Engine Tuning.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240614092809.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240614092643.png",
     "Logrythm/302 AI Engine Fundamentals/08 Tuning & Configuration/02 Corroborated AIE Rules.md",
@@ -284,12 +287,9 @@
     "Logrythm/302 AI Engine Fundamentals/04 Threshold & Unique Values Rule Blocks/01 Threshold & Unique Values Rule Blocks.md",
     "Logrythm/302 AI Engine Fundamentals/04 Threshold & Unique Values Rule Blocks/05 Unique Values Rules Blocks.md",
     "Logrythm/302 AI Engine Fundamentals/04 Threshold & Unique Values Rule Blocks",
-    "Logrythm/302 AI Engine Fundamentals/03 Log Observed & Log Not Observed Rule Blocks/11 Knowledge Check.md",
-    "Logrythm/302 AI Engine Fundamentals/03 Log Observed & Log Not Observed Rule Blocks/06 Log Not Observed Scheduled Rule Block.md",
     "Logrythm/302 AI Engine Fundamentals/03 Log Observed & Log Not Observed Rule Blocks",
     "Logrythm/302 AI Engine Fundamentals/02 Introduction to AI Engine",
     "Logrythm/302 AI Engine Fundamentals/01 Use Cases",
-    "Logrythm/302 AI Engine Fundamentals",
     "Active Directory Practice/07 Monterverde/Untitled.canvas"
   ]
 }
