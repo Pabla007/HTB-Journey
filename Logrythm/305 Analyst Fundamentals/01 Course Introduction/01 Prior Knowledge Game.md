@@ -17,3 +17,5 @@ What do you remember from your prior learning ?
 **Click the microphone icon on the bottom left to adjust audio levels.**
 
 
+![[Pasted image 20240616162725.png]]
+
