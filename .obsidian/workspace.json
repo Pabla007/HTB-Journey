@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals/02 Baseline/02 Normal Network Activity.md",
+                "file": "Logrythm/305 Analyst Fundamentals/02 Baseline/03 Normal User Activity.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals/02 Baseline/02 Normal Network Activity.md",
+                "file": "Logrythm/305 Analyst Fundamentals/02 Baseline/03 Normal User Activity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals/02 Baseline/02 Normal Network Activity.md",
+                "file": "Logrythm/305 Analyst Fundamentals/02 Baseline/03 Normal User Activity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals/02 Baseline/02 Normal Network Activity.md"
+                "file": "Logrythm/305 Analyst Fundamentals/02 Baseline/03 Normal User Activity.md"
               }
             }
           },
@@ -232,8 +232,10 @@
   },
   "active": "53990ced3d71ad4d",
   "lastOpenFiles": [
-    "Logrythm/305 Analyst Fundamentals/02 Baseline/01 Module 2 Introduction.md",
     "Logrythm/305 Analyst Fundamentals/02 Baseline/02 Normal Network Activity.md",
+    "Logrythm/305 Analyst Fundamentals/02 Baseline/03 Normal User Activity.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240616170349.png",
+    "Logrythm/305 Analyst Fundamentals/02 Baseline/01 Module 2 Introduction.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240616164230.png",
     "Logrythm/305 Analyst Fundamentals/01 Course Introduction/02 Course Legend.md",
     "Logrythm/305 Analyst Fundamentals/02 Baseline",
@@ -263,7 +265,6 @@
     "Logrythm/302 AI Engine Fundamentals/02 Introduction to AI Engine/04 Knowledge Check.md",
     "Logrythm/302 AI Engine Fundamentals/03 Log Observed & Log Not Observed Rule Blocks/08 The Group By Tab.md",
     "Logrythm/302 AI Engine Fundamentals/02 Introduction to AI Engine/03 Rule Assembly - The Building Blocks of AIE.md",
-    "Logrythm/302 AI Engine Fundamentals/02 Introduction to AI Engine/02 AI Engine Overview.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240614210158.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240614205645.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240614205516.png",
@@ -273,7 +274,6 @@
     "Logrythm/302 AI Engine Fundamentals/09 Wrapping up 302 AI Engine Fundamentals",
     "Logrythm/302 AI Engine Fundamentals/08 Tuning & Configuration/Untitled",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240614092809.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240614092643.png",
     "Logrythm/302 AI Engine Fundamentals/08 Tuning & Configuration",
     "Logrythm/302 AI Engine Fundamentals/07 Behavioral Rule Blocks Trend/02",
     "Logrythm/302 AI Engine Fundamentals/07 Behavioral Rule Blocks Trend",
