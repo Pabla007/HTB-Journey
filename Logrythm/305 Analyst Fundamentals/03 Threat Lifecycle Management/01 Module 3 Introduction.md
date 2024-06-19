@@ -8,3 +8,13 @@ We use **Threat Lifecycle Management (TLM)** to reduce the time it takes to de
 
 ![[Pasted image 20240619012718.png]]
 
+![[Pasted image 20240619014534.png]]
+
+![[Pasted image 20240619014557.png]]
+
+![[Pasted image 20240619014612.png]]
+
+![[Pasted image 20240619014751.png]]
+
+![[Pasted image 20240619014837.png]]
+
