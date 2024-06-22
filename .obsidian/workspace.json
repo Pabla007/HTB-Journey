@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals/03 Threat Lifecycle Management/04 Collect , Discover & Begin to Qualify.md",
+                "file": "Logrythm/305 Analyst Fundamentals/04 Collect , Discover & Begin to Qualify/02 Alarms.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals/03 Threat Lifecycle Management/04 Collect , Discover & Begin to Qualify.md",
+                "file": "Logrythm/305 Analyst Fundamentals/04 Collect , Discover & Begin to Qualify/02 Alarms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals/03 Threat Lifecycle Management/04 Collect , Discover & Begin to Qualify.md",
+                "file": "Logrythm/305 Analyst Fundamentals/04 Collect , Discover & Begin to Qualify/02 Alarms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals/03 Threat Lifecycle Management/04 Collect , Discover & Begin to Qualify.md"
+                "file": "Logrythm/305 Analyst Fundamentals/04 Collect , Discover & Begin to Qualify/02 Alarms.md"
               }
             }
           },
@@ -232,8 +232,13 @@
   },
   "active": "53990ced3d71ad4d",
   "lastOpenFiles": [
+    "Logrythm/305 Analyst Fundamentals/04 Collect , Discover & Begin to Qualify/01 Module 4 Introduction & Collect o.md",
+    "Logrythm/305 Analyst Fundamentals/04 Collect , Discover & Begin to Qualify/02 Alarms.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240622094810.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240622094748.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240622094236.png",
+    "Logrythm/305 Analyst Fundamentals/04 Collect , Discover & Begin to Qualify",
     "Logrythm/305 Analyst Fundamentals/03 Threat Lifecycle Management/02 Module 3 Review.md",
-    "Logrythm/305 Analyst Fundamentals/03 Threat Lifecycle Management/04 Collect , Discover & Begin to Qualify.md",
     "Logrythm/305 Analyst Fundamentals/03 Threat Lifecycle Management/Untitled",
     "Logrythm/305 Analyst Fundamentals/03 Threat Lifecycle Management/01 Module 3 Introduction.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240619014837.png",
@@ -248,11 +253,8 @@
     "Logrythm/305 Analyst Fundamentals/02 Baseline/03 Normal User Activity.md",
     "Logrythm/305 Analyst Fundamentals/02 Baseline/02 Normal Network Activity.md",
     "Logrythm/305 Analyst Fundamentals/02 Baseline/01 Module 2 Introduction.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240616170349.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240616164230.png",
     "Logrythm/305 Analyst Fundamentals/01 Course Introduction/02 Course Legend.md",
     "Logrythm/305 Analyst Fundamentals/02 Baseline",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240616163450.png",
     "Logrythm/305 Analyst Fundamentals/01 Course Introduction/01 Prior Knowledge Game.md",
     "Logrythm/00 301 Administration Fundamentals.md",
     "Logrythm/302 AI Engine Fundamentals/08 Tuning & Configuration/03 AI Engine Tuning.md",
@@ -272,12 +274,10 @@
     "Logrythm/302 AI Engine Fundamentals/06 Behavioral Rule Blocks Statistical/02 Statistical Rule Blocks.md",
     "Logrythm/302 AI Engine Fundamentals/06 Behavioral Rule Blocks Statistical/01 Behavioral Rule Blocks Statistical.md",
     "Logrythm/302 AI Engine Fundamentals/04 Threshold & Unique Values Rule Blocks/07 Knowledge Check.md",
-    "Logrythm/302 AI Engine Fundamentals/04 Threshold & Unique Values Rule Blocks/05 Unique Values Rules Blocks.md",
     "Logrythm/302 AI Engine Fundamentals/10 Lab",
     "Logrythm/302 AI Engine Fundamentals/09 Wrapping up 302 AI Engine Fundamentals",
     "Logrythm/302 AI Engine Fundamentals/08 Tuning & Configuration/Untitled",
     "Logrythm/302 AI Engine Fundamentals/08 Tuning & Configuration",
-    "Logrythm/302 AI Engine Fundamentals/07 Behavioral Rule Blocks Trend/02",
     "Active Directory Practice/07 Monterverde/Untitled.canvas"
   ]
 }
