@@ -81,3 +81,22 @@ However, as a Tier 1 SOC analyst, this is what you would see...
 
 - The title is also interesting: "Cloud File Sharing Blocked." Hmm. Based on this title, I assume that someone was trying to share a file on some site that isn't authorized for file sharing.
 
+<hr>
+
+## KEEP QUESTIONING
+To be a good Analyst, it's important to keep questioning. I'm always wondering: why did that change? Why couldn't I see that? What caused me to stop seeing that?
+
+- **I'm constantly questioning the status quo** by asking who, what, where, why, and how questions.
+
+
+## CONFIGURE ALARMS/ALARM FATIGUE
+Alarm fatigue is real. You could have too many alarms, or have too few alarms. 
+**Communicate with your Administrator to optimize your alarms.**
+
+
+## SEE PAST ALARMS
+Alarms are configured based on known threat behavior. **Relying solely on alarms can give you a sense of false security;** Zero Day Vulnerabilities may rely on previously unknown techniques.  
+  
+In addition to alarms, **use the visual tools in LogRhythm's web console to alert you to suspicious or unusual activity.**
+
+
