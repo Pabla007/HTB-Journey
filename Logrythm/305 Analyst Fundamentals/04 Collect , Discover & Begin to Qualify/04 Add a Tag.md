@@ -30,3 +30,6 @@ Using something like Mitre ATT&CK for Tags means that you have a common language
 
 ![[Pasted image 20240623163103.png]]
 
+
+Tags help analysts connect cases and spot trends, so they should be meaningful,  standardized across an organization, and consistent.
+

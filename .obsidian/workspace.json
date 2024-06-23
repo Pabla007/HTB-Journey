@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals/04 Collect , Discover & Begin to Qualify/04 Add a Tag.md",
+                "file": "Logrythm/305 Analyst Fundamentals/05 Continue To Qualify/01 Alarm in Inspector - Comments & Details Tab.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals/04 Collect , Discover & Begin to Qualify/04 Add a Tag.md",
+                "file": "Logrythm/305 Analyst Fundamentals/05 Continue To Qualify/01 Alarm in Inspector - Comments & Details Tab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals/04 Collect , Discover & Begin to Qualify/04 Add a Tag.md",
+                "file": "Logrythm/305 Analyst Fundamentals/05 Continue To Qualify/01 Alarm in Inspector - Comments & Details Tab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals/04 Collect , Discover & Begin to Qualify/04 Add a Tag.md"
+                "file": "Logrythm/305 Analyst Fundamentals/05 Continue To Qualify/01 Alarm in Inspector - Comments & Details Tab.md"
               }
             }
           },
@@ -232,25 +232,27 @@
   },
   "active": "53990ced3d71ad4d",
   "lastOpenFiles": [
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240623163103.png",
-    "Logrythm/305 Analyst Fundamentals/04 Collect , Discover & Begin to Qualify/03 Create a Case.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240623211004.png",
     "Logrythm/305 Analyst Fundamentals/04 Collect , Discover & Begin to Qualify/04 Add a Tag.md",
+    "Logrythm/305 Analyst Fundamentals/05 Continue To Qualify/01 Alarm in Inspector - Comments & Details Tab.md",
+    "Logrythm/305 Analyst Fundamentals/05 Continue To Qualify",
+    "Logrythm/305 Analyst Fundamentals/03 Threat Lifecycle Management/01 Module 3 Introduction.md",
+    "Logrythm/305 Analyst Fundamentals/03 Threat Lifecycle Management/02 Module 3 Review.md",
+    "Logrythm/305 Analyst Fundamentals/04 Collect , Discover & Begin to Qualify/03 Create a Case.md",
     "Logrythm/305 Analyst Fundamentals/04 Collect , Discover & Begin to Qualify/02 Alarms.md",
     "Logrythm/305 Analyst Fundamentals/04 Collect , Discover & Begin to Qualify/01 Module 4 Introduction & Collect o.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240623163103.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240622094810.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240622094748.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240622094236.png",
     "Logrythm/305 Analyst Fundamentals/04 Collect , Discover & Begin to Qualify",
-    "Logrythm/305 Analyst Fundamentals/03 Threat Lifecycle Management/02 Module 3 Review.md",
     "Logrythm/305 Analyst Fundamentals/03 Threat Lifecycle Management/Untitled",
-    "Logrythm/305 Analyst Fundamentals/03 Threat Lifecycle Management/01 Module 3 Introduction.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240619014837.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240619014751.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240619014718.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240619014612.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240619014557.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240619014534.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240619012718.png",
     "Logrythm/305 Analyst Fundamentals/02 Baseline/04 Module 2 Review.md",
     "Logrythm/305 Analyst Fundamentals/03 Threat Lifecycle Management",
     "Logrythm/305 Analyst Fundamentals/02 Baseline/03 Normal User Activity.md",
@@ -273,11 +275,9 @@
     "Logrythm/302 AI Engine Fundamentals/07 Behavioral Rule Blocks Trend/01 Behavioral Rule Blocks Trend.md",
     "Logrythm/302 AI Engine Fundamentals/06 Behavioral Rule Blocks Statistical/05 Knowledge Check.md",
     "Logrythm/302 AI Engine Fundamentals/06 Behavioral Rule Blocks Statistical/04 Use Case Exfiltration over an Alternative Protocol.md",
-    "Logrythm/302 AI Engine Fundamentals/06 Behavioral Rule Blocks Statistical/03 Filters & Configuration.md",
     "Logrythm/302 AI Engine Fundamentals/10 Lab",
     "Logrythm/302 AI Engine Fundamentals/09 Wrapping up 302 AI Engine Fundamentals",
     "Logrythm/302 AI Engine Fundamentals/08 Tuning & Configuration/Untitled",
-    "Logrythm/302 AI Engine Fundamentals/08 Tuning & Configuration",
     "Active Directory Practice/07 Monterverde/Untitled.canvas"
   ]
 }
