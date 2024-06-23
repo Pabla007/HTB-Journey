@@ -71,3 +71,22 @@ Doing this will auto-populate details into the case. It also will include the al
     Note, you may see the Cases tab automatically open on the left after saving. That's okay because we'll use it in just a minute.
 
 
+
+
+## Be Thorough
+
+You can add evidence to cases as you investigate.  
+
+Always add as much information to a case as possible. This helps ensure a smooth transition between analysts and that all evidence is captured.
+
+
+## Case Benefits, Even After Closing
+
+Even after logs expire out of LogRhythm, they're always going to be available on this case, and cases are available until you expire them
+
+
+## One-Stop-Shop
+
+You can do drilldowns through cases. You also can share cases with anybody
+
+
