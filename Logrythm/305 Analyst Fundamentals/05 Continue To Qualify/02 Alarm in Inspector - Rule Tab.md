@@ -155,4 +155,5 @@ We double-checked that the AI Engine Rule was actually configured in a way that
 We should additionally confirm the PC number and that Adam really is part of the finance team at Telectric.
 
 - Personally, I recognize the PC number and numbering convention; in addition, I know Adam is in finance because we spoke yesterday. 
-- How would you verify this information as a new Analyst in the Telectric environment? Where would you begin your search?
+- How would you verify this information as a new Analyst in the Telectric environment? Where would you begin your search
+

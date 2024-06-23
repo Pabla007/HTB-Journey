@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals/05 Continue To Qualify/02 Alarm in Inspector - Rule Tab.md",
+                "file": "Logrythm/305 Analyst Fundamentals/05 Continue To Qualify/03 Alarm Drilldown.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals/05 Continue To Qualify/02 Alarm in Inspector - Rule Tab.md",
+                "file": "Logrythm/305 Analyst Fundamentals/05 Continue To Qualify/03 Alarm Drilldown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals/05 Continue To Qualify/02 Alarm in Inspector - Rule Tab.md",
+                "file": "Logrythm/305 Analyst Fundamentals/05 Continue To Qualify/03 Alarm Drilldown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals/05 Continue To Qualify/02 Alarm in Inspector - Rule Tab.md"
+                "file": "Logrythm/305 Analyst Fundamentals/05 Continue To Qualify/03 Alarm Drilldown.md"
               }
             }
           },
@@ -232,8 +232,9 @@
   },
   "active": "53990ced3d71ad4d",
   "lastOpenFiles": [
-    "Logrythm/305 Analyst Fundamentals/05 Continue To Qualify/01 Alarm in Inspector - Comments & Details Tab.md",
     "Logrythm/305 Analyst Fundamentals/05 Continue To Qualify/02 Alarm in Inspector - Rule Tab.md",
+    "Logrythm/305 Analyst Fundamentals/05 Continue To Qualify/03 Alarm Drilldown.md",
+    "Logrythm/305 Analyst Fundamentals/05 Continue To Qualify/01 Alarm in Inspector - Comments & Details Tab.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240624001230.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240623211004.png",
     "Logrythm/305 Analyst Fundamentals/04 Collect , Discover & Begin to Qualify/04 Add a Tag.md",
@@ -274,7 +275,6 @@
     "Logrythm/302 AI Engine Fundamentals/07 Behavioral Rule Blocks Trend/02 Trend Rule Blocks.md",
     "Logrythm/302 AI Engine Fundamentals/07 Behavioral Rule Blocks Trend/01 Behavioral Rule Blocks Trend.md",
     "Logrythm/302 AI Engine Fundamentals/06 Behavioral Rule Blocks Statistical/05 Knowledge Check.md",
-    "Logrythm/302 AI Engine Fundamentals/06 Behavioral Rule Blocks Statistical/04 Use Case Exfiltration over an Alternative Protocol.md",
     "Logrythm/302 AI Engine Fundamentals/10 Lab",
     "Logrythm/302 AI Engine Fundamentals/09 Wrapping up 302 AI Engine Fundamentals",
     "Logrythm/302 AI Engine Fundamentals/08 Tuning & Configuration/Untitled",
