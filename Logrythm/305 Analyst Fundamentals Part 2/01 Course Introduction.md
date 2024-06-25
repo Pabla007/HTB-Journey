@@ -3,3 +3,8 @@
 
 Bjorn Pettersen, SOC Manager
 
+
+![[Pasted image 20240626015018.png]]
+
+![[Pasted image 20240626015047.png]]
+
