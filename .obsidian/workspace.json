@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals/06 Investigate, Neutralize & Recover/05 Close the Case.md",
+                "file": "Logrythm/305 Analyst Fundamentals/06 Investigate, Neutralize & Recover/07 Module 6 Review.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals/06 Investigate, Neutralize & Recover/05 Close the Case.md",
+                "file": "Logrythm/305 Analyst Fundamentals/06 Investigate, Neutralize & Recover/07 Module 6 Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals/06 Investigate, Neutralize & Recover/05 Close the Case.md",
+                "file": "Logrythm/305 Analyst Fundamentals/06 Investigate, Neutralize & Recover/07 Module 6 Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals/06 Investigate, Neutralize & Recover/05 Close the Case.md"
+                "file": "Logrythm/305 Analyst Fundamentals/06 Investigate, Neutralize & Recover/07 Module 6 Review.md"
               }
             }
           },
@@ -232,8 +232,12 @@
   },
   "active": "53990ced3d71ad4d",
   "lastOpenFiles": [
-    "Logrythm/305 Analyst Fundamentals/06 Investigate, Neutralize & Recover/04 Brainstorm Improvements.md",
+    "Logrythm/305 Analyst Fundamentals/06 Investigate, Neutralize & Recover/06 Review the Metrics.md",
+    "Logrythm/305 Analyst Fundamentals/06 Investigate, Neutralize & Recover/07 Module 6 Review.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240625071517.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240625071449.png",
     "Logrythm/305 Analyst Fundamentals/06 Investigate, Neutralize & Recover/05 Close the Case.md",
+    "Logrythm/305 Analyst Fundamentals/06 Investigate, Neutralize & Recover/04 Brainstorm Improvements.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240625022428.png",
     "Logrythm/305 Analyst Fundamentals/06 Investigate, Neutralize & Recover/03 Neutralize.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240625022045.png",
@@ -258,8 +262,6 @@
     "Logrythm/305 Analyst Fundamentals/04 Collect , Discover & Begin to Qualify/03 Create a Case.md",
     "Logrythm/305 Analyst Fundamentals/04 Collect , Discover & Begin to Qualify/02 Alarms.md",
     "Logrythm/305 Analyst Fundamentals/04 Collect , Discover & Begin to Qualify/01 Module 4 Introduction & Collect o.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240623163103.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240622094810.png",
     "Logrythm/305 Analyst Fundamentals/04 Collect , Discover & Begin to Qualify",
     "Logrythm/305 Analyst Fundamentals/03 Threat Lifecycle Management/Untitled",
     "Logrythm/305 Analyst Fundamentals/02 Baseline/04 Module 2 Review.md",
@@ -274,8 +276,6 @@
     "Logrythm/302 AI Engine Fundamentals/08 Tuning & Configuration/03 AI Engine Tuning.md",
     "Logrythm/305 Analyst Fundamentals/01 Course Introduction",
     "Logrythm/305 Analyst Fundamentals",
-    "Logrythm/302 AI Engine Fundamentals/08 Tuning & Configuration/02 Corroborated AIE Rules.md",
-    "Logrythm/302 AI Engine Fundamentals/08 Tuning & Configuration/01 Tuning & Configuration.md",
     "Logrythm/302 AI Engine Fundamentals/10 Lab",
     "Logrythm/302 AI Engine Fundamentals/09 Wrapping up 302 AI Engine Fundamentals",
     "Active Directory Practice/07 Monterverde/Untitled.canvas"
