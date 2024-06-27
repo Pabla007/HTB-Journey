@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module/Module 4 Conclusion.md",
+                "file": "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/02 Neutralize Case Collaboration & Mitigation.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.5
+    "width": 314.5
   },
   "right": {
     "id": "92c39521ad6ea421",
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module/Module 4 Conclusion.md",
+                "file": "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/02 Neutralize Case Collaboration & Mitigation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module/Module 4 Conclusion.md",
+                "file": "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/02 Neutralize Case Collaboration & Mitigation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module/Module 4 Conclusion.md"
+                "file": "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/02 Neutralize Case Collaboration & Mitigation.md"
               }
             }
           },
@@ -232,9 +232,15 @@
   },
   "active": "6180739aa47bda90",
   "lastOpenFiles": [
+    "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/01 Module 5 Introduction.md",
+    "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/02 Neutralize Case Collaboration & Mitigation.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240628031716.png",
+    "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module/04 Module 4 Conclusion.md",
+    "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module",
     "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module/03 Investigate Search Case Tags.md",
-    "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module/Module 4 Conclusion.md",
     "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module/02 Investigate Additional Search Options - Expand Search.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240628031307.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240628031216.png",
     "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module/01 Module 4 Introduction.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240628022012.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240628021722.png",
@@ -250,16 +256,13 @@
     "Logrythm/305 Analyst Fundamentals Part 2/01 Course Introduction.md",
     "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module/06 Module 2 Conclusion.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240627153520.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240627153414.png",
     "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module/05 Recover Customizing the Dashboard.md",
     "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module/04 Recover Widgets Overview.md",
     "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module/03 Recover Searches Page.md",
     "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module/02 Personalized Settings.md",
     "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module/01 Module 2 Introduction.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240627152804.png",
     "Logrythm/302 AI Engine Fundamentals/10 Lab/01 Overview.md",
     "Logrythm/305 Analyst Fundamentals Part 2/03 Qualify & Investigate (externally) module",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240626045651.png",
     "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module",
     "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/01 Data Collection.md",
     "Logrythm/01 Getting Started/01 Prior Knowledge.md",
@@ -269,15 +272,12 @@
     "Logrythm/301 Administration Fundamentals/01 Getting Started/01 Introduction to Course.md",
     "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/02 Parsing & Data Normalization.md",
     "Logrythm/02 What is SIEM Logrythm/02 Phase 2- Analysis/01 Alarming.md",
-    "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/03 Event Correlation.md",
-    "Logrythm/305 Analyst Fundamentals Part 1/03 Threat Lifecycle Management/01 Module 3 Introduction.md",
     "Logrythm/305 Analyst Fundamentals Part 2",
     "Logrythm/305 Analyst Fundamentals Part 1/06 Investigate, Neutralize & Recover",
     "Logrythm/305 Analyst Fundamentals Part 1/05 Continue To Qualify",
     "Logrythm/305 Analyst Fundamentals Part 1/04 Collect , Discover & Begin to Qualify",
     "Logrythm/305 Analyst Fundamentals/03 Threat Lifecycle Management/Untitled",
     "Logrythm/305 Analyst Fundamentals Part 1/03 Threat Lifecycle Management",
-    "Logrythm/305 Analyst Fundamentals Part 1/02 Baseline",
     "Active Directory Practice/07 Monterverde/Untitled.canvas"
   ]
 }
