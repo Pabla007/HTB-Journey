@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module/01 Module 4 Introduction.md",
+                "file": "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module/Module 4 Conclusion.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module/01 Module 4 Introduction.md",
+                "file": "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module/Module 4 Conclusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module/01 Module 4 Introduction.md",
+                "file": "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module/Module 4 Conclusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module/01 Module 4 Introduction.md"
+                "file": "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module/Module 4 Conclusion.md"
               }
             }
           },
@@ -232,10 +232,13 @@
   },
   "active": "6180739aa47bda90",
   "lastOpenFiles": [
+    "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module/03 Investigate Search Case Tags.md",
+    "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module/Module 4 Conclusion.md",
+    "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module/02 Investigate Additional Search Options - Expand Search.md",
+    "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module/01 Module 4 Introduction.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240628022012.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240628021722.png",
     "Logrythm/305 Analyst Fundamentals Part 2/03 Qualify & Investigate (externally) module/04 Module 3 Conclusion.md",
-    "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module/01 Module 4 Introduction.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240627173148.png",
     "Logrythm/305 Analyst Fundamentals Part 2/03 Qualify & Investigate (externally) module/03 Investigate Contextualize Actions.md",
     "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module",
@@ -257,7 +260,6 @@
     "Logrythm/302 AI Engine Fundamentals/10 Lab/01 Overview.md",
     "Logrythm/305 Analyst Fundamentals Part 2/03 Qualify & Investigate (externally) module",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240626045651.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240626045625.png",
     "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module",
     "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/01 Data Collection.md",
     "Logrythm/01 Getting Started/01 Prior Knowledge.md",
@@ -269,8 +271,6 @@
     "Logrythm/02 What is SIEM Logrythm/02 Phase 2- Analysis/01 Alarming.md",
     "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/03 Event Correlation.md",
     "Logrythm/305 Analyst Fundamentals Part 1/03 Threat Lifecycle Management/01 Module 3 Introduction.md",
-    "Logrythm/305 Analyst Fundamentals Part 1/02 Baseline/04 Module 2 Review.md",
-    "Logrythm/305 Analyst Fundamentals Part 1/02 Baseline/03 Normal User Activity.md",
     "Logrythm/305 Analyst Fundamentals Part 2",
     "Logrythm/305 Analyst Fundamentals Part 1/06 Investigate, Neutralize & Recover",
     "Logrythm/305 Analyst Fundamentals Part 1/05 Continue To Qualify",
