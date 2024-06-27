@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/02 Neutralize Case Collaboration & Mitigation.md",
+                "file": "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/03 Recover Lists & 3rd Party Contextualize Actions.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/02 Neutralize Case Collaboration & Mitigation.md",
+                "file": "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/03 Recover Lists & 3rd Party Contextualize Actions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/02 Neutralize Case Collaboration & Mitigation.md",
+                "file": "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/03 Recover Lists & 3rd Party Contextualize Actions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/02 Neutralize Case Collaboration & Mitigation.md"
+                "file": "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/03 Recover Lists & 3rd Party Contextualize Actions.md"
               }
             }
           },
@@ -232,8 +232,10 @@
   },
   "active": "6180739aa47bda90",
   "lastOpenFiles": [
-    "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/01 Module 5 Introduction.md",
     "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/02 Neutralize Case Collaboration & Mitigation.md",
+    "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/03 Recover Lists & 3rd Party Contextualize Actions.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240628043147.png",
+    "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/01 Module 5 Introduction.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240628031716.png",
     "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module/04 Module 4 Conclusion.md",
     "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module",
@@ -255,7 +257,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240627171245.png",
     "Logrythm/305 Analyst Fundamentals Part 2/01 Course Introduction.md",
     "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module/06 Module 2 Conclusion.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240627153520.png",
     "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module/05 Recover Customizing the Dashboard.md",
     "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module/04 Recover Widgets Overview.md",
     "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module/03 Recover Searches Page.md",
@@ -271,7 +272,6 @@
     "Logrythm/301 Administration Fundamentals/01 Getting Started/02 Labs & Student Guides.md",
     "Logrythm/301 Administration Fundamentals/01 Getting Started/01 Introduction to Course.md",
     "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/02 Parsing & Data Normalization.md",
-    "Logrythm/02 What is SIEM Logrythm/02 Phase 2- Analysis/01 Alarming.md",
     "Logrythm/305 Analyst Fundamentals Part 2",
     "Logrythm/305 Analyst Fundamentals Part 1/06 Investigate, Neutralize & Recover",
     "Logrythm/305 Analyst Fundamentals Part 1/05 Continue To Qualify",
