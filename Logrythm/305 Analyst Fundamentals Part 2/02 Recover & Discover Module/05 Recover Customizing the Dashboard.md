@@ -16,9 +16,19 @@ Lucene is an open-source text retrieval library that allows us to filter the dat
 
 Clicking on the "+" sign within the Node-Link Graph widget will reveal information regarding the connected hosts and users, such as IP addresses.
 
-
 ## TopX Widgets: Top vs. Bottom
 
 The default state of TopX Widgets is to show the top number, but we can go into the Inspector panel and change this setting to show us the "Bottom X." This is especially helpful to focus on less frequently occurring events.
+
+## Filtering with a "Wildcard"
+
+Lucene Search Syntax has the ability to run a wildcard query. For example, you may want to find data on any classification name that contains Malware in its name (Malware X, Malware Y, Malware Z, etc). If you run a query using the term Malware, your search results will display only exact matches. 
+
+For one-word wildcard filtering, remove the quotation marks and place an asterisk (*) where you would like to use a wildcard. 
+
+For instance, to search for all classifications containing the word Malware:
+
+- classificationName: *Malware*
+
 
 
