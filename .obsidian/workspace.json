@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module/06 Module 2 Conclusion.md",
+                "file": "Logrythm/305 Analyst Fundamentals Part 2/03 Qualify & Investigate (externally) module/01 Module 3 Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module/06 Module 2 Conclusion.md",
+                "file": "Logrythm/305 Analyst Fundamentals Part 2/03 Qualify & Investigate (externally) module/01 Module 3 Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module/06 Module 2 Conclusion.md",
+                "file": "Logrythm/305 Analyst Fundamentals Part 2/03 Qualify & Investigate (externally) module/01 Module 3 Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module/06 Module 2 Conclusion.md"
+                "file": "Logrythm/305 Analyst Fundamentals Part 2/03 Qualify & Investigate (externally) module/01 Module 3 Introduction.md"
               }
             }
           },
@@ -232,14 +232,18 @@
   },
   "active": "6180739aa47bda90",
   "lastOpenFiles": [
+    "Logrythm/305 Analyst Fundamentals Part 2/03 Qualify & Investigate (externally) module/02 Qualify Drill Down on a Widget.md",
+    "Logrythm/305 Analyst Fundamentals Part 2/03 Qualify & Investigate (externally) module/01 Module 3 Introduction.md",
+    "Logrythm/305 Analyst Fundamentals Part 2/01 Course Introduction.md",
+    "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module/06 Module 2 Conclusion.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240627153520.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240627153414.png",
     "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module/05 Recover Customizing the Dashboard.md",
     "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module/04 Recover Widgets Overview.md",
     "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module/03 Recover Searches Page.md",
     "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module/02 Personalized Settings.md",
     "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module/01 Module 2 Introduction.md",
-    "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module/06 Module 2 Conclusion.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240627152804.png",
-    "Logrythm/305 Analyst Fundamentals Part 2/01 Course Introduction.md",
     "Logrythm/302 AI Engine Fundamentals/10 Lab/01 Overview.md",
     "Logrythm/305 Analyst Fundamentals Part 2/03 Qualify & Investigate (externally) module",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240626045651.png",
@@ -249,9 +253,7 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240626045512.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240626045456.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240626045403.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240626043214.png",
     "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240626042909.png",
     "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/01 Data Collection.md",
     "Logrythm/01 Getting Started/01 Prior Knowledge.md",
     "Logrythm/02 What is SIEM Logrythm/Final Quiz.md",
@@ -268,7 +270,6 @@
     "Logrythm/305 Analyst Fundamentals Part 1/02 Baseline/01 Module 2 Introduction.md",
     "Logrythm/305 Analyst Fundamentals Part 1/06 Investigate, Neutralize & Recover/06 Review the Metrics.md",
     "Logrythm/305 Analyst Fundamentals Part 1/06 Investigate, Neutralize & Recover/05 Close the Case.md",
-    "Logrythm/305 Analyst Fundamentals Part 1/06 Investigate, Neutralize & Recover/04 Brainstorm Improvements.md",
     "Logrythm/305 Analyst Fundamentals Part 2",
     "Logrythm/305 Analyst Fundamentals Part 1/06 Investigate, Neutralize & Recover",
     "Logrythm/305 Analyst Fundamentals Part 1/05 Continue To Qualify",
