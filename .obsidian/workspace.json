@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/03 Recover Lists & 3rd Party Contextualize Actions.md",
+                "file": "Logrythm/305 Analyst Fundamentals Part 3/01 Course Introduction/01 Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/03 Recover Lists & 3rd Party Contextualize Actions.md",
+                "file": "Logrythm/305 Analyst Fundamentals Part 3/01 Course Introduction/01 Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/03 Recover Lists & 3rd Party Contextualize Actions.md",
+                "file": "Logrythm/305 Analyst Fundamentals Part 3/01 Course Introduction/01 Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/03 Recover Lists & 3rd Party Contextualize Actions.md"
+                "file": "Logrythm/305 Analyst Fundamentals Part 3/01 Course Introduction/01 Introduction.md"
               }
             }
           },
@@ -232,8 +232,22 @@
   },
   "active": "6180739aa47bda90",
   "lastOpenFiles": [
-    "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/02 Neutralize Case Collaboration & Mitigation.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240628053029.png",
+    "Logrythm/305 Analyst Fundamentals Part 1/03 Threat Lifecycle Management/01 Module 3 Introduction.md",
+    "Logrythm/305 Analyst Fundamentals Part 3/01 Course Introduction/01 Introduction.md",
+    "Logrythm/305 Analyst Fundamentals Part 3/05 Recover",
+    "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate",
+    "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate",
+    "Logrythm/305 Analyst Fundamentals Part 3/02 Collect , Discover &  Qualify",
+    "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/05 Module 5 Conclusion.md",
+    "Logrythm/305 Analyst Fundamentals Part 3/01 Course Introduction",
+    "Logrythm/305 Analyst Fundamentals Part 3",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240628051718.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240628051622.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240628051508.png",
+    "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/04 Recover Close Case.md",
     "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/03 Recover Lists & 3rd Party Contextualize Actions.md",
+    "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/02 Neutralize Case Collaboration & Mitigation.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240628043147.png",
     "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/01 Module 5 Introduction.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240628031716.png",
@@ -252,9 +266,6 @@
     "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module",
     "Logrythm/305 Analyst Fundamentals Part 2/03 Qualify & Investigate (externally) module/02 Qualify Drill Down on a Widget.md",
     "Logrythm/305 Analyst Fundamentals Part 2/03 Qualify & Investigate (externally) module/01 Module 3 Introduction.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240627171307.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240627171303.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240627171245.png",
     "Logrythm/305 Analyst Fundamentals Part 2/01 Course Introduction.md",
     "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module/06 Module 2 Conclusion.md",
     "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module/05 Recover Customizing the Dashboard.md",
@@ -267,17 +278,6 @@
     "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module",
     "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/01 Data Collection.md",
     "Logrythm/01 Getting Started/01 Prior Knowledge.md",
-    "Logrythm/02 What is SIEM Logrythm/Final Quiz.md",
-    "Logrythm/02 What is SIEM Logrythm/02 Course Legend.md",
-    "Logrythm/301 Administration Fundamentals/01 Getting Started/02 Labs & Student Guides.md",
-    "Logrythm/301 Administration Fundamentals/01 Getting Started/01 Introduction to Course.md",
-    "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/02 Parsing & Data Normalization.md",
-    "Logrythm/305 Analyst Fundamentals Part 2",
-    "Logrythm/305 Analyst Fundamentals Part 1/06 Investigate, Neutralize & Recover",
-    "Logrythm/305 Analyst Fundamentals Part 1/05 Continue To Qualify",
-    "Logrythm/305 Analyst Fundamentals Part 1/04 Collect , Discover & Begin to Qualify",
-    "Logrythm/305 Analyst Fundamentals/03 Threat Lifecycle Management/Untitled",
-    "Logrythm/305 Analyst Fundamentals Part 1/03 Threat Lifecycle Management",
     "Active Directory Practice/07 Monterverde/Untitled.canvas"
   ]
 }
