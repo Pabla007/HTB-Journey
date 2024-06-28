@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 3/01 Course Introduction/01 Introduction.md",
+                "file": "Logrythm/305 Analyst Fundamentals Part 3/02 Collect , Discover &  Qualify/01 Module 2 Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 3/01 Course Introduction/01 Introduction.md",
+                "file": "Logrythm/305 Analyst Fundamentals Part 3/02 Collect , Discover &  Qualify/01 Module 2 Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 3/01 Course Introduction/01 Introduction.md",
+                "file": "Logrythm/305 Analyst Fundamentals Part 3/02 Collect , Discover &  Qualify/01 Module 2 Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 3/01 Course Introduction/01 Introduction.md"
+                "file": "Logrythm/305 Analyst Fundamentals Part 3/02 Collect , Discover &  Qualify/01 Module 2 Introduction.md"
               }
             }
           },
@@ -232,9 +232,10 @@
   },
   "active": "6180739aa47bda90",
   "lastOpenFiles": [
+    "Logrythm/305 Analyst Fundamentals Part 3/01 Course Introduction/01 Introduction.md",
+    "Logrythm/305 Analyst Fundamentals Part 3/02 Collect , Discover &  Qualify/01 Module 2 Introduction.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240628053029.png",
     "Logrythm/305 Analyst Fundamentals Part 1/03 Threat Lifecycle Management/01 Module 3 Introduction.md",
-    "Logrythm/305 Analyst Fundamentals Part 3/01 Course Introduction/01 Introduction.md",
     "Logrythm/305 Analyst Fundamentals Part 3/05 Recover",
     "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate",
     "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate",
@@ -261,7 +262,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240628022012.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240628021722.png",
     "Logrythm/305 Analyst Fundamentals Part 2/03 Qualify & Investigate (externally) module/04 Module 3 Conclusion.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240627173148.png",
     "Logrythm/305 Analyst Fundamentals Part 2/03 Qualify & Investigate (externally) module/03 Investigate Contextualize Actions.md",
     "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module",
     "Logrythm/305 Analyst Fundamentals Part 2/03 Qualify & Investigate (externally) module/02 Qualify Drill Down on a Widget.md",
