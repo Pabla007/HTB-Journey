@@ -2,9 +2,15 @@
 Before drilling down on an alarm, let's use the Inspector panel to get a general understanding of the alarm and how it was configured.
 
 
+<hr>
+
+
 **Here's what I'm thinking:**
 
 I want to learn more about this alarm. To do this, we will need to open the Inspector panel to review the alarm details. I'm specifically curious about what we will see in the AI Engine Rule tab. 
+
+
+<hr>
 
 
 **What were the specific rules that triggered this alarm to go off?**
@@ -29,4 +35,13 @@ Under where it says Smart Response Actions section, we can approve or deny that 
 Now let's take a look at the AI Engine tab:
   
 Here we can see the exact criteria that were used to determine when the rule would fire. For this alarm to have fired, there needed to have been more than 10 logs with the access success and file delete criteria within 1 minute for this rule to fire off an alarm.
+
+
+<hr>
+
+
+Now we know that this alarm was triggered because more than 10 logs with access success and file delete criteria occurred within1 minute.
+
+Let's go ahead and drill down on this alarm to learn more about these log messages.
+
 
