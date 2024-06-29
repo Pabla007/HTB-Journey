@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/00 301 Administration Fundamentals.md",
+                "file": "Logrythm/305 Analyst Fundamentals Part 3/02 Collect , Discover &  Qualify/Qualify Drilldown on the Alarm.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/00 301 Administration Fundamentals.md",
+                "file": "Logrythm/305 Analyst Fundamentals Part 3/02 Collect , Discover &  Qualify/Qualify Drilldown on the Alarm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/00 301 Administration Fundamentals.md",
+                "file": "Logrythm/305 Analyst Fundamentals Part 3/02 Collect , Discover &  Qualify/Qualify Drilldown on the Alarm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/00 301 Administration Fundamentals.md"
+                "file": "Logrythm/305 Analyst Fundamentals Part 3/02 Collect , Discover &  Qualify/Qualify Drilldown on the Alarm.md"
               }
             }
           },
@@ -232,10 +232,15 @@
   },
   "active": "6180739aa47bda90",
   "lastOpenFiles": [
+    "Logrythm/305 Analyst Fundamentals Part 3/02 Collect , Discover &  Qualify/03 Discover Alarm Grid View.md",
+    "Logrythm/305 Analyst Fundamentals Part 3/02 Collect , Discover &  Qualify/Qualify Drilldown on the Alarm.md",
+    "Logrythm/305 Analyst Fundamentals Part 3/02 Collect , Discover &  Qualify/02 Collect Tail.md",
+    "Logrythm/305 Analyst Fundamentals Part 3/02 Collect , Discover &  Qualify/01 Module 2 Introduction.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240629195929.png",
+    "Logrythm/305 Analyst Fundamentals Part 3/01 Course Introduction/01 Introduction.md",
+    "Logrythm/00 301 Administration Fundamentals.md",
     "07 How to close the VPN completely.md",
     "host file.md",
-    "Logrythm/305 Analyst Fundamentals Part 3/02 Collect , Discover &  Qualify/01 Module 2 Introduction.md",
-    "Logrythm/305 Analyst Fundamentals Part 3/01 Course Introduction/01 Introduction.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240628053029.png",
     "Logrythm/305 Analyst Fundamentals Part 1/03 Threat Lifecycle Management/01 Module 3 Introduction.md",
     "Logrythm/305 Analyst Fundamentals Part 3/05 Recover",
@@ -262,7 +267,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240628031216.png",
     "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module/01 Module 4 Introduction.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240628022012.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240628021722.png",
     "Logrythm/305 Analyst Fundamentals Part 2/03 Qualify & Investigate (externally) module/04 Module 3 Conclusion.md",
     "Logrythm/305 Analyst Fundamentals Part 2/03 Qualify & Investigate (externally) module/03 Investigate Contextualize Actions.md",
     "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module",
@@ -272,10 +276,6 @@
     "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module/06 Module 2 Conclusion.md",
     "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module/05 Recover Customizing the Dashboard.md",
     "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module/04 Recover Widgets Overview.md",
-    "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module/03 Recover Searches Page.md",
-    "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module/02 Personalized Settings.md",
-    "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module/01 Module 2 Introduction.md",
-    "Logrythm/302 AI Engine Fundamentals/10 Lab/01 Overview.md",
     "Logrythm/305 Analyst Fundamentals Part 2/03 Qualify & Investigate (externally) module",
     "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module",
     "Active Directory Practice/07 Monterverde/Untitled.canvas"

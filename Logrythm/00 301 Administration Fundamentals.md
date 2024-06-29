@@ -15,6 +15,3 @@ By the end of this lesson you will be able to:
 - Recall the creation of use cases.
 - Identify the various testing methodologies available.
 
-
-
-
