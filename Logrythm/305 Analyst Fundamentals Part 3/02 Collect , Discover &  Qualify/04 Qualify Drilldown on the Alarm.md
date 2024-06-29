@@ -45,3 +45,11 @@ Now we know that this alarm was triggered because more than 10 logs with access 
 Let's go ahead and drill down on this alarm to learn more about these log messages.
 
 
+![[Pasted image 20240629225925.png]]
+
+
+## Drilldown from Alarm Grid View
+
+You can run a Drilldown directly from the Alarm grid view. Do this by clicking on the graph icon to the left of the alarm.
+
+
