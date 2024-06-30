@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate/03 Neutralize Run SmartResponses.md",
+                "file": "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate/02 Investigate Timeline Search on Bob Smith.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate/03 Neutralize Run SmartResponses.md",
+                "file": "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate/02 Investigate Timeline Search on Bob Smith.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate/03 Neutralize Run SmartResponses.md",
+                "file": "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate/02 Investigate Timeline Search on Bob Smith.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate/03 Neutralize Run SmartResponses.md"
+                "file": "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate/02 Investigate Timeline Search on Bob Smith.md"
               }
             }
           },
@@ -232,8 +232,15 @@
   },
   "active": "6180739aa47bda90",
   "lastOpenFiles": [
-    "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate/02 Neutralize Add a Playbook.md",
+    "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate/01 Module 4 Introduction.md",
+    "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate/02 Investigate Timeline Search on Bob Smith.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630061435.png",
+    "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate/04 Module 3 Conclusion.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630061209.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630061139.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630061006.png",
     "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate/03 Neutralize Run SmartResponses.md",
+    "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate/02 Neutralize Add a Playbook.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630054215.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630053120.png",
     "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate/01 Module 3 Introduction.md",
@@ -258,13 +265,9 @@
     "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/05 Module 5 Conclusion.md",
     "Logrythm/305 Analyst Fundamentals Part 3/01 Course Introduction",
     "Logrythm/305 Analyst Fundamentals Part 3",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240628051718.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240628051622.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240628051508.png",
     "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/04 Recover Close Case.md",
     "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/03 Recover Lists & 3rd Party Contextualize Actions.md",
     "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/02 Neutralize Case Collaboration & Mitigation.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240628043147.png",
     "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/01 Module 5 Introduction.md",
     "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module/04 Module 4 Conclusion.md",
     "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module",
@@ -272,10 +275,7 @@
     "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module/02 Investigate Additional Search Options - Expand Search.md",
     "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module/01 Module 4 Introduction.md",
     "Logrythm/305 Analyst Fundamentals Part 2/03 Qualify & Investigate (externally) module/04 Module 3 Conclusion.md",
-    "Logrythm/305 Analyst Fundamentals Part 2/03 Qualify & Investigate (externally) module/03 Investigate Contextualize Actions.md",
     "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module",
-    "Logrythm/305 Analyst Fundamentals Part 2/03 Qualify & Investigate (externally) module/02 Qualify Drill Down on a Widget.md",
-    "Logrythm/305 Analyst Fundamentals Part 2/03 Qualify & Investigate (externally) module/01 Module 3 Introduction.md",
     "Logrythm/305 Analyst Fundamentals Part 2/03 Qualify & Investigate (externally) module",
     "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module",
     "Active Directory Practice/07 Monterverde/Untitled.canvas"
