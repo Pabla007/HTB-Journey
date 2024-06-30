@@ -11,3 +11,6 @@ The incident status of a Case can be changed from **two** places:
 
 ![[Pasted image 20240630061209.png]]
 
+
+![[Pasted image 20240630073105.png]]
+

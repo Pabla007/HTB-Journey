@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate/02 Investigate Timeline Search on Bob Smith.md",
+                "file": "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate/04 Investigate & Neutralize TIS Feed.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate/02 Investigate Timeline Search on Bob Smith.md",
+                "file": "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate/04 Investigate & Neutralize TIS Feed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate/02 Investigate Timeline Search on Bob Smith.md",
+                "file": "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate/04 Investigate & Neutralize TIS Feed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate/02 Investigate Timeline Search on Bob Smith.md"
+                "file": "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate/04 Investigate & Neutralize TIS Feed.md"
               }
             }
           },
@@ -232,18 +232,22 @@
   },
   "active": "6180739aa47bda90",
   "lastOpenFiles": [
-    "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate/01 Module 4 Introduction.md",
+    "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate/03 Investigate Wildcard Search.md",
+    "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate/04 Investigate & Neutralize TIS Feed.md",
     "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate/02 Investigate Timeline Search on Bob Smith.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630061435.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630073223.png",
+    "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate/01 Module 4 Introduction.md",
     "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate/04 Module 3 Conclusion.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630073105.png",
+    "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate/03 Neutralize Run SmartResponses.md",
+    "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate/02 Neutralize Add a Playbook.md",
+    "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate/01 Module 3 Introduction.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630061435.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630061209.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630061139.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630061006.png",
-    "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate/03 Neutralize Run SmartResponses.md",
-    "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate/02 Neutralize Add a Playbook.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630054215.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630053120.png",
-    "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate/01 Module 3 Introduction.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630052627.png",
     "Logrythm/305 Analyst Fundamentals Part 3/02 Collect , Discover &  Qualify/05 Module 02 Conclusion.md",
     "Logrythm/305 Analyst Fundamentals Part 3/02 Collect , Discover &  Qualify/04 Qualify Drilldown on the Alarm.md",
@@ -251,12 +255,10 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240629225925.png",
     "Logrythm/305 Analyst Fundamentals Part 3/02 Collect , Discover &  Qualify/03 Discover Alarm Grid View.md",
     "Logrythm/305 Analyst Fundamentals Part 3/02 Collect , Discover &  Qualify/01 Module 2 Introduction.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240629195929.png",
     "Logrythm/305 Analyst Fundamentals Part 3/01 Course Introduction/01 Introduction.md",
     "Logrythm/00 301 Administration Fundamentals.md",
     "07 How to close the VPN completely.md",
     "host file.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240628053029.png",
     "Logrythm/305 Analyst Fundamentals Part 1/03 Threat Lifecycle Management/01 Module 3 Introduction.md",
     "Logrythm/305 Analyst Fundamentals Part 3/05 Recover",
     "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate",
@@ -273,8 +275,6 @@
     "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module",
     "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module/03 Investigate Search Case Tags.md",
     "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module/02 Investigate Additional Search Options - Expand Search.md",
-    "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module/01 Module 4 Introduction.md",
-    "Logrythm/305 Analyst Fundamentals Part 2/03 Qualify & Investigate (externally) module/04 Module 3 Conclusion.md",
     "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module",
     "Logrythm/305 Analyst Fundamentals Part 2/03 Qualify & Investigate (externally) module",
     "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module",
