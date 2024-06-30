@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 3/02 Collect , Discover &  Qualify/04 Qualify Drilldown on the Alarm.md",
+                "file": "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate/03 Neutralize Run SmartResponses.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 3/02 Collect , Discover &  Qualify/04 Qualify Drilldown on the Alarm.md",
+                "file": "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate/03 Neutralize Run SmartResponses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 3/02 Collect , Discover &  Qualify/04 Qualify Drilldown on the Alarm.md",
+                "file": "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate/03 Neutralize Run SmartResponses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 3/02 Collect , Discover &  Qualify/04 Qualify Drilldown on the Alarm.md"
+                "file": "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate/03 Neutralize Run SmartResponses.md"
               }
             }
           },
@@ -232,10 +232,17 @@
   },
   "active": "6180739aa47bda90",
   "lastOpenFiles": [
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240629225925.png",
-    "Logrythm/305 Analyst Fundamentals Part 3/02 Collect , Discover &  Qualify/03 Discover Alarm Grid View.md",
+    "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate/02 Neutralize Add a Playbook.md",
+    "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate/03 Neutralize Run SmartResponses.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630054215.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630053120.png",
+    "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate/01 Module 3 Introduction.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630052627.png",
+    "Logrythm/305 Analyst Fundamentals Part 3/02 Collect , Discover &  Qualify/05 Module 02 Conclusion.md",
     "Logrythm/305 Analyst Fundamentals Part 3/02 Collect , Discover &  Qualify/04 Qualify Drilldown on the Alarm.md",
     "Logrythm/305 Analyst Fundamentals Part 3/02 Collect , Discover &  Qualify/02 Collect Tail.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240629225925.png",
+    "Logrythm/305 Analyst Fundamentals Part 3/02 Collect , Discover &  Qualify/03 Discover Alarm Grid View.md",
     "Logrythm/305 Analyst Fundamentals Part 3/02 Collect , Discover &  Qualify/01 Module 2 Introduction.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240629195929.png",
     "Logrythm/305 Analyst Fundamentals Part 3/01 Course Introduction/01 Introduction.md",
@@ -259,23 +266,16 @@
     "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/02 Neutralize Case Collaboration & Mitigation.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240628043147.png",
     "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/01 Module 5 Introduction.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240628031716.png",
     "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module/04 Module 4 Conclusion.md",
     "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module",
     "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module/03 Investigate Search Case Tags.md",
     "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module/02 Investigate Additional Search Options - Expand Search.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240628031307.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240628031216.png",
     "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module/01 Module 4 Introduction.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240628022012.png",
     "Logrythm/305 Analyst Fundamentals Part 2/03 Qualify & Investigate (externally) module/04 Module 3 Conclusion.md",
     "Logrythm/305 Analyst Fundamentals Part 2/03 Qualify & Investigate (externally) module/03 Investigate Contextualize Actions.md",
     "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module",
     "Logrythm/305 Analyst Fundamentals Part 2/03 Qualify & Investigate (externally) module/02 Qualify Drill Down on a Widget.md",
     "Logrythm/305 Analyst Fundamentals Part 2/03 Qualify & Investigate (externally) module/01 Module 3 Introduction.md",
-    "Logrythm/305 Analyst Fundamentals Part 2/01 Course Introduction.md",
-    "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module/06 Module 2 Conclusion.md",
-    "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module/05 Recover Customizing the Dashboard.md",
     "Logrythm/305 Analyst Fundamentals Part 2/03 Qualify & Investigate (externally) module",
     "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module",
     "Active Directory Practice/07 Monterverde/Untitled.canvas"
