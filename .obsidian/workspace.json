@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 3/05 Recover/06 Module 5 Conclusion.md",
+                "file": "Logrythm/305 Analyst Fundamentals Part 3/06 Last Stop Before Survey & The Final (LRSA) Exam.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 3/05 Recover/06 Module 5 Conclusion.md",
+                "file": "Logrythm/305 Analyst Fundamentals Part 3/06 Last Stop Before Survey & The Final (LRSA) Exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 3/05 Recover/06 Module 5 Conclusion.md",
+                "file": "Logrythm/305 Analyst Fundamentals Part 3/06 Last Stop Before Survey & The Final (LRSA) Exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 3/05 Recover/06 Module 5 Conclusion.md"
+                "file": "Logrythm/305 Analyst Fundamentals Part 3/06 Last Stop Before Survey & The Final (LRSA) Exam.md"
               }
             }
           },
@@ -231,11 +231,13 @@
   },
   "active": "e7dd6b24ee999536",
   "lastOpenFiles": [
+    "Logrythm/305 Analyst Fundamentals Part 3/05 Recover/06 Module 5 Conclusion.md",
+    "Logrythm/305 Analyst Fundamentals Part 3/06 Last Stop Before Survey & The Final (LRSA) Exam.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630182201.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630175914.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630175825.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630175801.png",
     "Logrythm/305 Analyst Fundamentals Part 3/05 Recover/05 Administration in the Web Console.md",
-    "Logrythm/305 Analyst Fundamentals Part 3/05 Recover/06 Module 5 Conclusion.md",
     "Logrythm/305 Analyst Fundamentals Part 3/05 Recover/04 Recover Import a LogRhythm Community Dashboard.md",
     "Logrythm/305 Analyst Fundamentals Part 3/05 Recover/03 Recover Documenting & Closing the Case.md",
     "Logrythm/305 Analyst Fundamentals Part 3/05 Recover/02 Recover Tags, Saved Searches, & Requests.md",
@@ -248,8 +250,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630172206.png",
     "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate/05 Module 4 Conclusion.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630171848.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630171808.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630171734.png",
     "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate/04 Investigate & Neutralize TIS Feed.md",
     "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate/03 Investigate Wildcard Search.md",
     "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate/02 Investigate Timeline Search on Bob Smith.md",
