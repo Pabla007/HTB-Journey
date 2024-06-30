@@ -30,3 +30,24 @@ Note: Non-Incident cases have the same metric, though it is called Time to Quali
 
 
 
+## Time to Respond (TTR)
+
+**Time to Respond (TTR)** is the time between the case's creation and when it was mitigated. 
+
+  It is specific to cases that have been escalated to Incidents.
+
+Note: Non-Incident cases do not get a TTR metric. Instead, they have a Time to Investigate (TTI) metric, which indicates the time between the case's creation and when the case was closed.
+
+
+## Reopen a Closed Case
+
+Every now and then you may need to reopen a closed case. For instance, if you find that you need to add evidence to a closed case, you'll have to reopen the case to do so.
+
+Only the owner can reopen a closed case. 
+
+To change the status of a case card:
+
+1. Locate the case card for the case that needs to be moved to a different status (by expanding the caret in the Current Case panel, or opening the appropriate case from the Cases page).  
+    
+2. Click through the statuses until you reach the appropriate status for the case. Open cases are in the Created, Incident, or Mitigated state. Closed cases are in the Completed or Resolved state.\
+
