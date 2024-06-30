@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 1/05 Continue To Qualify/01 Alarm in Inspector - Comments & Details Tab.md",
+                "file": "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/05 Module 5 Conclusion.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "AI engine rule",
+                "query": "case collaborator",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,8 +137,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 1/05 Continue To Qualify/01 Alarm in Inspector - Comments & Details Tab.md",
+                "file": "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/05 Module 5 Conclusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 1/05 Continue To Qualify/01 Alarm in Inspector - Comments & Details Tab.md",
+                "file": "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/05 Module 5 Conclusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 1/05 Continue To Qualify/01 Alarm in Inspector - Comments & Details Tab.md"
+                "file": "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/05 Module 5 Conclusion.md"
               }
             }
           },
@@ -232,9 +231,22 @@
   },
   "active": "e7dd6b24ee999536",
   "lastOpenFiles": [
-    "Logrythm/00 301 Administration Fundamentals.md",
+    "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module/04 Module 4 Conclusion.md",
+    "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module/03 Investigate Search Case Tags.md",
+    "Logrythm/305 Analyst Fundamentals Part 2/03 Qualify & Investigate (externally) module/04 Module 3 Conclusion.md",
+    "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module/06 Module 2 Conclusion.md",
+    "Logrythm/305 Analyst Fundamentals Part 1/06 Investigate, Neutralize & Recover/07 Module 6 Review.md",
+    "Logrythm/305 Analyst Fundamentals Part 1/05 Continue To Qualify/05 Module 5 Review.md",
+    "Logrythm/305 Analyst Fundamentals Part 1/04 Collect , Discover & Begin to Qualify/04 Add a Tag.md",
+    "Logrythm/305 Analyst Fundamentals Part 1/03 Threat Lifecycle Management/02 Module 3 Review.md",
+    "Active Directory Practice/04 Support/07 Kerberos Ticketing.md",
+    "Logrythm/302 AI Engine Fundamentals/03 Log Observed & Log Not Observed Rule Blocks/02 AI Engine Administration.md",
+    "Logrythm/305 Analyst Fundamentals Part 1/06 Investigate, Neutralize & Recover/02 Inspect Evidence.md",
+    "Logrythm/305 Analyst Fundamentals Part 1/02 Baseline/01 Module 2 Introduction.md",
     "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/04 Detection.md",
     "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/03 Event Correlation.md",
+    "Logrythm/305 Analyst Fundamentals Part 1/05 Continue To Qualify/01 Alarm in Inspector - Comments & Details Tab.md",
+    "Logrythm/00 301 Administration Fundamentals.md",
     "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/02 Parsing & Data Normalization.md",
     "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/01 Data Collection.md",
     "Logrythm/01 Getting Started/01 Prior Knowledge.md",
@@ -242,26 +254,13 @@
     "Logrythm/305 Analyst Fundamentals Part 1/04 Collect , Discover & Begin to Qualify/02 Alarms.md",
     "Logrythm/302 AI Engine Fundamentals/02 Introduction to AI Engine/02 AI Engine Overview.md",
     "Logrythm/302 AI Engine Fundamentals/02 Introduction to AI Engine/01 Overview.md",
-    "Logrythm/305 Analyst Fundamentals Part 1/02 Baseline/01 Module 2 Introduction.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/12 Threat Intelligence Integration/01 Knowledge Check.md",
     "Logrythm/305 Analyst Fundamentals Part 3/05 Recover/03 Recover Documenting & Closing the Case.md",
     "Logrythm/305 Analyst Fundamentals Part 1/03 Threat Lifecycle Management/01 Module 3 Introduction.md",
-    "Logrythm/305 Analyst Fundamentals Part 1/04 Collect , Discover & Begin to Qualify/01 Module 4 Introduction & Collect o.md",
-    "Logrythm/305 Analyst Fundamentals Part 1/05 Continue To Qualify/05 Module 5 Review.md",
-    "Logrythm/305 Analyst Fundamentals Part 1/05 Continue To Qualify/03 Alarm Drilldown.md",
-    "Logrythm/305 Analyst Fundamentals Part 1/05 Continue To Qualify/04 Form a Hypothesis.md",
-    "Logrythm/305 Analyst Fundamentals Part 1/05 Continue To Qualify/02 Alarm in Inspector - Rule Tab.md",
-    "Logrythm/305 Analyst Fundamentals Part 1/05 Continue To Qualify/01 Alarm in Inspector - Comments & Details Tab.md",
-    "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module/05 Recover Customizing the Dashboard.md",
-    "Logrythm/305 Analyst Fundamentals Part 1/02 Baseline/02 Normal Network Activity.md",
-    "Logrythm/305 Analyst Fundamentals Part 1/02 Baseline/03 Normal User Activity.md",
-    "Logrythm/305 Analyst Fundamentals Part 3/06 Last Stop Before Survey & The Final (LRSA) Exam.md",
-    "Logrythm/305 Analyst Fundamentals Part 3/05 Recover/06 Module 5 Conclusion.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630182201.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630175914.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630175825.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630175801.png",
-    "Logrythm/305 Analyst Fundamentals Part 3/05 Recover/05 Administration in the Web Console.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630172941.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630172922.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630172819.png",
