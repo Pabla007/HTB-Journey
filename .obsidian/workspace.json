@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory/00 Active Directory Contents.md",
+                "file": "PNPT Chekclists/PNPT.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory/00 Active Directory Contents.md",
+                "file": "PNPT Chekclists/PNPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory/00 Active Directory Contents.md",
+                "file": "PNPT Chekclists/PNPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory/00 Active Directory Contents.md"
+                "file": "PNPT Chekclists/PNPT.md"
               }
             }
           },
@@ -231,6 +231,9 @@
   },
   "active": "e7dd6b24ee999536",
   "lastOpenFiles": [
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240702234234.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240702234040.png",
+    "Active Directory/00 Active Directory Contents.md",
     "03 Internal Attacks.md",
     "Linux Enumeration.md",
     "Windows Enumeration.md",
@@ -255,8 +258,6 @@
     "Logrythm/302 AI Engine Fundamentals/03 Log Observed & Log Not Observed Rule Blocks/02 AI Engine Administration.md",
     "Logrythm/305 Analyst Fundamentals Part 1/06 Investigate, Neutralize & Recover/02 Inspect Evidence.md",
     "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/04 Detection.md",
-    "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/03 Event Correlation.md",
-    "Logrythm/305 Analyst Fundamentals Part 1/05 Continue To Qualify/01 Alarm in Inspector - Comments & Details Tab.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630182201.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630175914.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630175825.png",
@@ -266,7 +267,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630172819.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630172228.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630172206.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630171848.png",
     "Logrythm/305 Analyst Fundamentals Part 3/05 Recover",
     "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate",
     "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate",

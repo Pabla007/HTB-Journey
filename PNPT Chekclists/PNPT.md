@@ -1,4 +1,9 @@
 
+PNPT 
+![[Pasted image 20240702234040.png | 300]]
+
+![[Pasted image 20240702234234.png]]
+
 >[!question ] How to Prepare for the exam ?_?
 
 ```
