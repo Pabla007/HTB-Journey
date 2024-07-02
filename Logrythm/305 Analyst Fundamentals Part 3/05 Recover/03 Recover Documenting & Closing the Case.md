@@ -4,7 +4,6 @@ Recovery depends heavily on documentation. It will be easier for you to be organ
 ```
 
 
-
 ## **Step 1: Brainstorming Ideas for Improvement**
 
 I was able to write my suggestions about how we may improve and function more efficiently in the future by heading to the **Cases** **page** and clicking **"Add Note."**

@@ -1,9 +1,60 @@
-https://www.youtube.com/watch?v=0Y3Gza8Orks
+
+>[!question ] How to Prepare for the exam ?_?
+
+```
+Exam is not same as the course material it requires 
+60-70 recon than exploitation.
+
+More focus on reconnaissance
+
+We have to move laterally from 5 machines.
+All machines are vulnerable.
+Focus on AD tools and methodology.
+
+In PNPT we have to do recon and find the way to the 1st machine.
+```
+
+```
 Looks for other's mistake and Ur Common Sense
 Don't skipping a step in my methodology and missing obvious steps
 Like Mis-configurations
 
 If you are in the CTF mindset, you are likely going to fail.
+```
+
+
+>[! bug ] Key To Pass the Exam
+
+Enumerate -> Enumerate -> Enumerate -> Enumerate
+If Stuck Check your Methodology make sure we enumerate everything 
+
+```
+OSINT
+Gather Publically Facing Information for the users.
+
+External Compromise
+Compromise the external assest
+
+Pivot internally
+
+Move laterally , Escalate Privileges or Complete Domain Compromise
+
+Basic Enumeration , basic exploits and use what you found.
+```
+
+
+>[! important] Time is your Enemy
+
+- Make sure you know different pivoting tools and techniques for the exam.
+- If you get stuck, think about what you identified/recovered and how it can be used. Don’t overthink it!
+- You will run out of ideas before you run out of time!
+
+
+<hr>
+
+
+https://www.youtube.com/watch?v=0Y3Gza8Orks
+
 
 ![[Pasted image 20230914190931.png]]
 
@@ -13,7 +64,7 @@ https://www.youtube.com/watch?v=cX3lgdH302s
 - develop a methodology how u r going to attack every box
 - https://www.youtube.com/watch?v=tQbUezvHa38
 - Take tips and how to solve a box from Siren
-- Pivioting and Enumerating AD
+- Pivoting and Enumerating AD
 
 ```
 https://www.youtube.com/watch?v=fdIXlgfS7U0
@@ -27,7 +78,6 @@ External Compromise
 Compromise the external assest
 
 Pivot internally
-
 
 Move laterally , Escalate Privileges or Complete Domain Compromise
 
