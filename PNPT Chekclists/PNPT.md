@@ -1,6 +1,9 @@
 
 PNPT 
 ![[Pasted image 20240702234040.png | 300]]
+There is an external site that they will provide outside of the lab
+environment (i.e. where we should start our initial recon)
+
 
 ![[Pasted image 20240702234234.png]]
 
