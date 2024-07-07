@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PNPT Chekclists/PNPT.md",
+                "file": "Logrythm/305 Analyst Fundamentals Part 3/05 Recover/04 Recover Import a LogRhythm Community Dashboard.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ransomware",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,7 +137,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -157,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PNPT Chekclists/PNPT.md",
+                "file": "Logrythm/305 Analyst Fundamentals Part 3/05 Recover/04 Recover Import a LogRhythm Community Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PNPT Chekclists/PNPT.md",
+                "file": "Logrythm/305 Analyst Fundamentals Part 3/05 Recover/04 Recover Import a LogRhythm Community Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PNPT Chekclists/PNPT.md"
+                "file": "Logrythm/305 Analyst Fundamentals Part 3/05 Recover/04 Recover Import a LogRhythm Community Dashboard.md"
               }
             }
           },
@@ -231,6 +232,7 @@
   },
   "active": "e7dd6b24ee999536",
   "lastOpenFiles": [
+    "PNPT Chekclists/PNPT.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240702234234.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240702234040.png",
     "Active Directory/00 Active Directory Contents.md",
@@ -240,7 +242,6 @@
     "README.md",
     "PEH + OSINT.md",
     "Offer Letter.md",
-    "PNPT Chekclists/PNPT.md",
     "Logrythm/305 Analyst Fundamentals Part 3/05 Recover/03 Recover Documenting & Closing the Case.md",
     "Logrythm/305 Analyst Fundamentals Part 1/02 Baseline/01 Module 2 Introduction.md",
     "Logrythm/305 Analyst Fundamentals Part 1/06 Investigate, Neutralize & Recover/07 Module 6 Review.md",
@@ -266,7 +267,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630172922.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630172819.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630172228.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630172206.png",
     "Logrythm/305 Analyst Fundamentals Part 3/05 Recover",
     "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate",
     "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate",
