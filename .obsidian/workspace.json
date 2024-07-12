@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/06 Wreath/00 Summary Till Now.md",
+                "file": "Try Hack Me/06 Wreath/03  Enumeration.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/06 Wreath/00 Summary Till Now.md",
+                "file": "Try Hack Me/06 Wreath/03  Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/06 Wreath/00 Summary Till Now.md",
+                "file": "Try Hack Me/06 Wreath/03  Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/06 Wreath/00 Summary Till Now.md"
+                "file": "Try Hack Me/06 Wreath/03  Enumeration.md"
               }
             }
           },
@@ -231,6 +231,10 @@
   },
   "active": "e7dd6b24ee999536",
   "lastOpenFiles": [
+    "Try Hack Me/06 Wreath/02 Nmap.md",
+    "Try Hack Me/06 Wreath/03  Enumeration.md",
+    "Try Hack Me/06 Wreath/01 Notes aka observation regarding the machine.md",
+    "Try Hack Me/06 Wreath/00 Summary Till Now.md",
     "Logrythm/305 Analyst Fundamentals Part 3/05 Recover/04 Recover Import a LogRhythm Community Dashboard.md",
     "PNPT Chekclists/PNPT.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240702234234.png",
@@ -255,10 +259,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting/07 Report Packages.md",
     "Logrythm/305 Analyst Fundamentals Part 3/06 Last Stop Before Survey & The Final (LRSA) Exam.md",
     "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module/03 Investigate Search Case Tags.md",
-    "Active Directory Practice/04 Support/07 Kerberos Ticketing.md",
-    "Logrythm/302 AI Engine Fundamentals/03 Log Observed & Log Not Observed Rule Blocks/02 AI Engine Administration.md",
-    "Logrythm/305 Analyst Fundamentals Part 1/06 Investigate, Neutralize & Recover/02 Inspect Evidence.md",
-    "Logrythm/02 What is SIEM Logrythm/01 Phase 1- Detection/04 Detection.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630182201.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630175914.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630175825.png",
