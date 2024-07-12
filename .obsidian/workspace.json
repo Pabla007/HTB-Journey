@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/06 Wreath/03  Enumeration.md",
+                "file": "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/06 Wreath/03  Enumeration.md",
+                "file": "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/06 Wreath/03  Enumeration.md",
+                "file": "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/06 Wreath/03  Enumeration.md"
+                "file": "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md"
               }
             }
           },
@@ -231,8 +231,9 @@
   },
   "active": "e7dd6b24ee999536",
   "lastOpenFiles": [
-    "Try Hack Me/06 Wreath/02 Nmap.md",
     "Try Hack Me/06 Wreath/03  Enumeration.md",
+    "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
+    "Try Hack Me/06 Wreath/02 Nmap.md",
     "Try Hack Me/06 Wreath/01 Notes aka observation regarding the machine.md",
     "Try Hack Me/06 Wreath/00 Summary Till Now.md",
     "Logrythm/305 Analyst Fundamentals Part 3/05 Recover/04 Recover Import a LogRhythm Community Dashboard.md",
@@ -258,7 +259,6 @@
     "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module/06 Module 2 Conclusion.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/09 Alarming & Reporting/07 Report Packages.md",
     "Logrythm/305 Analyst Fundamentals Part 3/06 Last Stop Before Survey & The Final (LRSA) Exam.md",
-    "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module/03 Investigate Search Case Tags.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630182201.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630175914.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630175825.png",
