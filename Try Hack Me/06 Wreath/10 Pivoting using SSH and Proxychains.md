@@ -103,7 +103,11 @@ What each flag does:
 | `-N` | This tells `ssh` not to execute a command remotely. We are just establishing a tunnel/proxy, no need to execute a command.                                           |
 | `-D` | This tells `ssh` to establish a local dynamic application-level port forwarding. This is the local port we will send our requests to IE where our SOCKS proxy exists |
 
+![[Pasted image 20240716123655.png]]
 
+```
+ ss -tulpn | grep 88
+```
 
 Once we have a SOCKS proxy established, we can then use `proxychains4` to communicate over the newly established tunnel/proxy. I make a local config file to use.
 

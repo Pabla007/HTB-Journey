@@ -11,7 +11,7 @@ SSH tunnelling, which can be useful for evading a basic **I**ntrusion **D**et
 Port Forwarding
 Creating a connection between a local port and a single port on a target, via a compromised host
 
-Always starting drawing the layout of a network as you get further it will give as a sense of how the network is working
+## Always starting drawing the layout of a network as you get further it will give as a sense of how the network is working
 
 ```
 The remaining tasks in this section will cover the following topics:
