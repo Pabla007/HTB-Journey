@@ -78,7 +78,7 @@ whereas forwarding is routing.
 OSI Layer:
 Port forwarding happening in the network layer (i.e. send any traffic over a port forward: ssh traffic, http traffic, raw bytes.........)
 while
-Socks proxying works at the application layer (i.e. communication will occue using the defined protocol)
+Socks proxying works at the application layer (i.e. communication will occur using the defined protocol)
 
 1st machine (Attacker to Jumpbox1)
 SOCK proxy b/w 2 machines:
