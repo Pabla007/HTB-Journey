@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/06 Wreath/4.1 SSH Tunneling  and Port Forwarding.md",
+                "file": "Try Hack Me/06 Wreath/10.1 What the Shell.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PNPT Chekclists/01 Master Note.md",
+                "file": "Try Hack Me/06 Wreath/10.1 What the Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PNPT Chekclists/01 Master Note.md",
+                "file": "Try Hack Me/06 Wreath/10.1 What the Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PNPT Chekclists/01 Master Note.md"
+                "file": "Try Hack Me/06 Wreath/10.1 What the Shell.md"
               }
             }
           },
@@ -202,11 +202,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0fde698b437544a3",
+  "active": "dc7f1c8d6904a49b",
   "lastOpenFiles": [
-    "Try Hack Me/06 Wreath/4.1 SSH Tunneling  and Port Forwarding.md",
+    "Try Hack Me/06 Wreath/4.3 Socat.md",
+    "Try Hack Me/06 Wreath/10.1 What the Shell.md",
     "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
     "PNPT Chekclists/01 Master Note.md",
+    "Try Hack Me/06 Wreath/4.2 Plink.exe.md",
+    "Try Hack Me/06 Wreath/4.1 SSH Tunneling  and Port Forwarding.md",
     "Obsidian CSS.md",
     "Try Hack Me/06 Wreath/04 Pivoting.md",
     "PNPT Chekclists/02 PEH Checklist.md",
@@ -230,9 +233,6 @@
     "README.md",
     "PEH + OSINT.md",
     "Offer Letter.md",
-    "Logrythm/305 Analyst Fundamentals Part 3/05 Recover/03 Recover Documenting & Closing the Case.md",
-    "Logrythm/305 Analyst Fundamentals Part 1/02 Baseline/01 Module 2 Introduction.md",
-    "Logrythm/305 Analyst Fundamentals Part 1/06 Investigate, Neutralize & Recover/07 Module 6 Review.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630182201.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630175914.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630175825.png",
