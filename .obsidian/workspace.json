@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/06 Wreath/10.1 What the Shell.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/07 Global System Settings.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "identity inference",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/06 Wreath/10.1 What the Shell.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/07 Global System Settings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/06 Wreath/10.1 What the Shell.md",
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/07 Global System Settings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/06 Wreath/10.1 What the Shell.md"
+                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/07 Global System Settings.md"
               }
             }
           },
@@ -202,13 +202,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc7f1c8d6904a49b",
+  "active": "a59eface60f8c62a",
   "lastOpenFiles": [
+    "Try Hack Me/06 Wreath/10.1 What the Shell.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240718135453.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240718135351.png",
     "PNPT Chekclists/00 Checklist.md",
     "PNPT Chekclists/01 Master Note.md",
-    "Try Hack Me/06 Wreath/10.1 What the Shell.md",
     "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
     "Try Hack Me/06 Wreath/4.3 Socat.md",
     "Try Hack Me/06 Wreath/4.2 Plink.exe.md",
@@ -239,7 +239,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630175825.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630175801.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630172941.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630172922.png",
     "Logrythm/305 Analyst Fundamentals Part 3/05 Recover",
     "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate",
     "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate",
