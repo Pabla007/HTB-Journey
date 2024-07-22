@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/06 Wreath/10.2 Netcat.md",
+                "file": "Try Hack Me/06 Wreath/10.3 Socat.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/06 Wreath/10.2 Netcat.md",
+                "file": "Try Hack Me/06 Wreath/10.3 Socat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/06 Wreath/10.2 Netcat.md",
+                "file": "Try Hack Me/06 Wreath/10.3 Socat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/06 Wreath/10.2 Netcat.md"
+                "file": "Try Hack Me/06 Wreath/10.3 Socat.md"
               }
             }
           },
@@ -208,9 +208,10 @@
   },
   "active": "9774173df1286d61",
   "lastOpenFiles": [
+    "Try Hack Me/06 Wreath/10.2 Netcat.md",
+    "Try Hack Me/06 Wreath/10.3 Socat.md",
     "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
     "PNPT Chekclists/00 Checklist.md",
-    "Try Hack Me/06 Wreath/10.2 Netcat.md",
     "Try Hack Me/06 Wreath/10.1 What the Shell.md",
     "Try Hack Me/06 Wreath/4.7 Ligolo-ng.md",
     "Try Hack Me/06 Wreath/4.6 Conclusion.md",
@@ -238,7 +239,6 @@
     "PNPT Chekclists/PNPT.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240702234234.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240702234040.png",
-    "Active Directory/00 Active Directory Contents.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630182201.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630175914.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630175825.png",
