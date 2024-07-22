@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/06 Wreath/10.3 Socat.md",
+                "file": "Try Hack Me/06 Wreath/10.5 msfvenom.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/06 Wreath/10.3 Socat.md",
+                "file": "Try Hack Me/06 Wreath/10.5 msfvenom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/06 Wreath/10.3 Socat.md",
+                "file": "Try Hack Me/06 Wreath/10.5 msfvenom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/06 Wreath/10.3 Socat.md"
+                "file": "Try Hack Me/06 Wreath/10.5 msfvenom.md"
               }
             }
           },
@@ -208,8 +208,10 @@
   },
   "active": "9774173df1286d61",
   "lastOpenFiles": [
-    "Try Hack Me/06 Wreath/10.2 Netcat.md",
+    "Try Hack Me/06 Wreath/10.4 Common Shell Payloads.md",
+    "Try Hack Me/06 Wreath/10.5 msfvenom.md",
     "Try Hack Me/06 Wreath/10.3 Socat.md",
+    "Try Hack Me/06 Wreath/10.2 Netcat.md",
     "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
     "PNPT Chekclists/00 Checklist.md",
     "Try Hack Me/06 Wreath/10.1 What the Shell.md",
@@ -235,8 +237,6 @@
     "Try Hack Me/06 Wreath/02 Nmap.md",
     "Try Hack Me/06 Wreath/01 Notes aka observation regarding the machine.md",
     "Try Hack Me/06 Wreath/00 Summary Till Now.md",
-    "Logrythm/305 Analyst Fundamentals Part 3/05 Recover/04 Recover Import a LogRhythm Community Dashboard.md",
-    "PNPT Chekclists/PNPT.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240702234234.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240702234040.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630182201.png",
