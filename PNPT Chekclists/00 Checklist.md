@@ -124,6 +124,11 @@ Fcrackzip
 
 
 ### Other resource that would might come as handy
+\
+
+>[! bug ] Important
+>it's often a good idea to use a well-known port number (80, 443 or 53 being good choices) as this is more likely to get past outbound firewall rules on the target.
+
 
  One of the most prominent of these is [Payloads all the Things](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md). 
  
