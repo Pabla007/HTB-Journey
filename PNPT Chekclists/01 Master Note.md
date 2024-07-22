@@ -234,6 +234,17 @@ And add
 ```
 
 
+<h2>SSH </h2>
+```
+ ssh -p 22 username@<ip_Address>
+```
+
+
+<h2>RDP </h2>
+```
+xfreerdp /dynamic-resolution +clipboard /cert:ignore /v:10.10.132.76 /u:User_name /p:'password'
+```
+
 <h2>Buffer Overflow</h2>
 
 Install Windows 10 in the VM

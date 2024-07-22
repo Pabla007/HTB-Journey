@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PNPT Chekclists/00 Checklist.md",
+                "file": "Try Hack Me/06 Wreath/10.7 WebShells.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/06 Wreath/10.3 Socat.md",
+                "file": "Try Hack Me/06 Wreath/10.7 WebShells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/06 Wreath/10.3 Socat.md",
+                "file": "Try Hack Me/06 Wreath/10.7 WebShells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/06 Wreath/10.3 Socat.md"
+                "file": "Try Hack Me/06 Wreath/10.7 WebShells.md"
               }
             }
           },
@@ -206,12 +206,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9774173df1286d61",
+  "active": "0fde698b437544a3",
   "lastOpenFiles": [
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240722211423.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240722211401.png",
+    "PNPT Chekclists/01 Master Note.md",
+    "PNPT Chekclists/02 PEH Checklist.md",
+    "PNPT Chekclists/00 Checklist.md",
+    "Try Hack Me/06 Wreath/10.3 Socat.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240722203434.png",
     "Try Hack Me/06 Wreath/10.2 Netcat.md",
     "Try Hack Me/06 Wreath/10.4 Common Shell Payloads.md",
-    "Try Hack Me/06 Wreath/10.3 Socat.md",
     "Try Hack Me/06 Wreath/10.1 What the Shell.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240722202921.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240722182735.png",
@@ -221,7 +226,6 @@
     "Try Hack Me/06 Wreath/10.6 Metasploit multi handler.md",
     "Try Hack Me/06 Wreath/10.5 msfvenom.md",
     "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
-    "PNPT Chekclists/00 Checklist.md",
     "Try Hack Me/06 Wreath/4.7 Ligolo-ng.md",
     "Try Hack Me/06 Wreath/4.6 Conclusion.md",
     "Try Hack Me/06 Wreath/4.5 Sshuttle.md",
@@ -230,11 +234,9 @@
     "Try Hack Me/06 Wreath/4.2 Plink.exe.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240718135453.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240718135351.png",
-    "PNPT Chekclists/01 Master Note.md",
     "Try Hack Me/06 Wreath/4.1 SSH Tunneling  and Port Forwarding.md",
     "Obsidian CSS.md",
     "Try Hack Me/06 Wreath/04 Pivoting.md",
-    "PNPT Chekclists/02 PEH Checklist.md",
     "Logrythm/305 Analyst Fundamentals Part 3/05 Recover/02 Recover Tags, Saved Searches, & Requests.md",
     "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module/05 Recover Customizing the Dashboard.md",
     "Try Hack Me/09 Bounty Hacker/09 Bounty Hacker.md",
@@ -242,8 +244,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240716123655.png",
     "Active Directory Practice/09 Reel/03 Enumeration.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240702234234.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240702234040.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630182201.png",
     "Logrythm/305 Analyst Fundamentals Part 3/05 Recover",
     "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate",
     "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate",
