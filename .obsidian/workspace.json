@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrythm/LogRhythm/301 Administration Fundamentals/10 Platform Manager and Other Settings/07 Global System Settings.md",
+                "file": "Try Hack Me/06 Wreath/4.7 Ligolo-ng.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md"
-              }
+              "state": {}
             }
           },
           {
@@ -202,16 +198,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a59eface60f8c62a",
+  "active": "9774173df1286d61",
   "lastOpenFiles": [
+    "Try Hack Me/06 Wreath/4.7 Ligolo-ng.md",
+    "Try Hack Me/06 Wreath/4.6 Conclusion.md",
+    "Try Hack Me/06 Wreath/4.5 Sshuttle.md",
+    "Try Hack Me/06 Wreath/4.4 Chisel.md",
+    "Try Hack Me/06 Wreath/4.3 Socat.md",
+    "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
+    "Try Hack Me/06 Wreath/4.2 Plink.exe.md",
     "Try Hack Me/06 Wreath/10.1 What the Shell.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240718135453.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240718135351.png",
     "PNPT Chekclists/00 Checklist.md",
     "PNPT Chekclists/01 Master Note.md",
-    "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
-    "Try Hack Me/06 Wreath/4.3 Socat.md",
-    "Try Hack Me/06 Wreath/4.2 Plink.exe.md",
     "Try Hack Me/06 Wreath/4.1 SSH Tunneling  and Port Forwarding.md",
     "Obsidian CSS.md",
     "Try Hack Me/06 Wreath/04 Pivoting.md",
@@ -231,9 +231,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240702234040.png",
     "Active Directory/00 Active Directory Contents.md",
     "03 Internal Attacks.md",
-    "Linux Enumeration.md",
-    "Windows Enumeration.md",
-    "README.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630182201.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630175914.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240630175825.png",
