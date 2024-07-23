@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/06 Wreath/10.8 Add user.md",
+                "file": "Try Hack Me/02 Blueprint/06 Try to get NTLM using MimiKatz.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "identity inference",
+                "query": "server 80",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/06 Wreath/10.8 Add user.md",
+                "file": "Try Hack Me/02 Blueprint/06 Try to get NTLM using MimiKatz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/06 Wreath/10.8 Add user.md",
+                "file": "Try Hack Me/02 Blueprint/06 Try to get NTLM using MimiKatz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/06 Wreath/10.8 Add user.md"
+                "file": "Try Hack Me/02 Blueprint/06 Try to get NTLM using MimiKatz.md"
               }
             }
           },
@@ -208,6 +209,8 @@
   },
   "active": "0fde698b437544a3",
   "lastOpenFiles": [
+    "Try Hack Me/06 Wreath/10.8 Add user.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240724020728.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240723204235.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240723203305.png",
     "Try Hack Me/06 Wreath/10.6 Metasploit multi handler.md",
@@ -217,7 +220,6 @@
     "Try Hack Me/06 Wreath/10.2 Netcat.md",
     "Try Hack Me/06 Wreath/10.1 What the Shell.md",
     "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
-    "Try Hack Me/06 Wreath/10.8 Add user.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240723203028.png",
     "Try Hack Me/06 Wreath/10.7 WebShells.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240723202623.png",
@@ -229,8 +231,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240722203434.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240722202921.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240722182735.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240722182131.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240722182113.png",
     "Try Hack Me/06 Wreath/4.7 Ligolo-ng.md",
     "Try Hack Me/06 Wreath/4.6 Conclusion.md",
     "Try Hack Me/06 Wreath/4.5 Sshuttle.md",
