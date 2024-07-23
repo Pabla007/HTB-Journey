@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/02 Blueprint/06 Try to get NTLM using MimiKatz.md",
+                "file": "Try Hack Me/06 Wreath/10.8 Add user.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/02 Blueprint/06 Try to get NTLM using MimiKatz.md",
+                "file": "Try Hack Me/06 Wreath/10.8 Add user.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/02 Blueprint/06 Try to get NTLM using MimiKatz.md",
+                "file": "Try Hack Me/06 Wreath/10.8 Add user.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/02 Blueprint/06 Try to get NTLM using MimiKatz.md"
+                "file": "Try Hack Me/06 Wreath/10.8 Add user.md"
               }
             }
           },
@@ -209,13 +208,17 @@
   },
   "active": "0fde698b437544a3",
   "lastOpenFiles": [
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240724023657.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240724023540.png",
+    "Try Hack Me/06 Wreath/10.4 Common Shell Payloads.md",
+    "Try Hack Me/06 Wreath/10.5 msfvenom.md",
+    "Try Hack Me/06 Wreath/10.6 Metasploit multi handler.md",
     "Try Hack Me/06 Wreath/10.8 Add user.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240724022608.png",
+    "Try Hack Me/02 Blueprint/06 Try to get NTLM using MimiKatz.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240724020728.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240723204235.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240723203305.png",
-    "Try Hack Me/06 Wreath/10.6 Metasploit multi handler.md",
-    "Try Hack Me/06 Wreath/10.5 msfvenom.md",
-    "Try Hack Me/06 Wreath/10.4 Common Shell Payloads.md",
     "Try Hack Me/06 Wreath/10.3 Socat.md",
     "Try Hack Me/06 Wreath/10.2 Netcat.md",
     "Try Hack Me/06 Wreath/10.1 What the Shell.md",
@@ -229,8 +232,6 @@
     "PNPT Chekclists/02 PEH Checklist.md",
     "PNPT Chekclists/00 Checklist.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240722203434.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240722202921.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240722182735.png",
     "Try Hack Me/06 Wreath/4.7 Ligolo-ng.md",
     "Try Hack Me/06 Wreath/4.6 Conclusion.md",
     "Try Hack Me/06 Wreath/4.5 Sshuttle.md",
@@ -243,7 +244,6 @@
     "Logrythm/305 Analyst Fundamentals Part 3/05 Recover/02 Recover Tags, Saved Searches, & Requests.md",
     "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module/05 Recover Customizing the Dashboard.md",
     "Try Hack Me/09 Bounty Hacker/09 Bounty Hacker.md",
-    "Try Hack Me/06 Wreath/03  Enumeration.md",
     "Logrythm/305 Analyst Fundamentals Part 3/05 Recover",
     "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate",
     "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate",
