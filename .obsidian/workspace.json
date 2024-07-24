@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/06 Wreath/4.3 Socat.md",
+                "file": "PNPT Chekclists/2.1 AD CheckList.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/06 Wreath/4.3 Socat.md",
+                "file": "PNPT Chekclists/2.1 AD CheckList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/06 Wreath/4.3 Socat.md",
+                "file": "PNPT Chekclists/2.1 AD CheckList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/06 Wreath/4.3 Socat.md"
+                "file": "PNPT Chekclists/2.1 AD CheckList.md"
               }
             }
           },
@@ -208,8 +208,10 @@
   },
   "active": "dc7f1c8d6904a49b",
   "lastOpenFiles": [
-    "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
+    "Active Directory/01 Active Directory Lab Build.md",
+    "Active Directory/00 Active Directory Contents.md",
     "Try Hack Me/06 Wreath/4.3 Socat.md",
+    "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
     "Try Hack Me/06 Wreath/4.7 Ligolo-ng.md",
     "Try Hack Me/06 Wreath/10.8 Add user.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240724023657.png",
@@ -242,7 +244,6 @@
     "Try Hack Me/06 Wreath/04 Pivoting.md",
     "Logrythm/305 Analyst Fundamentals Part 3/05 Recover/02 Recover Tags, Saved Searches, & Requests.md",
     "Logrythm/305 Analyst Fundamentals Part 2/02 Recover & Discover Module/05 Recover Customizing the Dashboard.md",
-    "Try Hack Me/09 Bounty Hacker/09 Bounty Hacker.md",
     "Logrythm/305 Analyst Fundamentals Part 3/05 Recover",
     "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate",
     "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate",
