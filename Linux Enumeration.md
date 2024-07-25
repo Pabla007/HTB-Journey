@@ -37,3 +37,9 @@ s.singh.kv4.2021@gmail.com
 4_tJG--A84K"jitD|ft{73}b,a3]wyg9
 ```
 
+
+### Check the OS information
+```
+cat /etc/os-release
+```
+
