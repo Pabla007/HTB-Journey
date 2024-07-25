@@ -149,3 +149,17 @@ socat tcp-listen:8000,fork tcp:10.50.88.33:4444 &
 
 ![[Pasted image 20240725165921.png]]
 
+So how to do the above process using SSH and proxychains
+
+```
+ssh -L 8080:10.50.88.33:443 root@thomaswreath.thm -i id_rsa
+```
+
+```
+socks4 127.0.0.1 9000
+```
+
+```
+proxychains curl http://10.50.88.33:8080/socat_sardarji -o socat_sardarji
+```
+
