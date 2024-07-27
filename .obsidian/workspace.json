@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
+                "file": "Try Hack Me/06 Wreath/4.4 Chisel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
+                "file": "Try Hack Me/06 Wreath/4.4 Chisel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md"
+                "file": "Try Hack Me/06 Wreath/4.4 Chisel.md"
               }
             }
           },
@@ -182,13 +182,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b21f80b1b709626f",
+  "active": "9774173df1286d61",
   "lastOpenFiles": [
-    "Try Hack Me/06 Wreath/4.4 Chisel.md",
-    "README.md",
     "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
-    "Try Hack Me/06 Wreath/4.3 Socat.md",
+    "Try Hack Me/06 Wreath/4.4 Chisel.md",
     "PNPT Chekclists/01 Master Note.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240727174405.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240727174354.png",
+    "README.md",
+    "Try Hack Me/06 Wreath/4.3 Socat.md",
     "Try Hack Me/06 Wreath/10.8 Add user.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240725165921.png",
     "Ik Si Jhali Kudi.md",
@@ -212,14 +214,11 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240724023657.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240724023540.png",
     "Try Hack Me/06 Wreath/10.4 Common Shell Payloads.md",
-    "Try Hack Me/06 Wreath/10.5 msfvenom.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240724022608.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240724020728.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240723204235.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240723203305.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240723203028.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240723202623.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240722211423.png",
     "Logrythm/305 Analyst Fundamentals Part 3/05 Recover",
     "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate",
     "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate",

