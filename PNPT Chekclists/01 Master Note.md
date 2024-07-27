@@ -650,3 +650,11 @@ nc -lvnp 4444
 
 
 
+# Chisel [Chisel](https://github.com/jpillora/chisel)
+
+Download appropriate binaries from the tool's [Github release page](https://github.com/jpillora/chisel/releases). These can then be unzipped using `gunzip`, and executed as normal.
+
+```
+
+```
+
