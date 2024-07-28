@@ -242,3 +242,13 @@ Attacker
 
 
 ## Sshuttle
+
+```
+sshuttle -r root@thomaswreath.thm --ssh-cmd "ssh -i id_rsa" 10.200.87.0/24
+```
+
+
+
+
+
+

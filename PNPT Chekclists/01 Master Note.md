@@ -7,6 +7,7 @@ What should be our Methodology when we are seeing a Website  ??
 
 
 <h2>Nmap</h2>
+Download a [static nmap binary](https://github.com/andrew-d/static-binaries/raw/master/binaries/linux/x86_64/nmap).
 
 Normal Nmap Scanning
 ```
@@ -689,4 +690,20 @@ Notice that, despite connecting back to port 1337 successfully, the actual proxy
 
 >[!Warning]
 >Sshuttle only works on Linux targets.
+
+If we have password
+```
+sshuttle -r username@address -N
+```
+
+
+for key based authentication
+```
+sshuttle -r user@address --ssh-cmd "ssh -i KEYFILE" SUBNET
+```
+
+```
+sshuttle -r root@thomaswreath.thm --ssh-cmd "ssh -i id_rsa" 10.200.105.0/24 
+```
+
 

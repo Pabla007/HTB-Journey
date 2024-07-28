@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/06 Wreath/4.5 Sshuttle.md",
+                "file": "Try Hack Me/06 Wreath/4.7 Ligolo-ng.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
+                "file": "Try Hack Me/06 Wreath/4.7 Ligolo-ng.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
+                "file": "Try Hack Me/06 Wreath/4.7 Ligolo-ng.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md"
+                "file": "Try Hack Me/06 Wreath/4.7 Ligolo-ng.md"
               }
             }
           },
@@ -182,11 +182,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b21f80b1b709626f",
+  "active": "9774173df1286d61",
   "lastOpenFiles": [
     "Try Hack Me/06 Wreath/4.5 Sshuttle.md",
-    "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
+    "Try Hack Me/06 Wreath/4.6 Conclusion.md",
     "PNPT Chekclists/01 Master Note.md",
+    "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
     "Try Hack Me/06 Wreath/4.4 Chisel.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240727174405.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240727174354.png",
@@ -214,7 +215,6 @@
     "Try Hack Me/06 Wreath/4.7 Ligolo-ng.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240724023657.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240724023540.png",
-    "Try Hack Me/06 Wreath/10.4 Common Shell Payloads.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240724022608.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240724020728.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240723204235.png",
