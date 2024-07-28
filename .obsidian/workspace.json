@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/06 Wreath/4.7 Ligolo-ng.md",
+                "file": "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/06 Wreath/4.7 Ligolo-ng.md",
+                "file": "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/06 Wreath/4.7 Ligolo-ng.md",
+                "file": "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/06 Wreath/4.7 Ligolo-ng.md"
+                "file": "Try Hack Me/06 Wreath/05 Git Server Enumeration.md"
               }
             }
           },
@@ -184,6 +184,7 @@
   },
   "active": "9774173df1286d61",
   "lastOpenFiles": [
+    "Try Hack Me/06 Wreath/4.7 Ligolo-ng.md",
     "Try Hack Me/06 Wreath/4.5 Sshuttle.md",
     "Try Hack Me/06 Wreath/4.6 Conclusion.md",
     "PNPT Chekclists/01 Master Note.md",
@@ -212,7 +213,6 @@
     "Try Hack Me/06 Wreath/10.3 Socat.md",
     "Active Directory/01 Active Directory Lab Build.md",
     "Active Directory/00 Active Directory Contents.md",
-    "Try Hack Me/06 Wreath/4.7 Ligolo-ng.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240724023657.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240724023540.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240724022608.png",
