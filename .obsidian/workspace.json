@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/06 Wreath/4.5 Sshuttle.md",
+                "file": "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/06 Wreath/4.5 Sshuttle.md",
+                "file": "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/06 Wreath/4.5 Sshuttle.md"
+                "file": "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md"
               }
             }
           },
@@ -182,11 +182,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9774173df1286d61",
+  "active": "b21f80b1b709626f",
   "lastOpenFiles": [
-    "PNPT Chekclists/01 Master Note.md",
     "Try Hack Me/06 Wreath/4.5 Sshuttle.md",
     "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
+    "PNPT Chekclists/01 Master Note.md",
     "Try Hack Me/06 Wreath/4.4 Chisel.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240727174405.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240727174354.png",

