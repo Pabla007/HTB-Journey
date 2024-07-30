@@ -252,3 +252,18 @@ sshuttle -r root@thomaswreath.thm --ssh-cmd "ssh -i id_rsa" 10.200.87.0/24
 
 
 
+## Second machine 
+
+Now will use SShuttle to connect to other machine.
+
+```
+sshuttle -r root@thomaswreath.thm --ssh-cmd "ssh -i id_rsa" 10.200.87.150/24 -x 10.200.87.200
+```
+![[Pasted image 20240730134947.png]]
+
+Yes we are in the network.
+```
+http://10.200.87.150/registration/login/
+```
+
+Now let's enumerate and get in through a cve or vulnerability.
