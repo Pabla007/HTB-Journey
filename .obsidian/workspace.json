@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PNPT Chekclists/01 Master Note.md",
+                "file": "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PNPT Chekclists/01 Master Note.md",
+                "file": "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PNPT Chekclists/01 Master Note.md"
+                "file": "Try Hack Me/06 Wreath/05 Git Server Enumeration.md"
               }
             }
           },
@@ -181,13 +182,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7dd6b24ee999536",
+  "active": "9774173df1286d61",
   "lastOpenFiles": [
+    "PNPT Chekclists/01 Master Note.md",
     "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
     "Try Hack Me/06 Wreath/4.7 Ligolo-ng.md",
     "Try Hack Me/06 Wreath/4.5 Sshuttle.md",
     "Try Hack Me/06 Wreath/4.6 Conclusion.md",
-    "PNPT Chekclists/01 Master Note.md",
     "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
     "Try Hack Me/06 Wreath/4.4 Chisel.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240727174405.png",
