@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/06 Wreath/5.2 Git Server Code Review.md",
+                "file": "Try Hack Me/06 Wreath/5.3 Reverse Shell.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/06 Wreath/5.2 Git Server Code Review.md",
+                "file": "Try Hack Me/06 Wreath/5.3 Reverse Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/06 Wreath/5.2 Git Server Code Review.md",
+                "file": "Try Hack Me/06 Wreath/5.3 Reverse Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/06 Wreath/5.2 Git Server Code Review.md"
+                "file": "Try Hack Me/06 Wreath/5.3 Reverse Shell.md"
               }
             }
           },
@@ -184,8 +184,9 @@
   },
   "active": "9774173df1286d61",
   "lastOpenFiles": [
-    "Try Hack Me/06 Wreath/5.4 Stabilization & Post Exploitation.md",
     "Try Hack Me/06 Wreath/5.2 Git Server Code Review.md",
+    "Try Hack Me/06 Wreath/5.3 Reverse Shell.md",
+    "Try Hack Me/06 Wreath/5.4 Stabilization & Post Exploitation.md",
     "Try Hack Me/06 Wreath/5.1 Git server Pivoting.md",
     "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240730134947.png",
@@ -213,7 +214,6 @@
     "PNPT Chekclists/2.1 AD CheckList.md",
     "PNPT Chekclists/08 Installed the Required Software's and Labs.md",
     "Linux Enumeration.md",
-    "PNPT Chekclists/02 PEH Checklist.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240724023657.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240724023540.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240724022608.png",
