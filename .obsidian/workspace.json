@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/06 Wreath/5.3 Reverse Shell.md",
+                "file": "PNPT Chekclists/01 Master Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/06 Wreath/5.3 Reverse Shell.md",
+                "file": "PNPT Chekclists/01 Master Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/06 Wreath/5.3 Reverse Shell.md"
+                "file": "PNPT Chekclists/01 Master Note.md"
               }
             }
           },
@@ -182,10 +181,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9774173df1286d61",
+  "active": "e7dd6b24ee999536",
   "lastOpenFiles": [
-    "PNPT Chekclists/01 Master Note.md",
     "Try Hack Me/06 Wreath/5.3 Reverse Shell.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240731122756.png",
+    "PNPT Chekclists/01 Master Note.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240730191933.png",
     "Try Hack Me/06 Wreath/5.2 Git Server Code Review.md",
     "Try Hack Me/06 Wreath/5.4 Stabilization & Post Exploitation.md",
@@ -218,7 +218,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240724023540.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240724022608.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240724020728.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240723204235.png",
     "Logrythm/305 Analyst Fundamentals Part 3/05 Recover",
     "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate",
     "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate",
