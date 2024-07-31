@@ -246,6 +246,17 @@ And add
 xfreerdp /dynamic-resolution +clipboard /cert:ignore /v:10.10.132.76 /u:User_name /p:'password'
 ```
 
+<h2>Firewall</h2>
+the port which should be greater than 15000.
+```
+firewall-cmd --zone=public --add-port 44444/tcp
+```
+
+```
+firewall-cmd --list-all
+```
+
+
 <h2>Buffer Overflow</h2>
 
 Install Windows 10 in the VM
