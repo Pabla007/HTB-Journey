@@ -5,7 +5,7 @@ What should be our Methodology when we are seeing a Website  ??
 - Looking for Source Code
 - Potential Vulnerability Scanning With Nikto
 
-
+Follow the concept called KISS (keep it simple STUPID)
 <h2>Nmap</h2>
 Download a [static nmap binary](https://github.com/andrew-d/static-binaries/raw/master/binaries/linux/x86_64/nmap).
 

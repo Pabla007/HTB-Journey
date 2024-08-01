@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/06 Wreath/7 Personal PC Enumeration.md",
+                "file": "PNPT Chekclists/01 Master Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/06 Wreath/7 Personal PC Enumeration.md",
+                "file": "PNPT Chekclists/01 Master Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/06 Wreath/7 Personal PC Enumeration.md"
+                "file": "PNPT Chekclists/01 Master Note.md"
               }
             }
           },
@@ -182,10 +181,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9774173df1286d61",
+  "active": "e7dd6b24ee999536",
   "lastOpenFiles": [
-    "Try Hack Me/06 Wreath/5.4 Stabilization & Post Exploitation.md",
     "Try Hack Me/06 Wreath/7 Personal PC Enumeration.md",
+    "Try Hack Me/06 Wreath/5.4 Stabilization & Post Exploitation.md",
     "Try Hack Me/06 Wreath/6.7 Empire Interactive Shell.md",
     "Try Hack Me/06 Wreath/6.6 Empire Modules.md",
     "Try Hack Me/06 Wreath/6.4 Empire Hop Listeners.md",
