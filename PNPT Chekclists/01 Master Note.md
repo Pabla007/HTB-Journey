@@ -32,6 +32,23 @@ nmap -sS 10.200.145.33 10.200.145.250 -v -oA Initial-Scan-Subnet1-Hosts
 ```
 
 
+We have another option of scanning in windows even if we don't have nmap and have a powershell. (.e. Situational Awererness)
+```
+evil-winrm -u administrator -H 37db630168e5f82aafa8461e05c6bbd1 -i 10.200.101.150 -s /usr/share/powershell-empire/empire/server/data/module_source/situational_awareness/network
+```
+
+```
+Invoke-Portscan.ps1
+```
+
+```
+Get-Help Invoke-Portscan
+```
+
+```
+ Invoke-Portscan -Hosts <IP_Address> -TopPorts 50
+```
+
 <h2>Nikto</h2>
 ```
  nikto -h <IP_Address>

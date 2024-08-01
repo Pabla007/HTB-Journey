@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PNPT Chekclists/01 Master Note.md",
+                "file": "Try Hack Me/06 Wreath/7 Personal PC Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PNPT Chekclists/01 Master Note.md",
+                "file": "Try Hack Me/06 Wreath/7 Personal PC Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PNPT Chekclists/01 Master Note.md"
+                "file": "Try Hack Me/06 Wreath/7 Personal PC Enumeration.md"
               }
             }
           },
@@ -181,8 +182,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7dd6b24ee999536",
+  "active": "9774173df1286d61",
   "lastOpenFiles": [
+    "PNPT Chekclists/01 Master Note.md",
     "Try Hack Me/06 Wreath/7 Personal PC Enumeration.md",
     "Try Hack Me/06 Wreath/5.4 Stabilization & Post Exploitation.md",
     "Try Hack Me/06 Wreath/6.7 Empire Interactive Shell.md",
@@ -197,7 +199,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240731132151.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240731131033.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240731130835.png",
-    "PNPT Chekclists/01 Master Note.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240731122756.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240730191933.png",
     "Try Hack Me/06 Wreath/5.2 Git Server Code Review.md",
