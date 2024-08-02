@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/06 Wreath/7.1 Personal PC Pivoting.md",
+                "file": "Try Hack Me/06 Wreath/7.2 Personal PC The Wonders of Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/06 Wreath/7.1 Personal PC Pivoting.md",
+                "file": "Try Hack Me/06 Wreath/7.2 Personal PC The Wonders of Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/06 Wreath/7.1 Personal PC Pivoting.md",
+                "file": "Try Hack Me/06 Wreath/7.2 Personal PC The Wonders of Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/06 Wreath/7.1 Personal PC Pivoting.md"
+                "file": "Try Hack Me/06 Wreath/7.2 Personal PC The Wonders of Git.md"
               }
             }
           },
@@ -184,8 +184,8 @@
   },
   "active": "9774173df1286d61",
   "lastOpenFiles": [
-    "Try Hack Me/06 Wreath/5.3 Reverse Shell.md",
     "Try Hack Me/06 Wreath/7.1 Personal PC Pivoting.md",
+    "Try Hack Me/06 Wreath/5.3 Reverse Shell.md",
     "Try Hack Me/06 Wreath/7.2 Personal PC The Wonders of Git.md",
     "Try Hack Me/06 Wreath/7 Personal PC Enumeration.md",
     "Try Hack Me/06 Wreath/06 Command and Control Introduction.md",
