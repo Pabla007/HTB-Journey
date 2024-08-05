@@ -41,3 +41,13 @@ twreath:$6$0my5n311RD7EiK3J$zVFV3WAPCm/dBxzz0a7uDwbQenLohKiunjlDonkqx1huhjmFYZe0
 cat ~/.ssh/id_rsa.pub
 ```
 
+
+We got the access to the production sever through the ssh
+![[Pasted image 20240806030713.png]]
+
+What i would do is to run LPE usually when i get a low level user but it's already at root
+So next thing that should come to my mind is there any other assets that we can access through .200 ??
+
+for that we need nmap which is not possible on the asset so will simply transfer a precompiled binary of nmap to it.
+
+

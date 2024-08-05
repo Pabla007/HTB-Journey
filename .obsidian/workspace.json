@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PNPT Chekclists/01 Master Note.md",
+                "file": "PNPT Chekclists/05 LPE Checklist.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/06 Wreath/03  Enumeration.md",
+                "file": "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
                 "mode": "source",
                 "source": false
               }
@@ -208,12 +208,17 @@
   },
   "active": "9774173df1286d61",
   "lastOpenFiles": [
+    "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
+    "Try Hack Me/06 Wreath/5.1 Git server Pivoting.md",
     "Try Hack Me/06 Wreath/03  Enumeration.md",
     "Try Hack Me/06 Wreath/11 Lets Learn to KISS and LOTL.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240806030713.png",
+    "PNPT Chekclists/05 LPE Checklist.md",
+    "PNPT Chekclists/01 Master Note.md",
     "Try Hack Me/06 Wreath/02 Nmap.md",
+    "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240806022048.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240806021754.png",
-    "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
     "Try Hack Me/06 Wreath/09  Exfiltration Techniques & Post Exploitation.md",
     "Try Hack Me/06 Wreath/8.5 AV Evasion Privilege Escalation.md",
     "Try Hack Me/06 Wreath/8.4 AV Evasion Enumeration.md",
@@ -229,13 +234,9 @@
     "Try Hack Me/06 Wreath/7 Personal PC Enumeration.md",
     "Try Hack Me/06 Wreath/06 Command and Control Introduction.md",
     "Try Hack Me/06 Wreath/5.4 Stabilization & Post Exploitation.md",
-    "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
     "Try Hack Me/06 Wreath/4.7 Ligolo-ng.md",
     "Try Hack Me/06 Wreath/4.6 Conclusion.md",
     "Try Hack Me/06 Wreath/4.5 Sshuttle.md",
-    "Try Hack Me/06 Wreath/4.3 Socat.md",
-    "Try Hack Me/06 Wreath/4.1 SSH Tunneling  and Port Forwarding.md",
-    "Try Hack Me/06 Wreath/04 Pivoting.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240731132441.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240731132151.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240731131033.png",
@@ -243,7 +244,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240731122756.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240730191933.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240730134947.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240727174405.png",
     "Logrythm/305 Analyst Fundamentals Part 3/05 Recover",
     "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate",
     "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate",
