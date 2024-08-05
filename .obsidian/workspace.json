@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/06 Wreath/09  Exfiltration Techniques & Post Exploitation.md",
+                "file": "Try Hack Me/06 Wreath/11 Lets Learn to KISS and LOTL.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,6 +38,30 @@
               "type": "markdown",
               "state": {
                 "file": "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb119d88df9830bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Try Hack Me/06 Wreath/02 Nmap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8573fafe144ee753",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Try Hack Me/06 Wreath/03  Enumeration.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/06 Wreath/09  Exfiltration Techniques & Post Exploitation.md",
+                "file": "Try Hack Me/06 Wreath/11 Lets Learn to KISS and LOTL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/06 Wreath/09  Exfiltration Techniques & Post Exploitation.md",
+                "file": "Try Hack Me/06 Wreath/11 Lets Learn to KISS and LOTL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/06 Wreath/09  Exfiltration Techniques & Post Exploitation.md"
+                "file": "Try Hack Me/06 Wreath/11 Lets Learn to KISS and LOTL.md"
               }
             }
           },
@@ -184,11 +208,16 @@
   },
   "active": "9774173df1286d61",
   "lastOpenFiles": [
-    "Try Hack Me/06 Wreath/8.5 AV Evasion Privilege Escalation.md",
+    "Try Hack Me/06 Wreath/03  Enumeration.md",
+    "Try Hack Me/06 Wreath/11 Lets Learn to KISS and LOTL.md",
+    "Try Hack Me/06 Wreath/02 Nmap.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240806022048.png",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240806021754.png",
+    "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
     "Try Hack Me/06 Wreath/09  Exfiltration Techniques & Post Exploitation.md",
+    "Try Hack Me/06 Wreath/8.5 AV Evasion Privilege Escalation.md",
     "Try Hack Me/06 Wreath/8.4 AV Evasion Enumeration.md",
     "Try Hack Me/06 Wreath/8.3 AV Evasion Compiling Netcat & Reverse Shell!.md",
-    "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
     "Try Hack Me/06 Wreath/8.2 AV Evasion PHP Payload Obfuscation.md",
     "Try Hack Me/06 Wreath/7.1 Personal PC Pivoting.md",
     "Try Hack Me/06 Wreath/8.1 AV Evasion Methods.md",
@@ -207,9 +236,6 @@
     "Try Hack Me/06 Wreath/4.3 Socat.md",
     "Try Hack Me/06 Wreath/4.1 SSH Tunneling  and Port Forwarding.md",
     "Try Hack Me/06 Wreath/04 Pivoting.md",
-    "Try Hack Me/06 Wreath/03  Enumeration.md",
-    "Try Hack Me/06 Wreath/5.2 Git Server Code Review.md",
-    "Try Hack Me/06 Wreath/5.1 Git server Pivoting.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240731132441.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240731132151.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240731131033.png",
@@ -218,8 +244,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240730191933.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240730134947.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240727174405.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240727174354.png",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240725165921.png",
     "Logrythm/305 Analyst Fundamentals Part 3/05 Recover",
     "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate",
     "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate",
