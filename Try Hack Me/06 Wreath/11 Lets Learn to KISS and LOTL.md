@@ -59,5 +59,12 @@ for that we need nmap which is not possible on the asset so will simply transfer
 
 We got    .1     .100      .150       .200     .250  so from these we can minus   .1     .250     .200
 
-So we have connection to .100 and .150 
+So we have connection to .100 and .150 but i have scanned both and only .150 returned with open ports.
 
+
+```
+./nmap_sar -sS -p 1-15000 10.200.87.150
+```
+![[Pasted image 20240806201736.png]]
+
+Let connect to 
