@@ -51,3 +51,13 @@ So next thing that should come to my mind is there any other assets that we can 
 for that we need nmap which is not possible on the asset so will simply transfer a precompiled binary of nmap to it.
 
 
+```
+./nmap-sar -sn 10.200.87.1-255
+```
+
+ `-sn` switch is used to tell Nmap not to scan any port and instead just determine which hosts are alive.
+
+We got    .1     .100      .150       .200     .250  so from these we can minus   .1     .250     .200
+
+So we have connection to .100 and .150 
+
