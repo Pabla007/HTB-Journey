@@ -69,8 +69,4 @@ So we have connection to .100 and .150 but i have scanned both and only .150 ret
 
 ## Pivoting
 
-```
-ssh -i id_rsa -D 9050 root@thomaswreath.thm
-```
-
-
+So i decided to go this tool and will master it through practice.

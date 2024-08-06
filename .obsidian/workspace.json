@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PNPT Chekclists/05 LPE Checklist.md",
+                "file": "PNPT Chekclists/01 Master Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/06 Wreath/5.1 Git server Pivoting.md",
+                "file": "Try Hack Me/06 Wreath/11 Lets Learn to KISS and LOTL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/06 Wreath/5.1 Git server Pivoting.md",
+                "file": "Try Hack Me/06 Wreath/11 Lets Learn to KISS and LOTL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/06 Wreath/5.1 Git server Pivoting.md"
+                "file": "Try Hack Me/06 Wreath/11 Lets Learn to KISS and LOTL.md"
               }
             }
           },
@@ -206,10 +206,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8573fafe144ee753",
+  "active": "9774173df1286d61",
   "lastOpenFiles": [
-    "Try Hack Me/06 Wreath/11 Lets Learn to KISS and LOTL.md",
+    "PNPT Chekclists/01 Master Note.md",
+    "PNPT Chekclists/05 LPE Checklist.md",
     "Try Hack Me/06 Wreath/5.1 Git server Pivoting.md",
+    "Try Hack Me/06 Wreath/11 Lets Learn to KISS and LOTL.md",
     "Try Hack Me/06 Wreath/02 Nmap.md",
     "Try Hack Me/06 Wreath/4.1 SSH Tunneling  and Port Forwarding.md",
     "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
@@ -217,8 +219,6 @@
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240806201736.png",
     "Try Hack Me/06 Wreath/03  Enumeration.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240806030713.png",
-    "PNPT Chekclists/05 LPE Checklist.md",
-    "PNPT Chekclists/01 Master Note.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240806022048.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240806021754.png",
     "Try Hack Me/06 Wreath/09  Exfiltration Techniques & Post Exploitation.md",
