@@ -67,4 +67,10 @@ So we have connection to .100 and .150 but i have scanned both and only .150 ret
 ```
 ![[Pasted image 20240806201736.png]]
 
-Let connect to 
+## Pivoting
+
+```
+ssh -i id_rsa -D 9050 root@thomaswreath.thm
+```
+
+

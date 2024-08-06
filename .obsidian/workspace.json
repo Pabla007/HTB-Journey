@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
+                "file": "Try Hack Me/06 Wreath/4.1 SSH Tunneling  and Port Forwarding.md",
                 "mode": "source",
                 "source": false
               }
@@ -208,16 +208,17 @@
   },
   "active": "8573fafe144ee753",
   "lastOpenFiles": [
-    "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
     "Try Hack Me/06 Wreath/11 Lets Learn to KISS and LOTL.md",
-    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240806201736.png",
     "Try Hack Me/06 Wreath/5.1 Git server Pivoting.md",
+    "Try Hack Me/06 Wreath/02 Nmap.md",
+    "Try Hack Me/06 Wreath/4.1 SSH Tunneling  and Port Forwarding.md",
+    "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
+    "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
+    "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240806201736.png",
     "Try Hack Me/06 Wreath/03  Enumeration.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240806030713.png",
     "PNPT Chekclists/05 LPE Checklist.md",
     "PNPT Chekclists/01 Master Note.md",
-    "Try Hack Me/06 Wreath/02 Nmap.md",
-    "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240806022048.png",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240806021754.png",
     "Try Hack Me/06 Wreath/09  Exfiltration Techniques & Post Exploitation.md",
