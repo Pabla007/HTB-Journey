@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/06 Wreath/11 Lets Learn to KISS and LOTL.md",
+                "file": "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/06 Wreath/11 Lets Learn to KISS and LOTL.md",
+                "file": "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/06 Wreath/11 Lets Learn to KISS and LOTL.md"
+                "file": "Try Hack Me/06 Wreath/05 Git Server Enumeration.md"
               }
             }
           },
@@ -206,12 +206,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9774173df1286d61",
+  "active": "8573fafe144ee753",
   "lastOpenFiles": [
+    "Try Hack Me/06 Wreath/11 Lets Learn to KISS and LOTL.md",
     "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
     "Try Hack Me/06 Wreath/5.1 Git server Pivoting.md",
     "Try Hack Me/06 Wreath/03  Enumeration.md",
-    "Try Hack Me/06 Wreath/11 Lets Learn to KISS and LOTL.md",
     "Logrythm/LogRhythm/301 Administration Fundamentals/00 Images/Pasted image 20240806030713.png",
     "PNPT Chekclists/05 LPE Checklist.md",
     "PNPT Chekclists/01 Master Note.md",
