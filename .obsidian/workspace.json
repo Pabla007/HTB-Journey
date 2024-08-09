@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "281c508d4dd65461",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Try Hack Me/06 Wreath/11 Lets Learn to KISS and LOTL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/07 Holo/03 Nmap.md",
+                "file": "Try Hack Me/06 Wreath/11 Lets Learn to KISS and LOTL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/07 Holo/03 Nmap.md",
+                "file": "Try Hack Me/06 Wreath/11 Lets Learn to KISS and LOTL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/07 Holo/03 Nmap.md"
+                "file": "Try Hack Me/06 Wreath/11 Lets Learn to KISS and LOTL.md"
               }
             }
           },
@@ -218,7 +230,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9774173df1286d61",
+  "active": "281c508d4dd65461",
   "lastOpenFiles": [
     "Exam Test/01 Scanning.md",
     "Try Hack Me/07 Holo/03 Nmap.md",
