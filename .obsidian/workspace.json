@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/07 Holo/03 Nmap.md",
+                "file": "Try Hack Me/07 Holo/04 Web Enumeration with Gobuster Wfuzz.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,18 +38,6 @@
               "type": "markdown",
               "state": {
                 "file": "Try Hack Me/06 Wreath/4.1 SSH Tunneling  and Port Forwarding.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb119d88df9830bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Try Hack Me/06 Wreath/02 Nmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -232,17 +220,20 @@
   },
   "active": "4265f60781244b3e",
   "lastOpenFiles": [
-    "PNPT Chekclists/01 Master Note.md",
+    "Exam Test/00 Images/Pasted image 20240810180924.png",
+    "Try Hack Me/07 Holo/04 Web Enumeration with Gobuster Wfuzz.md",
     "Exam Test/02 Enumeration.md",
+    "Try Hack Me/07 Holo/03 Nmap.md",
+    "Try Hack Me/06 Wreath/4.1 SSH Tunneling  and Port Forwarding.md",
+    "Try Hack Me/06 Wreath/02 Nmap.md",
+    "PNPT Chekclists/01 Master Note.md",
     "Exam Test/01 Scanning.md",
     "Exam Test/00 Images/Pasted image 20240810164134.png",
     "Exam Test/00 Images/Pasted image 20240810163913.png",
     "Exam Test/00 Checklist.md",
     "Try Hack Me/06 Wreath/5.1 Git server Pivoting.md",
-    "Try Hack Me/06 Wreath/02 Nmap.md",
     "Try Hack Me/06 Wreath/11 Lets Learn to KISS and LOTL.md",
     "Exam Test/00 Images/Pasted image 20240810102758.png",
-    "Try Hack Me/07 Holo/03 Nmap.md",
     "Try Hack Me/07 Holo/02 .Net Bascis.md",
     "Try Hack Me/07 Holo/01 Notes aka observation regarding the machine.md",
     "Thumb/Pasted image 20240702234234.png",
@@ -260,7 +251,6 @@
     "Exam Test/00 Images",
     "Exam Test",
     "PNPT Chekclists/05 LPE Checklist.md",
-    "Try Hack Me/06 Wreath/4.1 SSH Tunneling  and Port Forwarding.md",
     "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
     "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
     "Try Hack Me/06 Wreath/03  Enumeration.md",
@@ -271,7 +261,6 @@
     "Try Hack Me/06 Wreath/8.2 AV Evasion PHP Payload Obfuscation.md",
     "Try Hack Me/06 Wreath/7.1 Personal PC Pivoting.md",
     "Try Hack Me/06 Wreath/8.1 AV Evasion Methods.md",
-    "Try Hack Me/06 Wreath/08 AV Evasion Introduction.md",
     "Logrythm/305 Analyst Fundamentals Part 3/05 Recover",
     "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate",
     "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate",

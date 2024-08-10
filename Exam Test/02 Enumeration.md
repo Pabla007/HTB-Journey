@@ -46,5 +46,10 @@ gobuster vhost -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-11000
 ```
 
 ```
-wfuzz -u http://holo.live -w /usr/share/seclists/SecLists-master/Discovery/DNS/subdomains-top1million-110000.txt  -H "Host: FUZZ.holo.live" --hc 400
+wfuzz -u http://holo.live -w /usr/share/seclists/SecLists-master/Discovery/DNS/subdomains-top1million-110000.txt  -H "Host: FUZZ.holo.live" --hh 21456
 ```
+![[Pasted image 20240810180924.png]]
+
+now we have to add admin and dev and will see if we are able to get something.
+
+
