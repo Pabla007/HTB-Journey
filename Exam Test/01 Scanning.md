@@ -125,3 +125,4 @@ Nmap done: 1 IP address (1 host up) scanned in 1087.66 seconds
 ```
 
 
+https://freecoursesite.com/adobe-photoshop-cc-essentials-training-course-6/
