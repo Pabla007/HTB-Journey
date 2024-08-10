@@ -22,9 +22,20 @@ PORT   STATE SERVICE
 Nmap done: 256 IP addresses (2 hosts up) scanned in 38.45 seconds
 ```
 
-
+1st step 1st 
+Will do the scanning of the last octant (i.e. 0-255) and got to know that we got 2 live hosts.
+```
+10.201.11.33
+```
 
 ```
-nmap -sS 10.201.11.33 10.200.145.250 -v -oA Initial-Scan-Subnet1-Hosts
+10.201.11.250
 ```
+
+
+2nd Step is that we will scan both the Ip's to see which services are running on them.
+```
+nmap -sS 10.201.11.33 10.201.145.250 -v -oA Initial-Scan-Subnet1-Hosts
+```
+
 

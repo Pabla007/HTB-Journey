@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/06 Wreath/11 Lets Learn to KISS and LOTL.md",
+                "file": "Exam Test/01 Scanning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/06 Wreath/11 Lets Learn to KISS and LOTL.md",
+                "file": "Exam Test/01 Scanning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/06 Wreath/11 Lets Learn to KISS and LOTL.md"
+                "file": "Exam Test/01 Scanning.md"
               }
             }
           },
@@ -230,14 +230,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "281c508d4dd65461",
+  "active": "4265f60781244b3e",
   "lastOpenFiles": [
+    "Try Hack Me/06 Wreath/11 Lets Learn to KISS and LOTL.md",
     "Exam Test/01 Scanning.md",
     "Try Hack Me/07 Holo/03 Nmap.md",
     "PNPT Chekclists/01 Master Note.md",
     "Try Hack Me/07 Holo/02 .Net Bascis.md",
     "Try Hack Me/07 Holo/01 Notes aka observation regarding the machine.md",
-    "Try Hack Me/06 Wreath/11 Lets Learn to KISS and LOTL.md",
     "Thumb/Pasted image 20240702234234.png",
     "Thumb/Pasted image 20240702234040.png",
     "Thumb/Pasted image 20240630182201.png",
