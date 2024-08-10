@@ -124,5 +124,6 @@ OS and Service detection performed. Please report any incorrect results at https
 Nmap done: 1 IP address (1 host up) scanned in 1087.66 seconds
 ```
 
+After we added the IP to the hosts file we are able to fetch the whole site.
+![[Pasted image 20240810163913.png]]
 
-https://freecoursesite.com/adobe-photoshop-cc-essentials-training-course-6/
