@@ -73,14 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam Test/02 Enumeration.md",
+                "file": "Exam Test/01 Scanning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gobuster",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exam Test/02 Enumeration.md",
+                "file": "PNPT Chekclists/01 Master Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exam Test/02 Enumeration.md",
+                "file": "PNPT Chekclists/01 Master Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exam Test/02 Enumeration.md"
+                "file": "PNPT Chekclists/01 Master Note.md"
               }
             }
           },
@@ -218,20 +217,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4265f60781244b3e",
+  "active": "e7dd6b24ee999536",
   "lastOpenFiles": [
+    "Active Directory Practice/03 Sizzle/02 Enumeration.md",
+    "Exam Test/01 Scanning.md",
+    "Exam Test/02 Enumeration.md",
+    "Try Hack Me/06 Wreath/5.1 Git server Pivoting.md",
+    "Try Hack Me/07 Holo/03 Nmap.md",
+    "Try Hack Me/07 Holo/Task 15 - Docker Situational Awareness.md",
+    "Try Hack Me/03 Attacktive Directory/04.1 Kerberos enumeration of users & passwd.md",
+    "HackTheBox/Retarded Machine/02 Help/04 HelpDeskZ.md",
+    "HackTheBox/Retarded Machine/04 Bank/04 Directory Busting or GoBuster.md",
+    "Try Hack Me/03 Attacktive Directory/04 Enumerate AD.md",
+    "PNPT Chekclists/01 Master Note.md",
     "Exam Test/00 Images/Pasted image 20240810180924.png",
     "Try Hack Me/07 Holo/04 Web Enumeration with Gobuster Wfuzz.md",
-    "Exam Test/02 Enumeration.md",
-    "Try Hack Me/07 Holo/03 Nmap.md",
     "Try Hack Me/06 Wreath/4.1 SSH Tunneling  and Port Forwarding.md",
     "Try Hack Me/06 Wreath/02 Nmap.md",
-    "PNPT Chekclists/01 Master Note.md",
-    "Exam Test/01 Scanning.md",
     "Exam Test/00 Images/Pasted image 20240810164134.png",
     "Exam Test/00 Images/Pasted image 20240810163913.png",
     "Exam Test/00 Checklist.md",
-    "Try Hack Me/06 Wreath/5.1 Git server Pivoting.md",
     "Try Hack Me/06 Wreath/11 Lets Learn to KISS and LOTL.md",
     "Exam Test/00 Images/Pasted image 20240810102758.png",
     "Try Hack Me/07 Holo/02 .Net Bascis.md",
@@ -242,7 +247,6 @@
     "Thumb/Pasted image 20240807134145.png",
     "Thumb/Pasted image 20240807133010.png",
     "Thumb/Pasted image 20240807132007.png",
-    "Thumb/Pasted image 20240806201736.png",
     "Thumb/New folder",
     "Thumb",
     "New folder",
@@ -256,11 +260,6 @@
     "Try Hack Me/06 Wreath/03  Enumeration.md",
     "Try Hack Me/06 Wreath/09  Exfiltration Techniques & Post Exploitation.md",
     "Try Hack Me/06 Wreath/8.5 AV Evasion Privilege Escalation.md",
-    "Try Hack Me/06 Wreath/8.4 AV Evasion Enumeration.md",
-    "Try Hack Me/06 Wreath/8.3 AV Evasion Compiling Netcat & Reverse Shell!.md",
-    "Try Hack Me/06 Wreath/8.2 AV Evasion PHP Payload Obfuscation.md",
-    "Try Hack Me/06 Wreath/7.1 Personal PC Pivoting.md",
-    "Try Hack Me/06 Wreath/8.1 AV Evasion Methods.md",
     "Logrythm/305 Analyst Fundamentals Part 3/05 Recover",
     "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate",
     "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate",

@@ -45,6 +45,7 @@ Let's do the next thing and for now it's Directory Bursting.
 gobuster vhost -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-110000.txt -u http://10.201.11.33 -o gobuster/vhost-sub.txt -t 2
 ```
 
+https://wfuzz.readthedocs.io/en/latest/user/getting.html
 ```
 wfuzz -u http://holo.live -w /usr/share/seclists/SecLists-master/Discovery/DNS/subdomains-top1million-110000.txt  -H "Host: FUZZ.holo.live" --hh 21456
 ```
@@ -52,4 +53,13 @@ wfuzz -u http://holo.live -w /usr/share/seclists/SecLists-master/Discovery/DNS/s
 
 now we have to add admin and dev and will see if we are able to get something.
 
+
+Got 2 new sites
+```
+http://admin.holo.live/
+```
+
+```
+http://dev.holo.live/
+```
 

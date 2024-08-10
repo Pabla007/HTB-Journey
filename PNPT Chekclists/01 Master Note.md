@@ -67,6 +67,10 @@ gobuster vhost -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-11000
 gobuster vhost -w /usr/share/seclists/SecLists-master/Discovery/DNS/subdomains-top1million-110000.txt -u http://<IP_Address> -t 2 -o gobuster/vhost-sub.txt
 ```
 
+Directory Busting
+```
+gobuster dir -u http://<hostname> -w /usr/share/wordlists/dirb/common.txt
+```
 
 
 >[!important] Wfuzz
