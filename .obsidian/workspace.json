@@ -85,14 +85,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam Test/01 Scanning.md",
+                "file": "Exam Test/02 Enumeration.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -230,19 +230,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "281c508d4dd65461",
+  "active": "4265f60781244b3e",
   "lastOpenFiles": [
-    "Exam Test/00 Images/Pasted image 20240810164134.png",
+    "PNPT Chekclists/01 Master Note.md",
+    "Exam Test/02 Enumeration.md",
     "Exam Test/01 Scanning.md",
+    "Exam Test/00 Images/Pasted image 20240810164134.png",
     "Exam Test/00 Images/Pasted image 20240810163913.png",
     "Exam Test/00 Checklist.md",
     "Try Hack Me/06 Wreath/5.1 Git server Pivoting.md",
     "Try Hack Me/06 Wreath/02 Nmap.md",
-    "Exam Test/02 Enumeration.md",
     "Try Hack Me/06 Wreath/11 Lets Learn to KISS and LOTL.md",
     "Exam Test/00 Images/Pasted image 20240810102758.png",
     "Try Hack Me/07 Holo/03 Nmap.md",
-    "PNPT Chekclists/01 Master Note.md",
     "Try Hack Me/07 Holo/02 .Net Bascis.md",
     "Try Hack Me/07 Holo/01 Notes aka observation regarding the machine.md",
     "Thumb/Pasted image 20240702234234.png",
@@ -252,7 +252,6 @@
     "Thumb/Pasted image 20240807133010.png",
     "Thumb/Pasted image 20240807132007.png",
     "Thumb/Pasted image 20240806201736.png",
-    "Thumb/Pasted image 20240806030713.png",
     "Thumb/New folder",
     "Thumb",
     "New folder",

@@ -9,9 +9,42 @@ whatweb 10.201.11.33
 http://10.201.11.33 [200 OK] Apache[2.4.29], Country[RESERVED][ZZ], HTML5, HTTPServer[Ubuntu Linux][Apache/2.4.29 (Ubuntu)], IP[10.201.11.33], MetaGenerator[WordPress 5.5.3], Script[text/javascript], Title[holo.live], UncommonHeaders[link], WordPress[5.5.3], X-UA-Compatible[IE=edge]
 ```
 
-We were able to see from the nmap scan that we are able to access the robots.txt
+We were able to see from the nmap and nikto scan that we are able to access the robots.txt
 ```
 http://www.holo.live/robots.txt
 ```
 ![[Pasted image 20240810164134.png]]
 
+```
+low: /var/www/wordpress/index.php
+Disallow: /var/www/wordpress/readme.html
+Disallow: /var/www/wordpress/wp-activate.php
+Disallow: /var/www/wordpress/wp-blog-header.php
+Disallow: /var/www/wordpress/wp-config.php
+Disallow: /var/www/wordpress/wp-content
+Disallow: /var/www/wordpress/wp-includes
+Disallow: /var/www/wordpress/wp-load.php
+Disallow: /var/www/wordpress/wp-mail.php
+Disallow: /var/www/wordpress/wp-signup.php
+Disallow: /var/www/wordpress/xmlrpc.php
+Disallow: /var/www/wordpress/license.txt
+Disallow: /var/www/wordpress/upgrade
+Disallow: /var/www/wordpress/wp-admin
+Disallow: /var/www/wordpress/wp-comments-post.php
+Disallow: /var/www/wordpress/wp-config-sample.php
+Disallow: /var/www/wordpress/wp-cron.php
+Disallow: /var/www/wordpress/wp-links-opml.php
+Disallow: /var/www/wordpress/wp-login.php
+Disallow: /var/www/wordpress/wp-settings.php
+Disallow: /var/www/wordpress/wp-trackback.php
+```
+
+Let's do the next thing and for now it's Directory Bursting.
+
+```
+gobuster vhost -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-110000.txt -u http://10.201.11.33 -o gobuster/vhost-sub.txt -t 2
+```
+
+```
+wfuzz -u http://holo.live -w /usr/share/seclists/SecLists-master/Discovery/DNS/subdomains-top1million-110000.txt  -H "Host: FUZZ.holo.live" --hc 400
+```
