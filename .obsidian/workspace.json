@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exam Test/03 It's time to get the shell.md",
+                "file": "PNPT Chekclists/05 LPE Checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exam Test/03 It's time to get the shell.md",
+                "file": "PNPT Chekclists/05 LPE Checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exam Test/03 It's time to get the shell.md"
+                "file": "PNPT Chekclists/05 LPE Checklist.md"
               }
             }
           },
@@ -218,11 +217,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4265f60781244b3e",
+  "active": "e7dd6b24ee999536",
   "lastOpenFiles": [
+    "Exam Test/03 It's time to get the shell.md",
     "Exam Test/00 Images/Pasted image 20240813204531.png",
     "PNPT Chekclists/05 LPE Checklist.md",
-    "Exam Test/03 It's time to get the shell.md",
     "PNPT Chekclists/06 EPP Checklist.md",
     "PNPT Chekclists/04 WPE Checklist.md",
     "PNPT Chekclists/2.1 AD CheckList.md",
@@ -250,7 +249,6 @@
     "Exam Test/00 Images/Pasted image 20240810180924.png",
     "Try Hack Me/06 Wreath/02 Nmap.md",
     "Exam Test/00 Images/Pasted image 20240810164134.png",
-    "Exam Test/00 Images/Pasted image 20240810163913.png",
     "Exam Test/00 Checklist.md",
     "Try Hack Me/06 Wreath/11 Lets Learn to KISS and LOTL.md",
     "Try Hack Me/07 Holo/02 .Net Bascis.md",
