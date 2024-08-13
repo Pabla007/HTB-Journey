@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PNPT Chekclists/01 Master Note.md",
+                "file": "PNPT Chekclists/05 LPE Checklist.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam Test/02 Enumeration.md",
+                "file": "Exam Test/03 It's time to get the shell.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exam Test/02 Enumeration.md",
+                "file": "Exam Test/03 It's time to get the shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exam Test/02 Enumeration.md",
+                "file": "Exam Test/03 It's time to get the shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exam Test/02 Enumeration.md"
+                "file": "Exam Test/03 It's time to get the shell.md"
               }
             }
           },
@@ -220,14 +220,26 @@
   },
   "active": "4265f60781244b3e",
   "lastOpenFiles": [
-    "Exam Test/01 Scanning.md",
+    "Exam Test/00 Images/Pasted image 20240813204531.png",
+    "PNPT Chekclists/05 LPE Checklist.md",
+    "Exam Test/03 It's time to get the shell.md",
+    "PNPT Chekclists/06 EPP Checklist.md",
+    "PNPT Chekclists/04 WPE Checklist.md",
+    "PNPT Chekclists/2.1 AD CheckList.md",
+    "PNPT Chekclists/02 PEH Checklist.md",
+    "PNPT Chekclists/01 Master Note.md",
+    "Exam Test/00 Images/Pasted image 20240813204209.png",
+    "Exam Test/00 Images/Pasted image 20240813203747.png",
+    "Exam Test/00 Images/Pasted image 20240813203426.png",
+    "Exam Test/00 Images/Pasted image 20240813203006.png",
     "Exam Test/02 Enumeration.md",
+    "Exam Test/00 Images/Pasted image 20240813202422.png",
+    "Exam Test/01 Scanning.md",
     "Exam Test/00 Images/Pasted image 20240813200211.png",
     "Exam Test/00 Images/Pasted image 20240813200130.png",
     "Try Hack Me/06 Wreath/5.1 Git server Pivoting.md",
     "Try Hack Me/06 Wreath/4.1 SSH Tunneling  and Port Forwarding.md",
     "Try Hack Me/07 Holo/04 Web Enumeration with Gobuster Wfuzz.md",
-    "PNPT Chekclists/01 Master Note.md",
     "Active Directory Practice/03 Sizzle/02 Enumeration.md",
     "Try Hack Me/07 Holo/03 Nmap.md",
     "Try Hack Me/07 Holo/Task 15 - Docker Situational Awareness.md",
@@ -241,25 +253,14 @@
     "Exam Test/00 Images/Pasted image 20240810163913.png",
     "Exam Test/00 Checklist.md",
     "Try Hack Me/06 Wreath/11 Lets Learn to KISS and LOTL.md",
-    "Exam Test/00 Images/Pasted image 20240810102758.png",
     "Try Hack Me/07 Holo/02 .Net Bascis.md",
     "Try Hack Me/07 Holo/01 Notes aka observation regarding the machine.md",
-    "Thumb/Pasted image 20240702234234.png",
-    "Thumb/Pasted image 20240702234040.png",
-    "Thumb/Pasted image 20240630182201.png",
-    "Thumb/Pasted image 20240807134145.png",
     "Thumb/New folder",
     "Thumb",
     "New folder",
-    "Exam Test/03.md",
     "Try Hack Me/07 Holo/Task 23 Pivoting Digging a tunnel to nowhere.md",
     "Exam Test/00 Images",
     "Exam Test",
-    "PNPT Chekclists/05 LPE Checklist.md",
-    "Try Hack Me/06 Wreath/10 Pivoting using SSH and Proxychains.md",
-    "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
-    "Try Hack Me/06 Wreath/03  Enumeration.md",
-    "Try Hack Me/06 Wreath/09  Exfiltration Techniques & Post Exploitation.md",
     "Logrythm/305 Analyst Fundamentals Part 3/05 Recover",
     "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate",
     "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate",

