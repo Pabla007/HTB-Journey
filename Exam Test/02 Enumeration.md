@@ -63,3 +63,18 @@ http://admin.holo.live/
 http://dev.holo.live/
 ```
 
+
+SO we need id and password to login for which we have to do some OSINT and see what we can find from the development site
+
+```
+http://dev.holo.live/img.php?file=images/matsuri.jpg
+```
+Can we find LFI here or not ?_?
+
+Yes my hunch was right and i have taken the help of chat gpt.
+![[Pasted image 20240813200130.png]]
+```
+http://dev.holo.live/img.php?file=../../../../etc/passwd
+```
+![[Pasted image 20240813200211.png]]
+

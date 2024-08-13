@@ -73,14 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam Test/01 Scanning.md",
+                "file": "Exam Test/02 Enumeration.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -218,15 +218,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "281c508d4dd65461",
+  "active": "4265f60781244b3e",
   "lastOpenFiles": [
+    "Exam Test/01 Scanning.md",
+    "Exam Test/02 Enumeration.md",
+    "Exam Test/00 Images/Pasted image 20240813200211.png",
+    "Exam Test/00 Images/Pasted image 20240813200130.png",
     "Try Hack Me/06 Wreath/5.1 Git server Pivoting.md",
     "Try Hack Me/06 Wreath/4.1 SSH Tunneling  and Port Forwarding.md",
     "Try Hack Me/07 Holo/04 Web Enumeration with Gobuster Wfuzz.md",
     "PNPT Chekclists/01 Master Note.md",
     "Active Directory Practice/03 Sizzle/02 Enumeration.md",
-    "Exam Test/01 Scanning.md",
-    "Exam Test/02 Enumeration.md",
     "Try Hack Me/07 Holo/03 Nmap.md",
     "Try Hack Me/07 Holo/Task 15 - Docker Situational Awareness.md",
     "Try Hack Me/03 Attacktive Directory/04.1 Kerberos enumeration of users & passwd.md",
@@ -246,8 +248,6 @@
     "Thumb/Pasted image 20240702234040.png",
     "Thumb/Pasted image 20240630182201.png",
     "Thumb/Pasted image 20240807134145.png",
-    "Thumb/Pasted image 20240807133010.png",
-    "Thumb/Pasted image 20240807132007.png",
     "Thumb/New folder",
     "Thumb",
     "New folder",
@@ -260,7 +260,6 @@
     "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
     "Try Hack Me/06 Wreath/03  Enumeration.md",
     "Try Hack Me/06 Wreath/09  Exfiltration Techniques & Post Exploitation.md",
-    "Try Hack Me/06 Wreath/8.5 AV Evasion Privilege Escalation.md",
     "Logrythm/305 Analyst Fundamentals Part 3/05 Recover",
     "Logrythm/305 Analyst Fundamentals Part 3/04 Investigate",
     "Logrythm/305 Analyst Fundamentals Part 3/03 Neutralize & Investigate",
