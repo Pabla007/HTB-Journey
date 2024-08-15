@@ -58,4 +58,9 @@ export TERM=xterm
 
 ![[Pasted image 20240813204531.png]]
 
-Let's run the linpease and see what we find here
+Let's run the linpeas's and see what we find here
+```
+cat user.txt
+HOLO{175d7322f8fc53392a417ccde356c3fe}
+```
+
