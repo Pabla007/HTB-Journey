@@ -34,3 +34,8 @@ mysql -u admin -p -h 192.168.100.1
 !123SecureAdminDashboard321!
 ```
 
+
+>[! important] Important
+
+This happened here and might happened in the exam as well. I was not able to get the mysql shell in the dumb shell and after i changed it into interactive shell i was able to get it.
+
