@@ -132,3 +132,26 @@ cat cgroup
 ```
 
 As we are not able to upload the nmap or anyfile for pingsweep so we have to come back to basics.
+![[Pasted image 20240817165551.png]]
+
+![[Pasted image 20240817165859.png]]
+
+So we have to find the default Gateway
+```
+192.168.100.1
+```
+
+So will simply run the ping sweep on this
+
+```
+nc -zv 192.168.100.1 1-65535
+ip-192-168-100-1.eu-west-1.compute.internal [192.168.100.1] 33060 (?) open
+ip-192-168-100-1.eu-west-1.compute.internal [192.168.100.1] 8080 (http-alt) open
+ip-192-168-100-1.eu-west-1.compute.internal [192.168.100.1] 3306 (mysql) open
+ip-192-168-100-1.eu-west-1.compute.internal [192.168.100.1] 80 (http) open
+ip-192-168-100-1.eu-west-1.compute.internal [192.168.100.1] 22 (ssh) open
+```
+
+So which service looks juicy is mysql 3306
+
+

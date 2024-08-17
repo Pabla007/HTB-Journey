@@ -103,7 +103,7 @@ for port in portList:
 
 Netcat aka NC
 ```
-nc -zv 192.168.100.1 1-65535
+nc -zv <IP_Address> 1-65535
 ```
 
 I think the best option should be nc but will try the upper one as well but as i am not able to make file with nano/vim/vi will go with nc than

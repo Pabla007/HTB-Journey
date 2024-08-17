@@ -9,6 +9,8 @@ Follow the concept called KISS (keep it simple STUPID)
 <h2>Nmap</h2>
 Download a [static nmap binary](https://github.com/andrew-d/static-binaries/raw/master/binaries/linux/x86_64/nmap).
 
+https://github.com/andrew-d/static-binaries
+
 Normal Nmap Scanning
 ```
 nmap -T4 -p- -A -Pn <IP_Address>
@@ -22,7 +24,7 @@ nmap -sS -T4 -p- -Pn <IP_Address>
 nmap -sU -T4 --top-ports 1000 <IP_Address>
 ```
 
-Ping Sweep
+## Ping Sweep
 ```
 nmap -sn -n 10.200.95.0/24 -oA Ping-Sweep
 ```
@@ -31,6 +33,15 @@ nmap -sn -n 10.200.95.0/24 -oA Ping-Sweep
 nmap -sS 10.200.145.33 10.200.145.250 -v -oA Initial-Scan-Subnet1-Hosts
 ```
 
+Netcat aka NC
+```
+nc -zv <IP_Address> 1-65535
+```
+
+## Route
+```
+route -n
+```
 
 We have another option of scanning in windows even if we don't have nmap and have a powershell. (.e. Situational Awererness)
 ```

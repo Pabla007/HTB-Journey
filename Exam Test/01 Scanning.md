@@ -1,4 +1,9 @@
 
+>[!bug] Most important thing
+
+Your trusted agent has informed you that the scope of the engagement is 10.200.x.0/24 and 192.168.100.0/24
+
+
 ```
 nmap -sS 10.201.11.0-255/24 -oA ping-sweep 
 ```

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PNPT Chekclists/05 LPE Checklist.md",
+                "file": "Exam Test/04 SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam Test/03 It's time to get the shell.md",
+                "file": "Exam Test/01 Scanning.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gobuster",
+                "query": "mysql",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/07 Holo/Task 16 - Living Off the LAND.md",
+                "file": "Exam Test/04 SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/07 Holo/Task 16 - Living Off the LAND.md",
+                "file": "Exam Test/04 SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/07 Holo/Task 16 - Living Off the LAND.md"
+                "file": "Exam Test/04 SQL.md"
               }
             }
           },
@@ -230,19 +230,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d90e600eb68e65cf",
+  "active": "b21f80b1b709626f",
   "lastOpenFiles": [
-    "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
     "PNPT Chekclists/05 LPE Checklist.md",
-    "Exam Test/03 It's time to get the shell.md",
     "PNPT Chekclists/01 Master Note.md",
-    "Try Hack Me/07 Holo/04 Web Enumeration with Gobuster Wfuzz.md",
+    "Exam Test/04 SQL.md",
+    "Exam Test/03 It's time to get the shell.md",
+    "Try Hack Me/07 Holo/Task 17 - Situational Awareness.md",
+    "Exam Test/00 Images/Pasted image 20240817165915.png",
+    "Exam Test/00 Images/Pasted image 20240817165859.png",
+    "PNPT Chekclists/04 WPE Checklist.md",
+    "PNPT Chekclists/08 Installed the Required Software's and Labs.md",
+    "PNPT Chekclists/07 Password Policy.md",
+    "Exam Test/01 Scanning.md",
+    "Exam Test/00 Images/Pasted image 20240817165551.png",
     "Try Hack Me/06 Wreath/5.1 Git server Pivoting.md",
+    "Try Hack Me/07 Holo/Task 16 - Living Off the LAND.md",
+    "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
+    "Try Hack Me/07 Holo/04 Web Enumeration with Gobuster Wfuzz.md",
     "Exam Test/02 Enumeration.md",
     "Linux Enumeration.md",
-    "PNPT Chekclists/04 WPE Checklist.md",
     "PNPT Chekclists/06 EPP Checklist.md",
-    "Try Hack Me/07 Holo/Task 16 - Living Off the LAND.md",
     "Try Hack Me/07 Holo/Task 20 Privilege Escalation.md",
     "Try Hack Me/07 Holo/Task 21  Post Exploitation.md",
     "Try Hack Me/07 Holo/Task 23 Pivoting Digging a tunnel to nowhere.md",
@@ -259,15 +267,7 @@
     "Exam Test/00 Images/Pasted image 20240813203426.png",
     "Exam Test/00 Images/Pasted image 20240813203006.png",
     "Exam Test/00 Images/Pasted image 20240813202422.png",
-    "Exam Test/01 Scanning.md",
     "Exam Test/00 Images/Pasted image 20240813200211.png",
-    "Exam Test/00 Images/Pasted image 20240813200130.png",
-    "Active Directory Practice/03 Sizzle/02 Enumeration.md",
-    "Try Hack Me/07 Holo/03 Nmap.md",
-    "Try Hack Me/03 Attacktive Directory/04.1 Kerberos enumeration of users & passwd.md",
-    "HackTheBox/Retarded Machine/02 Help/04 HelpDeskZ.md",
-    "Exam Test/00 Images/Pasted image 20240810180924.png",
-    "Exam Test/00 Images/Pasted image 20240810164134.png",
     "Thumb/New folder",
     "Thumb",
     "New folder",
