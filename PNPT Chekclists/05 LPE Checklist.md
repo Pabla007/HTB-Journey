@@ -72,3 +72,39 @@ s.singh.kv4.2021@gmail.com
 cat /etc/os-release
 ```
 
+
+### Ping Sweep 
+
+Bash
+```
+#!/bin/bash  
+ports=(21 22 53 80 443 3306 8443 8080)  
+for port in ${ports[@]}; do  
+timeout 1 bash -c "echo \"Port Scan Test\" > /dev/tcp/1.1.1.1/$port && echo $port is open || /dev/null"   
+done
+```
+
+
+Python
+```
+#!/usr/bin/python3  
+import socket  
+host = "1.1.1.1"  
+portList = [21,22,53,80,443,3306,8443,8080]  
+for port in portList:  
+ s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)  
+ try:  
+  s.connect((host,port))  
+  print("Port ", port, " is open")  
+ except:  
+  print("Port ", port, " is closed")
+```
+
+
+Netcat aka NC
+```
+nc -zv 192.168.100.1 1-65535
+```
+
+I think the best option should be nc but will try the upper one as well but as i am not able to make file with nano/vim/vi will go with nc than
+

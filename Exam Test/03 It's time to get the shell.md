@@ -113,3 +113,22 @@ find / -perm -u=s -type f 2>/dev/null
 cat /proc/1 cgroup
 ```
 
+```
+www-data@e932f030b3c8:/proc/1$ cat cgroup
+cat cgroup
+12:memory:/docker/e932f030b3c8681060f99dd5f2f180c8d080653491e81791490f879c869c2f9c
+11:freezer:/docker/e932f030b3c8681060f99dd5f2f180c8d080653491e81791490f879c869c2f9c
+10:devices:/docker/e932f030b3c8681060f99dd5f2f180c8d080653491e81791490f879c869c2f9c
+9:blkio:/docker/e932f030b3c8681060f99dd5f2f180c8d080653491e81791490f879c869c2f9c
+8:cpuset:/docker/e932f030b3c8681060f99dd5f2f180c8d080653491e81791490f879c869c2f9c
+7:rdma:/
+6:pids:/docker/e932f030b3c8681060f99dd5f2f180c8d080653491e81791490f879c869c2f9c
+5:perf_event:/docker/e932f030b3c8681060f99dd5f2f180c8d080653491e81791490f879c869c2f9c
+4:net_cls,net_prio:/docker/e932f030b3c8681060f99dd5f2f180c8d080653491e81791490f879c869c2f9c
+3:cpu,cpuacct:/docker/e932f030b3c8681060f99dd5f2f180c8d080653491e81791490f879c869c2f9c
+2:hugetlb:/docker/e932f030b3c8681060f99dd5f2f180c8d080653491e81791490f879c869c2f9c
+1:name=systemd:/docker/e932f030b3c8681060f99dd5f2f180c8d080653491e81791490f879c869c2f9c
+0::/system.slice/containerd.service
+```
+
+As we are not able to upload the nmap or anyfile for pingsweep so we have to come back to basics.
