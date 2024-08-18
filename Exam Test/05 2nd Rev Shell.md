@@ -91,5 +91,5 @@ PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
 52 6    1 * *   root    test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.monthly )
 ```
 
-## So it's time to get priv escalation
+## So it's time to get privilege escalation escalation
 
