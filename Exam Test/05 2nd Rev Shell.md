@@ -92,4 +92,3 @@ PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
 ```
 
 ## So it's time to get privilege escalation escalation
-
