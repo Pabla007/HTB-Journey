@@ -100,9 +100,9 @@ docker run -v /:/mnt --rm -it cb1b741122e8 chroot /mnt sh
 
 ![[Pasted image 20240818160415.png]]
 
-We got the root access
+We got the root access but the wrong once so will again access the right docker (i.e. ubuntu 18.04)
 ```
-
+docker run -v /:/mnt --rm -it 56def654ec22 chroot /mnt sh
 ```
 
 I was not able to find the root flag so we have repository name with ubuntu 18.04
