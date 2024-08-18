@@ -40,6 +40,8 @@ id
 sudo -l
 cat /etc/passwd
 cat /etc/passwd | cut -d : -f 1
+cat /etc/shadow
+cat /.ssh/id_rsa
 
 
 grep --color=auto -rnw '/' -ie "PASSWORD" --color=always 2> /dev/null

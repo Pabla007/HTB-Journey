@@ -11,7 +11,7 @@ mysql -u admin -p -h 192.168.100.1
 DBManagerLogin!
 ```
 
-so this is not working which means we have to do osint in the file to get the pasword that might work
+so this is not working which means we have to do osint in the file to get the password that might work
 
 db_connect.php looks fishy
 ![[Pasted image 20240817172018.png]]
