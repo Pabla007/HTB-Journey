@@ -136,7 +136,9 @@ linuxrulez
 .\hashcat.exe -m 18200 -D 2 .\hashes4.txt .\rockyou.txt -O
 ```
 
+It took around 3-4 hours to do this 
 
+![[Pasted image 20240821232619.png]]
 
 Let's see if we can get the .ssh keys fingers closed
 ```

@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "ea282c7d4e66f83a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Active Directory Practice/01 Forest/02 Enumeration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "281c508d4dd65461",
             "type": "leaf",
             "state": {
@@ -114,6 +102,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9c6518a5bb3cf860",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exam Test/05 2nd Rev Shell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 8
@@ -162,8 +162,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PNPT Chekclists/09 Hashcat.md",
+                "file": "Exam Test/05 2nd Rev Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PNPT Chekclists/09 Hashcat.md",
+                "file": "Exam Test/05 2nd Rev Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PNPT Chekclists/09 Hashcat.md"
+                "file": "Exam Test/05 2nd Rev Shell.md"
               }
             }
           },
@@ -255,14 +254,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a3514deef8c8f7f",
+  "active": "9c6518a5bb3cf860",
   "lastOpenFiles": [
+    "Active Directory Practice/02 Blackfield/02 Enumeration.md",
+    "PNPT Chekclists/09 Hashcat.md",
+    "Exam Test/05 2nd Rev Shell.md",
+    "Exam Test/00 Images/Pasted image 20240821232619.png",
     "Active Directory/Initial Attack Vectors/1.1 Cracking Captured Hashes.md",
     "Active Directory Practice/01 Forest/02 Enumeration.md",
-    "Exam Test/05 2nd Rev Shell.md",
     "Exam Test/01 Scanning.md",
-    "PNPT Chekclists/09 Hashcat.md",
-    "Active Directory Practice/02 Blackfield/02 Enumeration.md",
     "HackTheBox/Retarded Machine/01 Active/01 Notes aka observation regarding the machine.md",
     "PNPT Chekclists/02 PEH Checklist.md",
     "PNPT Chekclists/01 Master Note.md",
@@ -288,11 +288,9 @@
     "Exam Test/00 Images/Pasted image 20240817165859.png",
     "PNPT Chekclists/08 Installed the Required Software's and Labs.md",
     "PNPT Chekclists/07 Password Policy.md",
-    "Exam Test/00 Images/Pasted image 20240817165551.png",
     "Try Hack Me/06 Wreath/5.1 Git server Pivoting.md",
     "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
     "Try Hack Me/07 Holo/04 Web Enumeration with Gobuster Wfuzz.md",
-    "Linux Enumeration.md",
     "Thumb/New folder",
     "Thumb",
     "New folder",

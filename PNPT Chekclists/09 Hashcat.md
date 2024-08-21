@@ -13,6 +13,10 @@ hashcat --help | grep Kerberos
 .\hashcat.exe -m 18200 -D 2 .\hashes4.txt .\rockyou.txt -O
 ```
 
+```
+.\hashcat.exe -m 18200 -D 2 .\hashes4.txt .\rockyou.txt --show
+```
+
 
 another alternative is Google Colab
 
