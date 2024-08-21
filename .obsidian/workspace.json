@@ -138,8 +138,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -235,10 +234,10 @@
   "lastOpenFiles": [
     "PNPT Chekclists/05 LPE Checklist.md",
     "Exam Test/05 2nd Rev Shell.md",
+    "Exam Test/01 Scanning.md",
     "Exam Test/04 SQL.md",
     "Exam Test/03 It's time to get the shell.md",
     "Exam Test/02 Enumeration.md",
-    "Exam Test/01 Scanning.md",
     "Exam Test/00 Checklist.md",
     "Exam Test/00 Images/Pasted image 20240818160415.png",
     "Try Hack Me/07 Holo/Task 20 Privilege Escalation.md",
