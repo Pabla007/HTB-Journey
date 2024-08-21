@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PNPT Chekclists/05 LPE Checklist.md",
+                "file": "Active Directory/Initial Attack Vectors/1.1 Cracking Captured Hashes.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,9 +90,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "30520fd56de0ae3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Active Directory Practice/02 Blackfield/02 Enumeration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a3514deef8c8f7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PNPT Chekclists/09 Hashcat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -121,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cat .ssh",
+                "query": "hashcat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exam Test/05 2nd Rev Shell.md",
+                "file": "PNPT Chekclists/09 Hashcat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exam Test/05 2nd Rev Shell.md",
+                "file": "PNPT Chekclists/09 Hashcat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exam Test/05 2nd Rev Shell.md"
+                "file": "PNPT Chekclists/09 Hashcat.md"
               }
             }
           },
@@ -230,13 +254,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea282c7d4e66f83a",
+  "active": "9a3514deef8c8f7f",
   "lastOpenFiles": [
+    "Active Directory Practice/02 Blackfield/02 Enumeration.md",
+    "Active Directory/Initial Attack Vectors/1.1 Cracking Captured Hashes.md",
+    "HackTheBox/Retarded Machine/01 Active/01 Notes aka observation regarding the machine.md",
+    "PNPT Chekclists/09 Hashcat.md",
+    "PNPT Chekclists/02 PEH Checklist.md",
+    "PNPT Chekclists/01 Master Note.md",
+    "Exam Test/03 It's time to get the shell.md",
     "PNPT Chekclists/05 LPE Checklist.md",
     "Exam Test/05 2nd Rev Shell.md",
     "Exam Test/01 Scanning.md",
     "Exam Test/04 SQL.md",
-    "Exam Test/03 It's time to get the shell.md",
     "Exam Test/02 Enumeration.md",
     "Exam Test/00 Checklist.md",
     "Exam Test/00 Images/Pasted image 20240818160415.png",
@@ -250,7 +280,6 @@
     "Exam Test/00 Images/Pasted image 20240817230257.png",
     "Try Hack Me/07 Holo/Task 17 - Situational Awareness.md",
     "Exam Test/00 Images/Pasted image 20240817224657.png",
-    "PNPT Chekclists/01 Master Note.md",
     "Try Hack Me/07 Holo/Task 16 - Living Off the LAND.md",
     "Exam Test/00 Images/Pasted image 20240817172018.png",
     "Exam Test/00 Images/Pasted image 20240817165915.png",
@@ -263,11 +292,6 @@
     "Try Hack Me/07 Holo/04 Web Enumeration with Gobuster Wfuzz.md",
     "Linux Enumeration.md",
     "PNPT Chekclists/06 EPP Checklist.md",
-    "Try Hack Me/07 Holo/Task 21  Post Exploitation.md",
-    "Try Hack Me/07 Holo/Task 23 Pivoting Digging a tunnel to nowhere.md",
-    "Windows Enumeration.md",
-    "Try Hack Me/06 Wreath/4.1 SSH Tunneling  and Port Forwarding.md",
-    "Ik Si Jhali Kudi.md",
     "Thumb/New folder",
     "Thumb",
     "New folder",
