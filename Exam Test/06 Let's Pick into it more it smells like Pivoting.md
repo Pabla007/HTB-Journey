@@ -8,7 +8,7 @@ L-SRV02
 192.168.100.100
 
 DC-SRV01
-10.201.11.33
+10.201.11.30
 ```
 
 Username and Password

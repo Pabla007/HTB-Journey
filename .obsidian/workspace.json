@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PNPT Chekclists/01 Master Note.md",
+                "file": "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam Test/03 It's time to get the shell.md",
+                "file": "PNPT Chekclists/01 Master Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
+                "file": "Try Hack Me/06 Wreath/5.1 Git server Pivoting.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hashcat",
+                "query": "cat .ss",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -256,14 +256,27 @@
   },
   "active": "9774173df1286d61",
   "lastOpenFiles": [
+    "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
+    "PNPT Chekclists/01 Master Note.md",
     "Exam Test/06.1 Pivoting.md",
     "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
-    "Exam Test/OSINT Report.md",
     "Exam Test/05 2nd Rev Shell.md",
-    "PNPT Chekclists/01 Master Note.md",
     "Exam Test/01 Scanning.md",
-    "Active Directory/Initial Attack Vectors/1.1 Cracking Captured Hashes.md",
+    "Exam Test/03 It's time to get the shell.md",
+    "Try Hack Me/06 Wreath/5.1 Git server Pivoting.md",
+    "Try Hack Me/06 Wreath/4.7 Ligolo-ng.md",
+    "Try Hack Me/06 Wreath/4.6 Conclusion.md",
+    "Try Hack Me/06 Wreath/4.5 Sshuttle.md",
+    "Try Hack Me/06 Wreath/4.4 Chisel.md",
+    "Try Hack Me/06 Wreath/5.2 Git Server Code Review.md",
+    "Try Hack Me/06 Wreath/5.3 Reverse Shell.md",
+    "Try Hack Me/06 Wreath/5.4 Stabilization & Post Exploitation.md",
+    "Try Hack Me/06 Wreath/6.1 Empire Listeners.md",
+    "Try Hack Me/06 Wreath/6.2 Empire Stagers.md",
+    "Try Hack Me/07 Holo/05 Web Directory Bursting.md",
     "Try Hack Me/07 Holo/Task 15 - Docker Situational Awareness.md",
+    "Exam Test/OSINT Report.md",
+    "Active Directory/Initial Attack Vectors/1.1 Cracking Captured Hashes.md",
     "Exam Test/00 Images/Pasted image 20240822165840.png",
     "Exam Test/00 Images/Pasted image 20240822165714.png",
     "Exam Test/00 Images/Pasted image 20240822165410.png",
@@ -278,20 +291,7 @@
     "Active Directory Practice/01 Forest/02 Enumeration.md",
     "HackTheBox/Retarded Machine/01 Active/01 Notes aka observation regarding the machine.md",
     "PNPT Chekclists/02 PEH Checklist.md",
-    "Exam Test/03 It's time to get the shell.md",
-    "PNPT Chekclists/05 LPE Checklist.md",
-    "Exam Test/04 SQL.md",
-    "Exam Test/02 Enumeration.md",
-    "Exam Test/00 Checklist.md",
     "Exam Test/00 Images/Pasted image 20240818160415.png",
-    "Try Hack Me/07 Holo/Task 20 Privilege Escalation.md",
-    "PNPT Chekclists/04 WPE Checklist.md",
-    "Try Hack Me/07 Holo/Task 19 Docker Breakout.md",
-    "Try Hack Me/07 Holo/Task 18 Docker Breakout.md",
-    "Try Hack Me/07 Holo/Task 17 - Situational Awareness.md",
-    "Try Hack Me/07 Holo/Task 16 - Living Off the LAND.md",
-    "PNPT Chekclists/08 Installed the Required Software's and Labs.md",
-    "PNPT Chekclists/07 Password Policy.md",
     "Thumb/New folder",
     "Thumb",
     "New folder",
