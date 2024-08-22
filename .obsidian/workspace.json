@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam Test/OSINT Report.md",
+                "file": "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exam Test/OSINT Report.md",
+                "file": "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exam Test/OSINT Report.md",
+                "file": "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exam Test/OSINT Report.md"
+                "file": "Exam Test/06 Let's Pick into it more it smells like Pivoting.md"
               }
             }
           },
@@ -256,6 +256,9 @@
   },
   "active": "9c6518a5bb3cf860",
   "lastOpenFiles": [
+    "Exam Test/05 2nd Rev Shell.md",
+    "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
+    "Exam Test/OSINT Report.md",
     "Exam Test/00 Images/Pasted image 20240822165840.png",
     "Exam Test/00 Images/Pasted image 20240822165714.png",
     "Exam Test/00 Images/Pasted image 20240822165410.png",
@@ -264,8 +267,6 @@
     "Exam Test/00 Images/Pasted image 20240822163914.png",
     "Exam Test/00 Images/Pasted image 20240822163832.png",
     "Exam Test/00 Images/Pasted image 20240822163747.png",
-    "Exam Test/05 2nd Rev Shell.md",
-    "Exam Test/OSINT Report.md",
     "Active Directory Practice/02 Blackfield/02 Enumeration.md",
     "PNPT Chekclists/09 Hashcat.md",
     "Exam Test/00 Images/Pasted image 20240821232619.png",
@@ -283,7 +284,6 @@
     "Exam Test/00 Images/Pasted image 20240818160415.png",
     "Try Hack Me/07 Holo/Task 20 Privilege Escalation.md",
     "PNPT Chekclists/04 WPE Checklist.md",
-    "Exam Test/00 Images/Pasted image 20240818125838.png",
     "Try Hack Me/07 Holo/Task 19 Docker Breakout.md",
     "Try Hack Me/07 Holo/Task 18 Docker Breakout.md",
     "Try Hack Me/07 Holo/Task 17 - Situational Awareness.md",

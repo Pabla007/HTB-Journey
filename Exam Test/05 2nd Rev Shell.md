@@ -125,11 +125,6 @@ ubuntu:!$6$6/mlN/Q.1gopcuhc$7ymOCjV3RETFUl6GaNbau9MdEGS6NgeXLM.CDcuS5gNj2oIQLpRL
 linux-admin:$6$Zs4KmlUsMiwVLy2y$V8S5G3q7tpBMZip8Iv/H6i5ctHVFf6.fS.HXBw9Kyv96Qbc2ZHzHlYHkaHm8A5toyMA3J53JU.dc6ZCjRxhjV1:18570:0:99999:7:::
 ```
 
-We have the linux password
-```
-linuxrulez
-```
-
 ## Hashcat
 
 ```
@@ -139,6 +134,12 @@ linuxrulez
 It took around 3-4 hours to do this 
 
 ![[Pasted image 20240821232619.png]]
+
+We have the linux password
+```
+linuxrulez
+```
+
 
 Let's see if we can get the .ssh keys fingers closed
 ```
