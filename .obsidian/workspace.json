@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory/Initial Attack Vectors/1.1 Cracking Captured Hashes.md",
+                "file": "PNPT Chekclists/01 Master Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
+                "file": "PNPT Chekclists/01 Master Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
+                "file": "PNPT Chekclists/01 Master Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exam Test/06 Let's Pick into it more it smells like Pivoting.md"
+                "file": "PNPT Chekclists/01 Master Note.md"
               }
             }
           },
@@ -254,10 +254,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c6518a5bb3cf860",
+  "active": "9774173df1286d61",
   "lastOpenFiles": [
-    "Exam Test/05 2nd Rev Shell.md",
+    "Active Directory/Initial Attack Vectors/1.1 Cracking Captured Hashes.md",
+    "Try Hack Me/07 Holo/Task 15 - Docker Situational Awareness.md",
     "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
+    "Exam Test/05 2nd Rev Shell.md",
     "Exam Test/OSINT Report.md",
     "Exam Test/00 Images/Pasted image 20240822165840.png",
     "Exam Test/00 Images/Pasted image 20240822165714.png",
@@ -270,7 +272,6 @@
     "Active Directory Practice/02 Blackfield/02 Enumeration.md",
     "PNPT Chekclists/09 Hashcat.md",
     "Exam Test/00 Images/Pasted image 20240821232619.png",
-    "Active Directory/Initial Attack Vectors/1.1 Cracking Captured Hashes.md",
     "Active Directory Practice/01 Forest/02 Enumeration.md",
     "Exam Test/01 Scanning.md",
     "HackTheBox/Retarded Machine/01 Active/01 Notes aka observation regarding the machine.md",
@@ -291,7 +292,6 @@
     "PNPT Chekclists/08 Installed the Required Software's and Labs.md",
     "PNPT Chekclists/07 Password Policy.md",
     "Try Hack Me/06 Wreath/5.1 Git server Pivoting.md",
-    "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
     "Thumb/New folder",
     "Thumb",
     "New folder",
