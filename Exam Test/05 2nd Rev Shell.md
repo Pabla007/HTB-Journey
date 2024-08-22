@@ -139,11 +139,3 @@ We have the linux password
 ```
 linuxrulez
 ```
-
-
-Let's see if we can get the .ssh keys fingers closed
-```
-
-```
-
-

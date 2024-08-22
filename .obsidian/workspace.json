@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PNPT Chekclists/01 Master Note.md",
+                "file": "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam Test/01 Scanning.md",
+                "file": "PNPT Chekclists/01 Master Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PNPT Chekclists/01 Master Note.md",
+                "file": "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PNPT Chekclists/01 Master Note.md",
+                "file": "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PNPT Chekclists/01 Master Note.md"
+                "file": "Exam Test/06 Let's Pick into it more it smells like Pivoting.md"
               }
             }
           },
@@ -256,11 +256,13 @@
   },
   "active": "9774173df1286d61",
   "lastOpenFiles": [
+    "PNPT Chekclists/01 Master Note.md",
+    "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
+    "Exam Test/01 Scanning.md",
+    "Exam Test/OSINT Report.md",
+    "Exam Test/05 2nd Rev Shell.md",
     "Active Directory/Initial Attack Vectors/1.1 Cracking Captured Hashes.md",
     "Try Hack Me/07 Holo/Task 15 - Docker Situational Awareness.md",
-    "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
-    "Exam Test/05 2nd Rev Shell.md",
-    "Exam Test/OSINT Report.md",
     "Exam Test/00 Images/Pasted image 20240822165840.png",
     "Exam Test/00 Images/Pasted image 20240822165714.png",
     "Exam Test/00 Images/Pasted image 20240822165410.png",
@@ -273,10 +275,8 @@
     "PNPT Chekclists/09 Hashcat.md",
     "Exam Test/00 Images/Pasted image 20240821232619.png",
     "Active Directory Practice/01 Forest/02 Enumeration.md",
-    "Exam Test/01 Scanning.md",
     "HackTheBox/Retarded Machine/01 Active/01 Notes aka observation regarding the machine.md",
     "PNPT Chekclists/02 PEH Checklist.md",
-    "PNPT Chekclists/01 Master Note.md",
     "Exam Test/03 It's time to get the shell.md",
     "PNPT Chekclists/05 LPE Checklist.md",
     "Exam Test/04 SQL.md",
