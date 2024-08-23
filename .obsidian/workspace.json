@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
+                "file": "Exam Test/06.1 Pivoting.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
+                "file": "Exam Test/06.1 Pivoting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
+                "file": "Exam Test/06.1 Pivoting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exam Test/06 Let's Pick into it more it smells like Pivoting.md"
+                "file": "Exam Test/06.1 Pivoting.md"
               }
             }
           },
@@ -256,11 +256,12 @@
   },
   "active": "d90e600eb68e65cf",
   "lastOpenFiles": [
-    "Try Hack Me/07 Holo/Task 20 Privilege Escalation.md",
+    "Exam Test/00 Images/Pasted image 20240823110914.png",
+    "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
     "Exam Test/06.1 Pivoting.md",
+    "Try Hack Me/07 Holo/Task 20 Privilege Escalation.md",
     "Exam Test/00 Images/Pasted image 20240822205040.png",
     "Exam Test/00 Images/Pasted image 20240822204612.png",
-    "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
     "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
     "PNPT Chekclists/01 Master Note.md",
     "Exam Test/05 2nd Rev Shell.md",
@@ -291,7 +292,6 @@
     "Active Directory Practice/02 Blackfield/02 Enumeration.md",
     "PNPT Chekclists/09 Hashcat.md",
     "Active Directory Practice/01 Forest/02 Enumeration.md",
-    "HackTheBox/Retarded Machine/01 Active/01 Notes aka observation regarding the machine.md",
     "Thumb/New folder",
     "Thumb",
     "New folder",
