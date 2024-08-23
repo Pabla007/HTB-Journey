@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
+                "file": "PNPT Chekclists/2.0 AD OSINT.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam Test/06.1 Pivoting.md",
+                "file": "PNPT Chekclists/2.0 AD OSINT.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/02 Blackfield/02 Enumeration.md",
+                "file": "Try Hack Me/03 Attacktive Directory/04.1 Kerberos enumeration of users & passwd.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4265f60781244b3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,18 +74,6 @@
               "type": "markdown",
               "state": {
                 "file": "Try Hack Me/06 Wreath/5.1 Git server Pivoting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4265f60781244b3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PNPT Chekclists/01 Master Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -144,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cat .ss",
+                "query": "user.txt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -253,43 +254,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7dd6b24ee999536",
+  "active": "4265f60781244b3e",
   "lastOpenFiles": [
     "Exam Test/05 2nd Rev Shell.md",
-    "Try Hack Me/07 Holo/Task 15 - Docker Situational Awareness.md",
-    "Exam Test/06.1 Pivoting.md",
+    "Try Hack Me/03 Attacktive Directory/04.1 Kerberos enumeration of users & passwd.md",
+    "PNPT Chekclists/2.0 AD OSINT.md",
+    "Try Hack Me/03 Attacktive Directory/04 Enumerate AD.md",
+    "HackTheBox/Retarded Machine/03 Academy/07 Spawn a Bin Bash Shell in MSF.md",
+    "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
+    "HackTheBox/Retarded Machine/01 Active/05 Psexec.py.md",
+    "Exam Test/03 It's time to get the shell.md",
+    "Active Directory Practice/06  Sauna/03 Enumeration.md",
+    "Active Directory Practice/07 Monterverde/03 Enumeration.md",
+    "Active Directory Practice/10 Mantis/03 Enumeration.md",
+    "Try Hack Me/04 VulnNet/03 Enumeration.md",
+    "Active Directory Practice/03 Sizzle/02 Enumeration.md",
     "Active Directory Practice/02 Blackfield/02 Enumeration.md",
-    "Exam Test/00 Images/Pasted image 20240823130758.png",
+    "Try Hack Me/05 RazorBlack/06 Zip Kerberos.md",
+    "Try Hack Me/03 Attacktive Directory/05 Exploitations.md",
+    "Active Directory Practice/05 Return/Let's start again/03 Enumeration.md",
+    "Active Directory Practice/01 Forest/02 Enumeration.md",
     "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
-    "Exam Test/OSINT Report.md",
+    "Exam Test/04 SQL.md",
+    "PNPT Chekclists/2.1 AD CheckList.md",
+    "PNPT Chekclists/01 Master Note.md",
+    "Try Hack Me/06 Wreath/5.1 Git server Pivoting.md",
+    "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
+    "PNPT Chekclists/02 PEH Checklist.md",
+    "Exam Test/01 Scanning.md",
+    "Exam Test/00 Images/Pasted image 20240823130758.png",
     "Exam Test/00 Images/Pasted image 20240823110914.png",
-    "Try Hack Me/07 Holo/Task 20 Privilege Escalation.md",
     "Exam Test/00 Images/Pasted image 20240822205040.png",
     "Exam Test/00 Images/Pasted image 20240822204612.png",
-    "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
-    "PNPT Chekclists/01 Master Note.md",
-    "Exam Test/01 Scanning.md",
-    "Exam Test/03 It's time to get the shell.md",
-    "Try Hack Me/06 Wreath/5.1 Git server Pivoting.md",
-    "Try Hack Me/06 Wreath/4.7 Ligolo-ng.md",
-    "Try Hack Me/06 Wreath/4.6 Conclusion.md",
-    "Try Hack Me/06 Wreath/4.5 Sshuttle.md",
-    "Try Hack Me/06 Wreath/4.4 Chisel.md",
-    "Try Hack Me/06 Wreath/5.2 Git Server Code Review.md",
-    "Try Hack Me/06 Wreath/5.3 Reverse Shell.md",
-    "Try Hack Me/06 Wreath/5.4 Stabilization & Post Exploitation.md",
-    "Try Hack Me/06 Wreath/6.1 Empire Listeners.md",
-    "Try Hack Me/06 Wreath/6.2 Empire Stagers.md",
-    "Try Hack Me/07 Holo/05 Web Directory Bursting.md",
-    "Active Directory/Initial Attack Vectors/1.1 Cracking Captured Hashes.md",
     "Exam Test/00 Images/Pasted image 20240822165840.png",
     "Exam Test/00 Images/Pasted image 20240822165714.png",
     "Exam Test/00 Images/Pasted image 20240822165410.png",
     "Exam Test/00 Images/Pasted image 20240822165118.png",
     "Exam Test/00 Images/Pasted image 20240822164935.png",
     "Exam Test/00 Images/Pasted image 20240822163914.png",
-    "PNPT Chekclists/09 Hashcat.md",
-    "Active Directory Practice/01 Forest/02 Enumeration.md",
     "Thumb/New folder",
     "Thumb",
     "New folder",

@@ -52,7 +52,6 @@ Nmap done: 256 IP addresses (5 hosts up) scanned in 5.01 seconds
 
 ## So we have 5 hosts lets check  30/31/33/35
 
-
 I think got my hands on the the Domain controller (i.e. 10.201.11.30)
 ## 10.201.11.30 | DC-SRV01
 ```
