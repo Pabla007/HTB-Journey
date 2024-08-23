@@ -283,3 +283,11 @@ Service detection performed. Please report any incorrect results at https://nmap
 Nmap done: 1 IP address (1 host up) scanned in 14.24 seconds
 ```
 
+
+So i have to open all the sites to check what we get 
+We get IIS Server on 30 & 33
+We get a login page on 31 (i.e.  S-SRV01)
+
+Let's ding into it some more.
+
+
