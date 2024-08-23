@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam Test/03 It's time to get the shell.md",
+                "file": "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exam Test/03 It's time to get the shell.md",
+                "file": "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exam Test/03 It's time to get the shell.md",
+                "file": "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exam Test/03 It's time to get the shell.md"
+                "file": "Exam Test/06 Let's Pick into it more it smells like Pivoting.md"
               }
             }
           },
@@ -256,6 +256,9 @@
   },
   "active": "4265f60781244b3e",
   "lastOpenFiles": [
+    "Exam Test/00 Images/Pasted image 20240823162515.png",
+    "Exam Test/00 Images/Pasted image 20240823162351.png",
+    "Exam Test/03 It's time to get the shell.md",
     "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
     "Exam Test/06.1 Pivoting.md",
     "Exam Test/05 2nd Rev Shell.md",
@@ -265,7 +268,6 @@
     "HackTheBox/Retarded Machine/03 Academy/07 Spawn a Bin Bash Shell in MSF.md",
     "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
     "HackTheBox/Retarded Machine/01 Active/05 Psexec.py.md",
-    "Exam Test/03 It's time to get the shell.md",
     "Active Directory Practice/06  Sauna/03 Enumeration.md",
     "Active Directory Practice/07 Monterverde/03 Enumeration.md",
     "Active Directory Practice/10 Mantis/03 Enumeration.md",
@@ -281,7 +283,6 @@
     "PNPT Chekclists/01 Master Note.md",
     "Try Hack Me/06 Wreath/5.1 Git server Pivoting.md",
     "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
-    "PNPT Chekclists/02 PEH Checklist.md",
     "Exam Test/00 Images/Pasted image 20240823130758.png",
     "Exam Test/00 Images/Pasted image 20240823110914.png",
     "Exam Test/00 Images/Pasted image 20240822205040.png",
@@ -291,7 +292,6 @@
     "Exam Test/00 Images/Pasted image 20240822165410.png",
     "Exam Test/00 Images/Pasted image 20240822165118.png",
     "Exam Test/00 Images/Pasted image 20240822164935.png",
-    "Exam Test/00 Images/Pasted image 20240822163914.png",
     "Thumb/New folder",
     "Thumb",
     "New folder",

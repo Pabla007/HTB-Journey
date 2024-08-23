@@ -284,10 +284,21 @@ Nmap done: 1 IP address (1 host up) scanned in 14.24 seconds
 ```
 
 
+While getting the usernames aka valid usernames i decided to peak into the other websites and guess what  
 So i have to open all the sites to check what we get 
+
 We get IIS Server on 30 & 33
 We get a login page on 31 (i.e.  S-SRV01)
 
 Let's ding into it some more.
 
+![[Pasted image 20240823162351.png]]
 
+So we have 2 options see this (i.e. sql injection and directory bursting)
+
+```
+http://10.201.11.31/images/webshell.php?cmd=hostname
+```
+![[Pasted image 20240823162515.png]]
+
+Let's see if we can get the rev-shell
