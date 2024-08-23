@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PNPT Chekclists/2.0 AD OSINT.md",
+                "file": "Exam Test/00 Usernames and Password.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam Test/07.1 Burp Suite.md",
+                "file": "Exam Test/02 Enumeration.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,8 +115,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "user.txt",
+                "query": "DBManagerLogin!",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exam Test/07.1 Burp Suite.md",
+                "file": "Exam Test/00 Usernames and Password.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exam Test/07.1 Burp Suite.md",
+                "file": "Exam Test/00 Usernames and Password.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exam Test/07.1 Burp Suite.md"
+                "file": "Exam Test/00 Usernames and Password.md"
               }
             }
           },
@@ -254,13 +253,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4265f60781244b3e",
+  "active": "e7dd6b24ee999536",
   "lastOpenFiles": [
-    "Exam Test/00 Images/Pasted image 20240823190303.png",
     "Exam Test/07 Enumerate S-SRV01.md",
-    "Exam Test/07.1 Burp Suite.md",
-    "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
     "Exam Test/06.1 Pivoting.md",
+    "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
+    "Exam Test/01 Scanning.md",
+    "Exam Test/00 Usernames and Password.md",
+    "Exam Test/02 Enumeration.md",
+    "Exam Test/04 SQL.md",
+    "Exam Test/03 It's time to get the shell.md",
+    "Exam Test/05 2nd Rev Shell.md",
+    "PNPT Chekclists/2.0 AD OSINT.md",
+    "Try Hack Me/03 Attacktive Directory/04.1 Kerberos enumeration of users & passwd.md",
+    "Exam Test/07.1 Burp Suite.md",
+    "Exam Test/00 Images/Pasted image 20240823190303.png",
     "Exam Test/00 Images/Pasted image 20240823165711.png",
     "Exam Test/00 Images/Pasted image 20240823165205.png",
     "Exam Test/00 Images/Pasted image 20240823164339.png",
@@ -268,10 +275,6 @@
     "Exam Test/00 Images/Pasted image 20240823163137.png",
     "Exam Test/00 Images/Pasted image 20240823162515.png",
     "Exam Test/00 Images/Pasted image 20240823162351.png",
-    "Exam Test/03 It's time to get the shell.md",
-    "Exam Test/05 2nd Rev Shell.md",
-    "Try Hack Me/03 Attacktive Directory/04.1 Kerberos enumeration of users & passwd.md",
-    "PNPT Chekclists/2.0 AD OSINT.md",
     "Try Hack Me/03 Attacktive Directory/04 Enumerate AD.md",
     "HackTheBox/Retarded Machine/03 Academy/07 Spawn a Bin Bash Shell in MSF.md",
     "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
@@ -286,12 +289,8 @@
     "Try Hack Me/03 Attacktive Directory/05 Exploitations.md",
     "Active Directory Practice/05 Return/Let's start again/03 Enumeration.md",
     "Active Directory Practice/01 Forest/02 Enumeration.md",
-    "Exam Test/04 SQL.md",
-    "PNPT Chekclists/2.1 AD CheckList.md",
-    "PNPT Chekclists/01 Master Note.md",
     "Exam Test/00 Images/Pasted image 20240823130758.png",
     "Exam Test/00 Images/Pasted image 20240823110914.png",
-    "Exam Test/00 Images/Pasted image 20240822205040.png",
     "Thumb/New folder",
     "Thumb",
     "New folder",
