@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam Test/06.1 Pivoting.md",
+                "file": "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exam Test/06.1 Pivoting.md",
+                "file": "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exam Test/06.1 Pivoting.md",
+                "file": "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exam Test/06.1 Pivoting.md"
+                "file": "Exam Test/06 Let's Pick into it more it smells like Pivoting.md"
               }
             }
           },
@@ -256,8 +256,8 @@
   },
   "active": "d90e600eb68e65cf",
   "lastOpenFiles": [
-    "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
     "Exam Test/06.1 Pivoting.md",
+    "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
     "Exam Test/OSINT Report.md",
     "Exam Test/00 Images/Pasted image 20240823110914.png",
     "Try Hack Me/07 Holo/Task 20 Privilege Escalation.md",
