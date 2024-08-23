@@ -37,3 +37,6 @@ PS C:\web> type passwords.txt
 ```
 
 
+I have missed a part we have some related to login page as well (i.e. some kind of attack with login reset page)
+
+CSRF: Client Side Request Forgery 
