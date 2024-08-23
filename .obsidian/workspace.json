@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
+                "file": "Exam Test/03 It's time to get the shell.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
+                "file": "Exam Test/03 It's time to get the shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
+                "file": "Exam Test/03 It's time to get the shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exam Test/06 Let's Pick into it more it smells like Pivoting.md"
+                "file": "Exam Test/03 It's time to get the shell.md"
               }
             }
           },
@@ -256,8 +256,8 @@
   },
   "active": "4265f60781244b3e",
   "lastOpenFiles": [
-    "Exam Test/06.1 Pivoting.md",
     "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
+    "Exam Test/06.1 Pivoting.md",
     "Exam Test/05 2nd Rev Shell.md",
     "Try Hack Me/03 Attacktive Directory/04.1 Kerberos enumeration of users & passwd.md",
     "PNPT Chekclists/2.0 AD OSINT.md",
