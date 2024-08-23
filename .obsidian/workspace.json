@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/07 Holo/Task 15 - Docker Situational Awareness.md",
+                "file": "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,6 +26,18 @@
               "type": "markdown",
               "state": {
                 "file": "Exam Test/06.1 Pivoting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30520fd56de0ae3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Active Directory Practice/02 Blackfield/02 Enumeration.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,19 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30520fd56de0ae3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Active Directory Practice/02 Blackfield/02 Enumeration.md",
+                "file": "Exam Test/06.1 Pivoting.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,8 +115,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,9 +253,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d90e600eb68e65cf",
+  "active": "e7dd6b24ee999536",
   "lastOpenFiles": [
+    "Exam Test/05 2nd Rev Shell.md",
+    "Try Hack Me/07 Holo/Task 15 - Docker Situational Awareness.md",
     "Exam Test/06.1 Pivoting.md",
+    "Active Directory Practice/02 Blackfield/02 Enumeration.md",
+    "Exam Test/00 Images/Pasted image 20240823130758.png",
     "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
     "Exam Test/OSINT Report.md",
     "Exam Test/00 Images/Pasted image 20240823110914.png",
@@ -265,7 +268,6 @@
     "Exam Test/00 Images/Pasted image 20240822204612.png",
     "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
     "PNPT Chekclists/01 Master Note.md",
-    "Exam Test/05 2nd Rev Shell.md",
     "Exam Test/01 Scanning.md",
     "Exam Test/03 It's time to get the shell.md",
     "Try Hack Me/06 Wreath/5.1 Git server Pivoting.md",
@@ -279,7 +281,6 @@
     "Try Hack Me/06 Wreath/6.1 Empire Listeners.md",
     "Try Hack Me/06 Wreath/6.2 Empire Stagers.md",
     "Try Hack Me/07 Holo/05 Web Directory Bursting.md",
-    "Try Hack Me/07 Holo/Task 15 - Docker Situational Awareness.md",
     "Active Directory/Initial Attack Vectors/1.1 Cracking Captured Hashes.md",
     "Exam Test/00 Images/Pasted image 20240822165840.png",
     "Exam Test/00 Images/Pasted image 20240822165714.png",
@@ -287,8 +288,6 @@
     "Exam Test/00 Images/Pasted image 20240822165118.png",
     "Exam Test/00 Images/Pasted image 20240822164935.png",
     "Exam Test/00 Images/Pasted image 20240822163914.png",
-    "Exam Test/00 Images/Pasted image 20240822163832.png",
-    "Active Directory Practice/02 Blackfield/02 Enumeration.md",
     "PNPT Chekclists/09 Hashcat.md",
     "Active Directory Practice/01 Forest/02 Enumeration.md",
     "Thumb/New folder",
