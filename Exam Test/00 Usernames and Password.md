@@ -1,7 +1,7 @@
 
 Usernames
 ```
-admin (i.e. gurag)
+gurag
 admin
 linux-admin
 newuser

