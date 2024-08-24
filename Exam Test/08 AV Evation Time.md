@@ -44,3 +44,11 @@ To Begin with Obfuscation will focus on manual obfuscation more as it's more rel
 
 To aid in our obfuscation efforts, we will use the AMSITrigger script, [https://github.com/RythmStick/AMSITrigger](https://github.com/RythmStick/AMSITrigger), written by RythmStick
 
+
+Automated obfuscators like Invoke-Obfuscation and ISE-Steroids to perform advanced string and signature manipulation.  
+
+We again recommend using a development virtual machine to test and edit code.
+
+
+When creating a token command, you will need to be careful not to obfuscate the payload too much and exceed the 8191 character limit in a Windows command prompt.
+
