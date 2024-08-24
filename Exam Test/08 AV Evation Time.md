@@ -40,5 +40,7 @@ Will Target `Matt Graeber` reflection method as well as patching `amsi.dll`
 ##  It is helpful to think of obfuscation as an art rather than a technique.
 
 
+To Begin with Obfuscation will focus on manual obfuscation more as it's more reliable compared to automated obfuscators.
+
 To aid in our obfuscation efforts, we will use the AMSITrigger script, [https://github.com/RythmStick/AMSITrigger](https://github.com/RythmStick/AMSITrigger), written by RythmStick
 
