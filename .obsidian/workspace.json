@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam Test/07.2 Upload.md",
+                "file": "Exam Test/07.2 Enumerate S-SRV01.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam Test/07 Enumerate S-SRV01.md",
+                "file": "Exam Test/07.2 Enumerate S-SRV01.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exam Test/07.2 Upload.md",
+                "file": "Exam Test/07.2 Enumerate S-SRV01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exam Test/07.2 Upload.md",
+                "file": "Exam Test/07.2 Enumerate S-SRV01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exam Test/07.2 Upload.md"
+                "file": "Exam Test/07.2 Enumerate S-SRV01.md"
               }
             }
           },
@@ -255,12 +255,15 @@
   },
   "active": "e7dd6b24ee999536",
   "lastOpenFiles": [
+    "Exam Test/07.1 Upload.md",
+    "Exam Test/07.0 Burp Suite.md",
+    "Exam Test/07.2 Enumerate S-SRV01.md",
+    "Exam Test/00 Images/Pasted image 20240823233843.png",
+    "Exam Test/00 Images/Pasted image 20240823233655.png",
+    "Exam Test/00 Images/Pasted image 20240823233638.png",
     "Try Hack Me/07 Holo/Task 18 Docker Breakout.md",
-    "Exam Test/07.2 Upload.md",
     "Exam Test/00 Images/Pasted image 20240823232231.png",
     "Exam Test/OSINT Report.md",
-    "Exam Test/07.1 Burp Suite.md",
-    "Exam Test/07 Enumerate S-SRV01.md",
     "Exam Test/06.1 Pivoting.md",
     "Exam Test/00 Usernames and Password.md",
     "Exam Test/01 Scanning.md",
@@ -271,9 +274,6 @@
     "Exam Test/00 Images/Pasted image 20240823231443.png",
     "Exam Test/00 Images/Pasted image 20240823230819.png",
     "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
-    "Exam Test/00 Images/Pasted image 20240823225141.png",
-    "Exam Test/00 Images/Pasted image 20240823224539.png",
-    "Exam Test/00 Images/Pasted image 20240823223735.png",
     "Exam Test/02 Enumeration.md",
     "PNPT Chekclists/2.0 AD OSINT.md",
     "Exam Test/04 SQL.md",
@@ -290,7 +290,6 @@
     "Try Hack Me/04 VulnNet/03 Enumeration.md",
     "Active Directory Practice/03 Sizzle/02 Enumeration.md",
     "Active Directory Practice/02 Blackfield/02 Enumeration.md",
-    "Try Hack Me/05 RazorBlack/06 Zip Kerberos.md",
     "Thumb/New folder",
     "Thumb",
     "New folder",
