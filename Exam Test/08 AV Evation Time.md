@@ -8,4 +8,6 @@ https://www.gaijin.at/en/tools/php-obfuscator
 ```
 
 
-As i was going through this Php obfuscation won't work 
+As i was going through this Php obfuscation won't work so will have to learn something on the lines of either updating amsi.dll or obfuscate it aka AMSIception.
+
+
