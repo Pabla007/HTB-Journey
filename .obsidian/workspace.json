@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PNPT Chekclists/10 Anti Virus Evasion.md",
+                "file": "Exam Test/00 Usernames and Password.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exam Test/08 AV Evation Time.md",
+                "file": "Exam Test/00 Usernames and Password.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exam Test/08 AV Evation Time.md",
+                "file": "Exam Test/00 Usernames and Password.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exam Test/08 AV Evation Time.md"
+                "file": "Exam Test/00 Usernames and Password.md"
               }
             }
           },
@@ -253,19 +254,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7dd6b24ee999536",
+  "active": "9774173df1286d61",
   "lastOpenFiles": [
-    "Try Hack Me/06 Wreath/8.2 AV Evasion PHP Payload Obfuscation.md",
-    "PNPT Chekclists/10 Anti Virus Evasion.md",
     "Exam Test/08 AV Evation Time.md",
-    "Try Hack Me/03 Attacktive Directory/06 Catch The Flag U Herooooooooo.md",
+    "Exam Test/00 Images/Pasted image 20240825202530.png",
+    "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
+    "Exam Test/07.1 Upload.md",
+    "Exam Test/07.0 Burp Suite.md",
+    "Exam Test/00 Usernames and Password.md",
+    "Exam Test/01 Scanning.md",
     "Exam Test/07.2 Enumerate S-SRV01.md",
+    "PNPT Chekclists/10 Anti Virus Evasion.md",
+    "Try Hack Me/06 Wreath/8.2 AV Evasion PHP Payload Obfuscation.md",
+    "Try Hack Me/03 Attacktive Directory/06 Catch The Flag U Herooooooooo.md",
     "Try Hack Me/06 Wreath/8.1 AV Evasion Methods.md",
     "Try Hack Me/06 Wreath/08 AV Evasion Introduction.md",
     "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
-    "Exam Test/07.1 Upload.md",
-    "Exam Test/00 Usernames and Password.md",
-    "Exam Test/07.0 Burp Suite.md",
     "Exam Test/00 Images/Pasted image 20240823233843.png",
     "Exam Test/00 Images/Pasted image 20240823233655.png",
     "Exam Test/00 Images/Pasted image 20240823233638.png",
@@ -273,14 +277,11 @@
     "Exam Test/00 Images/Pasted image 20240823232231.png",
     "Exam Test/OSINT Report.md",
     "Exam Test/06.1 Pivoting.md",
-    "Exam Test/01 Scanning.md",
     "Exam Test/00 Images/Pasted image 20240823232058.png",
     "Exam Test/00 Images/Pasted image 20240823231716.png",
     "Exam Test/00 Images/Pasted image 20240823231607.png",
     "Exam Test/00 Images/Pasted image 20240823231448.png",
     "Exam Test/00 Images/Pasted image 20240823231443.png",
-    "Exam Test/00 Images/Pasted image 20240823230819.png",
-    "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
     "Exam Test/02 Enumeration.md",
     "PNPT Chekclists/2.0 AD OSINT.md",
     "Exam Test/04 SQL.md",
@@ -290,7 +291,6 @@
     "Try Hack Me/03 Attacktive Directory/04 Enumerate AD.md",
     "HackTheBox/Retarded Machine/03 Academy/07 Spawn a Bin Bash Shell in MSF.md",
     "Try Hack Me/07 Holo/06 Web App Exploitation LEEROY JENKINS!.md",
-    "HackTheBox/Retarded Machine/01 Active/05 Psexec.py.md",
     "Thumb/New folder",
     "Thumb",
     "New folder",
