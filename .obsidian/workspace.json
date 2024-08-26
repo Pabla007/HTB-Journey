@@ -11,12 +11,8 @@
             "id": "e7dd6b24ee999536",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exam Test/08 AV Evation Time.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -25,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam Test/07.2 Enumerate S-SRV01.md",
+                "file": "Exam Test/07.1 Upload.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exam Test/07.2 Enumerate S-SRV01.md",
+                "file": "Exam Test/07.1 Upload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exam Test/07.2 Enumerate S-SRV01.md",
+                "file": "Exam Test/07.1 Upload.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exam Test/07.2 Enumerate S-SRV01.md"
+                "file": "Exam Test/07.1 Upload.md"
               }
             }
           },
@@ -256,17 +252,17 @@
   },
   "active": "9774173df1286d61",
   "lastOpenFiles": [
-    "Exam Test/07.1 Upload.md",
-    "Exam Test/07.0 Burp Suite.md",
-    "Exam Test/06.1 Pivoting.md",
     "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
+    "Exam Test/06.1 Pivoting.md",
+    "Exam Test/07.0 Burp Suite.md",
     "Exam Test/05 2nd Rev Shell.md",
-    "Exam Test/04 SQL.md",
     "Exam Test/03 It's time to get the shell.md",
-    "Exam Test/01 Scanning.md",
     "Exam Test/00 Usernames and Password.md",
-    "Exam Test/08 AV Evation Time.md",
     "Exam Test/07.2 Enumerate S-SRV01.md",
+    "Exam Test/07.1 Upload.md",
+    "Exam Test/04 SQL.md",
+    "Exam Test/01 Scanning.md",
+    "Exam Test/08 AV Evation Time.md",
     "Exam Test/00 Images/Pasted image 20240825202530.png",
     "PNPT Chekclists/10 Anti Virus Evasion.md",
     "Try Hack Me/06 Wreath/8.2 AV Evasion PHP Payload Obfuscation.md",
