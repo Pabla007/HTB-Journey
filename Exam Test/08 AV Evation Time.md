@@ -85,3 +85,9 @@ Payload that is not detected by AV
 ```
 
 
+But not able to get the reverse shell which means we have to stop the AV first and than we are good to go.
+Let's try to kill the windows defender
+```
+
+```
+![[Pasted image 20240829023638.png]]
