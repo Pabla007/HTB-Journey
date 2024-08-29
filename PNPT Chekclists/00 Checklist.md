@@ -1,6 +1,8 @@
 
 This is a check list so that i don't forget something while Pen testing and it will change with Time.
 
+I have to make a list of attacks and things that i have to carry out 
+during Internal and External Pentest
 
 
 <hr>
