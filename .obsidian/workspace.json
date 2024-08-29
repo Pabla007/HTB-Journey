@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
+                "file": "Exam Test/09 Let's See how to Escalate further.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/10 Mantis/03 Enumeration.md",
+                "file": "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam Test/00 Usernames and Password.md",
+                "file": "PNPT Chekclists/2.2 AD Master Checklist.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exam Test/00 Usernames and Password.md",
+                "file": "Exam Test/09 Let's See how to Escalate further.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exam Test/00 Usernames and Password.md",
+                "file": "Exam Test/09 Let's See how to Escalate further.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exam Test/00 Usernames and Password.md"
+                "file": "Exam Test/09 Let's See how to Escalate further.md"
               }
             }
           },
@@ -254,40 +254,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "281c508d4dd65461",
+  "active": "9774173df1286d61",
   "lastOpenFiles": [
-    "Active Directory Practice/10 Mantis/03 Enumeration.md",
+    "Exam Test/00 Images/Pasted image 20240830043757.png",
+    "PNPT Chekclists/2.0 AD OSINT.md",
+    "Active Directory Practice/03 Sizzle/02 Enumeration.md",
     "Exam Test/09 Let's See how to Escalate further.md",
+    "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
+    "Exam Test/05 2nd Rev Shell.md",
+    "Exam Test/03 It's time to get the shell.md",
+    "Active Directory Practice/02 Blackfield/02 Enumeration.md",
+    "Active Directory/Initial Attack Vectors/1.1 Cracking Captured Hashes.md",
+    "Exam Test/07.2 Enumerate S-SRV01.md",
+    "Active Directory Practice/10 Mantis/03 Enumeration.md",
+    "PNPT Chekclists/01 Master Note.md",
+    "PNPT Chekclists/2.2 AD Master Checklist.md",
+    "Exam Test/00 Usernames and Password.md",
     "Exam Test/00 Images/Pasted image 20240830041056.png",
     "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
-    "PNPT Chekclists/2.0 AD OSINT.md",
     "Try Hack Me/05 RazorBlack/01 Notes aka observation regarding the machine.md",
     "Exam Test/07.0 Burp Suite.md",
     "Exam Test/07.1 Upload.md",
     "Exam Test/06.1 Pivoting.md",
-    "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
-    "Exam Test/05 2nd Rev Shell.md",
     "Exam Test/02 Enumeration.md",
-    "Exam Test/00 Usernames and Password.md",
     "PNPT Chekclists/00 Checklist.md",
-    "PNPT Chekclists/01 Master Note.md",
     "Try Hack Me/02 Blueprint/06 Try to get NTLM using MimiKatz.md",
     "Exam Test/08 AV Evation Time.md",
-    "Exam Test/07.2 Enumerate S-SRV01.md",
     "Try Hack Me/03 Attacktive Directory/04.1 Kerberos enumeration of users & passwd.md",
     "Exam Test/00 Images/Pasted image 20240829025257.png",
     "Exam Test/00 Images/Pasted image 20240829025109.png",
     "Exam Test/00 Images/Pasted image 20240829024821.png",
     "Exam Test/00 Images/Pasted image 20240829023654.png",
     "Exam Test/00 Images/Pasted image 20240829023638.png",
-    "Exam Test/03 It's time to get the shell.md",
     "Exam Test/04 SQL.md",
     "Exam Test/01 Scanning.md",
     "Exam Test/00 Images/Pasted image 20240825202530.png",
-    "PNPT Chekclists/10 Anti Virus Evasion.md",
-    "Try Hack Me/06 Wreath/8.2 AV Evasion PHP Payload Obfuscation.md",
-    "Try Hack Me/03 Attacktive Directory/06 Catch The Flag U Herooooooooo.md",
-    "Try Hack Me/06 Wreath/8.1 AV Evasion Methods.md",
     "Exam Test/00 Images/Pasted image 20240823233843.png",
     "Exam Test/00 Images/Pasted image 20240823233655.png",
     "Exam Test/00 Images/Pasted image 20240823233638.png",

