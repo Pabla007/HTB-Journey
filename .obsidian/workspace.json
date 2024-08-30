@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exam Test/09 Let's See how to Escalate further.md",
+                "file": "PNPT Chekclists/01 Master Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exam Test/09 Let's See how to Escalate further.md",
+                "file": "PNPT Chekclists/01 Master Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exam Test/09 Let's See how to Escalate further.md"
+                "file": "PNPT Chekclists/01 Master Note.md"
               }
             }
           },
@@ -254,21 +254,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9774173df1286d61",
+  "active": "e7dd6b24ee999536",
   "lastOpenFiles": [
+    "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
+    "Exam Test/09 Let's See how to Escalate further.md",
+    "Exam Test/00 Usernames and Password.md",
     "Try Hack Me/05 RazorBlack/11 Privilege escalation.md",
     "Active Directory Practice/02 Blackfield/02 Enumeration.md",
     "Try Hack Me/05 RazorBlack/06 Zip Kerberos.md",
     "Try Hack Me/04 VulnNet/08 Dumb Shell.md",
     "Try Hack Me/04 VulnNet/06 More SMB Enumeration.md",
     "Try Hack Me/04 VulnNet/09 Sharphound plus Bloodhound.md",
-    "Exam Test/09 Let's See how to Escalate further.md",
     "Try Hack Me/05 RazorBlack/10 Kerberos Attack.md",
     "Exam Test/00 Images/Pasted image 20240830044707.png",
     "Exam Test/00 Images/Pasted image 20240830043757.png",
     "PNPT Chekclists/2.0 AD OSINT.md",
     "Active Directory Practice/03 Sizzle/02 Enumeration.md",
-    "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
     "Exam Test/05 2nd Rev Shell.md",
     "Exam Test/03 It's time to get the shell.md",
     "Active Directory/Initial Attack Vectors/1.1 Cracking Captured Hashes.md",
@@ -276,7 +277,6 @@
     "Active Directory Practice/10 Mantis/03 Enumeration.md",
     "PNPT Chekclists/01 Master Note.md",
     "PNPT Chekclists/2.2 AD Master Checklist.md",
-    "Exam Test/00 Usernames and Password.md",
     "Exam Test/00 Images/Pasted image 20240830041056.png",
     "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
     "Try Hack Me/05 RazorBlack/01 Notes aka observation regarding the machine.md",
