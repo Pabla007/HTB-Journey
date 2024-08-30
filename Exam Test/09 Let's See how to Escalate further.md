@@ -165,3 +165,10 @@ smbclient //10.201.11.35/Users -U watamet -W holo.live
 HOLO{2cb097ab8c412d565ec3cab49c6b082e} 
 ```
 
+We got the RDP access as well 
+```
+xfreerdp /dynamic-resolution +clipboard /cert:ignore /v:10.201.11.35 /u:'holo.live\watamet' /p:'Nothingtoworry!'
+```
+
+which to be honest i didn't tried
+
