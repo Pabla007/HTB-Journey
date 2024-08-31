@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/04 VulnNet/09 Sharphound plus Bloodhound.md",
+                "file": "PNPT Chekclists/04 WPE Checklist.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PNPT Chekclists/00 Checklist.md",
+                "file": "PNPT Chekclists/04 WPE Checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PNPT Chekclists/00 Checklist.md",
+                "file": "PNPT Chekclists/04 WPE Checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PNPT Chekclists/00 Checklist.md"
+                "file": "PNPT Chekclists/04 WPE Checklist.md"
               }
             }
           },
@@ -254,13 +254,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a59eface60f8c62a",
+  "active": "e7dd6b24ee999536",
   "lastOpenFiles": [
+    "Exam Test/10 Priv Escalation.md",
+    "Exam Test/09 Let's See how to Escalate further.md",
+    "Exam Test/00 Usernames and Password.md",
+    "PNPT Chekclists/00 Checklist.md",
     "Active Directory Practice/09 Reel/05 Escalate.md",
     "Active Directory Practice/01 Forest/05 BloodHound.md",
-    "Exam Test/09 Let's See how to Escalate further.md",
     "Exam Test/03 It's time to get the shell.md",
-    "Exam Test/00 Usernames and Password.md",
     "Exam Test/00 Images/Pasted image 20240830143400.png",
     "Exam Test/00 Images/Pasted image 20240830142737.png",
     "Exam Test/00 Images/Pasted image 20240830142532.png",
@@ -285,9 +287,7 @@
     "Exam Test/05 2nd Rev Shell.md",
     "Active Directory/Initial Attack Vectors/1.1 Cracking Captured Hashes.md",
     "Exam Test/07.2 Enumerate S-SRV01.md",
-    "Active Directory Practice/10 Mantis/03 Enumeration.md",
     "Exam Test/00 Images/Pasted image 20240830041056.png",
-    "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
     "Exam Test/00 Images/Pasted image 20240829025257.png",
     "Exam Test/00 Images/Pasted image 20240829025109.png",
     "Exam Test/00 Images/Pasted image 20240829024821.png",
