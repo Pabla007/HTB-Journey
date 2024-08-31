@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PNPT Chekclists/04 WPE Checklist.md",
+                "file": "Exam Test/10 Priv Escalation.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PNPT Chekclists/04 WPE Checklist.md",
+                "file": "Exam Test/10 Priv Escalation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PNPT Chekclists/04 WPE Checklist.md",
+                "file": "Exam Test/10 Priv Escalation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PNPT Chekclists/04 WPE Checklist.md"
+                "file": "Exam Test/10 Priv Escalation.md"
               }
             }
           },
@@ -256,6 +256,7 @@
   },
   "active": "e7dd6b24ee999536",
   "lastOpenFiles": [
+    "PNPT Chekclists/04 WPE Checklist.md",
     "Exam Test/10 Priv Escalation.md",
     "Exam Test/09 Let's See how to Escalate further.md",
     "Exam Test/00 Usernames and Password.md",
@@ -286,7 +287,6 @@
     "Active Directory Practice/03 Sizzle/02 Enumeration.md",
     "Exam Test/05 2nd Rev Shell.md",
     "Active Directory/Initial Attack Vectors/1.1 Cracking Captured Hashes.md",
-    "Exam Test/07.2 Enumerate S-SRV01.md",
     "Exam Test/00 Images/Pasted image 20240830041056.png",
     "Exam Test/00 Images/Pasted image 20240829025257.png",
     "Exam Test/00 Images/Pasted image 20240829025109.png",
