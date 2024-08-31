@@ -162,8 +162,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,7 +254,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7dd6b24ee999536",
+  "active": "a59eface60f8c62a",
   "lastOpenFiles": [
     "Active Directory Practice/09 Reel/05 Escalate.md",
     "Active Directory Practice/01 Forest/05 BloodHound.md",
