@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam Test/09 Let's See how to Escalate further.md",
+                "file": "Try Hack Me/04 VulnNet/09 Sharphound plus Bloodhound.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "getNP",
+                "query": "powervi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,7 +162,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exam Test/09 Let's See how to Escalate further.md",
+                "file": "Try Hack Me/04 VulnNet/09 Sharphound plus Bloodhound.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exam Test/09 Let's See how to Escalate further.md",
+                "file": "Try Hack Me/04 VulnNet/09 Sharphound plus Bloodhound.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exam Test/09 Let's See how to Escalate further.md"
+                "file": "Try Hack Me/04 VulnNet/09 Sharphound plus Bloodhound.md"
               }
             }
           },
@@ -256,9 +257,11 @@
   },
   "active": "e7dd6b24ee999536",
   "lastOpenFiles": [
+    "Active Directory Practice/09 Reel/05 Escalate.md",
+    "Active Directory Practice/01 Forest/05 BloodHound.md",
+    "Exam Test/09 Let's See how to Escalate further.md",
     "Exam Test/03 It's time to get the shell.md",
     "Exam Test/00 Usernames and Password.md",
-    "Exam Test/09 Let's See how to Escalate further.md",
     "Exam Test/00 Images/Pasted image 20240830143400.png",
     "Exam Test/00 Images/Pasted image 20240830142737.png",
     "Exam Test/00 Images/Pasted image 20240830142532.png",
@@ -286,7 +289,6 @@
     "Active Directory Practice/10 Mantis/03 Enumeration.md",
     "Exam Test/00 Images/Pasted image 20240830041056.png",
     "Try Hack Me/06 Wreath/05 Git Server Enumeration.md",
-    "Try Hack Me/05 RazorBlack/01 Notes aka observation regarding the machine.md",
     "Exam Test/00 Images/Pasted image 20240829025257.png",
     "Exam Test/00 Images/Pasted image 20240829025109.png",
     "Exam Test/00 Images/Pasted image 20240829024821.png",
