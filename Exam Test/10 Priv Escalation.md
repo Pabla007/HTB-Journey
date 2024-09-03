@@ -154,3 +154,8 @@ So upon doing manual enumeration i found Applications folder which is a Obivo a 
 
 ![[Pasted image 20240903104305.png]]
 
+
+So it might be vulnerable to print night mare vulnerability.
+
+![[Pasted image 20240904021616.png]]
+
