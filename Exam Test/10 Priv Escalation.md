@@ -146,3 +146,6 @@ SeIncreaseWorkingSetPrivilege Increase a process working set Disabled
 ![[Pasted image 20240902033528.png]]
 
 
+Power-View
+![[Pasted image 20240903101740.png]]
+
