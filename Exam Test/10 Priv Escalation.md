@@ -130,3 +130,19 @@ S-SRV01.holo.live
 ```
 
 
+```
+PS C:\Windows\Tasks> whoami /priv
+
+PRIVILEGES INFORMATION
+----------------------
+
+Privilege Name                Description                    State
+============================= ============================== ========
+SeChangeNotifyPrivilege       Bypass traverse checking       Enabled
+SeIncreaseWorkingSetPrivilege Increase a process working set Disabled
+```
+
+
+![[Pasted image 20240902033528.png]]
+
+
