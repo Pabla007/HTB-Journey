@@ -149,3 +149,8 @@ SeIncreaseWorkingSetPrivilege Increase a process working set Disabled
 Power-View
 ![[Pasted image 20240903101740.png]]
 
+So upon doing manual enumeration i found Applications folder which is a Obivo a Sus
+![[Pasted image 20240903104136.png]]
+
+![[Pasted image 20240903104305.png]]
+
