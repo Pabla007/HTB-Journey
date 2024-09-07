@@ -37,6 +37,7 @@ But let's see how NTLM works as i didn't know how the algo works like i now we c
 Now that we understand what an NTLM hash is and how it is hashed, we can look at how it responds and requests and why it can only be relayed and not replayed.
 
 ```
-
+evil-winrm -u Sardarji -p 'Password123!' -i 10.201.11.35 -s /usr/share/powershell-empire/empire/server/data/module_source/situational_awareness/network 
 ```
+
 
