@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/10 Mantis/03 Enumeration.md",
+                "file": "Exam Test/11 Last Asset DC-SRV01.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam Test/11 Last Asset DC-SRV01.md",
+                "file": "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,8 +111,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,15 +249,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7dd6b24ee999536",
+  "active": "30520fd56de0ae3d",
   "lastOpenFiles": [
+    "Exam Test/00 Images/Pasted image 20240907170321.png",
+    "PNPT Chekclists/10 Anti Virus Evasion.md",
+    "Active Directory Practice/10 Mantis/03 Enumeration.md",
     "PNPT Chekclists/01 Master Note.md",
-    "Exam Test/11 Last Asset DC-SRV01.md",
-    "Exam Test/10 Priv Escalation.md",
     "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
+    "Exam Test/05 2nd Rev Shell.md",
+    "Exam Test/11 Last Asset DC-SRV01.md",
+    "Exam Test/00 Images/Pasted image 20240907164157.png",
+    "Exam Test/10 Priv Escalation.md",
     "Exam Test/09 Let's See how to Escalate further.md",
     "PNPT Chekclists/08 Installed the Required Software's and Labs.md",
-    "PNPT Chekclists/10 Anti Virus Evasion.md",
     "PNPT Chekclists/09 Hashcat.md",
     "PNPT Chekclists/02 PEH Checklist.md",
     "Exam Test/00 Usernames and Password.md",
@@ -269,17 +272,14 @@
     "Exam Test/07.1 Upload.md",
     "Exam Test/07.0 Burp Suite.md",
     "Exam Test/03 It's time to get the shell.md",
-    "Exam Test/05 2nd Rev Shell.md",
     "Active Directory Practice/07 Monterverde/03 Enumeration.md",
     "PNPT Chekclists/2.0 AD OSINT.md",
     "PNPT Chekclists/2.1 AD CheckList.md",
-    "Active Directory Practice/10 Mantis/03 Enumeration.md",
     "PNPT Chekclists/2.2 AD Master Checklist.md",
     "PNPT Chekclists/11 CVE.md",
     "Exam Test/OSINT Report.md",
     "Exam Test/06.1 Pivoting.md",
     "PNPT Chekclists/00 Checklist.md",
-    "PNPT Chekclists/03 OSINT Checklist.md",
     "Exam Test/00 Images/Pasted image 20240904025943.png",
     "Exam Test/00 Images/Pasted image 20240904024007.png",
     "Exam Test/00 Images/Pasted image 20240904023402.png",
@@ -287,7 +287,6 @@
     "Exam Test/00 Images/Pasted image 20240903104305.png",
     "Exam Test/00 Images/Pasted image 20240903104136.png",
     "Exam Test/00 Images/Pasted image 20240903101740.png",
-    "Exam Test/00 Images/Pasted image 20240902033528.png",
     "Thumb/New folder",
     "Thumb",
     "New folder",
