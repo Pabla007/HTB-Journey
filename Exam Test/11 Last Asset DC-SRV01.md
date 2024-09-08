@@ -11,7 +11,6 @@ S-SRV02
 I will see how can i craft a NTLM so that i could catch it.
 
 
-
 Let's get the RDP for 10.201.11.35
 ```
 xfreerdp /dynamic-resolution +clipboard /cert:ignore /v:10.201.11.35 /u:'Sardarji' /p:'Password123!'

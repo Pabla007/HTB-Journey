@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam Test/10 Priv Escalation.md",
+                "file": "Exam Test/11 Last Asset DC-SRV01.md",
                 "mode": "source",
                 "source": false
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exam Test/10 Priv Escalation.md",
+                "file": "Exam Test/11 Last Asset DC-SRV01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exam Test/10 Priv Escalation.md",
+                "file": "Exam Test/11 Last Asset DC-SRV01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exam Test/10 Priv Escalation.md"
+                "file": "Exam Test/11 Last Asset DC-SRV01.md"
               }
             }
           },
@@ -251,11 +251,11 @@
   },
   "active": "30520fd56de0ae3d",
   "lastOpenFiles": [
+    "Exam Test/10 Priv Escalation.md",
     "Exam Test/09 Let's See how to Escalate further.md",
     "Exam Test/08 AV Evation Time.md",
     "Exam Test/07.2 Enumerate S-SRV01.md",
     "Exam Test/07.1 Upload.md",
-    "Exam Test/10 Priv Escalation.md",
     "Exam Test/11 Last Asset DC-SRV01.md",
     "Exam Test/00 Images/Pasted image 20240907170321.png",
     "PNPT Chekclists/10 Anti Virus Evasion.md",
