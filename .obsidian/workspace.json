@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam Test/11 Last Asset DC-SRV01.md",
+                "file": "Active Directory Practice/01 Forest/02 Enumeration.md",
                 "mode": "source",
                 "source": false
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exam Test/11 Last Asset DC-SRV01.md",
+                "file": "Active Directory Practice/01 Forest/02 Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exam Test/11 Last Asset DC-SRV01.md",
+                "file": "Active Directory Practice/01 Forest/02 Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exam Test/11 Last Asset DC-SRV01.md"
+                "file": "Active Directory Practice/01 Forest/02 Enumeration.md"
               }
             }
           },
@@ -251,15 +251,16 @@
   },
   "active": "30520fd56de0ae3d",
   "lastOpenFiles": [
+    "Assessment/06 Command Injection.md",
+    "Exam Test/09 Let's See how to Escalate further.md",
+    "Exam Test/10 Priv Escalation.md",
+    "Exam Test/11 Last Asset DC-SRV01.md",
     "Exam Test/00 Images/Pasted image 20240909014851.png",
     "Exam Test/00 Images/Pasted image 20240909014646.png",
     "Exam Test/00 Images/Pasted image 20240909014618.png",
-    "Exam Test/10 Priv Escalation.md",
-    "Exam Test/09 Let's See how to Escalate further.md",
     "Exam Test/08 AV Evation Time.md",
     "Exam Test/07.2 Enumerate S-SRV01.md",
     "Exam Test/07.1 Upload.md",
-    "Exam Test/11 Last Asset DC-SRV01.md",
     "Exam Test/00 Images/Pasted image 20240907170321.png",
     "PNPT Chekclists/10 Anti Virus Evasion.md",
     "Active Directory Practice/10 Mantis/03 Enumeration.md",
@@ -286,7 +287,6 @@
     "Exam Test/00 Images/Pasted image 20240904025943.png",
     "Exam Test/00 Images/Pasted image 20240904024007.png",
     "Exam Test/00 Images/Pasted image 20240904023402.png",
-    "Exam Test/00 Images/Pasted image 20240904021616.png",
     "Thumb/New folder",
     "Thumb",
     "New folder",
