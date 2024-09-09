@@ -21,9 +21,9 @@ Internal Compromise
 
 Practice Time
 TryHackme
-- [ ] Wreath
+- [x] Wreath
 - [ ] AD-Throghback
-- [ ] Holo
+- [x] Holo
 - [ ] Lateral Movement and Pivoting
 
 
@@ -45,17 +45,17 @@ HackTheBox
 - [ ] cascade 
 
 
-traversex
-Resolute
-Fuse
-remote
-fulcrum
-following
+- [ ] traversex
+- [ ] Resolute
+- [ ] Fuse
+- [ ] remote
+- [ ] fulcrum
+- [ ] following
 
 
 10 AD boxes to attack. Have fun!!!
 https://app.hackthebox.com/tracks/Active-Directory-101
-Forest, Sauna, Active, Blackfield, Resolute, Reel, Sizzle, Mantis, Cascade, Multimaster
+Cascade, Multimaster
 
 If you're up for a realistic challenge that emulates a real-life network, check out Pro Labs which are larger, simulated corporate networks.
 

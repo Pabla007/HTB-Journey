@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/01 Forest/02 Enumeration.md",
+                "file": "Active Directory/00 Active Directory Contents.md",
                 "mode": "source",
                 "source": false
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory Practice/01 Forest/02 Enumeration.md",
+                "file": "Active Directory/00 Active Directory Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory Practice/01 Forest/02 Enumeration.md",
+                "file": "Active Directory/00 Active Directory Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory Practice/01 Forest/02 Enumeration.md"
+                "file": "Active Directory/00 Active Directory Contents.md"
               }
             }
           },
@@ -251,6 +251,7 @@
   },
   "active": "30520fd56de0ae3d",
   "lastOpenFiles": [
+    "Active Directory Practice/01 Forest/02 Enumeration.md",
     "Assessment/06 Command Injection.md",
     "Exam Test/09 Let's See how to Escalate further.md",
     "Exam Test/10 Priv Escalation.md",
@@ -283,7 +284,6 @@
     "PNPT Chekclists/11 CVE.md",
     "Exam Test/OSINT Report.md",
     "Exam Test/06.1 Pivoting.md",
-    "PNPT Chekclists/00 Checklist.md",
     "Exam Test/00 Images/Pasted image 20240904025943.png",
     "Exam Test/00 Images/Pasted image 20240904024007.png",
     "Exam Test/00 Images/Pasted image 20240904023402.png",
