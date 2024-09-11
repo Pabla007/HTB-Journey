@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory/00 Active Directory Contents.md",
+                "file": "Exam Test/09 Let's See how to Escalate further.md",
                 "mode": "source",
                 "source": false
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory/00 Active Directory Contents.md",
+                "file": "Exam Test/09 Let's See how to Escalate further.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory/00 Active Directory Contents.md",
+                "file": "Exam Test/09 Let's See how to Escalate further.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory/00 Active Directory Contents.md"
+                "file": "Exam Test/09 Let's See how to Escalate further.md"
               }
             }
           },
@@ -251,10 +251,11 @@
   },
   "active": "30520fd56de0ae3d",
   "lastOpenFiles": [
+    "Exam Test/10 Priv Escalation.md",
+    "Active Directory/00 Active Directory Contents.md",
     "Active Directory Practice/01 Forest/02 Enumeration.md",
     "Assessment/06 Command Injection.md",
     "Exam Test/09 Let's See how to Escalate further.md",
-    "Exam Test/10 Priv Escalation.md",
     "Exam Test/11 Last Asset DC-SRV01.md",
     "Exam Test/00 Images/Pasted image 20240909014851.png",
     "Exam Test/00 Images/Pasted image 20240909014646.png",
@@ -283,7 +284,6 @@
     "PNPT Chekclists/2.2 AD Master Checklist.md",
     "PNPT Chekclists/11 CVE.md",
     "Exam Test/OSINT Report.md",
-    "Exam Test/06.1 Pivoting.md",
     "Exam Test/00 Images/Pasted image 20240904025943.png",
     "Exam Test/00 Images/Pasted image 20240904024007.png",
     "Exam Test/00 Images/Pasted image 20240904023402.png",
