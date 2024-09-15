@@ -96,19 +96,19 @@ https://www.youtube.com/watch?v=cX3lgdH302s
 ```
 
 TryHackme
-- [ ] Wreath
+- [x] Wreath
 - [ ] AD-Throghback
-- [ ] Holo
+- [x] Holo
 - [ ] Lateral Movement and Pivoting
 
 
 HackTheBox
 - [x] Forest 
 - [x] Blackfield
-- [ ] Sizzle 
-- [ ] Monterverde
-- [ ] Return
-- [ ] Sauna <- this one is great
+- [x] Sizzle 
+- [x] Monterverde
+- [x] Return
+- [x] Sauna <- this one is great
 - [x] Active
 - [x] Support
 
