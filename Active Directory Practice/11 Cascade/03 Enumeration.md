@@ -43,3 +43,8 @@ user:[i.croft] rid:[0x46f]
 ```
 
 ![[Pasted image 20240517001945.png]]
+
+```
+rpcclient -U '' -N 10.10.10.182
+```
+
