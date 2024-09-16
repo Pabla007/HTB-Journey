@@ -310,3 +310,89 @@ ldapsearch -H ldaps://10.10.10.182:3268/ -x -s base -b '' "(objectClass=*)" "*" 
 ldapsearch -x -h 10.10.10.182 -b "dc=cascade,dc=lcoal"
 ```
 
+Finally this worked
+```
+ldapsearch -x -H ldap://10.10.10.182 -b "dc=cascade,dc=local" "(sAMAccountName=r.thompson)"
+```
+
+
+```
+ldapsearch -x -H ldap://10.10.10.182 -b "dc=cascade,dc=local" "(sAMAccountName=r.thompson)"
+# extended LDIF
+#
+# LDAPv3
+# base <dc=cascade,dc=local> with scope subtree
+# filter: (sAMAccountName=r.thompson)
+# requesting: ALL
+#
+
+# Ryan Thompson, Users, UK, cascade.local
+dn: CN=Ryan Thompson,OU=Users,OU=UK,DC=cascade,DC=local
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Ryan Thompson
+sn: Thompson
+givenName: Ryan
+distinguishedName: CN=Ryan Thompson,OU=Users,OU=UK,DC=cascade,DC=local
+instanceType: 4
+whenCreated: 20200109193126.0Z
+whenChanged: 20200323112031.0Z
+displayName: Ryan Thompson
+uSNCreated: 24610
+memberOf: CN=IT,OU=Groups,OU=UK,DC=cascade,DC=local
+uSNChanged: 295010
+name: Ryan Thompson
+objectGUID:: LfpD6qngUkupEy9bFXBBjA==
+userAccountControl: 66048
+badPwdCount: 84
+codePage: 0
+countryCode: 0
+badPasswordTime: 133709785228944498
+lastLogoff: 0
+lastLogon: 132247339125713230
+pwdLastSet: 132230718862636251
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAMvuhxgsd8Uf1yHJFVQQAAA==
+accountExpires: 9223372036854775807
+logonCount: 2
+sAMAccountName: r.thompson
+sAMAccountType: 805306368
+userPrincipalName: r.thompson@cascade.local
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=cascade,DC=local
+dSCorePropagationData: 20200126183918.0Z
+dSCorePropagationData: 20200119174753.0Z
+dSCorePropagationData: 20200119174719.0Z
+dSCorePropagationData: 20200119174508.0Z
+dSCorePropagationData: 16010101000000.0Z
+lastLogonTimestamp: 132294360317419816
+msDS-SupportedEncryptionTypes: 0
+cascadeLegacyPwd: clk0bjVldmE=
+
+# search reference
+ref: ldap://ForestDnsZones.cascade.local/DC=ForestDnsZones,DC=cascade,DC=local
+
+# search reference
+ref: ldap://DomainDnsZones.cascade.local/DC=DomainDnsZones,DC=cascade,DC=local
+
+# search reference
+ref: ldap://cascade.local/CN=Configuration,DC=cascade,DC=local
+
+# search result
+search: 2
+result: 0 Success
+
+# numResponses: 5
+# numEntries: 1
+# numReferences: 3
+
+```
+
+
+![[Pasted image 20240916222138.png]]
+
+```
+echo "clk0bjVldmE=" | base64 --decode
+rY4n5eva   
+```
