@@ -297,3 +297,16 @@ kerbrute userenum -d cascade.local --dc 10.10.10.182 valid_user.txt -t 100
 ```
 ![[Pasted image 20240916210934.png]]
 
+
+```
+ldapsearch -x -H 10.10.10.182 -s base  -b '' "(objectClass=*)" "*" +
+```
+
+```
+ldapsearch -H ldaps://10.10.10.182:3268/ -x -s base -b '' "(objectClass=*)" "*" +
+```
+
+```
+ldapsearch -x -h 10.10.10.182 -b "dc=cascade,dc=lcoal"
+```
+
