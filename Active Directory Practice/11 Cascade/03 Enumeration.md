@@ -251,3 +251,49 @@ Group: Data Share' (RID: 1138) has member: CASCADE\Domain Users
 rpcclient -U '' -N 10.10.10.182
 ```
 
+```
+└─# rpcclient -U '' -N 10.10.10.182
+rpcclient $> enumdomusers
+user:[CascGuest] rid:[0x1f5]
+user:[arksvc] rid:[0x452]
+user:[s.smith] rid:[0x453]
+user:[r.thompson] rid:[0x455]
+user:[util] rid:[0x457]
+user:[j.wakefield] rid:[0x45c]
+user:[s.hickson] rid:[0x461]
+user:[j.goodhand] rid:[0x462]
+user:[a.turnbull] rid:[0x464]
+user:[e.crowe] rid:[0x467]
+user:[b.hanson] rid:[0x468]
+user:[d.burman] rid:[0x469]
+user:[BackupSvc] rid:[0x46a]
+user:[j.allen] rid:[0x46e]
+user:[i.croft] rid:[0x46f]
+```
+
+
+User List
+```
+CascGuest
+arksvc
+s.smith
+r.thompson
+util
+j.wakefield
+s.hickson
+j.goodhand
+a.turnbull
+e.crowe
+b.hanson
+d.burman
+BackupSvc
+j.allen
+i.croft
+```
+
+Verify This users
+```
+kerbrute userenum -d cascade.local --dc 10.10.10.182 valid_user.txt -t 100
+```
+![[Pasted image 20240916210934.png]]
+
