@@ -396,3 +396,11 @@ result: 0 Success
 echo "clk0bjVldmE=" | base64 --decode
 rY4n5eva   
 ```
+
+
+```
+crackmapexec smb 10.10.10.182 -u valid_user.txt -p rY4n5eva
+```
+![[Pasted image 20240916235106.png]]
+
+
