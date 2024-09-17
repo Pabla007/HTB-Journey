@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/11 Cascade/05 Priv Escalation.md",
+                "file": "Active Directory Practice/04 Support/03 Smb Enumeration.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ilspy",
+                "query": "wine",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,7 +172,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory Practice/11 Cascade/05 Priv Escalation.md",
+                "file": "Active Directory Practice/04 Support/03 Smb Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory Practice/11 Cascade/05 Priv Escalation.md",
+                "file": "Active Directory Practice/04 Support/03 Smb Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory Practice/11 Cascade/05 Priv Escalation.md"
+                "file": "Active Directory Practice/04 Support/03 Smb Enumeration.md"
               }
             }
           },
@@ -266,10 +267,10 @@
   },
   "active": "9774173df1286d61",
   "lastOpenFiles": [
+    "Active Directory Practice/11 Cascade/05 Priv Escalation.md",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240917083411.png",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240917083409.png",
     "Active Directory Practice/04 Support/03 Smb Enumeration.md",
-    "Active Directory Practice/11 Cascade/05 Priv Escalation.md",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240917081823.png",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240917081817.png",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240917081807.png",
@@ -292,7 +293,6 @@
     "Active Directory Practice/03 Sizzle/02 Enumeration.md",
     "HackTheBox/Retarded Machine/02 Help/06 Another Vulerability.md",
     "Try Hack Me/05 Vulnnet Endgame/03 Typo03.md",
-    "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240916235106.png",
     "PNPT Chekclists/07 Password Policy.md",
     "Active Directory Practice/03 Sizzle/04 More enumeration.md",
     "PNPT Chekclists/06 EPP Checklist.md",
