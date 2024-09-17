@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/11 Cascade/04 Get the access.md",
+                "file": "Active Directory Practice/11 Cascade/05 Priv Escalation.md",
                 "mode": "source",
                 "source": false
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory Practice/11 Cascade/04 Get the access.md",
+                "file": "Active Directory Practice/11 Cascade/05 Priv Escalation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory Practice/11 Cascade/04 Get the access.md",
+                "file": "Active Directory Practice/11 Cascade/05 Priv Escalation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory Practice/11 Cascade/04 Get the access.md"
+                "file": "Active Directory Practice/11 Cascade/05 Priv Escalation.md"
               }
             }
           },
@@ -266,8 +266,10 @@
   },
   "active": "9774173df1286d61",
   "lastOpenFiles": [
-    "Active Directory Practice/11 Cascade/03 Enumeration.md",
     "Active Directory Practice/11 Cascade/04 Get the access.md",
+    "Active Directory Practice/11 Cascade/05 Priv Escalation.md",
+    "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240917073535.png",
+    "Active Directory Practice/11 Cascade/03 Enumeration.md",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240917014153.png",
     "Active Directory Practice/02 Blackfield/02 Enumeration.md",
     "PNPT Chekclists/2.0 AD OSINT.md",
@@ -302,7 +304,6 @@
     "Exam Test/00 Images/Pasted image 20240909014646.png",
     "Exam Test/00 Images/Pasted image 20240909014618.png",
     "Exam Test/00 Images/Pasted image 20240907170321.png",
-    "Exam Test/00 Images/Pasted image 20240907164157.png",
     "Thumb/New folder",
     "Thumb",
     "New folder",
