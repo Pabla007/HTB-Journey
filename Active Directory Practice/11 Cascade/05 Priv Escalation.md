@@ -4,6 +4,10 @@ DomainPwd!c4scadek3y6543217Error decrypting password:
 ```
 
 ```
+c4scadek3y654321
+```
+
+```
 1tdyjCbY1Ix49842
 ```
 ![[Pasted image 20240917081807.png]]
@@ -15,11 +19,25 @@ will enumerate it
 ```
 ![[Pasted image 20240917083411.png]]
 
-
+Data 
 ```
 BQO5l5Kj9MdErXx6Q6AGOw==
 ```
 
+Key
+```
+1tdyjCbY1Ix49842
 ```
 
+Secret Key
 ```
+c4scadek3y654321
+```
+
+Password
+```
+w3lc0meFr31nd
+```
+
+![[Pasted image 20240917183041.png]]
+
