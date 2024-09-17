@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/11 Cascade/04 Get the access.md",
+                "file": "Active Directory Practice/11 Cascade/05 Priv Escalation.md",
                 "mode": "source",
                 "source": false
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory Practice/11 Cascade/04 Get the access.md",
+                "file": "Active Directory Practice/11 Cascade/05 Priv Escalation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory Practice/11 Cascade/04 Get the access.md",
+                "file": "Active Directory Practice/11 Cascade/05 Priv Escalation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory Practice/11 Cascade/04 Get the access.md"
+                "file": "Active Directory Practice/11 Cascade/05 Priv Escalation.md"
               }
             }
           },
@@ -266,6 +266,7 @@
   },
   "active": "4265f60781244b3e",
   "lastOpenFiles": [
+    "Active Directory Practice/11 Cascade/04 Get the access.md",
     "Active Directory Practice/11 Cascade/05 Priv Escalation.md",
     "PNPT Chekclists/04 WPE Checklist.md",
     "Active Directory/02 Users.md",
@@ -280,7 +281,6 @@
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240917081804.png",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240917081516.png",
     "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
-    "Active Directory Practice/11 Cascade/04 Get the access.md",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240917073535.png",
     "Active Directory Practice/11 Cascade/03 Enumeration.md",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240917014153.png",
