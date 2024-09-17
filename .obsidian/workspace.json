@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/04 Support/03 Smb Enumeration.md",
+                "file": "Active Directory/02 Users.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PNPT Chekclists/04 WPE Checklist.md",
+                "file": "Active Directory Practice/11 Cascade/04 Get the access.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -172,8 +172,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory Practice/04 Support/03 Smb Enumeration.md",
+                "file": "Active Directory Practice/11 Cascade/04 Get the access.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory Practice/04 Support/03 Smb Enumeration.md",
+                "file": "Active Directory Practice/11 Cascade/04 Get the access.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory Practice/04 Support/03 Smb Enumeration.md"
+                "file": "Active Directory Practice/11 Cascade/04 Get the access.md"
               }
             }
           },
@@ -265,17 +264,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9774173df1286d61",
+  "active": "4265f60781244b3e",
   "lastOpenFiles": [
     "Active Directory Practice/11 Cascade/05 Priv Escalation.md",
+    "PNPT Chekclists/04 WPE Checklist.md",
+    "Active Directory/02 Users.md",
+    "Active Directory/Different Techniques.md",
+    "Active Directory Practice/04 Support/03 Smb Enumeration.md",
+    "PNPT Chekclists/2.0 AD OSINT.md",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240917083411.png",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240917083409.png",
-    "Active Directory Practice/04 Support/03 Smb Enumeration.md",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240917081823.png",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240917081817.png",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240917081807.png",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240917081804.png",
-    "PNPT Chekclists/04 WPE Checklist.md",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240917081516.png",
     "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
     "Active Directory Practice/11 Cascade/04 Get the access.md",
@@ -283,7 +285,6 @@
     "Active Directory Practice/11 Cascade/03 Enumeration.md",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240917014153.png",
     "Active Directory Practice/02 Blackfield/02 Enumeration.md",
-    "PNPT Chekclists/2.0 AD OSINT.md",
     "PNPT Chekclists/02 PEH Checklist.md",
     "PNPT Chekclists/2.2 AD Master Checklist.md",
     "PNPT Chekclists/01 Master Note.md",
@@ -301,7 +302,6 @@
     "Active Directory Practice/04 Support/05 Bloodhound.md",
     "Active Directory Practice/02 Blackfield/03 SMB and Winrm.md",
     "Active Directory Practice/10 Mantis/03 Enumeration.md",
-    "Active Directory Practice/07 Monterverde/02 Scanning.md",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images",
     "Try Hack Me/11 Lateral Movement and Pivoting",
     "Thumb/New folder",
