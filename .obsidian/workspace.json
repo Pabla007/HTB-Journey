@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/04 Support/03 Smb Enumeration.md",
+                "file": "Active Directory Practice/11 Cascade/05 Priv Escalation.md",
                 "mode": "source",
                 "source": false
               }
@@ -172,8 +172,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory Practice/04 Support/03 Smb Enumeration.md",
+                "file": "Active Directory Practice/11 Cascade/05 Priv Escalation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory Practice/04 Support/03 Smb Enumeration.md",
+                "file": "Active Directory Practice/11 Cascade/05 Priv Escalation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory Practice/04 Support/03 Smb Enumeration.md"
+                "file": "Active Directory Practice/11 Cascade/05 Priv Escalation.md"
               }
             }
           },
@@ -267,8 +266,16 @@
   },
   "active": "9774173df1286d61",
   "lastOpenFiles": [
+    "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240917083411.png",
+    "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240917083409.png",
+    "Active Directory Practice/04 Support/03 Smb Enumeration.md",
     "Active Directory Practice/11 Cascade/05 Priv Escalation.md",
+    "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240917081823.png",
+    "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240917081817.png",
+    "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240917081807.png",
+    "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240917081804.png",
     "PNPT Chekclists/04 WPE Checklist.md",
+    "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240917081516.png",
     "Exam Test/06 Let's Pick into it more it smells like Pivoting.md",
     "Active Directory Practice/11 Cascade/04 Get the access.md",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240917073535.png",
@@ -287,7 +294,6 @@
     "Try Hack Me/05 Vulnnet Endgame/03 Typo03.md",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240916235106.png",
     "PNPT Chekclists/07 Password Policy.md",
-    "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240916222138.png",
     "Active Directory Practice/03 Sizzle/04 More enumeration.md",
     "PNPT Chekclists/06 EPP Checklist.md",
     "Try Hack Me/05 RazorBlack/10 Kerberos Attack.md",
@@ -296,15 +302,8 @@
     "Active Directory Practice/02 Blackfield/03 SMB and Winrm.md",
     "Active Directory Practice/10 Mantis/03 Enumeration.md",
     "Active Directory Practice/07 Monterverde/02 Scanning.md",
-    "Active Directory Practice/06  Sauna/02 Scanning.md",
-    "Active Directory Practice/08 Resolute/02 Scanning.md",
-    "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240916210934.png",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images",
     "Try Hack Me/11 Lateral Movement and Pivoting",
-    "Exam Test/00 Images/Pasted image 20240909014851.png",
-    "Exam Test/00 Images/Pasted image 20240909014646.png",
-    "Exam Test/00 Images/Pasted image 20240909014618.png",
-    "Exam Test/00 Images/Pasted image 20240907170321.png",
     "Thumb/New folder",
     "Thumb",
     "New folder",

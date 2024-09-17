@@ -89,3 +89,24 @@ netsh firewall show state
 netsh firewall show config
 
 
+## How to run the .exe file in kali linux
+ILSpy is the **open-source .** **NET assembly browser and decompiler**
+
+```
+wget https://github.com/icsharpcode/AvaloniaILSpy/releases/download/v7.2-rc/Linux.x64.Release.zip
+```
+
+```
+unzip Linux.x64.Release.zip
+```
+
+```
+unzip ILSpy-linux-x64-Release.zip
+```
+
+```
+./ILSpy
+```
+
+![[Pasted image 20240917081516.png]]
+
