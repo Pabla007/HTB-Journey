@@ -48,3 +48,12 @@ s.smith
 ```
 
 Let's dig the password or this user and check the remaining smb.
+
+```
+CN=Test\0ADEL:ab073fb7-6d91-4fd1-b877-817b9e1b0e6d
+```
+
+```
+TempAdmin\0ADEL:f0cc344d-31e0-4866-bceb-a842791ca059
+```
+
