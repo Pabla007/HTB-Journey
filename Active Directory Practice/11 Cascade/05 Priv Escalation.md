@@ -49,3 +49,14 @@ evil-winrm -u 'ArkSvc' -p 'w3lc0meFr31nd' -i 10.10.10.182
 ![[Pasted image 20240918045612.png]]
 
 ![[Pasted image 20240919023504.png]]
+
+Winpeas
+```
+ WDigest is enabled - plaintext password extraction is possible!
+```
+
+```
+vbscrub
+*SENSITIVE*DATA*DELETED*
+```
+
