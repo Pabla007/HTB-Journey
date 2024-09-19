@@ -9,6 +9,6 @@ Domain Sid: S-1-5-21-3167813660-1240564177-918740779
 ```
 
 
-
-
+So after adding the IP in the host file got this 
+![[Pasted image 20240919042226.png]]
 
