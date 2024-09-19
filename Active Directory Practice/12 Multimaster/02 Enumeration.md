@@ -92,3 +92,5 @@ aldom@megacorp.htb
 
 So now i think we can run the sql injection in this as it reminds me of DVWA 
 
+So we technically have 4 fields
+![[Pasted image 20240919160202.png]]

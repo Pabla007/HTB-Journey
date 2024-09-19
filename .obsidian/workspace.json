@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PNPT Chekclists/2.0 AD OSINT.md",
+                "file": "Active Directory Practice/12 Multimaster/02 Enumeration.md",
                 "mode": "source",
                 "source": false
               }
@@ -192,7 +192,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -258,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assessment/07 SQL Injection.md",
+                "file": "Active Directory Practice/12 Multimaster/02 Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assessment/07 SQL Injection.md",
+                "file": "Active Directory Practice/12 Multimaster/02 Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assessment/07 SQL Injection.md"
+                "file": "Active Directory Practice/12 Multimaster/02 Enumeration.md"
               }
             }
           },
@@ -330,15 +330,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4265f60781244b3e",
+  "active": "281c508d4dd65461",
   "lastOpenFiles": [
+    "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20240919160202.png",
+    "Assessment/11 HSTS.md",
+    "PNPT Chekclists/2.0 AD OSINT.md",
+    "Assessment/07 SQL Injection.md",
     "Assessment/06 Command Injection.md",
     "Assessment/04 Vulnerability.md",
     "Assessment/03 Installing DVWA.md",
     "Active Directory Practice/12 Multimaster/02 Enumeration.md",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20240919153405.png",
     "PNPT Chekclists/01 Master Note.md",
-    "PNPT Chekclists/2.0 AD OSINT.md",
     "HackTheBox/Retarded Machine/02 Help/06 Another Vulerability.md",
     "Try Hack Me/05 Vulnnet Endgame/03 Typo03.md",
     "PNPT Chekclists/02 PEH Checklist.md",
@@ -360,14 +363,11 @@
     "Active Directory Practice/12 Multimaster/00 Images",
     "Active Directory Practice/12 Multimaster",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240919040059.png",
-    "Active Directory Practice/11 Cascade/05 Priv Escalation.md",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240919035835.png",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240919035738.png",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240919035359.png",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240919033540.png",
-    "Try Hack Me/06 Wreath/5.1 Git server Pivoting.md",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240919031500.png",
-    "Active Directory Practice/11 Cascade/04 Get the access.md",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240919023504.png",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240918045612.png",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images",
