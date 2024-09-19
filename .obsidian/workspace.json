@@ -238,8 +238,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -331,7 +330,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b7568eb2ab93f85",
+  "active": "a59eface60f8c62a",
   "lastOpenFiles": [
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20240919184507.png",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20240919184156.png",
