@@ -103,3 +103,25 @@ So we technically have 5 fields
 "src":"sbauer.jpg"
 ```
 
+
+Let's automate the process and see which payload works and which is not 
+```
+wfuzz -c -u http://10.10.10.179/api/getColleagues -w /usr/share/seclists/SecLists-master/Fuzzing/special-chars.txt -d '{"name":"FUZZ"}' -H 'Content-Type: application/json;charset=utf-8'
+```
+
+![[Pasted image 20240919183727.png]]
+
+
+So will try ' and it's value is 
+```
+\u27
+```
+and guess what we got an error
+
+![[Pasted image 20240919184156.png]]
+
+```
+\u0027
+```
+![[Pasted image 20240919184507.png]]
+

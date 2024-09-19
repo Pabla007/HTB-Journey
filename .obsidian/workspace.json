@@ -221,7 +221,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "notes",
+                "query": "sqlmap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -238,7 +238,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -330,8 +331,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4265f60781244b3e",
+  "active": "4b7568eb2ab93f85",
   "lastOpenFiles": [
+    "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20240919184507.png",
+    "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20240919184156.png",
+    "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20240919183727.png",
     "PNPT Chekclists/12 WebApp.md",
     "PNPT Chekclists/00 Checklist.md",
     "Assessment/07 SQL Injection.md",
@@ -360,7 +364,6 @@
     "Active Directory Practice/12 Multimaster/01 Scanning.md",
     "Exam Test/02 Enumeration.md",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20240919042226.png",
-    "Active Directory Practice/11 Cascade/06 Go For Admin Account.md",
     "Active Directory Practice/12 Multimaster/00 Images",
     "Active Directory Practice/12 Multimaster",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240919040059.png",
@@ -368,8 +371,6 @@
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240919035738.png",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240919035359.png",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240919033540.png",
-    "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240919031500.png",
-    "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240919023504.png",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images",
     "Try Hack Me/11 Lateral Movement and Pivoting",
     "Thumb/New folder",
