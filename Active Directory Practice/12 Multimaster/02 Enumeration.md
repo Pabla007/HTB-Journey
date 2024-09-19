@@ -46,3 +46,49 @@ Administrator
 rmartin
 pmartin
 ```
+
+
+So the login page is a dead end but when i pressed entered in colleague finder look what we got a list of valid users
+![[Pasted image 20240919153405.png]]
+
+```
+sbauer@megacorp.htb
+okent@megacorp.htb
+ckane@megacorp.htb
+kpage@megacorp.htb
+shayna@megacorp.htb
+james@megacorp.htb
+cyork@megacorp.htb
+rmartin@megacorp.htb
+zac@magacorp.htb
+jorden@megacorp.htb
+alyx@megacorp.htb
+ilee@megacorp.htb
+nbourne@megacorp.htb
+zpowers@megacorp.htb
+aldom@megacorp.htb
+minato@megacorp.htb
+egre55@megacorp.htb
+```
+
+2024/09/19 15:37:38 >  Done! Tested 17 usernames (14 valid) in 0.816 seconds
+
+```
+sbauer@megacorp.htb
+okent@megacorp.htb
+ckane@megacorp.htb
+kpage@megacorp.htb
+james@megacorp.htb
+cyork@megacorp.htb
+rmartin@megacorp.htb
+zac@magacorp.htb
+jorden@megacorp.htb
+alyx@megacorp.htb
+ilee@megacorp.htb
+nbourne@megacorp.htb
+zpowers@megacorp.htb
+aldom@megacorp.htb
+```
+
+So now i think we can run the sql injection in this as it reminds me of DVWA 
+
