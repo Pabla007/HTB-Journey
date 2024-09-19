@@ -37,7 +37,6 @@ So we have the users will try the login page now
 ```
 andrew
 james
-Andrew
 dai
 administrator
 alice
