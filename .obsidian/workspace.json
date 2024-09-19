@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/12 Multimaster/02 Enumeration.md",
+                "file": "HackTheBox/Retarded Machine/02 Help/06 Another Vulerability.md",
                 "mode": "source",
                 "source": false
               }
@@ -192,7 +192,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -221,7 +221,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ldapsearch",
+                "query": "sqlmap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -238,7 +238,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -258,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PNPT Chekclists/2.0 AD OSINT.md",
+                "file": "HackTheBox/Retarded Machine/02 Help/06 Another Vulerability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PNPT Chekclists/2.0 AD OSINT.md",
+                "file": "HackTheBox/Retarded Machine/02 Help/06 Another Vulerability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PNPT Chekclists/2.0 AD OSINT.md"
+                "file": "HackTheBox/Retarded Machine/02 Help/06 Another Vulerability.md"
               }
             }
           },
@@ -330,8 +331,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "281c508d4dd65461",
+  "active": "8573fafe144ee753",
   "lastOpenFiles": [
+    "Try Hack Me/05 Vulnnet Endgame/03 Typo03.md",
     "Active Directory Practice/12 Multimaster/02 Enumeration.md",
     "PNPT Chekclists/2.0 AD OSINT.md",
     "PNPT Chekclists/02 PEH Checklist.md",
@@ -367,7 +369,6 @@
     "PNPT Chekclists/10 Anti Virus Evasion.md",
     "PNPT Chekclists/08 Installed the Required Software's and Labs.md",
     "PNPT Chekclists/PNPT.md",
-    "PNPT Chekclists/11 CVE.md",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240918045612.png",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images/Pasted image 20240917183041.png",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images",
