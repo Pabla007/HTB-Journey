@@ -83,6 +83,14 @@ Directory Busting
 gobuster dir -u http://<hostname> -w /usr/share/wordlists/dirb/common.txt
 ```
 
+```
+-b to whiltelist
+```
+
+```
+gobuster dir -u http://10.10.10.179/ -w /usr/share/wordlists/dirb/common.txt -b 404,403
+```
+
 
 >[!important] Wfuzz
 ```
