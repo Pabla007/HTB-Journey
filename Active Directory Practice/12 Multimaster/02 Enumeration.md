@@ -92,5 +92,14 @@ aldom@megacorp.htb
 
 So now i think we can run the sql injection in this as it reminds me of DVWA 
 
-So we technically have 4 fields
+So we technically have 5 fields
 ![[Pasted image 20240919160202.png]]
+
+```
+"id":1,
+"name":"Sarina Bauer",
+"position":"Junior Developer",
+"email":"sbauer@megacorp.htb",
+"src":"sbauer.jpg"
+```
+
