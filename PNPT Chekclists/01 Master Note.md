@@ -268,6 +268,10 @@ Command : dnsrecon -r 127.0.0.0/24 -n 192.168.205.134 -d blah
 ```
 
 ```
+dnsrecon -r 10.10.10.179 -d megacorp.local
+```
+
+```
 As there is dns record named blackpearl.tcm and have to add that in our Dns and etc/hosts file
 Command : nano /etc/hosts (i.e. we have to add the edit the hosts file and not host)
 And add 
