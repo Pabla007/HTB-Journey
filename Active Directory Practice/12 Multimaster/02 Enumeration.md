@@ -213,3 +213,11 @@ So let's validate the password
 crackmapexec smb 10.10.10.179 -u new_user.txt -p password.txt 
 ```
 
+
+So tested the new users
+```
+kerbrute userenum -d MEGACORP.LOCAL --dc 10.10.10.179 testing.txt -t 100 
+```
+![[Pasted image 20240922030306.png]]
+
+
