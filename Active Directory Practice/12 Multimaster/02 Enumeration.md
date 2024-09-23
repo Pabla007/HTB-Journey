@@ -349,9 +349,19 @@ MEGACORP\Enterprise Key Admins
 MEGACORP\RAS and IAS Servers
 MEGACORP\Allowed RODC Password Replication Group
 MEGACORP\Denied RODC Password Replication Group
+MEGACORP\MULTIMASTER$
+MEGACORP\DnsAdmins
+MEGACORP\DnsUpdateProxy
+MEGACORP\svc-nas
+MEGACORP\Privileged IT Accounts
+MEGACORP\tushikikatomo
+MEGACORP\andrew
+MEGACORP\lana
+MEGACORP\alice
+MEGACORP\test
 ```
 ![[Pasted image 20240924020635.png]]
-
+![[Pasted image 20240924034656.png]]
 
 Let's try the password here.
 ```
