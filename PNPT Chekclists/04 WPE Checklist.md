@@ -134,6 +134,12 @@ netsh firewall show state
 netsh firewall show config
 ```
 
+## Winpeas
+```
+cd /usr/share/windows-resources/
+```
+
+
 ## How to run the .exe file in kali linux
 ILSpy is the **open-source .** **NET assembly browser and decompiler**
 

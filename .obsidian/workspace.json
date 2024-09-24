@@ -192,7 +192,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -221,7 +221,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fb40643498f8318cb3fb4af397bbce903957dde8edde85051d59998aa2f244f7fc80dd2928e648465b8e7a1946a50cfa",
+                "query": "invoke",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -238,7 +238,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -258,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PNPT Chekclists/04 WPE Checklist.md",
+                "file": "Active Directory/00 Active Directory Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PNPT Chekclists/04 WPE Checklist.md",
+                "file": "Active Directory/00 Active Directory Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PNPT Chekclists/04 WPE Checklist.md"
+                "file": "Active Directory/00 Active Directory Contents.md"
               }
             }
           },
@@ -330,13 +331,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "281c508d4dd65461",
+  "active": "4b7568eb2ab93f85",
   "lastOpenFiles": [
+    "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20240924043719.png",
+    "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20240924042731.png",
+    "PNPT Chekclists/04 WPE Checklist.md",
     "Active Directory Practice/12 Multimaster/03 Got Initial Access.md",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20240924041046.png",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20240924041011.png",
     "HackTheBox/Retarded Machine/02 Help/06 Another Vulerability.md",
-    "PNPT Chekclists/04 WPE Checklist.md",
     "PNPT Chekclists/2.0 AD OSINT.md",
     "Active Directory Practice/12 Multimaster/02 Enumeration.md",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20240924040538.png",
@@ -347,7 +350,6 @@
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20240922042724.png",
     "Active Directory Practice/12 Multimaster/01 Scanning.md",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20240922030306.png",
-    "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20240920032509.png",
     "Active Directory/00 Active Directory Contents.md",
     "PNPT Chekclists/12 WebApp.md",
     "PNPT Chekclists/00 Checklist.md",
