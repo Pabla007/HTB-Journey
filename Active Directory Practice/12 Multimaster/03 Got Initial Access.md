@@ -73,3 +73,11 @@ Microsoft VS Code            C:\Program Files\Microsoft VS Code
 C:\Program Files\Microsoft VS Code
 ```
 
+```
+(get-command .\Code).version
+```
+![[Pasted image 20240925001315.png]]
+
+CVE
+https://msrc.microsoft.com/update-guide/vulnerability/CVE-2019-1414
+
