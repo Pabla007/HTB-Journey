@@ -192,7 +192,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -258,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PNPT Chekclists/04 WPE Checklist.md",
+                "file": "Active Directory Practice/12 Multimaster/03 Got Initial Access.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PNPT Chekclists/04 WPE Checklist.md",
+                "file": "Active Directory Practice/12 Multimaster/03 Got Initial Access.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PNPT Chekclists/04 WPE Checklist.md"
+                "file": "Active Directory Practice/12 Multimaster/03 Got Initial Access.md"
               }
             }
           },
@@ -330,12 +330,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4265f60781244b3e",
+  "active": "281c508d4dd65461",
   "lastOpenFiles": [
+    "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20240924233613.png",
+    "PNPT Chekclists/04 WPE Checklist.md",
     "Active Directory Practice/12 Multimaster/03 Got Initial Access.md",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20240924225659.png",
     "Active Directory Practice/02 Blackfield/05 Let's Escalate.md",
-    "PNPT Chekclists/04 WPE Checklist.md",
     "PNPT Chekclists/03 OSINT Checklist.md",
     "PNPT Chekclists/2.2 AD Master Checklist.md",
     "PNPT Chekclists/2.1 AD CheckList.md",

