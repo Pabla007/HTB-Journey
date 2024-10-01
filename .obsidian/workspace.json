@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/12 Multimaster/04 Priv Escalation.md",
+                "file": "Active Directory Practice/12 Multimaster/03 Got Initial Access.md",
                 "mode": "source",
                 "source": false
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory Practice/12 Multimaster/04 Priv Escalation.md",
+                "file": "Active Directory Practice/12 Multimaster/03 Got Initial Access.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory Practice/12 Multimaster/04 Priv Escalation.md",
+                "file": "Active Directory Practice/12 Multimaster/03 Got Initial Access.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -310,7 +310,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory Practice/12 Multimaster/04 Priv Escalation.md"
+                "file": "Active Directory Practice/12 Multimaster/03 Got Initial Access.md"
               }
             }
           },
@@ -344,8 +344,8 @@
   },
   "active": "8573fafe144ee753",
   "lastOpenFiles": [
-    "Exam Test/06.1 Pivoting.md",
     "Active Directory Practice/12 Multimaster/04 Priv Escalation.md",
+    "Exam Test/06.1 Pivoting.md",
     "Active Directory Practice/01 Forest/04 Escalate.md",
     "PNPT Chekclists/2.2 AD Master Checklist.md",
     "PNPT Chekclists/2.1 AD CheckList.md",

