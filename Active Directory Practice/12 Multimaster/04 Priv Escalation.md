@@ -40,3 +40,12 @@ copy C:\inetpub\wwwroot\bin\MultimasterAPI.dll testing
 Copy-Item "C:\inetpub\wwwroot\bin\MultimasterAPI.dll" -Destination "C:\Users\alcibiades\Documents"
 ```
 
+
+SO now i finally know why to look into this directory as this questions raised 1st thing in my mind.
+![[Pasted image 20241002023222.png]]
+
+So i was right we have to copy the file were we have write permission and u have guessed it right in the windows spoolers directory.
+
+```
+copy MultimasterAPI.dll" -Destination "C:\Users\alcibiades\Documents"
+```
