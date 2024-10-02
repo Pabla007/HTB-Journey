@@ -22,3 +22,14 @@ secretsdump.py Megaccorp.local/sbauer:'D3veL0pM3nT!'@10.10.10.179
 ```
 ![[Pasted image 20241002142952.png]]
 
+Will run PlumHound
+```
+python3 Plumhound.py -x tasks/default.tasks -p password
+```
+
+![[Pasted image 20241002155625.png]]
+
+Open the index.html
+
+![[Pasted image 20241002160246.png]]
+
