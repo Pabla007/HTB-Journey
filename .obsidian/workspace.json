@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/01 Forest/04 Escalate.md",
+                "file": "Active Directory Practice/12 Multimaster/05 2nd Shell Lateral Movement.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/12 Multimaster/Untitled.md",
+                "file": "PNPT Chekclists/04 WPE Checklist.md",
                 "mode": "source",
                 "source": false
               }
@@ -204,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -270,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory Practice/12 Multimaster/Untitled.md",
+                "file": "Active Directory Practice/12 Multimaster/05 2nd Shell Lateral Movement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory Practice/12 Multimaster/Untitled.md",
+                "file": "Active Directory Practice/12 Multimaster/05 2nd Shell Lateral Movement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -310,7 +310,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory Practice/12 Multimaster/Untitled.md"
+                "file": "Active Directory Practice/12 Multimaster/05 2nd Shell Lateral Movement.md"
               }
             }
           },
@@ -342,10 +342,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8573fafe144ee753",
+  "active": "281c508d4dd65461",
   "lastOpenFiles": [
+    "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241002142952.png",
+    "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241002142806.png",
+    "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241002142528.png",
+    "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241002142511.png",
+    "PNPT Chekclists/04 WPE Checklist.md",
+    "Active Directory Practice/12 Multimaster/05 2nd Shell Lateral Movement.md",
+    "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241002142112.png",
+    "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241002141912.png",
+    "Active Directory Practice/01 Forest/04 Escalate.md",
     "Active Directory Practice/12 Multimaster/04 Priv Escalation.md",
-    "Active Directory Practice/12 Multimaster/Untitled.md",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241002030135.png",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241002030046.png",
     "PNPT Chekclists/2.0 AD OSINT.md",
@@ -355,21 +363,14 @@
     "Active Directory Practice/12 Multimaster/02 Enumeration.md",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241002024952.png",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241002023910.png",
-    "PNPT Chekclists/04 WPE Checklist.md",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241002023222.png",
     "Active Directory Practice/12 Multimaster/03 Got Initial Access.md",
     "Active Directory Practice/12 Multimaster/01 Scanning.md",
     "PNPT Chekclists/03 OSINT Checklist.md",
     "PNPT Chekclists/13 Help Lines.md",
     "Exam Test/06.1 Pivoting.md",
-    "Active Directory Practice/01 Forest/04 Escalate.md",
     "Active Directory/00 Active Directory Contents.md",
-    "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20240927042918.png",
     "HackTheBox/Retarded Machine/02 Help/06 Another Vulerability.md",
-    "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20240927040947.png",
-    "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20240925163846.png",
-    "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20240925163826.png",
-    "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20240925163812.png",
     "Active Directory Practice/02 Blackfield/05 Let's Escalate.md",
     "PNPT Chekclists/01 Master Note.md",
     "Active Directory Practice/11 Cascade/06 Go For Admin Account.md",
@@ -379,7 +380,6 @@
     "PNPT Chekclists/00 Checklist.md",
     "Assessment/07 SQL Injection.md",
     "Try Hack Me/05 Vulnnet Endgame/03 Typo03.md",
-    "Assessment/11 HSTS.md",
     "Active Directory Practice/12 Multimaster/00 Images",
     "Active Directory Practice/12 Multimaster",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images",
