@@ -98,4 +98,7 @@ sbauer
 evil-winrm -u 'sbauer' -p 'D3veL0pM3nT!' -i 10.10.10.179
 ```
 
+I think now we can run the bloodhound and all or have to do escalation not sure about it.
+SO it's not always escalation here we can see that we got the password of another user means we are doing lateral movement.
+
 

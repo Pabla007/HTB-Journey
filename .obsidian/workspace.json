@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/12 Multimaster/04 Priv Escalation.md",
+                "file": "Active Directory Practice/12 Multimaster/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory Practice/12 Multimaster/04 Priv Escalation.md",
+                "file": "Active Directory Practice/12 Multimaster/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory Practice/12 Multimaster/04 Priv Escalation.md",
+                "file": "Active Directory Practice/12 Multimaster/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -310,7 +310,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory Practice/12 Multimaster/04 Priv Escalation.md"
+                "file": "Active Directory Practice/12 Multimaster/Untitled.md"
               }
             }
           },
@@ -344,6 +344,8 @@
   },
   "active": "8573fafe144ee753",
   "lastOpenFiles": [
+    "Active Directory Practice/12 Multimaster/04 Priv Escalation.md",
+    "Active Directory Practice/12 Multimaster/Untitled.md",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241002030135.png",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241002030046.png",
     "PNPT Chekclists/2.0 AD OSINT.md",
@@ -351,7 +353,6 @@
     "PNPT Chekclists/2.1 AD CheckList.md",
     "PNPT Chekclists/02 PEH Checklist.md",
     "Active Directory Practice/12 Multimaster/02 Enumeration.md",
-    "Active Directory Practice/12 Multimaster/04 Priv Escalation.md",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241002024952.png",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241002023910.png",
     "PNPT Chekclists/04 WPE Checklist.md",
@@ -369,7 +370,6 @@
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20240925163846.png",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20240925163826.png",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20240925163812.png",
-    "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20240925160843.png",
     "Active Directory Practice/02 Blackfield/05 Let's Escalate.md",
     "PNPT Chekclists/01 Master Note.md",
     "Active Directory Practice/11 Cascade/06 Go For Admin Account.md",
