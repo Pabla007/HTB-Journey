@@ -33,3 +33,6 @@ Open the index.html
 
 ![[Pasted image 20241002160246.png]]
 
+SO i think there is something related to Kerberoasting
+
+
