@@ -206,3 +206,12 @@ unzip ILSpy-linux-x64-Release.zip
 
 ![[Pasted image 20240917081516.png]]
 
+
+## Privileges net user ______
+
+I’m particularly interesting in backup and restore. I can see that jorden has `SeBackupPrivilege` and `SeRestorePrivilege`.
+
+#### File Read
+
+With both of these privs, I can use `robocopy` to read files (see [PayloadsAllTheThings short reference](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md#eop---impersonation-privileges)).
+

