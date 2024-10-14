@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory/00 Active Directory Contents.md",
+                "file": "PNPT Chekclists/0.0 NIST SP 800-115.md",
                 "mode": "source",
                 "source": false
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory/00 Active Directory Contents.md",
+                "file": "PNPT Chekclists/0.0 NIST SP 800-115.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory/00 Active Directory Contents.md",
+                "file": "PNPT Chekclists/0.0 NIST SP 800-115.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -310,7 +310,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory/00 Active Directory Contents.md"
+                "file": "PNPT Chekclists/0.0 NIST SP 800-115.md"
               }
             }
           },
@@ -344,6 +344,9 @@
   },
   "active": "281c508d4dd65461",
   "lastOpenFiles": [
+    "PNPT Chekclists/00 Checklist.md",
+    "PNPT Chekclists/0.0 NIST SP 800-115.md",
+    "Active Directory/00 Active Directory Contents.md",
     "Active Directory/Initial Attack Vectors/04 IPv6 Attacks.md",
     "Active Directory/Initial Attack Vectors/03 Gaining shells.md",
     "Active Directory/Initial Attack Vectors/2.1 SMB Attack.md",
@@ -351,9 +354,7 @@
     "Active Directory/Initial Attack Vectors/1.2 Mitigation.md",
     "Active Directory/Initial Attack Vectors/1.1 Cracking Captured Hashes.md",
     "Active Directory/Initial Attack Vectors/01 LLMNR Poising.md",
-    "PNPT Chekclists/00 Checklist.md",
     "Active Directory/01 Active Directory Lab Build.md",
-    "Active Directory/00 Active Directory Contents.md",
     "Active Directory Practice/12 Multimaster/01 Scanning.md",
     "Active Directory Practice/12 Multimaster/07 Zero Logon.md",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241012010227.png",
@@ -379,7 +380,6 @@
     "Exam Test/06.1 Pivoting.md",
     "PNPT Chekclists/2.0 AD OSINT.md",
     "PNPT Chekclists/01 Master Note.md",
-    "Active Directory Practice/01 Forest/04 Escalate.md",
     "Active Directory Practice/12 Multimaster/00 Images",
     "Active Directory Practice/12 Multimaster",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images",
