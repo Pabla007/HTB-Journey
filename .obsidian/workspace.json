@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory/01 Active Directory Lab Build.md",
+                "file": "Active Directory/00 Active Directory Contents.md",
                 "mode": "source",
                 "source": false
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory/01 Active Directory Lab Build.md",
+                "file": "Active Directory/00 Active Directory Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory/01 Active Directory Lab Build.md",
+                "file": "Active Directory/00 Active Directory Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -310,7 +310,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory/01 Active Directory Lab Build.md"
+                "file": "Active Directory/00 Active Directory Contents.md"
               }
             }
           },
@@ -344,6 +344,15 @@
   },
   "active": "281c508d4dd65461",
   "lastOpenFiles": [
+    "Active Directory/Initial Attack Vectors/04 IPv6 Attacks.md",
+    "Active Directory/Initial Attack Vectors/03 Gaining shells.md",
+    "Active Directory/Initial Attack Vectors/2.1 SMB Attack.md",
+    "Active Directory/Initial Attack Vectors/02 SMB relay attack.md",
+    "Active Directory/Initial Attack Vectors/1.2 Mitigation.md",
+    "Active Directory/Initial Attack Vectors/1.1 Cracking Captured Hashes.md",
+    "Active Directory/Initial Attack Vectors/01 LLMNR Poising.md",
+    "PNPT Chekclists/00 Checklist.md",
+    "Active Directory/01 Active Directory Lab Build.md",
     "Active Directory/00 Active Directory Contents.md",
     "Active Directory Practice/12 Multimaster/01 Scanning.md",
     "Active Directory Practice/12 Multimaster/07 Zero Logon.md",
@@ -371,14 +380,6 @@
     "PNPT Chekclists/2.0 AD OSINT.md",
     "PNPT Chekclists/01 Master Note.md",
     "Active Directory Practice/01 Forest/04 Escalate.md",
-    "PNPT Chekclists/02 PEH Checklist.md",
-    "PNPT Chekclists/13 Help Lines.md",
-    "HackTheBox/Retarded Machine/02 Help/06 Another Vulerability.md",
-    "Active Directory Practice/02 Blackfield/05 Let's Escalate.md",
-    "Active Directory Practice/11 Cascade/06 Go For Admin Account.md",
-    "Active Directory Practice/05 Return/04 Escalate Access.md",
-    "Active Directory Practice/11 Cascade/05 Priv Escalation.md",
-    "PNPT Chekclists/12 WebApp.md",
     "Active Directory Practice/12 Multimaster/00 Images",
     "Active Directory Practice/12 Multimaster",
     "Try Hack Me/11 Lateral Movement and Pivoting/00 Images",

@@ -1,4 +1,25 @@
 
+## Lab Setup
+
+Kali Linux
+- [ ] Hacking Purpose
+- [ ] Course Learning (i.e. Just backup)
+- [ ] One back-up kali in Teeday's machine
+
+
+OSINT
+- [ ] OSINT
+- [ ] BBOT , Spider (i.e. Teeda )
+
+
+Windows Machine
+- [ ]  Buffer Overflow
+
+
+<hr>
+
+
+
 This is a check list so that i don't forget something while Pen testing and it will change with Time.
 
 I have to make a list of attacks and things that i have to carry out 
