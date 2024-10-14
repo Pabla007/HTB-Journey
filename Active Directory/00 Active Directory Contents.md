@@ -1,9 +1,9 @@
 
-- Cheatsheets related to Attacks 
-- Active Directory Attacks that we can do with and without password
-- How to craft an active to bypass the Antivirus if it is enabled
-- Learn more about Pivoting and other tools list
-- NIST SP 800-115 Technical Guide To Information Security Testing.
+- [ ] Cheatsheets related to Attacks 
+- [ ] Active Directory Attacks that we can do with and without password
+- [ ] How to craft an active to bypass the Antivirus if it is enabled
+- [ ] Learn more about Pivoting and other tools list
+- [ ] NIST SP 800-115 Technical Guide To Information Security Testing.
 https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=152164
 
 OSINT
@@ -41,12 +41,12 @@ HackTheBox
 - [x] Resolute 
 - [x] Reel
 - [x] Mantis 
-- [ ] multimaster
-- [ ] cascade 
+- [x] multimaster
+- [x] cascade 
 
 
 - [ ] traversex
-- [ ] Resolute
+- [x] Resolute
 - [ ] Fuse
 - [ ] remote
 - [ ] fulcrum

@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Practice/12 Multimaster/01 Scanning.md",
+                "file": "Active Directory/01 Active Directory Lab Build.md",
                 "mode": "source",
                 "source": false
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory Practice/12 Multimaster/01 Scanning.md",
+                "file": "Active Directory/01 Active Directory Lab Build.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory Practice/12 Multimaster/01 Scanning.md",
+                "file": "Active Directory/01 Active Directory Lab Build.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -310,7 +310,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory Practice/12 Multimaster/01 Scanning.md"
+                "file": "Active Directory/01 Active Directory Lab Build.md"
               }
             }
           },
@@ -344,6 +344,8 @@
   },
   "active": "281c508d4dd65461",
   "lastOpenFiles": [
+    "Active Directory/00 Active Directory Contents.md",
+    "Active Directory Practice/12 Multimaster/01 Scanning.md",
     "Active Directory Practice/12 Multimaster/07 Zero Logon.md",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241012010227.png",
     "PNPT Chekclists/2.1 AD CheckList.md",
@@ -370,9 +372,7 @@
     "PNPT Chekclists/01 Master Note.md",
     "Active Directory Practice/01 Forest/04 Escalate.md",
     "PNPT Chekclists/02 PEH Checklist.md",
-    "Active Directory Practice/12 Multimaster/01 Scanning.md",
     "PNPT Chekclists/13 Help Lines.md",
-    "Active Directory/00 Active Directory Contents.md",
     "HackTheBox/Retarded Machine/02 Help/06 Another Vulerability.md",
     "Active Directory Practice/02 Blackfield/05 Let's Escalate.md",
     "Active Directory Practice/11 Cascade/06 Go For Admin Account.md",
