@@ -14,197 +14,145 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory/00 Active Directory Contents.md",
+                "file": "05 Active Directory/00 Active Directory Contents.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true
-            }
-          },
-          {
-            "id": "30520fd56de0ae3d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PNPT Chekclists/2.0 AD OSINT.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "00 Active Directory Contents"
             }
           },
           {
             "id": "4265f60781244b3e",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "PNPT Chekclists/04 WPE Checklist.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "281c508d4dd65461",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Active Directory/00 Active Directory Contents.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8573fafe144ee753",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Active Directory Practice/12 Multimaster/04 Priv Escalation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d90e600eb68e65cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PNPT Chekclists/09 Hashcat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a3514deef8c8f7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PNPT Chekclists/09 Hashcat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c6518a5bb3cf860",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Try Hack Me/06 Wreath/5.1 Git server Pivoting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98cac7f5e80e50ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Active Directory Practice/11 Cascade/03 Enumeration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4de70ef3bd1d7c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exam Test/02 Enumeration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef5d3bbb97c21c90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Active Directory Practice/12 Multimaster/01 Scanning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "440f6985f82959cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PNPT Chekclists/2.0 AD OSINT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7196efa0b90d926",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PNPT Chekclists/07 Password Policy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c70f50465a635fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Active Directory Practice/04 Support/05 Bloodhound.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "762369131df73f61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PNPT Chekclists/01 Master Note.md",
-                "mode": "source",
-                "source": false
-              }
+                "file": "Thumb/Pasted image 20240702234234.png"
+              },
+              "pinned": true,
+              "icon": "lucide-image",
+              "title": "Pasted image 20240702234234"
             }
           },
           {
             "id": "3f0b1e099530b39f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PNPT Chekclists/2.2 AD Master Checklist.md",
+                "file": "06 PNPT Chekclists/PNPT.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "PNPT"
+            }
+          },
+          {
+            "id": "98878d0717102dfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07 The PNPT/00 Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 Overview"
+            }
+          },
+          {
+            "id": "8037b0cfb28d8f15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07 The PNPT/00 Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 Overview"
+            }
+          },
+          {
+            "id": "774485d94cb1ca0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PEH + OSINT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PEH + OSINT"
+            }
+          },
+          {
+            "id": "87f62ea7a756638a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 PNPT Checklist.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 PNPT Checklist"
+            }
+          },
+          {
+            "id": "7f2306fcc4d108f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.1 PNPT Methodology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.1 PNPT Methodology"
+            }
+          },
+          {
+            "id": "9e9095db8bec5c34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 PNPT Chekclists/2.4 Pivoting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.4 Pivoting"
+            }
+          },
+          {
+            "id": "4733e315c8b55b5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Request for Leave.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Request for Leave"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -224,7 +172,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -239,7 +189,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -247,7 +199,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -270,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory/00 Active Directory Contents.md",
+                "file": "2.1 PNPT Methodology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +232,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2.1 PNPT Methodology"
             }
           },
           {
@@ -287,10 +243,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory/00 Active Directory Contents.md",
+                "file": "2.1 PNPT Methodology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2.1 PNPT Methodology"
             }
           },
           {
@@ -301,7 +259,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -310,8 +270,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory/00 Active Directory Contents.md"
-              }
+                "file": "Request for Leave.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Request for Leave"
             }
           },
           {
@@ -321,7 +283,9 @@
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency"
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -342,54 +306,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "281c508d4dd65461",
+  "active": "4733e315c8b55b5e",
   "lastOpenFiles": [
-    "PNPT Chekclists/0.0 NIST SP 800-115.md",
-    "PNPT Chekclists/00 Checklist.md",
-    "Active Directory/00 Active Directory Contents.md",
-    "Active Directory/Initial Attack Vectors/04 IPv6 Attacks.md",
-    "Active Directory/Initial Attack Vectors/03 Gaining shells.md",
-    "Active Directory/Initial Attack Vectors/2.1 SMB Attack.md",
-    "Active Directory/Initial Attack Vectors/02 SMB relay attack.md",
-    "Active Directory/Initial Attack Vectors/1.2 Mitigation.md",
-    "Active Directory/Initial Attack Vectors/1.1 Cracking Captured Hashes.md",
-    "Active Directory/Initial Attack Vectors/01 LLMNR Poising.md",
-    "Active Directory/01 Active Directory Lab Build.md",
-    "Active Directory Practice/12 Multimaster/01 Scanning.md",
-    "Active Directory Practice/12 Multimaster/07 Zero Logon.md",
-    "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241012010227.png",
-    "PNPT Chekclists/2.1 AD CheckList.md",
-    "PNPT Chekclists/03 OSINT Checklist.md",
-    "PNPT Chekclists/2.2 AD Master Checklist.md",
-    "PNPT Chekclists/04 WPE Checklist.md",
-    "Active Directory Practice/12 Multimaster/06 3rd shell aka 3rd user.md",
-    "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241012003036.png",
-    "Active Directory Practice/12 Multimaster/05 2nd Shell Lateral Movement.md",
-    "Active Directory Practice/12 Multimaster/02 Enumeration.md",
-    "Active Directory Practice/12 Multimaster/03 Got Initial Access.md",
-    "Active Directory Practice/12 Multimaster/04 Priv Escalation.md",
-    "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241008072610.png",
-    "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241002185539.png",
-    "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241002185019.png",
-    "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241002184740.png",
-    "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241002184238.png",
-    "PNPT Chekclists/09 Hashcat.md",
-    "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241002183907.png",
-    "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241002183657.png",
-    "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241002183013.png",
-    "Exam Test/06.1 Pivoting.md",
-    "PNPT Chekclists/2.0 AD OSINT.md",
-    "PNPT Chekclists/01 Master Note.md",
+    "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241024192126.png",
+    "06 PNPT Chekclists/2.4 Pivoting.md",
+    "Request for Leave.md",
+    "06 PNPT Chekclists/2.3 Buffer Overflow.md",
+    "06 PNPT Chekclists/01 Master Note.md",
+    "06 PNPT Chekclists/02 PEH Checklist.md",
+    "06 PNPT Chekclists/03 OSINT Checklist.md",
+    "06 PNPT Chekclists/2.0 AD OSINT.md",
+    "06 PNPT Chekclists/2.2 AD Master Checklist.md",
+    "06 PNPT Chekclists/2.1 AD CheckList.md",
+    "2.1 PNPT Methodology.md",
+    "01 PNPT Checklist.md",
+    "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241021185345.png",
+    "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241021185325.png",
     "Active Directory Practice/12 Multimaster/00 Images",
     "Active Directory Practice/12 Multimaster",
-    "Try Hack Me/11 Lateral Movement and Pivoting/00 Images",
-    "Try Hack Me/11 Lateral Movement and Pivoting",
-    "Thumb/New folder",
-    "Thumb",
-    "New folder",
-    "Exam Test/00 Images",
-    "Exam Test",
-    "Logrythm/305 Analyst Fundamentals Part 3/05 Recover",
+    "Active Directory Practice",
+    "06 PNPT Chekclists/10 Anti Virus Evasion.md",
+    "06 PNPT Chekclists/11 CVE.md",
+    "06 PNPT Chekclists/12 WebApp.md",
+    "06 PNPT Chekclists/14 Download commands.md",
+    "06 PNPT Chekclists/13 Help Lines.md",
+    "06 PNPT Chekclists/04 WPE Checklist.md",
+    "06 PNPT Chekclists/4.1 LPE Checklist.md",
+    "06 PNPT Chekclists/0.0 NIST SP 800-115.md",
+    "06 PNPT Chekclists/00 Checklist.md",
+    "06 PNPT Chekclists/4.2 Revershell.md",
+    "06 PNPT Chekclists/06 EPP Checklist.md",
+    "02 PNPT Methodlogy.md",
+    "Obsidian CSS.md",
+    "03 PNPT Tips.md",
+    "02 Try Hack Me/05 Vulnnet Endgame/00 Images/Pasted image 20231205105329 1.png",
+    "Thumb/Pasted image 20240807134145.png",
+    "Thumb/Pasted image 20240722182113.png",
+    "Thumb/Pasted image 20241016141220.png",
+    "Thumb/Pasted image 20241016141359.png",
+    "Thumb/Pasted image 20241016141326.png",
+    "Thumb/Pasted image 20241016141259.png",
+    "Thumb/Pasted image 20240702234234.png",
+    "07 The PNPT/03 Internal",
+    "07 The PNPT/01 OSINT",
+    "07 The PNPT/02 External",
+    "07 The PNPT/00 ScreenShots",
+    "07 The PNPT",
+    "03 Active Directory Practice/12 Multimaster/00 Images",
+    "03 Active Directory Practice/12 Multimaster",
     "Active Directory Practice/07 Monterverde/Untitled.canvas"
   ]
 }
