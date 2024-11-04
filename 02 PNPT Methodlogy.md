@@ -30,6 +30,8 @@
 - Gain Domain Admin credentials.
 - Dump credentials from the Domain Controller.
 
+- [ ] Clearing Footsteps
+- [ ] wevutil
 
 - [ ] **Reporting Phase:**
 -  Prepare a professional report with findings, methodology, and evidence (screenshots, exploited paths).
