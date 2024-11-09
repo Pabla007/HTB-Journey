@@ -1,4 +1,7 @@
 
+- [ ] Configure Hashcat on Teeda's Laptop
+
+
 1st Check the type of Hash-cat
 ```
 hashcat --help | grep NTLM
