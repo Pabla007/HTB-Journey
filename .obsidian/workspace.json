@@ -150,9 +150,21 @@
               "icon": "lucide-file",
               "title": "2.2 AD Master Checklist"
             }
+          },
+          {
+            "id": "d4ae8b97116ce220",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -306,7 +318,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4733e315c8b55b5e",
+  "active": "d4ae8b97116ce220",
   "lastOpenFiles": [
     "05 Active Directory/Initial Attack Vectors/01 LLMNR Poising.md",
     "06 PNPT Chekclists/2.2 AD Master Checklist.md",
