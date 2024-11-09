@@ -143,12 +143,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 PNPT Methodlogy.md",
+                "file": "06 PNPT Chekclists/2.3 Buffer Overflow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 PNPT Methodlogy"
+              "title": "2.3 Buffer Overflow"
             }
           }
         ],
@@ -308,7 +308,15 @@
   },
   "active": "4733e315c8b55b5e",
   "lastOpenFiles": [
+    "PEH + OSINT.md",
     "Request for Leave.md",
+    "README.md",
+    "Obsidian CSS.md",
+    "07 How to close the VPN completely.md",
+    "04 Revision.md",
+    "03 PNPT Tips.md",
+    "2.1 PNPT Methodology.md",
+    "02 PNPT Methodlogy.md",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241024192126.png",
     "06 PNPT Chekclists/2.4 Pivoting.md",
     "06 PNPT Chekclists/2.3 Buffer Overflow.md",
@@ -318,7 +326,6 @@
     "06 PNPT Chekclists/2.0 AD OSINT.md",
     "06 PNPT Chekclists/2.2 AD Master Checklist.md",
     "06 PNPT Chekclists/2.1 AD CheckList.md",
-    "2.1 PNPT Methodology.md",
     "01 PNPT Checklist.md",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241021185345.png",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241021185325.png",
@@ -333,12 +340,6 @@
     "06 PNPT Chekclists/04 WPE Checklist.md",
     "06 PNPT Chekclists/4.1 LPE Checklist.md",
     "06 PNPT Chekclists/0.0 NIST SP 800-115.md",
-    "06 PNPT Chekclists/00 Checklist.md",
-    "06 PNPT Chekclists/4.2 Revershell.md",
-    "06 PNPT Chekclists/06 EPP Checklist.md",
-    "02 PNPT Methodlogy.md",
-    "Obsidian CSS.md",
-    "03 PNPT Tips.md",
     "02 Try Hack Me/05 Vulnnet Endgame/00 Images/Pasted image 20231205105329 1.png",
     "Thumb/Pasted image 20240807134145.png",
     "Thumb/Pasted image 20240722182113.png",
