@@ -143,12 +143,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Active Directory/Initial Attack Vectors/02 SMB relay attack.md",
+                "file": "06 PNPT Chekclists/2.2 AD Master Checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 SMB relay attack"
+              "title": "2.2 AD Master Checklist"
             }
           }
         ],
@@ -308,6 +308,7 @@
   },
   "active": "4733e315c8b55b5e",
   "lastOpenFiles": [
+    "05 Active Directory/Initial Attack Vectors/02 SMB relay attack.md",
     "06 PNPT Chekclists/2.2 AD Master Checklist.md",
     "06 PNPT Chekclists/2.1 AD CheckList.md",
     "06 PNPT Chekclists/2.0 AD OSINT.md",
@@ -339,7 +340,6 @@
     "06 PNPT Chekclists/12 WebApp.md",
     "06 PNPT Chekclists/14 Download commands.md",
     "06 PNPT Chekclists/13 Help Lines.md",
-    "06 PNPT Chekclists/04 WPE Checklist.md",
     "02 Try Hack Me/05 Vulnnet Endgame/00 Images/Pasted image 20231205105329 1.png",
     "Thumb/Pasted image 20240807134145.png",
     "Thumb/Pasted image 20240722182113.png",
