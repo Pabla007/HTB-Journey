@@ -143,12 +143,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 PNPT Chekclists/2.3 AD Post Compromise Checklist.md",
+                "file": "06 PNPT Chekclists/2.3 AD Post Compromise Enumeration Checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.3 AD Post Compromise Checklist"
+              "title": "2.3 AD Post Compromise Enumeration Checklist"
             }
           }
         ],
@@ -208,7 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5
+    "width": 380.5
   },
   "right": {
     "id": "92c39521ad6ea421",
@@ -311,7 +311,7 @@
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241110192337.png",
     "06 PNPT Chekclists/2.4 Pivoting.md",
     "06 PNPT Chekclists/2.2 AD Initial Attack Vectors Checlist.md",
-    "06 PNPT Chekclists/2.3 AD Post Compromise Checklist.md",
+    "06 PNPT Chekclists/2.3 AD Post Compromise Enumeration Checklist.md",
     "06 PNPT Chekclists/2.1 AD CheckList.md",
     "06 PNPT Chekclists/2.0 AD OSINT.md",
     "06 PNPT Chekclists/2.6 Buffer Overflow.md",
