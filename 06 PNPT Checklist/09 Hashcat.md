@@ -21,8 +21,6 @@ hashcat --help | grep Kerberos
 ```
 
 
-another alternative is Google Colab
-
 
 <hr>
 
@@ -34,6 +32,8 @@ hashcat --help | grep NTLM
 ![[Pasted image 20240120120911.png]]
 
 or we can search directly on hashCat wiki
+https://hashcat.net/wiki/doku.php?id=example_hashes
+
 
 NTLMv2 it cracks a little bit slower than NTLMv1
 
