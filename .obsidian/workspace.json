@@ -138,6 +138,18 @@
             }
           },
           {
+            "id": "392fff6d07db8fbd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
+          },
+          {
             "id": "4733e315c8b55b5e",
             "type": "leaf",
             "state": {
@@ -152,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -306,7 +318,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e9095db8bec5c34",
+  "active": "392fff6d07db8fbd",
   "lastOpenFiles": [
     "06 PNPT Checklist/2.2 AD Initial Attack Vectors Checlist.md",
     "06 PNPT Checklist/2.3 AD Post Compromise Enumeration Checklist.md",
