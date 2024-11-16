@@ -138,18 +138,6 @@
             }
           },
           {
-            "id": "392fff6d07db8fbd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.6"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
-            }
-          },
-          {
             "id": "4733e315c8b55b5e",
             "type": "leaf",
             "state": {
@@ -164,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -318,8 +306,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "392fff6d07db8fbd",
+  "active": "9e9095db8bec5c34",
   "lastOpenFiles": [
+    "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241116130213.png",
+    "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241116130150.png",
     "06 PNPT Checklist/2.2 AD Initial Attack Vectors Checlist.md",
     "06 PNPT Checklist/2.3 AD Post Compromise Enumeration Checklist.md",
     "06 PNPT Checklist/2.4 Attack AD Post-Compromise Attacks Checklist.md",
@@ -357,7 +347,6 @@
     "Active Directory Practice",
     "02 Try Hack Me/05 Vulnnet Endgame/00 Images/Pasted image 20231205105329 1.png",
     "Thumb/Pasted image 20240807134145.png",
-    "Thumb/Pasted image 20240722182113.png",
     "07 The PNPT/03 Internal",
     "07 The PNPT/01 OSINT",
     "07 The PNPT/02 External",
