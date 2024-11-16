@@ -129,12 +129,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 PNPT Checklist/2.5 Compromised the Domain.md",
+                "file": "06 PNPT Checklist/2.6 Additional AD Attacks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.5 Compromised the Domain"
+              "title": "2.6 Additional AD Attacks"
             }
           },
           {
@@ -308,18 +308,20 @@
   },
   "active": "9e9095db8bec5c34",
   "lastOpenFiles": [
+    "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241116232234.png",
+    "06 PNPT Checklist/2.5 Compromised the Domain.md",
+    "06 PNPT Checklist/2.1 AD CheckList.md",
+    "06 PNPT Checklist/2.6 Additional AD Attacks.md",
+    "06 PNPT Checklist/2.7 Pivoting.md",
+    "06 PNPT Checklist/2.8 Buffer Overflow.md",
+    "06 PNPT Checklist/2.2 AD Initial Attack Vectors Checlist.md",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241116223136.png",
     "06 PNPT Checklist/2.4 Attack AD Post-Compromise Attacks Checklist.md",
     "06 PNPT Checklist/2.3 AD Post Compromise Enumeration Checklist.md",
-    "06 PNPT Checklist/2.5 Compromised the Domain.md",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241116140123.png",
-    "06 PNPT Checklist/2.1 AD CheckList.md",
-    "06 PNPT Checklist/2.7 Buffer Overflow.md",
-    "06 PNPT Checklist/2.6 Pivoting.md",
     "06 PNPT Checklist/2.0 AD OSINT.md",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241116130213.png",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241116130150.png",
-    "06 PNPT Checklist/2.2 AD Initial Attack Vectors Checlist.md",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241112175259.png",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241112174826.png",
     "06 PNPT Checklist/09 Hashcat.md",
@@ -341,9 +343,7 @@
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241024192126.png",
     "06 PNPT Checklist/01 Master Note.md",
     "06 PNPT Checklist/02 PEH Checklist.md",
-    "06 PNPT Checklist/03 OSINT Checklist.md",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241021185345.png",
-    "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241021185325.png",
     "Active Directory Practice/12 Multimaster/00 Images",
     "Active Directory Practice/12 Multimaster",
     "Active Directory Practice",
