@@ -178,12 +178,22 @@
             }
           },
           {
+            "id": "158cf5ccdc8958b6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
             "id": "4b7568eb2ab93f85",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "wget ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -192,16 +202,6 @@
               },
               "icon": "lucide-search",
               "title": "Search"
-            }
-          },
-          {
-            "id": "158cf5ccdc8958b6",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
             }
           }
         ]
@@ -308,14 +308,19 @@
   },
   "active": "9e9095db8bec5c34",
   "lastOpenFiles": [
-    "06 PNPT Checklist/2.1 AD CheckList.md",
-    "06 PNPT Checklist/2.7 Post Exploitation.md",
-    "06 PNPT Checklist/2.0 AD OSINT.md",
+    "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241120063050.png",
     "06 PNPT Checklist/2.6 Additional AD Attacks.md",
+    "06 PNPT Checklist/2.5 Compromised the Domain.md",
+    "02 Try Hack Me/06 Wreath/10.2 Netcat.md",
+    "06 PNPT Checklist/2.7 Post Exploitation.md",
+    "02 Try Hack Me/06 Wreath/4.3 Socat.md",
+    "06 PNPT Checklist/14 Payload Download.md",
+    "03 Active Directory Practice/01 Forest/04 Escalate.md",
+    "06 PNPT Checklist/2.1 AD CheckList.md",
+    "06 PNPT Checklist/2.0 AD OSINT.md",
     "06 PNPT Checklist/2.10 Buffer Overflow.md",
     "06 PNPT Checklist/2.8 Pivoting.md",
     "06 PNPT Checklist/2.4 Attack AD Post-Compromise Attacks Checklist.md",
-    "06 PNPT Checklist/2.5 Compromised the Domain.md",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241116232234.png",
     "06 PNPT Checklist/2.2 AD Initial Attack Vectors Checlist.md",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241116223136.png",
@@ -338,12 +343,7 @@
     "Obsidian CSS.md",
     "07 How to close the VPN completely.md",
     "04 Revision.md",
-    "03 PNPT Tips.md",
-    "2.1 PNPT Methodology.md",
-    "02 PNPT Methodlogy.md",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241024192126.png",
-    "06 PNPT Checklist/01 Master Note.md",
-    "06 PNPT Checklist/02 PEH Checklist.md",
     "Active Directory Practice/12 Multimaster/00 Images",
     "Active Directory Practice/12 Multimaster",
     "Active Directory Practice",
