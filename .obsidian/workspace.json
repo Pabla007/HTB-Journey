@@ -143,12 +143,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 PNPT Checklist/2.7 Post Exploitation.md",
+                "file": "06 PNPT Checklist/03 OSINT Checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.7 Post Exploitation"
+              "title": "03 OSINT Checklist"
             }
           }
         ],
@@ -308,10 +308,12 @@
   },
   "active": "4733e315c8b55b5e",
   "lastOpenFiles": [
+    "06 PNPT Checklist/2.10 Buffer Overflow.md",
+    "06 PNPT Checklist/2.8 Pivoting.md",
+    "06 PNPT Checklist/2.7 Post Exploitation.md",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241122113059.png",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241122102719.png",
     "03 Active Directory Practice/01 Forest/04 Escalate.md",
-    "06 PNPT Checklist/2.7 Post Exploitation.md",
     "06 PNPT Checklist/2.6 Additional AD Attacks.md",
     "06 PNPT Checklist/2.5 Compromised the Domain.md",
     "06 PNPT Checklist/2.4 Attack AD Post-Compromise Attacks Checklist.md",
@@ -325,8 +327,6 @@
     "02 Try Hack Me/06 Wreath/4.3 Socat.md",
     "06 PNPT Checklist/14 Payload Download.md",
     "06 PNPT Checklist/2.0 AD OSINT.md",
-    "06 PNPT Checklist/2.10 Buffer Overflow.md",
-    "06 PNPT Checklist/2.8 Pivoting.md",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241116232234.png",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241116223136.png",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241116140123.png",
@@ -335,7 +335,6 @@
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241112175259.png",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241112174826.png",
     "06 PNPT Checklist/09 Hashcat.md",
-    "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241110192337.png",
     "05 Active Directory/Initial Attack Vectors/1.1 Cracking Captured Hashes.md",
     "05 Active Directory/Initial Attack Vectors/04 IPv6 Attacks.md",
     "05 Active Directory/Initial Attack Vectors/02 SMB relay attack.md",
