@@ -73,6 +73,27 @@ sqlmap -r req2.txt --level=2 --dump -T injection0x02
 
 - [ ] XSS -DOM | Stored
 
+
+```
+alert(1)
+```
+
+is the most famous cross site scripting payload that you will come across.
+Avoid using alter(1) cuz of the changes in Chrome and also how often it's filtered and detected.
+
+>[]Mentor recommend when u're testing for XSS either use print or prompt
+
+
+Reflected
+
+
+Stored
+
+
+DOM-based
+
+
+
 - [ ] Command Injection - Blind
 
 - [ ] Insecure File Upload - Basic | Magic Bytes
