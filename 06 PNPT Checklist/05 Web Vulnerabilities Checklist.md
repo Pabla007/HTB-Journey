@@ -87,7 +87,6 @@ Avoid using alter(1) cuz of the changes in Chrome and also how often it's filter
 
 >[! bug] Mentor recommend when u're testing for XSS either use print or prompt
 
-
 ### Reflected
 LogKey: 
 function logKey(event){console.log(event.key)}
@@ -96,7 +95,34 @@ document.addEventListner('keydown', logKey)
 
 
 ### Stored
+Set up containers for our testing and this allows us to have multiple sessions open and test across different user accounts.
 
+Mentor uses it for testing authorization issues:
+to see if we can update Bob's account using Alice's session token.
+
+But here will check if the CSS is indeed stored and not just showing up for the same user that post the payload.
+
+Search Firefox containers
+https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/
+
+
+>[! important] HTML injection
+
+Something that you might want to consider is that when testing for cross site scripting you can test for HTML injection first.
+
+```
+<h1>Test</h1>
+```
+
+```
+<script>alert(document.cookie)</script>
+```
+
+
+
+>[! warning]
+
+Best Practice is the set the cookies to HTTP only, which is a flag that prevents JavaScript from accessing your cookie.
 
 
 ### DOM-based
