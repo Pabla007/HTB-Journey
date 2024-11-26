@@ -70,9 +70,13 @@ sqlmap -r req2.txt --level=2 --dump -T injection0x02
 
 
 
+<hr>
+
+
 
 - [ ] XSS -DOM | Stored
 
+Ctrl + Shift + C
 
 ```
 alert(1)
@@ -81,16 +85,43 @@ alert(1)
 is the most famous cross site scripting payload that you will come across.
 Avoid using alter(1) cuz of the changes in Chrome and also how often it's filtered and detected.
 
->[]Mentor recommend when u're testing for XSS either use print or prompt
+>[! bug] Mentor recommend when u're testing for XSS either use print or prompt
 
 
-Reflected
+### Reflected
+LogKey: 
+function logKey(event){console.log(event.key)}
+
+document.addEventListner('keydown', logKey)
 
 
-Stored
+### Stored
 
 
-DOM-based
+
+### DOM-based
+
+This is DOM based cross site scripting Cuz what happens is, if we look at the network tab here we just reload the page quickly.
+
+When we actually send information we can see that there is no request going and coming back to the server.
+
+As this is entirely happening locally and it's vulnerability within the client this is DOM based CSS.
+
+```
+<script>prompt(1)</script>
+```
+
+```
+<img src=x onerror="prompt(1)">
+```
+is a quite common payload when the document tries to load X it will throw an error and on the error we can execute some JS.
+
+
+Re-direct the user to another website
+Command : window.location.href
+```
+<img src=x onerror="window.location.href ='' ">
+```
 
 
 
