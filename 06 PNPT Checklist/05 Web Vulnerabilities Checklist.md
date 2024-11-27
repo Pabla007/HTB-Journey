@@ -251,6 +251,39 @@ https://appsecexplained.gitbook.io/appsecexplained/common-vulns/insecure-file-up
 
 Open the dev tools for that press Q to inspect and go in the Network tab and just reload the website.
 
+```
+<?php sysyem($_GET['cmd']); ?>
+```
+Here GET is a super global which means this is going to get the value of the parameter that's sent in get requests.
+
+
+## Magic Bytes
+
+>[! warning] From we are sure that the checks are happening at the Server Side this time.
+
+NOw we have 2 thoughts here:
+1st that we can't upload php file here
+2nd is that how are you actually checking the files
+
+Here �PNG is the mmagic byte for png
+```
+▒
+����lk�7�,ZtSoftwareAdobe ImageReadyq�e<3�IDATx���      |����p��B�Ik�$mV$!��mR����9�]�-�v��o�����n������
+```
+
+
+
+## Null Bytes 
+
+This trick works in old servers
+```
+logo2.php%00png
+```
+here %00 is called the null byte and this terminates so when the web server calls it
+interprets this differently.
+
+Null Byte attacks are kind of an old but gold vulnerability.
+And if an application is not configured correctly (i.e. htaccess file is configured incorrectly so sometimes we can get execution like this cuz this will try and regex for the php without including the end of line here.)
 
 
 - [ ] Authentication - Brute Force | MFA
