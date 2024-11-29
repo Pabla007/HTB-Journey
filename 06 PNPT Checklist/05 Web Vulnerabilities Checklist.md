@@ -288,6 +288,21 @@ And if an application is not configured correctly (i.e. htaccess file is configu
 
 - [ ] Authentication - Brute Force | MFA
 
+### Brute Force
+
+```
+username=jeremy&password=FUZZ
+```
+
+```
+ffuf -request req.txt -W /usffuf -request req.txt -request-proto http -w /usr/share/wordlists/seclists/Passwords/xato-net-10-million-passwords-10000.txt -fs 1814
+```
+
+
+
+### MFA
+
+
 
 - [ ] XXE
 
