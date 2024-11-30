@@ -302,11 +302,24 @@ ffuf -request req.txt -W /usffuf -request req.txt -request-proto http -w /usr/sh
 
 ### MFA
 
+```
+ffuf -request teashop.txt -request-proto http -mode clusterbomb -w pass.txt:FUZZPASS -w /usr/share/seclists/Usernames/top-usernames-shortlist.txt:FUZZUSER -fs 3376,3256
+```
+
 
 
 - [ ] XXE
 
+```
+It's definately worth testing if you can application accepting and passing XML and Mentor also encurages you to try sending XML data to things like API endpoints than expect JSON as sometimes they will also accept XML and than with further testing you might find that the endpoint is actually vulnerable.
+
+let's say if we want to use greater than entity: 
+&gt;
+&amp;
+```
+
+https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XXE%20Injection
+
 
 - [ ] IDOR
-
 
