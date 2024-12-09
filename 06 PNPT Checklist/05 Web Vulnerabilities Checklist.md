@@ -199,6 +199,9 @@ Using a pipe for command chaining
 | ls -la
 ```
 
+```
+; which bash ; asd
+```
 
 >[!warning] Let's see if we can pop a shell
 https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md
