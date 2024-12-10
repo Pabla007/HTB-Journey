@@ -175,6 +175,9 @@ Command : window.location.href
 
 - [ ] Command Injection - Blind
 
+>[! bug] Keep In mind
+- Try to keep in mind to find the path first like which bash / php / python / nc etc...............
+- Try different reverse shell payloads.
 
 Basic command chaining
 ```
