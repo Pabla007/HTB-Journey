@@ -8,7 +8,7 @@
 
 <h2> Information Gathering</h2>
 - [ ] Identify targets
-
+- [ ] Add the IP in the host file
 
 <h2>Google Fu</h2>
 - [ ] [Google Dorks](https://ahrefs.com/blog/google-advanced-search-operators/)

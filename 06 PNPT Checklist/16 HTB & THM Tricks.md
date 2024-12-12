@@ -23,7 +23,6 @@ Now I will make different attack plans based on the box but it was clearly writt
     - Escalate using credentials and lateral movement (e.g., PsExec).
 
 
-
 ASREPRoasting
 Enumeration with Bloodhound
 DCSync Attack
@@ -48,6 +47,8 @@ Secretsdump/Psexec
 2nd way Privilege Escalation:
 Golden Ticket
 Psexec / smb
+
+
 
 
 
@@ -108,7 +109,37 @@ secretsdump.py
 
 
 
+# Active:
+
+- **Weak Credentials**:
+    
+    - Default or embedded credentials in GPP files.
+    - Reuse of credentials across services.
+- **AD Exploitation**:
+    
+    - Enumerate SPNs and other Kerberos-related vulnerabilities.
+    - Misconfigured permissions or roles for privilege escalation.
+- **SMB Shares**:
+    
+    - Look for sensitive files like GPP configurations or password stores.
+- **Service-Specific Vulnerabilities**:
+    
+    - Focus on LDAP, SMB, and Kerberos for AD environments.
 
 
+SMB enumeration techniques
 
+Enumeration:
+Nmap
+SMB
+
+Foothold:
+GPP
+Authenticated Enumeration
+
+Privilege Escalation:
+Kerberoasting
+
+
+GetUserSPNs.py active.htb/svc_tgs:'GPPstillStandingStrong2k18' -dc-ip 10.10.10.100 -request
 
