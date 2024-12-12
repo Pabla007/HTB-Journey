@@ -51,5 +51,64 @@ Psexec / smb
 
 
 
+# Sauna:
+
+#### **Things to Look For**:
+
+1. **Services and Protocols**:
+    
+    - LDAP (389) and Kerberos (88) for AD attacks.
+    - SMB (445) for share enumeration and lateral movement.
+    - Web services for potential vulnerabilities and misconfigurations.
+2. **Hashes and Credentials**:
+    
+    - Use tools like `GetNPUsers.py` and `kerbrute` to extract Kerberos hashes.
+    - Crack credentials with `Hashcat` and use them for WinRM or SMB access.
+3. **Privilege Escalation**:
+    
+    - Enumerate AD relationships with **BloodHound**.
+    - Perform DCSync attacks with `secretsdump.py` to extract domain hashes.
+
+
+ASREPRoasting
+DCSync Attack
+
+Enumeration:
+Nmap 
+Ldap
+SMB
+Web
+
+Foothold:
+HashCat 
+WinRM
+
+Privilege Escalation:
+Bloodhound
+DCSync 
+
+
+Sauna:
+
+Enumeration:
+Nmap 
+enum4linux
+kerbrute 
+GetNPUsers.py
+HashCat
+
+Foothold:
+HashCat 
+WinRM -> Evil-winrm
+
+Privilege Escalation:
+Bloodhound
+DCSync 
+secretsdump.py
+
+
+
+
+
 
 
