@@ -185,12 +185,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 PNPT Checklist/13 Help Lines.md",
+                "file": "06 PNPT Checklist/16 HTB & THM Tricks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13 Help Lines"
+              "title": "16 HTB & THM Tricks"
             }
           },
           {
@@ -199,16 +199,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Active Directory Practice/09 Reel/04 Crack the User Password.md",
+                "file": "03 Active Directory Practice/09 Reel/05 Escalate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 Crack the User Password"
+              "title": "05 Escalate"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -362,11 +362,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42175678066acd46",
+  "active": "649877c2a73ac371",
   "lastOpenFiles": [
     "06 PNPT Checklist/13 Help Lines.md",
-    "03 Active Directory Practice/09 Reel/04 Crack the User Password.md",
+    "03 Active Directory Practice/09 Reel/05 Escalate.md",
     "06 PNPT Checklist/04 WPE Checklist.md",
+    "03 Active Directory Practice/09 Reel/04 Crack the User Password.md",
     "03 Active Directory Practice/08 Resolute/04 Privilege Escalation.md",
     "03 Active Directory Practice/09 Reel/03 Enumeration.md",
     "03 Active Directory Practice/09 Reel/02 Scanning.md",
@@ -389,7 +390,6 @@
     "03 Active Directory Practice/02 Blackfield/04 lsaa.DMP  More enumeration.md",
     "03 Active Directory Practice/06  Sauna/06 BloodHound.md",
     "06 PNPT Checklist/2.3 AD Post Compromise Enumeration Checklist.md",
-    "06 PNPT Checklist/2.1 AD CheckList.md",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241122113059.png",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241122102719.png",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241120063050.png",

@@ -110,6 +110,11 @@ arp -a
 ```
  
 # Finding passwords
+
+```
+type * | findstr password
+```
+
 ```
 findstr /si password *.txt *.ini *.config
 ```

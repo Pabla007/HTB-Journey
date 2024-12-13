@@ -232,3 +232,46 @@ Privilege Escalation:
 LOLbas
 
 
+# Reel:
+
+### **Things to Look For**:
+
+1. **Client-Side Exploits**:
+    
+    - Identify opportunities for phishing or social engineering.
+    - Use CVEs like **CVE-2017-0199** to craft malicious documents.
+2. **AD Permissions**:
+    
+    - Look for weak DACL configurations in AD objects.
+    - Exploit `WriteOwner`, `GenericWrite`, or similar permissions.
+3. **FTP and SMB**:
+    
+    - FTP servers for accessible files with sensitive metadata.
+    - SMB shares for misconfigurations or sensitive data storage.
+4. **Service-Specific Exploitation**:
+    
+    - Host and deliver phishing payloads via SMTP, HTTP, or SMB servers.
+
+
+Reel:
+Client-Side Attack
+Document Metadata aka Phishing attack
+Malicious SMTP server, web server & listener
+AD DACL attack chain
+
+Enumeration:
+Nmap
+FTP
+Exiftool
+GoPhish | Empire | CVE-2017-0199
+
+Foothold:
+
+Privilege Escalation:
+bloodhound
+AD WriteOwner | GenericWrite | 
+
+net use z: \\10.10.16.20\share
+impacket-smbserver share $(pwd)
+
+
