@@ -38,7 +38,7 @@ We have to think out of the box now
 
 Let's try with ldap 
 ```
-dapdomaindump ldaps://10.10.10.192 -u 'blackfield\support' -p '#00^BlackKnight'
+ldapdomaindump ldaps://10.10.10.192 -u 'blackfield\support' -p '#00^BlackKnight'
 ```
 
 Let's try Bloodhound and got results 

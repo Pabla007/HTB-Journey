@@ -78,7 +78,7 @@ Let's crack the hash
 hashcat --help | grep Kerberos
 ```
 ![[Pasted image 20231117125521.png]]
-as the type was not mentioned so i decided to test everytype till we don't get the error for mismatch
+as the type was not mentioned so i decided to test every type till we don't get the error for mismatch.
 
 ```
 .\hashcat.exe -m 18200 -D 2 .\hashes4.txt .\rockyou.txt -O
