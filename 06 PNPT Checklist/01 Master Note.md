@@ -242,6 +242,7 @@ wget -m --no-passive ftp://anonymous:anonymous@10.10.10.98 #Download all
 ```
 
 
+
 <h2>NFS</h2>
 ```
 Command : showmount -e <Ip address>

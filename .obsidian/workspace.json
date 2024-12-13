@@ -157,12 +157,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 PNPT Checklist/04 WPE Checklist.md",
+                "file": "06 PNPT Checklist/2.4 Attack AD Post-Compromise Attacks Checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 WPE Checklist"
+              "title": "2.4 Attack AD Post-Compromise Attacks Checklist"
             }
           },
           {
@@ -171,12 +171,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Active Directory Practice/02 Blackfield/03 SMB and Winrm.md",
+                "file": "03 Active Directory Practice/02 Blackfield/04 lsaa.DMP  More enumeration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 SMB and Winrm"
+              "title": "04 lsaa.DMP  More enumeration"
             }
           },
           {
@@ -185,12 +185,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 PNPT Checklist/2.4 Attack AD Post-Compromise Attacks Checklist.md",
+                "file": "06 PNPT Checklist/2.0 AD OSINT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.4 Attack AD Post-Compromise Attacks Checklist"
+              "title": "2.0 AD OSINT"
             }
           },
           {
@@ -249,7 +249,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "windap",
+                "query": "rpcclient",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -260,8 +260,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -363,18 +362,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b7568eb2ab93f85",
+  "active": "649877c2a73ac371",
   "lastOpenFiles": [
-    "06 PNPT Checklist/2.3 AD Post Compromise Enumeration Checklist.md",
-    "06 PNPT Checklist/2.2 AD Initial Attack Vectors Checlist.md",
-    "06 PNPT Checklist/2.1 AD CheckList.md",
+    "06 PNPT Checklist/16 HTB & THM Tricks.md",
     "06 PNPT Checklist/2.0 AD OSINT.md",
-    "01 HackTheBox/Retarded Machine/01 Active/05 Psexec.py.md",
+    "03 Active Directory Practice/02 Blackfield/04 lsaa.DMP  More enumeration.md",
+    "06 PNPT Checklist/2.4 Attack AD Post-Compromise Attacks Checklist.md",
+    "03 Active Directory Practice/06  Sauna/06 BloodHound.md",
+    "06 PNPT Checklist/2.3 AD Post Compromise Enumeration Checklist.md",
+    "06 PNPT Checklist/2.1 AD CheckList.md",
+    "06 PNPT Checklist/2.2 AD Initial Attack Vectors Checlist.md",
+    "06 PNPT Checklist/01 Master Note.md",
+    "06 PNPT Checklist/04 WPE Checklist.md",
     "03 Active Directory Practice/02 Blackfield/03 SMB and Winrm.md",
+    "2.1 PNPT Methodology.md",
+    "06 PNPT Checklist/4.3 Download Scripts.md",
+    "01 HackTheBox/Retarded Machine/01 Active/05 Psexec.py.md",
     "03 Active Directory Practice/02 Blackfield/02 Enumeration.md",
     "03 Active Directory Practice/02 Blackfield/01 Scanning.md",
-    "06 PNPT Checklist/2.4 Attack AD Post-Compromise Attacks Checklist.md",
-    "06 PNPT Checklist/16 HTB & THM Tricks.md",
     "06 PNPT Checklist/15 Tricks.md",
     "06 PNPT Checklist/2.7 Post Exploitation.md",
     "01 HackTheBox/Retarded Machine/01 Active/06GetUserspn.md",
@@ -384,13 +389,7 @@
     "01 HackTheBox/Retarded Machine/01 Active/01 Notes aka observation regarding the machine.md",
     "06 PNPT Checklist/02 PEH Checklist.md",
     "06 PNPT Checklist/0.0.0 Checklist for External Penetration Testing.md",
-    "06 PNPT Checklist/01 Master Note.md",
     "06 PNPT Checklist/03 OSINT Checklist.md",
-    "03 Active Directory Practice/06  Sauna/06 BloodHound.md",
-    "03 Active Directory Practice/06  Sauna/05 Privilege Escalation.md",
-    "03 Active Directory Practice/06  Sauna/04 Got a User password.md",
-    "06 PNPT Checklist/04 WPE Checklist.md",
-    "03 Active Directory Practice/06  Sauna/03 Enumeration.md",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241122113059.png",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241122102719.png",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241120063050.png",
