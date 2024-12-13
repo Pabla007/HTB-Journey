@@ -157,12 +157,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 PNPT Checklist/2.0 AD OSINT.md",
+                "file": "06 PNPT Checklist/04 WPE Checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.0 AD OSINT"
+              "title": "04 WPE Checklist"
             }
           },
           {
@@ -185,12 +185,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 PNPT Checklist/2.0 AD OSINT.md",
+                "file": "06 PNPT Checklist/13 Help Lines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.0 AD OSINT"
+              "title": "13 Help Lines"
             }
           },
           {
@@ -364,11 +364,20 @@
   },
   "active": "14fe6033d325ab30",
   "lastOpenFiles": [
-    "06 PNPT Checklist/4.1 LPE Checklist.md",
+    "06 PNPT Checklist/PNPT.md",
+    "03 Active Directory Practice/08 Resolute/04 Privilege Escalation.md",
+    "06 PNPT Checklist/04 WPE Checklist.md",
+    "06 PNPT Checklist/13 Help Lines.md",
     "06 PNPT Checklist/16 HTB & THM Tricks.md",
-    "03 Active Directory Practice/02 Blackfield/06 Steal Ntds.md",
-    "03 Active Directory Practice/02 Blackfield/05 Let's Escalate.md",
     "06 PNPT Checklist/2.0 AD OSINT.md",
+    "06 PNPT Checklist/2.10 Buffer Overflow.md",
+    "03 Active Directory Practice/02 Blackfield/06 Steal Ntds.md",
+    "03 Active Directory Practice/08 Resolute/03 Enumeration.md",
+    "03 Active Directory Practice/08 Resolute/02 Scanning.md",
+    "03 Active Directory Practice/08 Resolute/01 Overview.md",
+    "06 PNPT Checklist/4.1 LPE Checklist.md",
+    "06 PNPT Checklist/03 OSINT Checklist.md",
+    "03 Active Directory Practice/02 Blackfield/05 Let's Escalate.md",
     "06 PNPT Checklist/2.4 Attack AD Post-Compromise Attacks Checklist.md",
     "03 Active Directory Practice/02 Blackfield/04 lsaa.DMP  More enumeration.md",
     "03 Active Directory Practice/06  Sauna/06 BloodHound.md",
@@ -376,20 +385,11 @@
     "06 PNPT Checklist/2.1 AD CheckList.md",
     "06 PNPT Checklist/2.2 AD Initial Attack Vectors Checlist.md",
     "06 PNPT Checklist/01 Master Note.md",
-    "06 PNPT Checklist/04 WPE Checklist.md",
     "03 Active Directory Practice/02 Blackfield/03 SMB and Winrm.md",
     "2.1 PNPT Methodology.md",
     "06 PNPT Checklist/4.3 Download Scripts.md",
     "01 HackTheBox/Retarded Machine/01 Active/05 Psexec.py.md",
     "03 Active Directory Practice/02 Blackfield/02 Enumeration.md",
-    "03 Active Directory Practice/02 Blackfield/01 Scanning.md",
-    "06 PNPT Checklist/15 Tricks.md",
-    "06 PNPT Checklist/2.7 Post Exploitation.md",
-    "01 HackTheBox/Retarded Machine/01 Active/06GetUserspn.md",
-    "01 HackTheBox/Retarded Machine/01 Active/04 Group.md",
-    "01 HackTheBox/Retarded Machine/01 Active/03 smbclient.md",
-    "01 HackTheBox/Retarded Machine/01 Active/02 Nmap.md",
-    "01 HackTheBox/Retarded Machine/01 Active/01 Notes aka observation regarding the machine.md",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241122113059.png",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241122102719.png",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241120063050.png",

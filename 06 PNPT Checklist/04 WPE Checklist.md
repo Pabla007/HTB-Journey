@@ -1,5 +1,5 @@
 
->[! bug] Hidden Files
+>[! bug] Hidden Files Powershell
 >
 ```
 dir -force
@@ -275,4 +275,14 @@ New-PSDrive -Name testing -PSProvider FileSystem -Credential $cred -Root \\10.10
 python psexec.py <domain_name>/<user_name>@<remote_hostname> -k -no-pass
 ```
 
+
+## Impacket
+```
+impacket-smbserver Toolkit $(pwd)
+```
+
+
+# Lolbins
+We have to use LOLbins
+https://lolbas-project.github.io/
 
