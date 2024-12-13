@@ -195,3 +195,40 @@ wmiexec.py -hashes :184fb5e5178480be64824d4cd53b99ee administrator@10.10.10.192
 
 wbadmin start backup -backuptarget:\\10.10.10.192\C$\Windows\Temp\CFX\ -include:c:\Windows\ntds\ntds.dit -quiet
 
+
+# Resolute:
+
+### **Things to Look For**:
+
+1. **AD Enumeration**:
+    
+    - Focus on groups like `DnsAdmins` or `Backup Operators` for privilege escalation.
+    - Check permissions for paths allowing exploitation or file drops.
+2. **SMB Shares**:
+    
+    - Always investigate shared files for sensitive information or misconfigurations.
+3. **Built-In Tools**:
+    
+    - Identify and exploit Windows-native binaries (LOLbas) for stealthy privilege escalation.
+4. **Lateral Movement**:
+    
+    - Use BloodHound and tools like WinPEAS to identify pathways to escalate or move laterally.
+
+Resolute:
+DnsAdmins Abuse
+
+Enumeration:
+Nmap
+LDAP
+
+Foothold:
+
+
+Lateral Movement:
+bloodhound
+Winpeas
+
+Privilege Escalation:
+LOLbas
+
+
