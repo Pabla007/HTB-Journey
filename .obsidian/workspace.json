@@ -199,16 +199,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 PNPT Checklist/16 HTB & THM Tricks.md",
+                "file": "06 PNPT Checklist/04 WPE Checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16 HTB & THM Tricks"
+              "title": "04 WPE Checklist"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -362,13 +362,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4892ba0d36fe4bdb",
+  "active": "14fe6033d325ab30",
   "lastOpenFiles": [
+    "06 PNPT Checklist/4.1 LPE Checklist.md",
+    "06 PNPT Checklist/16 HTB & THM Tricks.md",
+    "03 Active Directory Practice/02 Blackfield/06 Steal Ntds.md",
     "03 Active Directory Practice/02 Blackfield/05 Let's Escalate.md",
     "06 PNPT Checklist/2.0 AD OSINT.md",
     "06 PNPT Checklist/2.4 Attack AD Post-Compromise Attacks Checklist.md",
     "03 Active Directory Practice/02 Blackfield/04 lsaa.DMP  More enumeration.md",
-    "06 PNPT Checklist/16 HTB & THM Tricks.md",
     "03 Active Directory Practice/06  Sauna/06 BloodHound.md",
     "06 PNPT Checklist/2.3 AD Post Compromise Enumeration Checklist.md",
     "06 PNPT Checklist/2.1 AD CheckList.md",
@@ -388,8 +390,6 @@
     "01 HackTheBox/Retarded Machine/01 Active/03 smbclient.md",
     "01 HackTheBox/Retarded Machine/01 Active/02 Nmap.md",
     "01 HackTheBox/Retarded Machine/01 Active/01 Notes aka observation regarding the machine.md",
-    "06 PNPT Checklist/02 PEH Checklist.md",
-    "06 PNPT Checklist/0.0.0 Checklist for External Penetration Testing.md",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241122113059.png",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241122102719.png",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241120063050.png",

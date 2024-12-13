@@ -1,4 +1,10 @@
 
+>[! bug] Hidden Files
+>
+```
+dir -force
+```
+
 
 ```
 #System Enuemration
