@@ -275,3 +275,41 @@ net use z: \\10.10.16.20\share
 impacket-smbserver share $(pwd)
 
 
+# Sizzle: 
+
+### **Things to Look For**:
+
+1. **Weak AD Configurations**:
+    
+    - Misconfigured SMB shares or certificate services (`CERTSRV`).
+    - Privileges such as `DCSync` or SPN misconfigurations for Kerberoasting.
+2. **Hashes and Credentials**:
+    
+    - Capture NTLM hashes through SCF attacks or SMB enumeration.
+    - Crack hashes or use pass-the-hash techniques for passwordless login.
+3. **Service Exploitation**:
+    
+    - Use Kerberoasting to target service accounts.
+    - Focus on obtaining hashes or plaintext credentials via Mimikatz or `secretsdump.py`.
+
+
+Sizzle:
+AD Enumeration
+Mimikatz
+Stealing Hashes
+Passwordless Login
+Kerberoasting
+DCSync
+
+
+Enumeration:
+Nmap
+Gobuster
+FTP Enumeration
+SMB Enumeration
+CERTSRV
+
+
+Foothold:
+scf_attack
+

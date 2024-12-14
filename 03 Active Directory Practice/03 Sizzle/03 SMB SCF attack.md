@@ -17,6 +17,7 @@ Keep in mind that we have to turn SMB and HTTP on in order to get the hashes
 ```
 responder -I tun0
 ```
+
 Will put the scf file in the smb share that has the write permission
 ![[Pasted image 20240408010339.png]]
 
