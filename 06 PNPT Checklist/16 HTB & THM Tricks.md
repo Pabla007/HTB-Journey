@@ -313,3 +313,39 @@ CERTSRV
 Foothold:
 scf_attack
 
+# Mantis
+
+### **Things to Look For**:
+
+1. **Kerberos Misconfigurations**:
+    - Exploit vulnerabilities like MS14-068 or look for opportunities for Kerberoasting.
+2. **Database Exposure**:
+    - Unsecured SQL Server databases often provide sensitive information or credentials.
+3. **AD Weaknesses**:
+    - Target the Domain Controller through Kerberos vulnerabilities or poorly secured permissions.
+
+
+Mantis:
+Knowledge
+Windows Server 
+Domain Controller
+
+Enumerating SQL Server Express Databases
+Exploit DC & Kerberos
+
+Enumeration:
+CyberChef
+Nmap
+Dirbuster
+
+
+Foothold:
+MS14-068 Vulnerability
+
+
+
+
+# Cascade 
+
+
+
