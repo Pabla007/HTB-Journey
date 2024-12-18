@@ -1,5 +1,5 @@
 
-Now with all the data we can figure that we have to retrive the password.
+Now with all the data we can figure that we have to retrieve the password.
 
 If you recall we have the note !!!
 ```
