@@ -384,3 +384,44 @@ Reverse Eng dnSpy
 
 # MultiMaster
 
+### **Things to Look For**:
+
+1. **AD Weaknesses**:
+    - Focus on abusing privileges like SeBackup and Server Operators.
+    - Target the Domain Controller with tools like **Secretsdump**.
+2. **SQL Injection**:
+    - Exploit database vulnerabilities to extract sensitive information or credentials.
+3. **Exploits**:
+    - Apply critical exploits like **CVE-2020-1472 (Zero Logon)** for immediate privilege escalation.
+
+Multimaster:
+Basic Knowledge of Windows / AD
+OWASP Top 10
+
+
+Skills:
+SQL injection
+Password Cracking
+VS Code Exploitation
+Reverse Engineering
+Sever Operators Group Abuse
+SeBackup Privilege Abuse
+Zerologon Exploitation
+
+
+Enumeration:
+Nmap
+SQL Injection
+
+
+Foothold:
+WinRM
+Lateral Movement
+BloodHound
+GetNPUsers
+CVE-2020-1472 | Zero Logon Attack
+Secretdump
+
+
+# Return
+
