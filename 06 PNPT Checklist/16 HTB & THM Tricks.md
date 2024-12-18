@@ -347,3 +347,40 @@ MS14-068 Vulnerability
 
 # Cascade 
 
+### **Things to Look For**:
+
+1. **Weak Password Storage**:
+    - Check for stored or poorly encrypted credentials in SMB shares, databases, or registry keys.
+2. **AD Weaknesses**:
+    - Target AD enumeration paths and recycle bins for deleted but recoverable data.
+3. **Reverse Engineering Opportunities**:
+    - Exploit poorly implemented encryption or logic flaws in .NET applications.
+
+
+Cascade:
+LDAP Enumeration
+SMB Enumeration
+Processing SQLite DB
+Reverse Eng .NET Assemblies
+
+
+TightVNC Password Extration
+AE Encryption
+AD Enumeration
+AD Recycle Bin
+
+
+Enumeration:
+Nmap
+smbclient 
+LDAP
+sqlitebrowser
+
+
+Foothold:
+WDigest
+Reverse Eng dnSpy
+
+
+# MultiMaster
+
