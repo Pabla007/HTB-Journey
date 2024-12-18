@@ -425,3 +425,35 @@ Secretdump
 
 # Return
 
+### **Things to Look For**:
+
+1. **Weak Group Permissions**:
+    - Focus on groups like `Server Operators` for exploitation opportunities.
+2. **SMB and AD Enumeration**:
+    - Look for exposed shares or poorly configured AD permissions.
+3. **Exploits**:
+    - Use tools like **Msfvenom** to craft and deliver malicious payloads for initial access.
+
+
+Return:
+Basic Knowledge of Windows and AD 
+
+
+Skills:
+Network Printer Abuse
+Server Operators Group Abuse
+
+
+Enumeration:
+Nmap
+SMB [i.e. enum4linux]
+
+
+Foothold:
+Server Operators
+Msfvenom / Msfconsole / exploit/multi/handler
+
+
+
+# Monteverde
+
