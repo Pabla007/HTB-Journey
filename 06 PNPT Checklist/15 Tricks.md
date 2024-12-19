@@ -47,3 +47,11 @@ trying all these <@456226577798135808>
 # Reverse Engineering
 
 dnSpy
+ILSpy
+Wine
+
+
+## Alternate LDAPsearch
+
+Apache Directory Studio
+

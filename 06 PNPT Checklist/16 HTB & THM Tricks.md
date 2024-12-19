@@ -457,3 +457,28 @@ Msfvenom / Msfconsole / exploit/multi/handler
 
 # Monteverde
 
+### **Things to Look For**:
+
+1. **Weak Credentials**:
+    - Focus on password spraying for accounts with common or default passwords.
+2. **Azure AD Sync Misconfigurations**:
+    - Look for configuration files or services that might store plaintext credentials.
+3. **SQL Server Access**:
+    - Exploit SQL servers using valid credentials for further enumeration or privilege escalation.
+
+Skills:
+Password Spraying
+Sqlcmd
+Azure AD connect Password Extraction
+
+Enumeration:
+Nmap
+AD Enumeration
+
+Foothold:
+Evil-winrm
+
+Privilege Escalation:
+Azure AD Sync Service
+
+# 
