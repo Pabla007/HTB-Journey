@@ -481,4 +481,44 @@ Evil-winrm
 Privilege Escalation:
 Azure AD Sync Service
 
+# Support
+
+### **Things to Look For**:
+
+1. **LDAP Misconfigurations**:
+    - Look for overly permissive access or sensitive attributes in the directory.
+2. **Kerberos Configurations**:
+    - Target Service Principal Names (SPNs) for Kerberos ticketing attacks.
+3. **Traffic Analysis**:
+    - Analyze packet captures to identify credentials or sensitive configuration details.
+
+
+Connecting to an SMB Share
+Quering an LDAP server for information
+Performing a Resource Based Constrained Delegation Attack
+
+Skills:
+Basic Windows Knowledge
+AD Knowledge
+LDAP Knowledge
+
+Enumeration:
+Nmap
+ILSpy
+Wine
+Wireshark
+rpcclient - enumdomusers
+
+Foothold:
+Apache Directory Studio
+
+Privilege Escalation:
+Generic All feature [Rubeus.exe]
+S4u AD service of user
+Kerberos Ticketing
+
+
+
+
+
 # 

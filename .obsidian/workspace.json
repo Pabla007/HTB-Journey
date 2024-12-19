@@ -171,12 +171,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 PNPT Checklist/2.3 AD Post Compromise Enumeration Checklist.md",
+                "file": "06 PNPT Checklist/2.0 AD OSINT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.3 AD Post Compromise Enumeration Checklist"
+              "title": "2.0 AD OSINT"
             }
           },
           {
@@ -185,12 +185,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Active Directory Practice/04 Support/01 Scanning.md",
+                "file": "03 Active Directory Practice/04 Support/07 Kerberos Ticketing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 Scanning"
+              "title": "07 Kerberos Ticketing"
             }
           },
           {
@@ -199,12 +199,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 PNPT Checklist/15 Tricks.md",
+                "file": "06 PNPT Checklist/16.1 Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15 Tricks"
+              "title": "16.1 Summary"
             }
           },
           {
@@ -222,7 +222,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -376,11 +376,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "649877c2a73ac371",
+  "active": "693ac58d1a12094c",
   "lastOpenFiles": [
-    "03 Active Directory Practice/07 Monterverde/04 Privilege Escalation.md",
-    "06 PNPT Checklist/15 Tricks.md",
     "06 PNPT Checklist/16 HTB & THM Tricks.md",
+    "06 PNPT Checklist/16.1 Summary.md",
+    "06 PNPT Checklist/15 Tricks.md",
+    "03 Active Directory Practice/04 Support/07 Kerberos Ticketing.md",
+    "03 Active Directory Practice/04 Support/06 Let's Escalate.md",
+    "03 Active Directory Practice/04 Support/05 Bloodhound.md",
+    "06 PNPT Checklist/04 WPE Checklist.md",
+    "06 PNPT Checklist/2.0 AD OSINT.md",
+    "06 PNPT Checklist/2.3 AD Post Compromise Enumeration Checklist.md",
+    "03 Active Directory Practice/04 Support/04 Wireshark.md",
+    "03 Active Directory Practice/04 Support/03 Smb Enumeration.md",
+    "03 Active Directory Practice/04 Support/02 Enumeration.md",
+    "03 Active Directory Practice/04 Support/01 Scanning.md",
+    "03 Active Directory Practice/07 Monterverde/04 Privilege Escalation.md",
     "03 Active Directory Practice/07 Monterverde/03 Enumeration.md",
     "03 Active Directory Practice/07 Monterverde/02 Scanning.md",
     "03 Active Directory Practice/07 Monterverde/01 Overview.md",
@@ -393,17 +404,6 @@
     "03 Active Directory Practice/12 Multimaster/06 3rd shell aka 3rd user.md",
     "03 Active Directory Practice/12 Multimaster/05 2nd Shell Lateral Movement.md",
     "03 Active Directory Practice/12 Multimaster/04 Priv Escalation.md",
-    "03 Active Directory Practice/12 Multimaster/03 Got Initial Access.md",
-    "03 Active Directory Practice/12 Multimaster/02 Enumeration.md",
-    "03 Active Directory Practice/12 Multimaster/01 Scanning.md",
-    "03 Active Directory Practice/11 Cascade/05 Priv Escalation.md",
-    "06 PNPT Checklist/07 Password Policy.md",
-    "03 Active Directory Practice/11 Cascade/04 Get the access.md",
-    "03 Active Directory Practice/11 Cascade/03 Enumeration.md",
-    "06 PNPT Checklist/2.3 AD Post Compromise Enumeration Checklist.md",
-    "06 PNPT Checklist/2.2 AD Initial Attack Vectors Checlist.md",
-    "06 PNPT Checklist/2.4 Attack AD Post-Compromise Attacks Checklist.md",
-    "06 PNPT Checklist/2.8 Pivoting.md",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241218122332.png",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241218122245.png",
     "Active Directory Practice/12 Multimaster/00 Images/Pasted image 20241218122223.png",
